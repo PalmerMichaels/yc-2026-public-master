@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T22:59:39.489Z",
+  "generated_at": "2026-06-08T23:07:14.958Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -2234,7 +2234,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/74",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUxOQ",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "heyclicky-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/heyclicky-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "hubxyz",
@@ -2288,7 +2292,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/76",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUxow",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "humwork-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/humwork-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "huscarl-inc",
@@ -2312,7 +2320,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/77",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUx2g",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "huscarl-inc-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/huscarl-inc-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "hyper-4",
@@ -2336,7 +2348,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/78",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUyDw",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "hyper-4-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/hyper-4-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "imperfect",
@@ -2365,7 +2381,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/79",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUyUw",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "imperfect-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/imperfect-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "incandor",
@@ -2392,7 +2412,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/80",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUylA",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "incandor-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/incandor-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "infera",
@@ -10864,9 +10888,15 @@
       "govguard",
       "gravy",
       "hessian",
-      "hexa"
+      "hexa",
+      "heyclicky",
+      "humwork",
+      "huscarl-inc",
+      "hyper-4",
+      "imperfect",
+      "incandor"
     ],
-    "updated_at": "2026-06-08T22:59:39.489Z",
+    "updated_at": "2026-06-08T23:07:14.958Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -10885,7 +10915,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-08T22:59:39.489Z",
+    "updated_at": "2026-06-08T23:07:14.958Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -10936,8 +10966,15 @@
       "inth",
       "napkin-math"
     ],
-    "in_progress": [],
-    "ready_copyable": 230,
+    "in_progress": [
+      "heyclicky",
+      "humwork",
+      "huscarl-inc",
+      "hyper-4",
+      "imperfect",
+      "incandor"
+    ],
+    "ready_copyable": 224,
     "skipped_pending_recheck": [
       "aquashield"
     ]

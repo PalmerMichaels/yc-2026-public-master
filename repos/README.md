@@ -55,7 +55,12 @@ Implemented:
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- None
+- `heyclicky` -> `heyclicky-public` ([#74](https://github.com/PalmerMichaels/yc-2026-public-master/issues/74))
+- `humwork` -> `humwork-public` ([#76](https://github.com/PalmerMichaels/yc-2026-public-master/issues/76))
+- `huscarl-inc` -> `huscarl-inc-public` ([#77](https://github.com/PalmerMichaels/yc-2026-public-master/issues/77))
+- `hyper-4` -> `hyper-4-public` ([#78](https://github.com/PalmerMichaels/yc-2026-public-master/issues/78))
+- `imperfect` -> `imperfect-public` ([#79](https://github.com/PalmerMichaels/yc-2026-public-master/issues/79))
+- `incandor` -> `incandor-public` ([#80](https://github.com/PalmerMichaels/yc-2026-public-master/issues/80))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -68,20 +73,14 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 48
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 229
+- Ready for fan-out: 223
 - Total copyable: 278
 
 Next unambiguous copyable entries:
 | Slug | Name | Issue | Proposed Repo | Source |
 | --- | --- | --- | --- | --- |
-| `heyclicky` | HeyClicky | [#74](https://github.com/PalmerMichaels/yc-2026-public-master/issues/74) | `heyclicky-public` | [YC](https://www.ycombinator.com/companies/heyclicky) |
-| `humwork` | Humwork | [#76](https://github.com/PalmerMichaels/yc-2026-public-master/issues/76) | `humwork-public` | [YC](https://www.ycombinator.com/companies/humwork) |
-| `huscarl-inc` | Huscarl Inc. | [#77](https://github.com/PalmerMichaels/yc-2026-public-master/issues/77) | `huscarl-inc-public` | [YC](https://www.ycombinator.com/companies/huscarl-inc) |
-| `hyper-4` | Hyper | [#78](https://github.com/PalmerMichaels/yc-2026-public-master/issues/78) | `hyper-4-public` | [YC](https://www.ycombinator.com/companies/hyper-4) |
-| `imperfect` | Imperfect | [#79](https://github.com/PalmerMichaels/yc-2026-public-master/issues/79) | `imperfect-public` | [YC](https://www.ycombinator.com/companies/imperfect) |
-| `incandor` | Incandor | [#80](https://github.com/PalmerMichaels/yc-2026-public-master/issues/80) | `incandor-public` | [YC](https://www.ycombinator.com/companies/incandor) |
 | `insforge` | InsForge | [#83](https://github.com/PalmerMichaels/yc-2026-public-master/issues/83) | `insforge-public` | [YC](https://www.ycombinator.com/companies/insforge) |
 | `instaagent` | InstaAgent | [#84](https://github.com/PalmerMichaels/yc-2026-public-master/issues/84) | `instaagent-public` | [YC](https://www.ycombinator.com/companies/instaagent) |
 | `interfaze` | Interfaze | [#86](https://github.com/PalmerMichaels/yc-2026-public-master/issues/86) | `interfaze-public` | [YC](https://www.ycombinator.com/companies/interfaze) |
@@ -126,3 +125,9 @@ Next unambiguous copyable entries:
 | `booko` | Booko | Pending | `booko-public` | [YC](https://www.ycombinator.com/companies/booko) |
 | `brownie` | IncidentFox | Pending | `brownie-public` | [YC](https://www.ycombinator.com/companies/brownie) |
 | `bubble-lab` | Bubble Lab | Pending | `bubble-lab-public` | [YC](https://www.ycombinator.com/companies/bubble-lab) |
+| `burt` | Burt | Pending | `burt-public` | [YC](https://www.ycombinator.com/companies/burt) |
+| `cajal-technologies` | Cajal | Pending | `cajal-technologies-public` | [YC](https://www.ycombinator.com/companies/cajal-technologies) |
+| `canary` | Canary | Pending | `canary-public` | [YC](https://www.ycombinator.com/companies/canary) |
+| `captain` | Captain | Pending | `captain-public` | [YC](https://www.ycombinator.com/companies/captain) |
+| `cardboard` | Cardboard | Pending | `cardboard-public` | [YC](https://www.ycombinator.com/companies/cardboard) |
+| `care-gp` | Care GP | Pending | `care-gp-public` | [YC](https://www.ycombinator.com/companies/care-gp) |
