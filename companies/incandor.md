@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/incandor
 - Website: https://www.incandor.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/80
 - Implementation Repository: https://github.com/PalmerMichaels/incandor-public
+- Implementation Commit: `3399b044335b586ad861e57ea7eb836631cd88e4`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/incandor-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `3399b044335b586ad861e57ea7eb836631cd88e4`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

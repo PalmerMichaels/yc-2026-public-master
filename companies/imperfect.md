@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/imperfect
 - Website: https://imperfect.co
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/79
 - Implementation Repository: https://github.com/PalmerMichaels/imperfect-public
+- Implementation Commit: `c5da89a3e8ffa35b0d9658ca19f459ceb5e7e1b7`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/imperfect-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `c5da89a3e8ffa35b0d9658ca19f459ceb5e7e1b7`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

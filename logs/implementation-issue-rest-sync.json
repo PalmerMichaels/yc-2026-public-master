@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T23:07:58.065Z",
+  "generated_at": "2026-06-08T23:24:37.522Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -684,84 +684,90 @@
       "slug": "heyclicky",
       "issue_number": 74,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/heyclicky-public",
+      "commit": "cfdbc52e8efe1146e79d85228b86d0f3344804d7",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "humwork",
       "issue_number": 76,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/humwork-public",
+      "commit": "b033fdbcea7744d17a1aa28387365b89d1d93014",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "huscarl-inc",
       "issue_number": 77,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/huscarl-inc-public",
+      "commit": "cae73c12b21d4b67d550b30f48c187c768e562bb",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "hyper-4",
       "issue_number": 78,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/hyper-4-public",
+      "commit": "7ea0b5966e3c5da6262c93c361ee3c9ebfeefaf8",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "imperfect",
       "issue_number": 79,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/imperfect-public",
+      "commit": "c5da89a3e8ffa35b0d9658ca19f459ceb5e7e1b7",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "incandor",
       "issue_number": 80,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/incandor-public",
+      "commit": "3399b044335b586ad861e57ea7eb836631cd88e4",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ],

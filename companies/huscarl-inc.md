@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/huscarl-inc
 - Website: https://www.huscarl.io/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/77
 - Implementation Repository: https://github.com/PalmerMichaels/huscarl-inc-public
+- Implementation Commit: `cae73c12b21d4b67d550b30f48c187c768e562bb`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/huscarl-inc-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `cae73c12b21d4b67d550b30f48c187c768e562bb`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

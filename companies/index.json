@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T23:07:14.958Z",
+  "generated_at": "2026-06-08T23:23:53.421Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -2234,11 +2234,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/74",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUxOQ",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "heyclicky-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/heyclicky-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "cfdbc52e8efe1146e79d85228b86d0f3344804d7",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "hubxyz",
@@ -2292,11 +2292,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/76",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUxow",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "humwork-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/humwork-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "b033fdbcea7744d17a1aa28387365b89d1d93014",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "huscarl-inc",
@@ -2320,11 +2320,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/77",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUx2g",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "huscarl-inc-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/huscarl-inc-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "cae73c12b21d4b67d550b30f48c187c768e562bb",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "hyper-4",
@@ -2348,11 +2348,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/78",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUyDw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "hyper-4-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/hyper-4-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "7ea0b5966e3c5da6262c93c361ee3c9ebfeefaf8",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "imperfect",
@@ -2381,11 +2381,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/79",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUyUw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "imperfect-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/imperfect-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "c5da89a3e8ffa35b0d9658ca19f459ceb5e7e1b7",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "incandor",
@@ -2412,11 +2412,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/80",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUylA",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "incandor-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/incandor-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "3399b044335b586ad861e57ea7eb836631cd88e4",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "infera",
@@ -10896,7 +10896,7 @@
       "imperfect",
       "incandor"
     ],
-    "updated_at": "2026-06-08T23:07:14.958Z",
+    "updated_at": "2026-06-08T23:23:53.421Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -10915,7 +10915,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-08T23:07:14.958Z",
+    "updated_at": "2026-06-08T23:23:53.421Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -10963,17 +10963,16 @@
       "gravy",
       "hessian",
       "hexa",
-      "inth",
-      "napkin-math"
-    ],
-    "in_progress": [
       "heyclicky",
       "humwork",
       "huscarl-inc",
       "hyper-4",
       "imperfect",
-      "incandor"
+      "incandor",
+      "inth",
+      "napkin-math"
     ],
+    "in_progress": [],
     "ready_copyable": 224,
     "skipped_pending_recheck": [
       "aquashield"

@@ -6,8 +6,8 @@ Total companies: 405
 Copyable: 278
 Not copyable: 127
 Uncertain: 0
-Implemented: 48
-In progress: 6
+Implemented: 54
+In progress: 0
 Ready copyable: 224
 Skipped pending re-check: aquashield
 GitHub issues created: 120
@@ -63,16 +63,17 @@ Implemented repositories:
 - `gravy`: https://github.com/PalmerMichaels/gravy-public @ `349bbae8c99e3687f8fed66fce147cf608371773`
 - `hessian`: https://github.com/PalmerMichaels/hessian-public @ `0ffac760222d4eb4153b56fd8489ed81e6c3cd86`
 - `hexa`: https://github.com/PalmerMichaels/hexa-public @ `1249b54b097cfef82f37b727fe51c8bf86618c55`
+- `heyclicky`: https://github.com/PalmerMichaels/heyclicky-public @ `cfdbc52e8efe1146e79d85228b86d0f3344804d7`
+- `humwork`: https://github.com/PalmerMichaels/humwork-public @ `b033fdbcea7744d17a1aa28387365b89d1d93014`
+- `huscarl-inc`: https://github.com/PalmerMichaels/huscarl-inc-public @ `cae73c12b21d4b67d550b30f48c187c768e562bb`
+- `hyper-4`: https://github.com/PalmerMichaels/hyper-4-public @ `7ea0b5966e3c5da6262c93c361ee3c9ebfeefaf8`
+- `imperfect`: https://github.com/PalmerMichaels/imperfect-public @ `c5da89a3e8ffa35b0d9658ca19f459ceb5e7e1b7`
+- `incandor`: https://github.com/PalmerMichaels/incandor-public @ `3399b044335b586ad861e57ea7eb836631cd88e4`
 - `inth`: https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
 - `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In-progress implementations:
-- `heyclicky`: [#74](https://github.com/PalmerMichaels/yc-2026-public-master/issues/74) -> `heyclicky-public`
-- `humwork`: [#76](https://github.com/PalmerMichaels/yc-2026-public-master/issues/76) -> `humwork-public`
-- `huscarl-inc`: [#77](https://github.com/PalmerMichaels/yc-2026-public-master/issues/77) -> `huscarl-inc-public`
-- `hyper-4`: [#78](https://github.com/PalmerMichaels/yc-2026-public-master/issues/78) -> `hyper-4-public`
-- `imperfect`: [#79](https://github.com/PalmerMichaels/yc-2026-public-master/issues/79) -> `imperfect-public`
-- `incandor`: [#80](https://github.com/PalmerMichaels/yc-2026-public-master/issues/80) -> `incandor-public`
+- None
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.
@@ -163,13 +164,13 @@ Batches covered:
 | [Hessian](hessian.md) | Spring 2026 | `copyable` | `implemented` | `hessian-public` | [#71](https://github.com/PalmerMichaels/yc-2026-public-master/issues/71) | [YC](https://www.ycombinator.com/companies/hessian) |
 | [HEVN, inc](hevn-inc.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#72](https://github.com/PalmerMichaels/yc-2026-public-master/issues/72) | [YC](https://www.ycombinator.com/companies/hevn-inc) |
 | [Hexa](hexa.md) | Spring 2026 | `copyable` | `implemented` | `hexa-public` | [#73](https://github.com/PalmerMichaels/yc-2026-public-master/issues/73) | [YC](https://www.ycombinator.com/companies/hexa) |
-| [HeyClicky](heyclicky.md) | Spring 2026 | `copyable` | `in-progress` | `heyclicky-public` | [#74](https://github.com/PalmerMichaels/yc-2026-public-master/issues/74) | [YC](https://www.ycombinator.com/companies/heyclicky) |
+| [HeyClicky](heyclicky.md) | Spring 2026 | `copyable` | `implemented` | `heyclicky-public` | [#74](https://github.com/PalmerMichaels/yc-2026-public-master/issues/74) | [YC](https://www.ycombinator.com/companies/heyclicky) |
 | [Hub.xyz](hubxyz.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#75](https://github.com/PalmerMichaels/yc-2026-public-master/issues/75) | [YC](https://www.ycombinator.com/companies/hubxyz) |
-| [Humwork](humwork.md) | Spring 2026 | `copyable` | `in-progress` | `humwork-public` | [#76](https://github.com/PalmerMichaels/yc-2026-public-master/issues/76) | [YC](https://www.ycombinator.com/companies/humwork) |
-| [Huscarl Inc.](huscarl-inc.md) | Spring 2026 | `copyable` | `in-progress` | `huscarl-inc-public` | [#77](https://github.com/PalmerMichaels/yc-2026-public-master/issues/77) | [YC](https://www.ycombinator.com/companies/huscarl-inc) |
-| [Hyper](hyper-4.md) | Spring 2026 | `copyable` | `in-progress` | `hyper-4-public` | [#78](https://github.com/PalmerMichaels/yc-2026-public-master/issues/78) | [YC](https://www.ycombinator.com/companies/hyper-4) |
-| [Imperfect](imperfect.md) | Spring 2026 | `copyable` | `in-progress` | `imperfect-public` | [#79](https://github.com/PalmerMichaels/yc-2026-public-master/issues/79) | [YC](https://www.ycombinator.com/companies/imperfect) |
-| [Incandor](incandor.md) | Spring 2026 | `copyable` | `in-progress` | `incandor-public` | [#80](https://github.com/PalmerMichaels/yc-2026-public-master/issues/80) | [YC](https://www.ycombinator.com/companies/incandor) |
+| [Humwork](humwork.md) | Spring 2026 | `copyable` | `implemented` | `humwork-public` | [#76](https://github.com/PalmerMichaels/yc-2026-public-master/issues/76) | [YC](https://www.ycombinator.com/companies/humwork) |
+| [Huscarl Inc.](huscarl-inc.md) | Spring 2026 | `copyable` | `implemented` | `huscarl-inc-public` | [#77](https://github.com/PalmerMichaels/yc-2026-public-master/issues/77) | [YC](https://www.ycombinator.com/companies/huscarl-inc) |
+| [Hyper](hyper-4.md) | Spring 2026 | `copyable` | `implemented` | `hyper-4-public` | [#78](https://github.com/PalmerMichaels/yc-2026-public-master/issues/78) | [YC](https://www.ycombinator.com/companies/hyper-4) |
+| [Imperfect](imperfect.md) | Spring 2026 | `copyable` | `implemented` | `imperfect-public` | [#79](https://github.com/PalmerMichaels/yc-2026-public-master/issues/79) | [YC](https://www.ycombinator.com/companies/imperfect) |
+| [Incandor](incandor.md) | Spring 2026 | `copyable` | `implemented` | `incandor-public` | [#80](https://github.com/PalmerMichaels/yc-2026-public-master/issues/80) | [YC](https://www.ycombinator.com/companies/incandor) |
 | [Infera](infera.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#81](https://github.com/PalmerMichaels/yc-2026-public-master/issues/81) | [YC](https://www.ycombinator.com/companies/infera) |
 | [InLoop Robotics](inloop-robotics.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#82](https://github.com/PalmerMichaels/yc-2026-public-master/issues/82) | [YC](https://www.ycombinator.com/companies/inloop-robotics) |
 | [InsForge](insforge.md) | Spring 2026 | `copyable` | `classified` | `insforge-public` | [#83](https://github.com/PalmerMichaels/yc-2026-public-master/issues/83) | [YC](https://www.ycombinator.com/companies/insforge) |
