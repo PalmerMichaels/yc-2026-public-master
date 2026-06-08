@@ -37,7 +37,12 @@ Implemented:
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- None
+- `datost` -> `datost-public` ([#48](https://github.com/PalmerMichaels/yc-2026-public-master/issues/48))
+- `dayjob` -> `dayjob-public` ([#49](https://github.com/PalmerMichaels/yc-2026-public-master/issues/49))
+- `deep-interactions` -> `deep-interactions-public` ([#50](https://github.com/PalmerMichaels/yc-2026-public-master/issues/50))
+- `drafted` -> `drafted-public` ([#52](https://github.com/PalmerMichaels/yc-2026-public-master/issues/52))
+- `drippay` -> `drippay-public` ([#53](https://github.com/PalmerMichaels/yc-2026-public-master/issues/53))
+- `elyra` -> `elyra-public` ([#55](https://github.com/PalmerMichaels/yc-2026-public-master/issues/55))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -50,20 +55,14 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 30
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 247
+- Ready for fan-out: 241
 - Total copyable: 278
 
 Next unambiguous copyable entries:
 | Slug | Name | Issue | Proposed Repo | Source |
 | --- | --- | --- | --- | --- |
-| `datost` | Datost | [#48](https://github.com/PalmerMichaels/yc-2026-public-master/issues/48) | `datost-public` | [YC](https://www.ycombinator.com/companies/datost) |
-| `dayjob` | Dayjob | [#49](https://github.com/PalmerMichaels/yc-2026-public-master/issues/49) | `dayjob-public` | [YC](https://www.ycombinator.com/companies/dayjob) |
-| `deep-interactions` | Deep Interactions | [#50](https://github.com/PalmerMichaels/yc-2026-public-master/issues/50) | `deep-interactions-public` | [YC](https://www.ycombinator.com/companies/deep-interactions) |
-| `drafted` | Drafted | [#52](https://github.com/PalmerMichaels/yc-2026-public-master/issues/52) | `drafted-public` | [YC](https://www.ycombinator.com/companies/drafted) |
-| `drippay` | Drip | [#53](https://github.com/PalmerMichaels/yc-2026-public-master/issues/53) | `drippay-public` | [YC](https://www.ycombinator.com/companies/drippay) |
-| `elyra` | Elyra | [#55](https://github.com/PalmerMichaels/yc-2026-public-master/issues/55) | `elyra-public` | [YC](https://www.ycombinator.com/companies/elyra) |
 | `expanse` | Expanse | [#57](https://github.com/PalmerMichaels/yc-2026-public-master/issues/57) | `expanse-public` | [YC](https://www.ycombinator.com/companies/expanse) |
 | `flowscope` | flowscope | [#59](https://github.com/PalmerMichaels/yc-2026-public-master/issues/59) | `flowscope-public` | [YC](https://www.ycombinator.com/companies/flowscope) |
 | `foaster` | Foaster | [#60](https://github.com/PalmerMichaels/yc-2026-public-master/issues/60) | `foaster-public` | [YC](https://www.ycombinator.com/companies/foaster) |
@@ -108,3 +107,9 @@ Next unambiguous copyable entries:
 | `minicor` | Minicor | [#114](https://github.com/PalmerMichaels/yc-2026-public-master/issues/114) | `minicor-public` | [YC](https://www.ycombinator.com/companies/minicor) |
 | `miso-labs` | Miso Labs | [#115](https://github.com/PalmerMichaels/yc-2026-public-master/issues/115) | `miso-labs-public` | [YC](https://www.ycombinator.com/companies/miso-labs) |
 | `netter` | Netter | [#120](https://github.com/PalmerMichaels/yc-2026-public-master/issues/120) | `netter-public` | [YC](https://www.ycombinator.com/companies/netter) |
+| `21st` | 21st | Pending | `21st-public` | [YC](https://www.ycombinator.com/companies/21st) |
+| `aemon` | Aemon | Pending | `aemon-public` | [YC](https://www.ycombinator.com/companies/aemon) |
+| `agentic-fabriq` | Agentic Fabriq | Pending | `agentic-fabriq-public` | [YC](https://www.ycombinator.com/companies/agentic-fabriq) |
+| `alt-x` | Alt-X | Pending | `alt-x-public` | [YC](https://www.ycombinator.com/companies/alt-x) |
+| `approxima` | Approxima | Pending | `approxima-public` | [YC](https://www.ycombinator.com/companies/approxima) |
+| `archal` | Archal | Pending | `archal-public` | [YC](https://www.ycombinator.com/companies/archal) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T21:42:34.413Z",
+  "generated_at": "2026-06-08T21:50:51.469Z",
   "implemented": [
     {
       "slug": "agentphone",
@@ -482,7 +482,104 @@
       "priority": "implemented"
     }
   ],
-  "in_progress": [],
+  "in_progress": [
+    {
+      "slug": "datost",
+      "name": "Datost",
+      "batch": "Spring 2026",
+      "issue_number": 48,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/48",
+      "source_url": "https://www.ycombinator.com/companies/datost",
+      "website": "https://www.datost.com",
+      "proposed_repo": "datost-public",
+      "implementation_scope": "Build an original web app demonstrating the proactive ai data analyst: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/datost-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "dayjob",
+      "name": "Dayjob",
+      "batch": "Spring 2026",
+      "issue_number": 49,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/49",
+      "source_url": "https://www.ycombinator.com/companies/dayjob",
+      "website": "https://www.getdayjob.ai",
+      "proposed_repo": "dayjob-public",
+      "implementation_scope": "Build an original web app demonstrating ai scheduling for short haul trucks: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/dayjob-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "deep-interactions",
+      "name": "Deep Interactions",
+      "batch": "Spring 2026",
+      "issue_number": 50,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/50",
+      "source_url": "https://www.ycombinator.com/companies/deep-interactions",
+      "website": "https://deepinteractions.ai/",
+      "proposed_repo": "deep-interactions-public",
+      "implementation_scope": "Build an original web app demonstrating collaborative ai app builder for teams: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/deep-interactions-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "drafted",
+      "name": "Drafted",
+      "batch": "Spring 2026",
+      "issue_number": 52,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/52",
+      "source_url": "https://www.ycombinator.com/companies/drafted",
+      "website": "https://www.drafted.ai/",
+      "proposed_repo": "drafted-public",
+      "implementation_scope": "Build an original web app demonstrating design your home instantly with ai: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/drafted-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "drippay",
+      "name": "Drip",
+      "batch": "Spring 2026",
+      "issue_number": 53,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/53",
+      "source_url": "https://www.ycombinator.com/companies/drippay",
+      "website": "https://usedrip.ai",
+      "proposed_repo": "drippay-public",
+      "implementation_scope": "Build an original web app demonstrating ai that books meetings for you: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/drippay-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "elyra",
+      "name": "Elyra",
+      "batch": "Spring 2026",
+      "issue_number": 55,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/55",
+      "source_url": "https://www.ycombinator.com/companies/elyra",
+      "website": "https://www.elyrasystems.com/",
+      "proposed_repo": "elyra-public",
+      "implementation_scope": "Build an original web app demonstrating ai reservation system for restaurants: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/elyra-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    }
+  ],
   "pending_recheck": [
     {
       "slug": "aquashield",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T21:42:34.413Z",
+  "generated_at": "2026-06-08T21:50:51.469Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -1450,7 +1450,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/48",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUrmA",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "datost-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/datost-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "dayjob",
@@ -1474,7 +1478,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/49",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUr7g",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "dayjob-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/dayjob-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "deep-interactions",
@@ -1504,7 +1512,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/50",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUsOg",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "deep-interactions-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/deep-interactions-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "dispatch",
@@ -1552,7 +1564,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/52",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUsrA",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "drafted-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/drafted-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "drippay",
@@ -1581,7 +1597,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/53",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUs4w",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "drippay-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/drippay-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "eden-robotics",
@@ -1634,7 +1654,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/55",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUtQg",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "elyra-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/elyra-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "enjamb-labs",
@@ -10774,9 +10798,15 @@
       "cignara",
       "clawvisor",
       "cohesion",
-      "complir"
+      "complir",
+      "datost",
+      "dayjob",
+      "deep-interactions",
+      "drafted",
+      "drippay",
+      "elyra"
     ],
-    "updated_at": "2026-06-08T21:42:34.413Z",
+    "updated_at": "2026-06-08T21:50:51.469Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -10795,7 +10825,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-08T21:42:34.413Z",
+    "updated_at": "2026-06-08T21:50:51.469Z",
     "implemented": [
       "agentphone",
       "akkari",
@@ -10828,8 +10858,15 @@
       "inth",
       "napkin-math"
     ],
-    "in_progress": [],
-    "ready_copyable": 248,
+    "in_progress": [
+      "datost",
+      "dayjob",
+      "deep-interactions",
+      "drafted",
+      "drippay",
+      "elyra"
+    ],
+    "ready_copyable": 242,
     "skipped_pending_recheck": [
       "aquashield"
     ]
