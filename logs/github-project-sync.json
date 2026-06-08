@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-08T16:09:04.461Z",
+  "generated_at": "2026-06-08T16:12:04.819Z",
   "project": {
     "project": "https://github.com/users/PalmerMichaels/projects/2",
-    "status": "partial",
-    "synced_items": 90,
-    "pending_current_open_issues": 29,
-    "last_batch_added": 30,
-    "synced_at": "2026-06-08T16:09:03.622Z"
+    "status": "current-open-issues-synced",
+    "synced_items": 119,
+    "pending_current_open_issues": 0,
+    "last_batch_added": 29,
+    "synced_at": "2026-06-08T16:12:04.010Z"
   },
   "items": [
     {
@@ -548,6 +548,180 @@
       "issue_number": 30,
       "title": "Aster (Spring 2026)",
       "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/30"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFIsQ",
+      "issue_number": 29,
+      "title": "Aseon Labs (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/29"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFIu4",
+      "issue_number": 28,
+      "title": "Asendia AI (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/28"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFI18",
+      "issue_number": 27,
+      "title": "Arzana (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/27"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFI70",
+      "issue_number": 26,
+      "title": "Armature (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/26"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFI-E",
+      "issue_number": 25,
+      "title": "Arlo Industries (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/25"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJCc",
+      "issue_number": 24,
+      "title": "Arga Labs (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/24"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJEg",
+      "issue_number": 23,
+      "title": "Ardent (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/23"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJHA",
+      "issue_number": 22,
+      "title": "Arden (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/22"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJJg",
+      "issue_number": 21,
+      "title": "Arctic Health (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/21"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJL4",
+      "issue_number": 20,
+      "title": "Archer (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/20"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJN0",
+      "issue_number": 19,
+      "title": "Ara (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/19"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJQM",
+      "issue_number": 18,
+      "title": "AquaShield (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/18"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJRs",
+      "issue_number": 17,
+      "title": "Apollo Atomics, Inc. (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/17"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJTc",
+      "issue_number": 16,
+      "title": "ANORIA (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/16"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJUo",
+      "issue_number": 15,
+      "title": "Andustry (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/15"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJWI",
+      "issue_number": 14,
+      "title": "Andco (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/14"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJXs",
+      "issue_number": 13,
+      "title": "Amboras (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/13"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJZY",
+      "issue_number": 12,
+      "title": "Allowance (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/12"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJb4",
+      "issue_number": 11,
+      "title": "Alchemize (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/11"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJkI",
+      "issue_number": 10,
+      "title": "Akkari (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/10"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJmk",
+      "issue_number": 9,
+      "title": "AICE (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/9"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJpw",
+      "issue_number": 8,
+      "title": "AgentPhone (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/8"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJsU",
+      "issue_number": 7,
+      "title": "Advanced Metal Research (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/7"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJt0",
+      "issue_number": 6,
+      "title": "Adialante (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/6"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJvk",
+      "issue_number": 5,
+      "title": "AbInitio Bio (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/5"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJxU",
+      "issue_number": 4,
+      "title": "9 Mothers (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/4"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJ0A",
+      "issue_number": 3,
+      "title": "RightNow (Fall 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/3"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJ1Y",
+      "issue_number": 2,
+      "title": "GodHands (Fall 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/2"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFJ30",
+      "issue_number": 1,
+      "title": "Degla Inc (Fall 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/1"
     }
   ]
 }

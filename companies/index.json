@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T16:09:04.455Z",
+  "generated_at": "2026-06-08T16:12:04.813Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -10196,10 +10196,10 @@
   },
   "project_sync": {
     "project": "https://github.com/users/PalmerMichaels/projects/2",
-    "status": "partial",
-    "synced_items": 90,
-    "pending_current_open_issues": 29,
-    "last_batch_added": 30,
-    "synced_at": "2026-06-08T16:09:03.622Z"
+    "status": "current-open-issues-synced",
+    "synced_items": 119,
+    "pending_current_open_issues": 0,
+    "last_batch_added": 29,
+    "synced_at": "2026-06-08T16:12:04.010Z"
   }
 }
