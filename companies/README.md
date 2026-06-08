@@ -7,8 +7,8 @@ Copyable: 279
 Not copyable: 126
 Uncertain: 0
 Implemented: 12
-In progress: 0
-Ready copyable: 267
+In progress: 6
+Ready copyable: 261
 Skipped pending re-check: aquashield
 GitHub issues created: 120
 GitHub issues pending: 285
@@ -31,7 +31,12 @@ Implemented repositories:
 - `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In-progress implementations:
-- None
+- `arga-labs`: [#24](https://github.com/PalmerMichaels/yc-2026-public-master/issues/24) -> `arga-labs-public`
+- `armature`: [#26](https://github.com/PalmerMichaels/yc-2026-public-master/issues/26) -> `armature-public`
+- `arzana`: [#27](https://github.com/PalmerMichaels/yc-2026-public-master/issues/27) -> `arzana-public`
+- `asendia-ai`: [#28](https://github.com/PalmerMichaels/yc-2026-public-master/issues/28) -> `asendia-ai-public`
+- `asterlab`: [#30](https://github.com/PalmerMichaels/yc-2026-public-master/issues/30) -> `asterlab-public`
+- `atrisa`: [#32](https://github.com/PalmerMichaels/yc-2026-public-master/issues/32) -> `atrisa-public`
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.
@@ -72,15 +77,15 @@ Batches covered:
 | [Arctic Health](arctic-health.md) | Spring 2026 | `copyable` | `implemented` | `arctic-health-public` | [#21](https://github.com/PalmerMichaels/yc-2026-public-master/issues/21) | [YC](https://www.ycombinator.com/companies/arctic-health) |
 | [Arden](arden.md) | Spring 2026 | `copyable` | `implemented` | `arden-public` | [#22](https://github.com/PalmerMichaels/yc-2026-public-master/issues/22) | [YC](https://www.ycombinator.com/companies/arden) |
 | [Ardent](ardent.md) | Spring 2026 | `copyable` | `implemented` | `ardent-public` | [#23](https://github.com/PalmerMichaels/yc-2026-public-master/issues/23) | [YC](https://www.ycombinator.com/companies/ardent) |
-| [Arga Labs](arga-labs.md) | Spring 2026 | `copyable` | `classified` | `arga-labs-public` | [#24](https://github.com/PalmerMichaels/yc-2026-public-master/issues/24) | [YC](https://www.ycombinator.com/companies/arga-labs) |
+| [Arga Labs](arga-labs.md) | Spring 2026 | `copyable` | `in-progress` | `arga-labs-public` | [#24](https://github.com/PalmerMichaels/yc-2026-public-master/issues/24) | [YC](https://www.ycombinator.com/companies/arga-labs) |
 | [Arlo Industries](arlo-industries.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#25](https://github.com/PalmerMichaels/yc-2026-public-master/issues/25) | [YC](https://www.ycombinator.com/companies/arlo-industries) |
-| [Armature](armature.md) | Spring 2026 | `copyable` | `classified` | `armature-public` | [#26](https://github.com/PalmerMichaels/yc-2026-public-master/issues/26) | [YC](https://www.ycombinator.com/companies/armature) |
-| [Arzana](arzana.md) | Spring 2026 | `copyable` | `classified` | `arzana-public` | [#27](https://github.com/PalmerMichaels/yc-2026-public-master/issues/27) | [YC](https://www.ycombinator.com/companies/arzana) |
-| [Asendia AI](asendia-ai.md) | Spring 2026 | `copyable` | `classified` | `asendia-ai-public` | [#28](https://github.com/PalmerMichaels/yc-2026-public-master/issues/28) | [YC](https://www.ycombinator.com/companies/asendia-ai) |
+| [Armature](armature.md) | Spring 2026 | `copyable` | `in-progress` | `armature-public` | [#26](https://github.com/PalmerMichaels/yc-2026-public-master/issues/26) | [YC](https://www.ycombinator.com/companies/armature) |
+| [Arzana](arzana.md) | Spring 2026 | `copyable` | `in-progress` | `arzana-public` | [#27](https://github.com/PalmerMichaels/yc-2026-public-master/issues/27) | [YC](https://www.ycombinator.com/companies/arzana) |
+| [Asendia AI](asendia-ai.md) | Spring 2026 | `copyable` | `in-progress` | `asendia-ai-public` | [#28](https://github.com/PalmerMichaels/yc-2026-public-master/issues/28) | [YC](https://www.ycombinator.com/companies/asendia-ai) |
 | [Aseon Labs](aseon-labs.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#29](https://github.com/PalmerMichaels/yc-2026-public-master/issues/29) | [YC](https://www.ycombinator.com/companies/aseon-labs) |
-| [Aster](asterlab.md) | Spring 2026 | `copyable` | `classified` | `asterlab-public` | [#30](https://github.com/PalmerMichaels/yc-2026-public-master/issues/30) | [YC](https://www.ycombinator.com/companies/asterlab) |
+| [Aster](asterlab.md) | Spring 2026 | `copyable` | `in-progress` | `asterlab-public` | [#30](https://github.com/PalmerMichaels/yc-2026-public-master/issues/30) | [YC](https://www.ycombinator.com/companies/asterlab) |
 | [Astraea](astraea.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#31](https://github.com/PalmerMichaels/yc-2026-public-master/issues/31) | [YC](https://www.ycombinator.com/companies/astraea) |
-| [Atrisa (formerly Refortifai)](atrisa.md) | Spring 2026 | `copyable` | `classified` | `atrisa-public` | [#32](https://github.com/PalmerMichaels/yc-2026-public-master/issues/32) | [YC](https://www.ycombinator.com/companies/atrisa) |
+| [Atrisa (formerly Refortifai)](atrisa.md) | Spring 2026 | `copyable` | `in-progress` | `atrisa-public` | [#32](https://github.com/PalmerMichaels/yc-2026-public-master/issues/32) | [YC](https://www.ycombinator.com/companies/atrisa) |
 | [Autostep](autostep.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#33](https://github.com/PalmerMichaels/yc-2026-public-master/issues/33) | [YC](https://www.ycombinator.com/companies/autostep) |
 | [Auxos](auxos.md) | Spring 2026 | `copyable` | `classified` | `auxos-public` | [#34](https://github.com/PalmerMichaels/yc-2026-public-master/issues/34) | [YC](https://www.ycombinator.com/companies/auxos) |
 | [Avea Robotics](avea-robotics.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#35](https://github.com/PalmerMichaels/yc-2026-public-master/issues/35) | [YC](https://www.ycombinator.com/companies/avea-robotics) |

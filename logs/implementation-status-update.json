@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T20:31:01.329Z",
+  "generated_at": "2026-06-08T20:43:50.213Z",
   "implemented": [
     {
       "slug": "agentphone",
@@ -194,7 +194,104 @@
       "priority": "implemented"
     }
   ],
-  "in_progress": [],
+  "in_progress": [
+    {
+      "slug": "arga-labs",
+      "name": "Arga Labs",
+      "batch": "Spring 2026",
+      "issue_number": 24,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/24",
+      "source_url": "https://www.ycombinator.com/companies/arga-labs",
+      "website": "https://www.argalabs.com/",
+      "proposed_repo": "arga-labs-public",
+      "implementation_scope": "Build an original web app demonstrating real-world sandboxes to test agents and agent-facing software: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/arga-labs-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "armature",
+      "name": "Armature",
+      "batch": "Spring 2026",
+      "issue_number": 26,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/26",
+      "source_url": "https://www.ycombinator.com/companies/armature",
+      "website": "https://armature.tech",
+      "proposed_repo": "armature-public",
+      "implementation_scope": "Build an original web app demonstrating armature helps companies monitor and optimize the agent experience.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/armature-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "arzana",
+      "name": "Arzana",
+      "batch": "Spring 2026",
+      "issue_number": 27,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/27",
+      "source_url": "https://www.ycombinator.com/companies/arzana",
+      "website": "https://www.arzana.com/",
+      "proposed_repo": "arzana-public",
+      "implementation_scope": "Build an original web app demonstrating ai automation for the manufacturing office: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/arzana-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "asendia-ai",
+      "name": "Asendia AI",
+      "batch": "Spring 2026",
+      "issue_number": 28,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/28",
+      "source_url": "https://www.ycombinator.com/companies/asendia-ai",
+      "website": "https://asendia.ai/",
+      "proposed_repo": "asendia-ai-public",
+      "implementation_scope": "Build an original web app demonstrating ai recruiters for staffing agencies: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/asendia-ai-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "asterlab",
+      "name": "Aster",
+      "batch": "Spring 2026",
+      "issue_number": 30,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/30",
+      "source_url": "https://www.ycombinator.com/companies/asterlab",
+      "website": "https://www.asterlab.ai/",
+      "proposed_repo": "asterlab-public",
+      "implementation_scope": "Build an original web app demonstrating the first ai-native ai research lab: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/asterlab-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "atrisa",
+      "name": "Atrisa (formerly Refortifai)",
+      "batch": "Spring 2026",
+      "issue_number": 32,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/32",
+      "source_url": "https://www.ycombinator.com/companies/atrisa",
+      "website": "https://atrisa.ai",
+      "proposed_repo": "atrisa-public",
+      "implementation_scope": "Build an original web app demonstrating ai agents for analog circuit design: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/atrisa-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    }
+  ],
   "pending_recheck": [
     {
       "slug": "aquashield",

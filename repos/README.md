@@ -19,7 +19,12 @@ Implemented:
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- None
+- `arga-labs` -> `arga-labs-public` ([#24](https://github.com/PalmerMichaels/yc-2026-public-master/issues/24))
+- `armature` -> `armature-public` ([#26](https://github.com/PalmerMichaels/yc-2026-public-master/issues/26))
+- `arzana` -> `arzana-public` ([#27](https://github.com/PalmerMichaels/yc-2026-public-master/issues/27))
+- `asendia-ai` -> `asendia-ai-public` ([#28](https://github.com/PalmerMichaels/yc-2026-public-master/issues/28))
+- `asterlab` -> `asterlab-public` ([#30](https://github.com/PalmerMichaels/yc-2026-public-master/issues/30))
+- `atrisa` -> `atrisa-public` ([#32](https://github.com/PalmerMichaels/yc-2026-public-master/issues/32))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -32,20 +37,14 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 12
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 266
+- Ready for fan-out: 260
 - Total copyable: 279
 
 Next unambiguous copyable entries:
 | Slug | Name | Issue | Proposed Repo | Source |
 | --- | --- | --- | --- | --- |
-| `arga-labs` | Arga Labs | [#24](https://github.com/PalmerMichaels/yc-2026-public-master/issues/24) | `arga-labs-public` | [YC](https://www.ycombinator.com/companies/arga-labs) |
-| `armature` | Armature | [#26](https://github.com/PalmerMichaels/yc-2026-public-master/issues/26) | `armature-public` | [YC](https://www.ycombinator.com/companies/armature) |
-| `arzana` | Arzana | [#27](https://github.com/PalmerMichaels/yc-2026-public-master/issues/27) | `arzana-public` | [YC](https://www.ycombinator.com/companies/arzana) |
-| `asendia-ai` | Asendia AI | [#28](https://github.com/PalmerMichaels/yc-2026-public-master/issues/28) | `asendia-ai-public` | [YC](https://www.ycombinator.com/companies/asendia-ai) |
-| `asterlab` | Aster | [#30](https://github.com/PalmerMichaels/yc-2026-public-master/issues/30) | `asterlab-public` | [YC](https://www.ycombinator.com/companies/asterlab) |
-| `atrisa` | Atrisa (formerly Refortifai) | [#32](https://github.com/PalmerMichaels/yc-2026-public-master/issues/32) | `atrisa-public` | [YC](https://www.ycombinator.com/companies/atrisa) |
 | `auxos` | Auxos | [#34](https://github.com/PalmerMichaels/yc-2026-public-master/issues/34) | `auxos-public` | [YC](https://www.ycombinator.com/companies/auxos) |
 | `bentolabs-ai` | BentoLabs AI | [#36](https://github.com/PalmerMichaels/yc-2026-public-master/issues/36) | `bentolabs-ai-public` | [YC](https://www.ycombinator.com/companies/bentolabs-ai) |
 | `biostack-platforms` | BioStack Platforms | [#37](https://github.com/PalmerMichaels/yc-2026-public-master/issues/37) | `biostack-platforms-public` | [YC](https://www.ycombinator.com/companies/biostack-platforms) |
@@ -90,3 +89,9 @@ Next unambiguous copyable entries:
 | `juno-chat` | Juno | [#90](https://github.com/PalmerMichaels/yc-2026-public-master/issues/90) | `juno-chat-public` | [YC](https://www.ycombinator.com/companies/juno-chat) |
 | `kelai` | KelAI | [#91](https://github.com/PalmerMichaels/yc-2026-public-master/issues/91) | `kelai-public` | [YC](https://www.ycombinator.com/companies/kelai) |
 | `keyframe-labs` | Keyframe Labs | [#92](https://github.com/PalmerMichaels/yc-2026-public-master/issues/92) | `keyframe-labs-public` | [YC](https://www.ycombinator.com/companies/keyframe-labs) |
+| `kimpton-ai` | Kimpton AI | [#93](https://github.com/PalmerMichaels/yc-2026-public-master/issues/93) | `kimpton-ai-public` | [YC](https://www.ycombinator.com/companies/kimpton-ai) |
+| `kinect` | Kinect | [#94](https://github.com/PalmerMichaels/yc-2026-public-master/issues/94) | `kinect-public` | [YC](https://www.ycombinator.com/companies/kinect) |
+| `kinro` | Kinro | [#95](https://github.com/PalmerMichaels/yc-2026-public-master/issues/95) | `kinro-public` | [YC](https://www.ycombinator.com/companies/kinro) |
+| `klarify` | Klarify | [#97](https://github.com/PalmerMichaels/yc-2026-public-master/issues/97) | `klarify-public` | [YC](https://www.ycombinator.com/companies/klarify) |
+| `korso` | Korso | [#98](https://github.com/PalmerMichaels/yc-2026-public-master/issues/98) | `korso-public` | [YC](https://www.ycombinator.com/companies/korso) |
+| `kugelaudio` | KugelAudio | [#99](https://github.com/PalmerMichaels/yc-2026-public-master/issues/99) | `kugelaudio-public` | [YC](https://www.ycombinator.com/companies/kugelaudio) |
