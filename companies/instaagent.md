@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/instaagent
 - Website: https://instaagent.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/84
 - Implementation Repository: https://github.com/PalmerMichaels/instaagent-public
+- Implementation Commit: `20b589dffde7f9c83f2aed2c3fd8cc26bb33e043`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/instaagent-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `20b589dffde7f9c83f2aed2c3fd8cc26bb33e043`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

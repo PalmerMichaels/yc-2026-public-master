@@ -6,8 +6,8 @@ Total companies: 405
 Copyable: 278
 Not copyable: 127
 Uncertain: 0
-Implemented: 54
-In progress: 6
+Implemented: 60
+In progress: 0
 Ready copyable: 218
 Skipped pending re-check: aquashield
 GitHub issues created: 120
@@ -69,16 +69,17 @@ Implemented repositories:
 - `hyper-4`: https://github.com/PalmerMichaels/hyper-4-public @ `7ea0b5966e3c5da6262c93c361ee3c9ebfeefaf8`
 - `imperfect`: https://github.com/PalmerMichaels/imperfect-public @ `c5da89a3e8ffa35b0d9658ca19f459ceb5e7e1b7`
 - `incandor`: https://github.com/PalmerMichaels/incandor-public @ `3399b044335b586ad861e57ea7eb836631cd88e4`
+- `insforge`: https://github.com/PalmerMichaels/insforge-public @ `228ba90d14fc3541ddcc8945e6d52f685851d866`
+- `instaagent`: https://github.com/PalmerMichaels/instaagent-public @ `20b589dffde7f9c83f2aed2c3fd8cc26bb33e043`
+- `interfaze`: https://github.com/PalmerMichaels/interfaze-public @ `ea4c403ca1e1c161a473b94aa543174ba844bde5`
 - `inth`: https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
+- `jo`: https://github.com/PalmerMichaels/jo-public @ `9cccf2bbd5408ab57e43df0c10f6132e24333508`
+- `juno-chat`: https://github.com/PalmerMichaels/juno-chat-public @ `c4f8eb61f4dc1947408d39cb8f0d307cf7edd979`
+- `kelai`: https://github.com/PalmerMichaels/kelai-public @ `688526c270d43679f2dcf457c6c3e39b3d9d9a40`
 - `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In-progress implementations:
-- `insforge`: [#83](https://github.com/PalmerMichaels/yc-2026-public-master/issues/83) -> `insforge-public`
-- `instaagent`: [#84](https://github.com/PalmerMichaels/yc-2026-public-master/issues/84) -> `instaagent-public`
-- `interfaze`: [#86](https://github.com/PalmerMichaels/yc-2026-public-master/issues/86) -> `interfaze-public`
-- `jo`: [#89](https://github.com/PalmerMichaels/yc-2026-public-master/issues/89) -> `jo-public`
-- `juno-chat`: [#90](https://github.com/PalmerMichaels/yc-2026-public-master/issues/90) -> `juno-chat-public`
-- `kelai`: [#91](https://github.com/PalmerMichaels/yc-2026-public-master/issues/91) -> `kelai-public`
+- None
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.
@@ -178,14 +179,14 @@ Batches covered:
 | [Incandor](incandor.md) | Spring 2026 | `copyable` | `implemented` | `incandor-public` | [#80](https://github.com/PalmerMichaels/yc-2026-public-master/issues/80) | [YC](https://www.ycombinator.com/companies/incandor) |
 | [Infera](infera.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#81](https://github.com/PalmerMichaels/yc-2026-public-master/issues/81) | [YC](https://www.ycombinator.com/companies/infera) |
 | [InLoop Robotics](inloop-robotics.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#82](https://github.com/PalmerMichaels/yc-2026-public-master/issues/82) | [YC](https://www.ycombinator.com/companies/inloop-robotics) |
-| [InsForge](insforge.md) | Spring 2026 | `copyable` | `in-progress` | `insforge-public` | [#83](https://github.com/PalmerMichaels/yc-2026-public-master/issues/83) | [YC](https://www.ycombinator.com/companies/insforge) |
-| [InstaAgent](instaagent.md) | Spring 2026 | `copyable` | `in-progress` | `instaagent-public` | [#84](https://github.com/PalmerMichaels/yc-2026-public-master/issues/84) | [YC](https://www.ycombinator.com/companies/instaagent) |
+| [InsForge](insforge.md) | Spring 2026 | `copyable` | `implemented` | `insforge-public` | [#83](https://github.com/PalmerMichaels/yc-2026-public-master/issues/83) | [YC](https://www.ycombinator.com/companies/insforge) |
+| [InstaAgent](instaagent.md) | Spring 2026 | `copyable` | `implemented` | `instaagent-public` | [#84](https://github.com/PalmerMichaels/yc-2026-public-master/issues/84) | [YC](https://www.ycombinator.com/companies/instaagent) |
 | [Intelligence Factory](intelligence-factory.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#85](https://github.com/PalmerMichaels/yc-2026-public-master/issues/85) | [YC](https://www.ycombinator.com/companies/intelligence-factory) |
-| [Interfaze](interfaze.md) | Spring 2026 | `copyable` | `in-progress` | `interfaze-public` | [#86](https://github.com/PalmerMichaels/yc-2026-public-master/issues/86) | [YC](https://www.ycombinator.com/companies/interfaze) |
+| [Interfaze](interfaze.md) | Spring 2026 | `copyable` | `implemented` | `interfaze-public` | [#86](https://github.com/PalmerMichaels/yc-2026-public-master/issues/86) | [YC](https://www.ycombinator.com/companies/interfaze) |
 | [Inth](inth.md) | Spring 2026 | `copyable` | `implemented` | `inth-public` | [#87](https://github.com/PalmerMichaels/yc-2026-public-master/issues/87) | [YC](https://www.ycombinator.com/companies/inth) |
-| [jo](jo.md) | Spring 2026 | `copyable` | `in-progress` | `jo-public` | [#89](https://github.com/PalmerMichaels/yc-2026-public-master/issues/89) | [YC](https://www.ycombinator.com/companies/jo) |
-| [Juno](juno-chat.md) | Spring 2026 | `copyable` | `in-progress` | `juno-chat-public` | [#90](https://github.com/PalmerMichaels/yc-2026-public-master/issues/90) | [YC](https://www.ycombinator.com/companies/juno-chat) |
-| [KelAI](kelai.md) | Spring 2026 | `copyable` | `in-progress` | `kelai-public` | [#91](https://github.com/PalmerMichaels/yc-2026-public-master/issues/91) | [YC](https://www.ycombinator.com/companies/kelai) |
+| [jo](jo.md) | Spring 2026 | `copyable` | `implemented` | `jo-public` | [#89](https://github.com/PalmerMichaels/yc-2026-public-master/issues/89) | [YC](https://www.ycombinator.com/companies/jo) |
+| [Juno](juno-chat.md) | Spring 2026 | `copyable` | `implemented` | `juno-chat-public` | [#90](https://github.com/PalmerMichaels/yc-2026-public-master/issues/90) | [YC](https://www.ycombinator.com/companies/juno-chat) |
+| [KelAI](kelai.md) | Spring 2026 | `copyable` | `implemented` | `kelai-public` | [#91](https://github.com/PalmerMichaels/yc-2026-public-master/issues/91) | [YC](https://www.ycombinator.com/companies/kelai) |
 | [Keyframe Labs](keyframe-labs.md) | Spring 2026 | `copyable` | `classified` | `keyframe-labs-public` | [#92](https://github.com/PalmerMichaels/yc-2026-public-master/issues/92) | [YC](https://www.ycombinator.com/companies/keyframe-labs) |
 | [Kimpton AI](kimpton-ai.md) | Spring 2026 | `copyable` | `classified` | `kimpton-ai-public` | [#93](https://github.com/PalmerMichaels/yc-2026-public-master/issues/93) | [YC](https://www.ycombinator.com/companies/kimpton-ai) |
 | [Kinect](kinect.md) | Spring 2026 | `copyable` | `classified` | `kinect-public` | [#94](https://github.com/PalmerMichaels/yc-2026-public-master/issues/94) | [YC](https://www.ycombinator.com/companies/kinect) |

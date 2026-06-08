@@ -57,16 +57,17 @@ Implemented:
 - `hyper-4` -> https://github.com/PalmerMichaels/hyper-4-public @ `7ea0b5966e3c5da6262c93c361ee3c9ebfeefaf8`
 - `imperfect` -> https://github.com/PalmerMichaels/imperfect-public @ `c5da89a3e8ffa35b0d9658ca19f459ceb5e7e1b7`
 - `incandor` -> https://github.com/PalmerMichaels/incandor-public @ `3399b044335b586ad861e57ea7eb836631cd88e4`
+- `insforge` -> https://github.com/PalmerMichaels/insforge-public @ `228ba90d14fc3541ddcc8945e6d52f685851d866`
+- `instaagent` -> https://github.com/PalmerMichaels/instaagent-public @ `20b589dffde7f9c83f2aed2c3fd8cc26bb33e043`
+- `interfaze` -> https://github.com/PalmerMichaels/interfaze-public @ `ea4c403ca1e1c161a473b94aa543174ba844bde5`
 - `inth` -> https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
+- `jo` -> https://github.com/PalmerMichaels/jo-public @ `9cccf2bbd5408ab57e43df0c10f6132e24333508`
+- `juno-chat` -> https://github.com/PalmerMichaels/juno-chat-public @ `c4f8eb61f4dc1947408d39cb8f0d307cf7edd979`
+- `kelai` -> https://github.com/PalmerMichaels/kelai-public @ `688526c270d43679f2dcf457c6c3e39b3d9d9a40`
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- `insforge` -> `insforge-public` ([#83](https://github.com/PalmerMichaels/yc-2026-public-master/issues/83))
-- `instaagent` -> `instaagent-public` ([#84](https://github.com/PalmerMichaels/yc-2026-public-master/issues/84))
-- `interfaze` -> `interfaze-public` ([#86](https://github.com/PalmerMichaels/yc-2026-public-master/issues/86))
-- `jo` -> `jo-public` ([#89](https://github.com/PalmerMichaels/yc-2026-public-master/issues/89))
-- `juno-chat` -> `juno-chat-public` ([#90](https://github.com/PalmerMichaels/yc-2026-public-master/issues/90))
-- `kelai` -> `kelai-public` ([#91](https://github.com/PalmerMichaels/yc-2026-public-master/issues/91))
+- None
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -78,8 +79,8 @@ Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
 Current queue counts:
-- Implemented: 54
-- In progress: 6
+- Implemented: 60
+- In progress: 0
 - Pending re-check: 1
 - Ready for fan-out: 217
 - Total copyable: 278

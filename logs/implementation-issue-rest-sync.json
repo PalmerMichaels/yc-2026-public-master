@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T23:41:25.113Z",
+  "generated_at": "2026-06-08T23:55:40.027Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -774,84 +774,90 @@
       "slug": "insforge",
       "issue_number": 83,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/insforge-public",
+      "commit": "228ba90d14fc3541ddcc8945e6d52f685851d866",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "instaagent",
       "issue_number": 84,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/instaagent-public",
+      "commit": "20b589dffde7f9c83f2aed2c3fd8cc26bb33e043",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "interfaze",
       "issue_number": 86,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/interfaze-public",
+      "commit": "ea4c403ca1e1c161a473b94aa543174ba844bde5",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "jo",
       "issue_number": 89,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/jo-public",
+      "commit": "9cccf2bbd5408ab57e43df0c10f6132e24333508",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "juno-chat",
       "issue_number": 90,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/juno-chat-public",
+      "commit": "c4f8eb61f4dc1947408d39cb8f0d307cf7edd979",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "kelai",
       "issue_number": 91,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/kelai-public",
+      "commit": "688526c270d43679f2dcf457c6c3e39b3d9d9a40",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ],
