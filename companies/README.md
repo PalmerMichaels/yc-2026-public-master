@@ -7,8 +7,8 @@ Copyable: 278
 Not copyable: 127
 Uncertain: 0
 Implemented: 42
-In progress: 0
-Ready copyable: 236
+In progress: 6
+Ready copyable: 230
 Skipped pending re-check: aquashield
 GitHub issues created: 120
 GitHub issues pending: 285
@@ -61,7 +61,12 @@ Implemented repositories:
 - `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In-progress implementations:
-- None
+- `godhands`: [#2](https://github.com/PalmerMichaels/yc-2026-public-master/issues/2) -> `godhands-public`
+- `gojiberry-ai`: [#67](https://github.com/PalmerMichaels/yc-2026-public-master/issues/67) -> `gojiberry-ai-public`
+- `govguard`: [#68](https://github.com/PalmerMichaels/yc-2026-public-master/issues/68) -> `govguard-public`
+- `gravy`: [#69](https://github.com/PalmerMichaels/yc-2026-public-master/issues/69) -> `gravy-public`
+- `hessian`: [#71](https://github.com/PalmerMichaels/yc-2026-public-master/issues/71) -> `hessian-public`
+- `hexa`: [#73](https://github.com/PalmerMichaels/yc-2026-public-master/issues/73) -> `hexa-public`
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.
@@ -80,7 +85,7 @@ Batches covered:
 | Company | Batch | Classification | Implementation | Proposed Public Repo | Issue | Source |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Degla Inc](degla-inc.md) | Fall 2026 | `not-copyable` | `not-copyable` |  | [#1](https://github.com/PalmerMichaels/yc-2026-public-master/issues/1) | [YC](https://www.ycombinator.com/companies/degla-inc) |
-| [GodHands](godhands.md) | Fall 2026 | `copyable` | `classified` | `godhands-public` | [#2](https://github.com/PalmerMichaels/yc-2026-public-master/issues/2) | [YC](https://www.ycombinator.com/companies/godhands) |
+| [GodHands](godhands.md) | Fall 2026 | `copyable` | `in-progress` | `godhands-public` | [#2](https://github.com/PalmerMichaels/yc-2026-public-master/issues/2) | [YC](https://www.ycombinator.com/companies/godhands) |
 | [RightNow](rightnow.md) | Fall 2026 | `not-copyable` | `not-copyable` |  | [#3](https://github.com/PalmerMichaels/yc-2026-public-master/issues/3) | [YC](https://www.ycombinator.com/companies/rightnow) |
 | [9 Mothers](9-mothers-corporation.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#4](https://github.com/PalmerMichaels/yc-2026-public-master/issues/4) | [YC](https://www.ycombinator.com/companies/9-mothers-corporation) |
 | [AbInitio Bio](abinitio-bio.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#5](https://github.com/PalmerMichaels/yc-2026-public-master/issues/5) | [YC](https://www.ycombinator.com/companies/abinitio-bio) |
@@ -145,13 +150,13 @@ Batches covered:
 | [General Aviation](general-aviation.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#64](https://github.com/PalmerMichaels/yc-2026-public-master/issues/64) | [YC](https://www.ycombinator.com/companies/general-aviation) |
 | [General Instinct](general-instinct.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#65](https://github.com/PalmerMichaels/yc-2026-public-master/issues/65) | [YC](https://www.ycombinator.com/companies/general-instinct) |
 | [Gigacatalyst](gigacatalyst.md) | Spring 2026 | `copyable` | `implemented` | `gigacatalyst-public` | [#66](https://github.com/PalmerMichaels/yc-2026-public-master/issues/66) | [YC](https://www.ycombinator.com/companies/gigacatalyst) |
-| [Gojiberry AI](gojiberry-ai.md) | Spring 2026 | `copyable` | `classified` | `gojiberry-ai-public` | [#67](https://github.com/PalmerMichaels/yc-2026-public-master/issues/67) | [YC](https://www.ycombinator.com/companies/gojiberry-ai) |
-| [GovGuard](govguard.md) | Spring 2026 | `copyable` | `classified` | `govguard-public` | [#68](https://github.com/PalmerMichaels/yc-2026-public-master/issues/68) | [YC](https://www.ycombinator.com/companies/govguard) |
-| [Gravy](gravy.md) | Spring 2026 | `copyable` | `classified` | `gravy-public` | [#69](https://github.com/PalmerMichaels/yc-2026-public-master/issues/69) | [YC](https://www.ycombinator.com/companies/gravy) |
+| [Gojiberry AI](gojiberry-ai.md) | Spring 2026 | `copyable` | `in-progress` | `gojiberry-ai-public` | [#67](https://github.com/PalmerMichaels/yc-2026-public-master/issues/67) | [YC](https://www.ycombinator.com/companies/gojiberry-ai) |
+| [GovGuard](govguard.md) | Spring 2026 | `copyable` | `in-progress` | `govguard-public` | [#68](https://github.com/PalmerMichaels/yc-2026-public-master/issues/68) | [YC](https://www.ycombinator.com/companies/govguard) |
+| [Gravy](gravy.md) | Spring 2026 | `copyable` | `in-progress` | `gravy-public` | [#69](https://github.com/PalmerMichaels/yc-2026-public-master/issues/69) | [YC](https://www.ycombinator.com/companies/gravy) |
 | [Hedge](hedge.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#70](https://github.com/PalmerMichaels/yc-2026-public-master/issues/70) | [YC](https://www.ycombinator.com/companies/hedge) |
-| [Hessian](hessian.md) | Spring 2026 | `copyable` | `classified` | `hessian-public` | [#71](https://github.com/PalmerMichaels/yc-2026-public-master/issues/71) | [YC](https://www.ycombinator.com/companies/hessian) |
+| [Hessian](hessian.md) | Spring 2026 | `copyable` | `in-progress` | `hessian-public` | [#71](https://github.com/PalmerMichaels/yc-2026-public-master/issues/71) | [YC](https://www.ycombinator.com/companies/hessian) |
 | [HEVN, inc](hevn-inc.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#72](https://github.com/PalmerMichaels/yc-2026-public-master/issues/72) | [YC](https://www.ycombinator.com/companies/hevn-inc) |
-| [Hexa](hexa.md) | Spring 2026 | `copyable` | `classified` | `hexa-public` | [#73](https://github.com/PalmerMichaels/yc-2026-public-master/issues/73) | [YC](https://www.ycombinator.com/companies/hexa) |
+| [Hexa](hexa.md) | Spring 2026 | `copyable` | `in-progress` | `hexa-public` | [#73](https://github.com/PalmerMichaels/yc-2026-public-master/issues/73) | [YC](https://www.ycombinator.com/companies/hexa) |
 | [HeyClicky](heyclicky.md) | Spring 2026 | `copyable` | `classified` | `heyclicky-public` | [#74](https://github.com/PalmerMichaels/yc-2026-public-master/issues/74) | [YC](https://www.ycombinator.com/companies/heyclicky) |
 | [Hub.xyz](hubxyz.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#75](https://github.com/PalmerMichaels/yc-2026-public-master/issues/75) | [YC](https://www.ycombinator.com/companies/hubxyz) |
 | [Humwork](humwork.md) | Spring 2026 | `copyable` | `classified` | `humwork-public` | [#76](https://github.com/PalmerMichaels/yc-2026-public-master/issues/76) | [YC](https://www.ycombinator.com/companies/humwork) |

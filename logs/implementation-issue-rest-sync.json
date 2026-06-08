@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T22:33:27.185Z",
+  "generated_at": "2026-06-08T22:42:16.889Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -589,6 +589,91 @@
         "status:active",
         "implemented"
       ]
+    },
+    {
+      "slug": "godhands",
+      "issue_number": 2,
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/godhands-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:fall-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "gojiberry-ai",
+      "issue_number": 67,
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/gojiberry-ai-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "govguard",
+      "issue_number": 68,
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/govguard-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "gravy",
+      "issue_number": 69,
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/gravy-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "hessian",
+      "issue_number": 71,
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/hessian-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "hexa",
+      "issue_number": 73,
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/hexa-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
     }
-  ]
+  ],
+  "failures": []
 }

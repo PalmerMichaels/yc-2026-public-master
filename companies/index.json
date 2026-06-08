@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T22:32:48.314Z",
+  "generated_at": "2026-06-08T22:41:38.778Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -71,7 +71,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/2",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUf7Q",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "godhands-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/godhands-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "rightnow",
@@ -2019,7 +2023,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/67",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUvvw",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "gojiberry-ai-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/gojiberry-ai-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "govguard",
@@ -2045,7 +2053,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/68",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUv7g",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "govguard-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/govguard-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "gravy",
@@ -2074,7 +2086,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/69",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUwHw",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "gravy-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/gravy-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "hedge",
@@ -2132,7 +2148,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/71",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUwjw",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "hessian-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/hessian-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "hevn-inc",
@@ -2186,7 +2206,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/73",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUw_A",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "hexa-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/hexa-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "heyclicky",
@@ -10834,9 +10858,15 @@
       "foaster",
       "foresight",
       "framewise-health",
-      "gigacatalyst"
+      "gigacatalyst",
+      "godhands",
+      "gojiberry-ai",
+      "govguard",
+      "gravy",
+      "hessian",
+      "hexa"
     ],
-    "updated_at": "2026-06-08T22:32:48.314Z",
+    "updated_at": "2026-06-08T22:41:38.778Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -10855,7 +10885,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-08T22:32:48.314Z",
+    "updated_at": "2026-06-08T22:41:38.778Z",
     "implemented": [
       "agentphone",
       "akkari",
@@ -10900,8 +10930,15 @@
       "inth",
       "napkin-math"
     ],
-    "in_progress": [],
-    "ready_copyable": 236,
+    "in_progress": [
+      "godhands",
+      "gojiberry-ai",
+      "govguard",
+      "gravy",
+      "hessian",
+      "hexa"
+    ],
+    "ready_copyable": 230,
     "skipped_pending_recheck": [
       "aquashield"
     ]

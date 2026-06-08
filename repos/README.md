@@ -49,7 +49,12 @@ Implemented:
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- None
+- `godhands` -> `godhands-public` ([#2](https://github.com/PalmerMichaels/yc-2026-public-master/issues/2))
+- `gojiberry-ai` -> `gojiberry-ai-public` ([#67](https://github.com/PalmerMichaels/yc-2026-public-master/issues/67))
+- `govguard` -> `govguard-public` ([#68](https://github.com/PalmerMichaels/yc-2026-public-master/issues/68))
+- `gravy` -> `gravy-public` ([#69](https://github.com/PalmerMichaels/yc-2026-public-master/issues/69))
+- `hessian` -> `hessian-public` ([#71](https://github.com/PalmerMichaels/yc-2026-public-master/issues/71))
+- `hexa` -> `hexa-public` ([#73](https://github.com/PalmerMichaels/yc-2026-public-master/issues/73))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -62,20 +67,14 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 42
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 235
+- Ready for fan-out: 229
 - Total copyable: 278
 
 Next unambiguous copyable entries:
 | Slug | Name | Issue | Proposed Repo | Source |
 | --- | --- | --- | --- | --- |
-| `godhands` | GodHands | [#2](https://github.com/PalmerMichaels/yc-2026-public-master/issues/2) | `godhands-public` | [YC](https://www.ycombinator.com/companies/godhands) |
-| `gojiberry-ai` | Gojiberry AI | [#67](https://github.com/PalmerMichaels/yc-2026-public-master/issues/67) | `gojiberry-ai-public` | [YC](https://www.ycombinator.com/companies/gojiberry-ai) |
-| `govguard` | GovGuard | [#68](https://github.com/PalmerMichaels/yc-2026-public-master/issues/68) | `govguard-public` | [YC](https://www.ycombinator.com/companies/govguard) |
-| `gravy` | Gravy | [#69](https://github.com/PalmerMichaels/yc-2026-public-master/issues/69) | `gravy-public` | [YC](https://www.ycombinator.com/companies/gravy) |
-| `hessian` | Hessian | [#71](https://github.com/PalmerMichaels/yc-2026-public-master/issues/71) | `hessian-public` | [YC](https://www.ycombinator.com/companies/hessian) |
-| `hexa` | Hexa | [#73](https://github.com/PalmerMichaels/yc-2026-public-master/issues/73) | `hexa-public` | [YC](https://www.ycombinator.com/companies/hexa) |
 | `heyclicky` | HeyClicky | [#74](https://github.com/PalmerMichaels/yc-2026-public-master/issues/74) | `heyclicky-public` | [YC](https://www.ycombinator.com/companies/heyclicky) |
 | `humwork` | Humwork | [#76](https://github.com/PalmerMichaels/yc-2026-public-master/issues/76) | `humwork-public` | [YC](https://www.ycombinator.com/companies/humwork) |
 | `huscarl-inc` | Huscarl Inc. | [#77](https://github.com/PalmerMichaels/yc-2026-public-master/issues/77) | `huscarl-inc-public` | [YC](https://www.ycombinator.com/companies/huscarl-inc) |
@@ -120,3 +119,9 @@ Next unambiguous copyable entries:
 | `autumn-ai` | Autumn AI | Pending | `autumn-ai-public` | [YC](https://www.ycombinator.com/companies/autumn-ai) |
 | `avoice` | Avoice | Pending | `avoice-public` | [YC](https://www.ycombinator.com/companies/avoice) |
 | `axis-2` | Axis | Pending | `axis-2-public` | [YC](https://www.ycombinator.com/companies/axis-2) |
+| `baseframe` | BaseFrame | Pending | `baseframe-public` | [YC](https://www.ycombinator.com/companies/baseframe) |
+| `beacon-health` | Beacon Health | Pending | `beacon-health-public` | [YC](https://www.ycombinator.com/companies/beacon-health) |
+| `bidflow` | Bidflow | Pending | `bidflow-public` | [YC](https://www.ycombinator.com/companies/bidflow) |
+| `booko` | Booko | Pending | `booko-public` | [YC](https://www.ycombinator.com/companies/booko) |
+| `brownie` | IncidentFox | Pending | `brownie-public` | [YC](https://www.ycombinator.com/companies/brownie) |
+| `bubble-lab` | Bubble Lab | Pending | `bubble-lab-public` | [YC](https://www.ycombinator.com/companies/bubble-lab) |
