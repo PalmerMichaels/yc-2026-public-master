@@ -6,8 +6,8 @@ Total companies: 405
 Copyable: 278
 Not copyable: 127
 Uncertain: 0
-Implemented: 30
-In progress: 6
+Implemented: 36
+In progress: 0
 Ready copyable: 242
 Skipped pending re-check: aquashield
 GitHub issues created: 120
@@ -45,16 +45,17 @@ Implemented repositories:
 - `clawvisor`: https://github.com/PalmerMichaels/clawvisor-public @ `50f69d88f58568001648102d3a499d8e505465ca`
 - `cohesion`: https://github.com/PalmerMichaels/cohesion-public @ `7bade37a1a76dbb5fbd2d5d858c86dc1fd2fb523`
 - `complir`: https://github.com/PalmerMichaels/complir-public @ `8c1cbd2c39ca1b7638b787964587315a428d9283`
+- `datost`: https://github.com/PalmerMichaels/datost-public @ `51fc51ba69f295ffa1ec542c7efa8700008250d8`
+- `dayjob`: https://github.com/PalmerMichaels/dayjob-public @ `fe8ac709568e6f1a5d3b9f1f138911b9c25715fa`
+- `deep-interactions`: https://github.com/PalmerMichaels/deep-interactions-public @ `3feea7c428cc2bd27c01ef31e50f0623f3ceda5b`
+- `drafted`: https://github.com/PalmerMichaels/drafted-public @ `9b2048987bc51857d767ef09e004f131390af283`
+- `drippay`: https://github.com/PalmerMichaels/drippay-public @ `6088b058c05f83005297c043ebd87fce3894657a`
+- `elyra`: https://github.com/PalmerMichaels/elyra-public @ `b917a85841614ef1da169c10168576563914d772`
 - `inth`: https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
 - `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In-progress implementations:
-- `datost`: [#48](https://github.com/PalmerMichaels/yc-2026-public-master/issues/48) -> `datost-public`
-- `dayjob`: [#49](https://github.com/PalmerMichaels/yc-2026-public-master/issues/49) -> `dayjob-public`
-- `deep-interactions`: [#50](https://github.com/PalmerMichaels/yc-2026-public-master/issues/50) -> `deep-interactions-public`
-- `drafted`: [#52](https://github.com/PalmerMichaels/yc-2026-public-master/issues/52) -> `drafted-public`
-- `drippay`: [#53](https://github.com/PalmerMichaels/yc-2026-public-master/issues/53) -> `drippay-public`
-- `elyra`: [#55](https://github.com/PalmerMichaels/yc-2026-public-master/issues/55) -> `elyra-public`
+- None
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.
@@ -119,14 +120,14 @@ Batches covered:
 | [Clawvisor](clawvisor.md) | Spring 2026 | `copyable` | `implemented` | `clawvisor-public` | [#45](https://github.com/PalmerMichaels/yc-2026-public-master/issues/45) | [YC](https://www.ycombinator.com/companies/clawvisor) |
 | [Cohesion](cohesion.md) | Spring 2026 | `copyable` | `implemented` | `cohesion-public` | [#46](https://github.com/PalmerMichaels/yc-2026-public-master/issues/46) | [YC](https://www.ycombinator.com/companies/cohesion) |
 | [Complir](complir.md) | Spring 2026 | `copyable` | `implemented` | `complir-public` | [#47](https://github.com/PalmerMichaels/yc-2026-public-master/issues/47) | [YC](https://www.ycombinator.com/companies/complir) |
-| [Datost](datost.md) | Spring 2026 | `copyable` | `in-progress` | `datost-public` | [#48](https://github.com/PalmerMichaels/yc-2026-public-master/issues/48) | [YC](https://www.ycombinator.com/companies/datost) |
-| [Dayjob](dayjob.md) | Spring 2026 | `copyable` | `in-progress` | `dayjob-public` | [#49](https://github.com/PalmerMichaels/yc-2026-public-master/issues/49) | [YC](https://www.ycombinator.com/companies/dayjob) |
-| [Deep Interactions](deep-interactions.md) | Spring 2026 | `copyable` | `in-progress` | `deep-interactions-public` | [#50](https://github.com/PalmerMichaels/yc-2026-public-master/issues/50) | [YC](https://www.ycombinator.com/companies/deep-interactions) |
+| [Datost](datost.md) | Spring 2026 | `copyable` | `implemented` | `datost-public` | [#48](https://github.com/PalmerMichaels/yc-2026-public-master/issues/48) | [YC](https://www.ycombinator.com/companies/datost) |
+| [Dayjob](dayjob.md) | Spring 2026 | `copyable` | `implemented` | `dayjob-public` | [#49](https://github.com/PalmerMichaels/yc-2026-public-master/issues/49) | [YC](https://www.ycombinator.com/companies/dayjob) |
+| [Deep Interactions](deep-interactions.md) | Spring 2026 | `copyable` | `implemented` | `deep-interactions-public` | [#50](https://github.com/PalmerMichaels/yc-2026-public-master/issues/50) | [YC](https://www.ycombinator.com/companies/deep-interactions) |
 | [Dispatch](dispatch.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#51](https://github.com/PalmerMichaels/yc-2026-public-master/issues/51) | [YC](https://www.ycombinator.com/companies/dispatch) |
-| [Drafted](drafted.md) | Spring 2026 | `copyable` | `in-progress` | `drafted-public` | [#52](https://github.com/PalmerMichaels/yc-2026-public-master/issues/52) | [YC](https://www.ycombinator.com/companies/drafted) |
-| [Drip](drippay.md) | Spring 2026 | `copyable` | `in-progress` | `drippay-public` | [#53](https://github.com/PalmerMichaels/yc-2026-public-master/issues/53) | [YC](https://www.ycombinator.com/companies/drippay) |
+| [Drafted](drafted.md) | Spring 2026 | `copyable` | `implemented` | `drafted-public` | [#52](https://github.com/PalmerMichaels/yc-2026-public-master/issues/52) | [YC](https://www.ycombinator.com/companies/drafted) |
+| [Drip](drippay.md) | Spring 2026 | `copyable` | `implemented` | `drippay-public` | [#53](https://github.com/PalmerMichaels/yc-2026-public-master/issues/53) | [YC](https://www.ycombinator.com/companies/drippay) |
 | [Eden Robotics](eden-robotics.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#54](https://github.com/PalmerMichaels/yc-2026-public-master/issues/54) | [YC](https://www.ycombinator.com/companies/eden-robotics) |
-| [Elyra](elyra.md) | Spring 2026 | `copyable` | `in-progress` | `elyra-public` | [#55](https://github.com/PalmerMichaels/yc-2026-public-master/issues/55) | [YC](https://www.ycombinator.com/companies/elyra) |
+| [Elyra](elyra.md) | Spring 2026 | `copyable` | `implemented` | `elyra-public` | [#55](https://github.com/PalmerMichaels/yc-2026-public-master/issues/55) | [YC](https://www.ycombinator.com/companies/elyra) |
 | [Enjamb Labs](enjamb-labs.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#56](https://github.com/PalmerMichaels/yc-2026-public-master/issues/56) | [YC](https://www.ycombinator.com/companies/enjamb-labs) |
 | [Expanse](expanse.md) | Spring 2026 | `copyable` | `classified` | `expanse-public` | [#57](https://github.com/PalmerMichaels/yc-2026-public-master/issues/57) | [YC](https://www.ycombinator.com/companies/expanse) |
 | [FinalDose](finaldose.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#58](https://github.com/PalmerMichaels/yc-2026-public-master/issues/58) | [YC](https://www.ycombinator.com/companies/finaldose) |

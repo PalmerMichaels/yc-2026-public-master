@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/deep-interactions
 - Website: https://deepinteractions.ai/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/50
 - Implementation Repository: https://github.com/PalmerMichaels/deep-interactions-public
+- Implementation Commit: `3feea7c428cc2bd27c01ef31e50f0623f3ceda5b`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/deep-interactions-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `3feea7c428cc2bd27c01ef31e50f0623f3ceda5b`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

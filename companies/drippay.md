@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/drippay
 - Website: https://usedrip.ai
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/53
 - Implementation Repository: https://github.com/PalmerMichaels/drippay-public
+- Implementation Commit: `6088b058c05f83005297c043ebd87fce3894657a`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/drippay-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `6088b058c05f83005297c043ebd87fce3894657a`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

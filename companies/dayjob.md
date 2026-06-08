@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/dayjob
 - Website: https://www.getdayjob.ai
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/49
 - Implementation Repository: https://github.com/PalmerMichaels/dayjob-public
+- Implementation Commit: `fe8ac709568e6f1a5d3b9f1f138911b9c25715fa`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/dayjob-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `fe8ac709568e6f1a5d3b9f1f138911b9c25715fa`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 
