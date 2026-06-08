@@ -7,8 +7,8 @@ Copyable: 278
 Not copyable: 127
 Uncertain: 0
 Implemented: 36
-In progress: 0
-Ready copyable: 242
+In progress: 6
+Ready copyable: 236
 Skipped pending re-check: aquashield
 GitHub issues created: 120
 GitHub issues pending: 285
@@ -55,7 +55,12 @@ Implemented repositories:
 - `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In-progress implementations:
-- None
+- `expanse`: [#57](https://github.com/PalmerMichaels/yc-2026-public-master/issues/57) -> `expanse-public`
+- `flowscope`: [#59](https://github.com/PalmerMichaels/yc-2026-public-master/issues/59) -> `flowscope-public`
+- `foaster`: [#60](https://github.com/PalmerMichaels/yc-2026-public-master/issues/60) -> `foaster-public`
+- `foresight`: [#61](https://github.com/PalmerMichaels/yc-2026-public-master/issues/61) -> `foresight-public`
+- `framewise-health`: [#62](https://github.com/PalmerMichaels/yc-2026-public-master/issues/62) -> `framewise-health-public`
+- `gigacatalyst`: [#66](https://github.com/PalmerMichaels/yc-2026-public-master/issues/66) -> `gigacatalyst-public`
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.
@@ -129,16 +134,16 @@ Batches covered:
 | [Eden Robotics](eden-robotics.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#54](https://github.com/PalmerMichaels/yc-2026-public-master/issues/54) | [YC](https://www.ycombinator.com/companies/eden-robotics) |
 | [Elyra](elyra.md) | Spring 2026 | `copyable` | `implemented` | `elyra-public` | [#55](https://github.com/PalmerMichaels/yc-2026-public-master/issues/55) | [YC](https://www.ycombinator.com/companies/elyra) |
 | [Enjamb Labs](enjamb-labs.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#56](https://github.com/PalmerMichaels/yc-2026-public-master/issues/56) | [YC](https://www.ycombinator.com/companies/enjamb-labs) |
-| [Expanse](expanse.md) | Spring 2026 | `copyable` | `classified` | `expanse-public` | [#57](https://github.com/PalmerMichaels/yc-2026-public-master/issues/57) | [YC](https://www.ycombinator.com/companies/expanse) |
+| [Expanse](expanse.md) | Spring 2026 | `copyable` | `in-progress` | `expanse-public` | [#57](https://github.com/PalmerMichaels/yc-2026-public-master/issues/57) | [YC](https://www.ycombinator.com/companies/expanse) |
 | [FinalDose](finaldose.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#58](https://github.com/PalmerMichaels/yc-2026-public-master/issues/58) | [YC](https://www.ycombinator.com/companies/finaldose) |
-| [flowscope](flowscope.md) | Spring 2026 | `copyable` | `classified` | `flowscope-public` | [#59](https://github.com/PalmerMichaels/yc-2026-public-master/issues/59) | [YC](https://www.ycombinator.com/companies/flowscope) |
-| [Foaster](foaster.md) | Spring 2026 | `copyable` | `classified` | `foaster-public` | [#60](https://github.com/PalmerMichaels/yc-2026-public-master/issues/60) | [YC](https://www.ycombinator.com/companies/foaster) |
-| [Foresight](foresight.md) | Spring 2026 | `copyable` | `classified` | `foresight-public` | [#61](https://github.com/PalmerMichaels/yc-2026-public-master/issues/61) | [YC](https://www.ycombinator.com/companies/foresight) |
-| [Framewise Health](framewise-health.md) | Spring 2026 | `copyable` | `classified` | `framewise-health-public` | [#62](https://github.com/PalmerMichaels/yc-2026-public-master/issues/62) | [YC](https://www.ycombinator.com/companies/framewise-health) |
+| [flowscope](flowscope.md) | Spring 2026 | `copyable` | `in-progress` | `flowscope-public` | [#59](https://github.com/PalmerMichaels/yc-2026-public-master/issues/59) | [YC](https://www.ycombinator.com/companies/flowscope) |
+| [Foaster](foaster.md) | Spring 2026 | `copyable` | `in-progress` | `foaster-public` | [#60](https://github.com/PalmerMichaels/yc-2026-public-master/issues/60) | [YC](https://www.ycombinator.com/companies/foaster) |
+| [Foresight](foresight.md) | Spring 2026 | `copyable` | `in-progress` | `foresight-public` | [#61](https://github.com/PalmerMichaels/yc-2026-public-master/issues/61) | [YC](https://www.ycombinator.com/companies/foresight) |
+| [Framewise Health](framewise-health.md) | Spring 2026 | `copyable` | `in-progress` | `framewise-health-public` | [#62](https://github.com/PalmerMichaels/yc-2026-public-master/issues/62) | [YC](https://www.ycombinator.com/companies/framewise-health) |
 | [Fuchsia](fuchsia.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#63](https://github.com/PalmerMichaels/yc-2026-public-master/issues/63) | [YC](https://www.ycombinator.com/companies/fuchsia) |
 | [General Aviation](general-aviation.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#64](https://github.com/PalmerMichaels/yc-2026-public-master/issues/64) | [YC](https://www.ycombinator.com/companies/general-aviation) |
 | [General Instinct](general-instinct.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#65](https://github.com/PalmerMichaels/yc-2026-public-master/issues/65) | [YC](https://www.ycombinator.com/companies/general-instinct) |
-| [Gigacatalyst](gigacatalyst.md) | Spring 2026 | `copyable` | `classified` | `gigacatalyst-public` | [#66](https://github.com/PalmerMichaels/yc-2026-public-master/issues/66) | [YC](https://www.ycombinator.com/companies/gigacatalyst) |
+| [Gigacatalyst](gigacatalyst.md) | Spring 2026 | `copyable` | `in-progress` | `gigacatalyst-public` | [#66](https://github.com/PalmerMichaels/yc-2026-public-master/issues/66) | [YC](https://www.ycombinator.com/companies/gigacatalyst) |
 | [Gojiberry AI](gojiberry-ai.md) | Spring 2026 | `copyable` | `classified` | `gojiberry-ai-public` | [#67](https://github.com/PalmerMichaels/yc-2026-public-master/issues/67) | [YC](https://www.ycombinator.com/companies/gojiberry-ai) |
 | [GovGuard](govguard.md) | Spring 2026 | `copyable` | `classified` | `govguard-public` | [#68](https://github.com/PalmerMichaels/yc-2026-public-master/issues/68) | [YC](https://www.ycombinator.com/companies/govguard) |
 | [Gravy](gravy.md) | Spring 2026 | `copyable` | `classified` | `gravy-public` | [#69](https://github.com/PalmerMichaels/yc-2026-public-master/issues/69) | [YC](https://www.ycombinator.com/companies/gravy) |

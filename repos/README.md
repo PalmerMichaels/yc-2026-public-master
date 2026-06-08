@@ -43,7 +43,12 @@ Implemented:
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- None
+- `expanse` -> `expanse-public` ([#57](https://github.com/PalmerMichaels/yc-2026-public-master/issues/57))
+- `flowscope` -> `flowscope-public` ([#59](https://github.com/PalmerMichaels/yc-2026-public-master/issues/59))
+- `foaster` -> `foaster-public` ([#60](https://github.com/PalmerMichaels/yc-2026-public-master/issues/60))
+- `foresight` -> `foresight-public` ([#61](https://github.com/PalmerMichaels/yc-2026-public-master/issues/61))
+- `framewise-health` -> `framewise-health-public` ([#62](https://github.com/PalmerMichaels/yc-2026-public-master/issues/62))
+- `gigacatalyst` -> `gigacatalyst-public` ([#66](https://github.com/PalmerMichaels/yc-2026-public-master/issues/66))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -56,20 +61,14 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 36
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 241
+- Ready for fan-out: 235
 - Total copyable: 278
 
 Next unambiguous copyable entries:
 | Slug | Name | Issue | Proposed Repo | Source |
 | --- | --- | --- | --- | --- |
-| `expanse` | Expanse | [#57](https://github.com/PalmerMichaels/yc-2026-public-master/issues/57) | `expanse-public` | [YC](https://www.ycombinator.com/companies/expanse) |
-| `flowscope` | flowscope | [#59](https://github.com/PalmerMichaels/yc-2026-public-master/issues/59) | `flowscope-public` | [YC](https://www.ycombinator.com/companies/flowscope) |
-| `foaster` | Foaster | [#60](https://github.com/PalmerMichaels/yc-2026-public-master/issues/60) | `foaster-public` | [YC](https://www.ycombinator.com/companies/foaster) |
-| `foresight` | Foresight | [#61](https://github.com/PalmerMichaels/yc-2026-public-master/issues/61) | `foresight-public` | [YC](https://www.ycombinator.com/companies/foresight) |
-| `framewise-health` | Framewise Health | [#62](https://github.com/PalmerMichaels/yc-2026-public-master/issues/62) | `framewise-health-public` | [YC](https://www.ycombinator.com/companies/framewise-health) |
-| `gigacatalyst` | Gigacatalyst | [#66](https://github.com/PalmerMichaels/yc-2026-public-master/issues/66) | `gigacatalyst-public` | [YC](https://www.ycombinator.com/companies/gigacatalyst) |
 | `godhands` | GodHands | [#2](https://github.com/PalmerMichaels/yc-2026-public-master/issues/2) | `godhands-public` | [YC](https://www.ycombinator.com/companies/godhands) |
 | `gojiberry-ai` | Gojiberry AI | [#67](https://github.com/PalmerMichaels/yc-2026-public-master/issues/67) | `gojiberry-ai-public` | [YC](https://www.ycombinator.com/companies/gojiberry-ai) |
 | `govguard` | GovGuard | [#68](https://github.com/PalmerMichaels/yc-2026-public-master/issues/68) | `govguard-public` | [YC](https://www.ycombinator.com/companies/govguard) |
@@ -114,3 +113,9 @@ Next unambiguous copyable entries:
 | `alt-x` | Alt-X | Pending | `alt-x-public` | [YC](https://www.ycombinator.com/companies/alt-x) |
 | `approxima` | Approxima | Pending | `approxima-public` | [YC](https://www.ycombinator.com/companies/approxima) |
 | `archal` | Archal | Pending | `archal-public` | [YC](https://www.ycombinator.com/companies/archal) |
+| `ashr` | Ashr | Pending | `ashr-public` | [YC](https://www.ycombinator.com/companies/ashr) |
+| `aurorin-cad` | Aurorin CAD | Pending | `aurorin-cad-public` | [YC](https://www.ycombinator.com/companies/aurorin-cad) |
+| `autositu` | AutoSitu | Pending | `autositu-public` | [YC](https://www.ycombinator.com/companies/autositu) |
+| `autumn-ai` | Autumn AI | Pending | `autumn-ai-public` | [YC](https://www.ycombinator.com/companies/autumn-ai) |
+| `avoice` | Avoice | Pending | `avoice-public` | [YC](https://www.ycombinator.com/companies/avoice) |
+| `axis-2` | Axis | Pending | `axis-2-public` | [YC](https://www.ycombinator.com/companies/axis-2) |
