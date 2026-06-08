@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/govguard
 - Website: https://govguard.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/68
 - Implementation Repository: https://github.com/PalmerMichaels/govguard-public
+- Implementation Commit: `b47a0d9cf3e2f5c68353ea610b35afa4ee51b3bc`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/govguard-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `b47a0d9cf3e2f5c68353ea610b35afa4ee51b3bc`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

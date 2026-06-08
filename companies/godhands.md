@@ -4,12 +4,13 @@
 - Batch: Fall 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/godhands
 - Website: https://godhands.dev
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/2
 - Implementation Repository: https://github.com/PalmerMichaels/godhands-public
+- Implementation Commit: `f4a6c33ae7dfd1d26465d9f64bea311fbb8f8fbc`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/godhands-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `f4a6c33ae7dfd1d26465d9f64bea311fbb8f8fbc`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

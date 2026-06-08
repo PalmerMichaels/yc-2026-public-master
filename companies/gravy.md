@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/gravy
 - Website: https://gravy.finance
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/69
 - Implementation Repository: https://github.com/PalmerMichaels/gravy-public
+- Implementation Commit: `349bbae8c99e3687f8fed66fce147cf608371773`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/gravy-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `349bbae8c99e3687f8fed66fce147cf608371773`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

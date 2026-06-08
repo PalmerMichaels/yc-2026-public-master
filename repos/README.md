@@ -5,6 +5,7 @@ Workers will record created `<company-slug>-public` repositories here.
 ## Implementation Status
 
 Implemented:
+- `godhands` -> https://github.com/PalmerMichaels/godhands-public @ `f4a6c33ae7dfd1d26465d9f64bea311fbb8f8fbc`
 - `agentphone` -> https://github.com/PalmerMichaels/agentphone-public @ `c195d8160dd6292a5399fc6f5d5efce2efeaa8bd`
 - `akkari` -> https://github.com/PalmerMichaels/akkari-public @ `d46f6fc0835494c35117c3445c40c376efccdc12`
 - `amboras` -> https://github.com/PalmerMichaels/amboras-public @ `48226eb334ee474d190a5d73c44dae678e137123`
@@ -45,16 +46,16 @@ Implemented:
 - `foresight` -> https://github.com/PalmerMichaels/foresight-public @ `abe4baec29b79ac77ff9295634b6f8b41067e912`
 - `framewise-health` -> https://github.com/PalmerMichaels/framewise-health-public @ `07e8aa5c2a3a5c87168402dd2247e0a1a9e23852`
 - `gigacatalyst` -> https://github.com/PalmerMichaels/gigacatalyst-public @ `cc076a7729f78d1c717cd96b6ee2d7ebcccccf0c`
+- `gojiberry-ai` -> https://github.com/PalmerMichaels/gojiberry-ai-public @ `3966609db91a6687306ec6d5a1b409c85c686711`
+- `govguard` -> https://github.com/PalmerMichaels/govguard-public @ `b47a0d9cf3e2f5c68353ea610b35afa4ee51b3bc`
+- `gravy` -> https://github.com/PalmerMichaels/gravy-public @ `349bbae8c99e3687f8fed66fce147cf608371773`
+- `hessian` -> https://github.com/PalmerMichaels/hessian-public @ `0ffac760222d4eb4153b56fd8489ed81e6c3cd86`
+- `hexa` -> https://github.com/PalmerMichaels/hexa-public @ `1249b54b097cfef82f37b727fe51c8bf86618c55`
 - `inth` -> https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- `godhands` -> `godhands-public` ([#2](https://github.com/PalmerMichaels/yc-2026-public-master/issues/2))
-- `gojiberry-ai` -> `gojiberry-ai-public` ([#67](https://github.com/PalmerMichaels/yc-2026-public-master/issues/67))
-- `govguard` -> `govguard-public` ([#68](https://github.com/PalmerMichaels/yc-2026-public-master/issues/68))
-- `gravy` -> `gravy-public` ([#69](https://github.com/PalmerMichaels/yc-2026-public-master/issues/69))
-- `hessian` -> `hessian-public` ([#71](https://github.com/PalmerMichaels/yc-2026-public-master/issues/71))
-- `hexa` -> `hexa-public` ([#73](https://github.com/PalmerMichaels/yc-2026-public-master/issues/73))
+- None
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -66,8 +67,8 @@ Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
 Current queue counts:
-- Implemented: 42
-- In progress: 6
+- Implemented: 48
+- In progress: 0
 - Pending re-check: 1
 - Ready for fan-out: 229
 - Total copyable: 278

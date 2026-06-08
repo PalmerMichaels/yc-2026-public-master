@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T22:41:38.778Z",
+  "generated_at": "2026-06-08T22:59:39.489Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -71,11 +71,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/2",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUf7Q",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "godhands-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/godhands-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "f4a6c33ae7dfd1d26465d9f64bea311fbb8f8fbc",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "rightnow",
@@ -2023,11 +2023,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/67",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUvvw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "gojiberry-ai-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/gojiberry-ai-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "3966609db91a6687306ec6d5a1b409c85c686711",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "govguard",
@@ -2053,11 +2053,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/68",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUv7g",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "govguard-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/govguard-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "b47a0d9cf3e2f5c68353ea610b35afa4ee51b3bc",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "gravy",
@@ -2086,11 +2086,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/69",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUwHw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "gravy-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/gravy-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "349bbae8c99e3687f8fed66fce147cf608371773",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "hedge",
@@ -2148,11 +2148,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/71",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUwjw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "hessian-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/hessian-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "0ffac760222d4eb4153b56fd8489ed81e6c3cd86",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "hevn-inc",
@@ -2206,11 +2206,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/73",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUw_A",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "hexa-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/hexa-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "1249b54b097cfef82f37b727fe51c8bf86618c55",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "heyclicky",
@@ -10866,7 +10866,7 @@
       "hessian",
       "hexa"
     ],
-    "updated_at": "2026-06-08T22:41:38.778Z",
+    "updated_at": "2026-06-08T22:59:39.489Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -10885,8 +10885,9 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-08T22:41:38.778Z",
+    "updated_at": "2026-06-08T22:59:39.489Z",
     "implemented": [
+      "godhands",
       "agentphone",
       "akkari",
       "amboras",
@@ -10927,17 +10928,15 @@
       "foresight",
       "framewise-health",
       "gigacatalyst",
-      "inth",
-      "napkin-math"
-    ],
-    "in_progress": [
-      "godhands",
       "gojiberry-ai",
       "govguard",
       "gravy",
       "hessian",
-      "hexa"
+      "hexa",
+      "inth",
+      "napkin-math"
     ],
+    "in_progress": [],
     "ready_copyable": 230,
     "skipped_pending_recheck": [
       "aquashield"

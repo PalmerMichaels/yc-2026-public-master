@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/hexa
 - Website: https://www.hexaagents.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/73
 - Implementation Repository: https://github.com/PalmerMichaels/hexa-public
+- Implementation Commit: `1249b54b097cfef82f37b727fe51c8bf86618c55`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/hexa-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `1249b54b097cfef82f37b727fe51c8bf86618c55`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 
