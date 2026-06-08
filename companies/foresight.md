@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/foresight
 - Website: https://foresight.tt/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/61
 - Implementation Repository: https://github.com/PalmerMichaels/foresight-public
+- Implementation Commit: `abe4baec29b79ac77ff9295634b6f8b41067e912`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/foresight-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `abe4baec29b79ac77ff9295634b6f8b41067e912`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

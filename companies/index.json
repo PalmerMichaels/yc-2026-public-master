@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T22:15:34.124Z",
+  "generated_at": "2026-06-08T22:32:48.314Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -1711,11 +1711,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/57",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUtrw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "expanse-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/expanse-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "0a22ee2d1b758a58ca9618ca6c210b9e5aef2484",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "finaldose",
@@ -1772,11 +1772,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/59",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUuKA",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "flowscope-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/flowscope-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "1bac30494e1f2e5459f5a90816938d2ef0d2b2a2",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "foaster",
@@ -1804,11 +1804,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/60",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUuaA",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "foaster-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/foaster-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "97f418d2bef8faef5e634a40d67beac5cd3495ce",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "foresight",
@@ -1837,11 +1837,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/61",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUuqw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "foresight-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/foresight-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "abe4baec29b79ac77ff9295634b6f8b41067e912",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "framewise-health",
@@ -1865,11 +1865,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/62",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUu1Q",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "framewise-health-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/framewise-health-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "07e8aa5c2a3a5c87168402dd2247e0a1a9e23852",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "fuchsia",
@@ -1987,11 +1987,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/66",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUvjw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "gigacatalyst-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/gigacatalyst-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "cc076a7729f78d1c717cd96b6ee2d7ebcccccf0c",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "gojiberry-ai",
@@ -10836,7 +10836,7 @@
       "framewise-health",
       "gigacatalyst"
     ],
-    "updated_at": "2026-06-08T22:15:34.124Z",
+    "updated_at": "2026-06-08T22:32:48.314Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -10855,7 +10855,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-08T22:15:34.124Z",
+    "updated_at": "2026-06-08T22:32:48.314Z",
     "implemented": [
       "agentphone",
       "akkari",
@@ -10891,17 +10891,16 @@
       "drafted",
       "drippay",
       "elyra",
-      "inth",
-      "napkin-math"
-    ],
-    "in_progress": [
       "expanse",
       "flowscope",
       "foaster",
       "foresight",
       "framewise-health",
-      "gigacatalyst"
+      "gigacatalyst",
+      "inth",
+      "napkin-math"
     ],
+    "in_progress": [],
     "ready_copyable": 236,
     "skipped_pending_recheck": [
       "aquashield"

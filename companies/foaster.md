@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/foaster
 - Website: https://foaster.ai
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/60
 - Implementation Repository: https://github.com/PalmerMichaels/foaster-public
+- Implementation Commit: `97f418d2bef8faef5e634a40d67beac5cd3495ce`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/foaster-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `97f418d2bef8faef5e634a40d67beac5cd3495ce`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

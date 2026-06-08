@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T22:16:14.187Z",
+  "generated_at": "2026-06-08T22:33:27.185Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -504,84 +504,90 @@
       "slug": "expanse",
       "issue_number": 57,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/expanse-public",
+      "commit": "0a22ee2d1b758a58ca9618ca6c210b9e5aef2484",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "flowscope",
       "issue_number": 59,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/flowscope-public",
+      "commit": "1bac30494e1f2e5459f5a90816938d2ef0d2b2a2",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "foaster",
       "issue_number": 60,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/foaster-public",
+      "commit": "97f418d2bef8faef5e634a40d67beac5cd3495ce",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "foresight",
       "issue_number": 61,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/foresight-public",
+      "commit": "abe4baec29b79ac77ff9295634b6f8b41067e912",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "framewise-health",
       "issue_number": 62,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/framewise-health-public",
+      "commit": "07e8aa5c2a3a5c87168402dd2247e0a1a9e23852",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "gigacatalyst",
       "issue_number": 66,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/gigacatalyst-public",
+      "commit": "cc076a7729f78d1c717cd96b6ee2d7ebcccccf0c",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ]

@@ -6,8 +6,8 @@ Total companies: 405
 Copyable: 278
 Not copyable: 127
 Uncertain: 0
-Implemented: 36
-In progress: 6
+Implemented: 42
+In progress: 0
 Ready copyable: 236
 Skipped pending re-check: aquashield
 GitHub issues created: 120
@@ -51,16 +51,17 @@ Implemented repositories:
 - `drafted`: https://github.com/PalmerMichaels/drafted-public @ `9b2048987bc51857d767ef09e004f131390af283`
 - `drippay`: https://github.com/PalmerMichaels/drippay-public @ `6088b058c05f83005297c043ebd87fce3894657a`
 - `elyra`: https://github.com/PalmerMichaels/elyra-public @ `b917a85841614ef1da169c10168576563914d772`
+- `expanse`: https://github.com/PalmerMichaels/expanse-public @ `0a22ee2d1b758a58ca9618ca6c210b9e5aef2484`
+- `flowscope`: https://github.com/PalmerMichaels/flowscope-public @ `1bac30494e1f2e5459f5a90816938d2ef0d2b2a2`
+- `foaster`: https://github.com/PalmerMichaels/foaster-public @ `97f418d2bef8faef5e634a40d67beac5cd3495ce`
+- `foresight`: https://github.com/PalmerMichaels/foresight-public @ `abe4baec29b79ac77ff9295634b6f8b41067e912`
+- `framewise-health`: https://github.com/PalmerMichaels/framewise-health-public @ `07e8aa5c2a3a5c87168402dd2247e0a1a9e23852`
+- `gigacatalyst`: https://github.com/PalmerMichaels/gigacatalyst-public @ `cc076a7729f78d1c717cd96b6ee2d7ebcccccf0c`
 - `inth`: https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
 - `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In-progress implementations:
-- `expanse`: [#57](https://github.com/PalmerMichaels/yc-2026-public-master/issues/57) -> `expanse-public`
-- `flowscope`: [#59](https://github.com/PalmerMichaels/yc-2026-public-master/issues/59) -> `flowscope-public`
-- `foaster`: [#60](https://github.com/PalmerMichaels/yc-2026-public-master/issues/60) -> `foaster-public`
-- `foresight`: [#61](https://github.com/PalmerMichaels/yc-2026-public-master/issues/61) -> `foresight-public`
-- `framewise-health`: [#62](https://github.com/PalmerMichaels/yc-2026-public-master/issues/62) -> `framewise-health-public`
-- `gigacatalyst`: [#66](https://github.com/PalmerMichaels/yc-2026-public-master/issues/66) -> `gigacatalyst-public`
+- None
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.
@@ -134,16 +135,16 @@ Batches covered:
 | [Eden Robotics](eden-robotics.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#54](https://github.com/PalmerMichaels/yc-2026-public-master/issues/54) | [YC](https://www.ycombinator.com/companies/eden-robotics) |
 | [Elyra](elyra.md) | Spring 2026 | `copyable` | `implemented` | `elyra-public` | [#55](https://github.com/PalmerMichaels/yc-2026-public-master/issues/55) | [YC](https://www.ycombinator.com/companies/elyra) |
 | [Enjamb Labs](enjamb-labs.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#56](https://github.com/PalmerMichaels/yc-2026-public-master/issues/56) | [YC](https://www.ycombinator.com/companies/enjamb-labs) |
-| [Expanse](expanse.md) | Spring 2026 | `copyable` | `in-progress` | `expanse-public` | [#57](https://github.com/PalmerMichaels/yc-2026-public-master/issues/57) | [YC](https://www.ycombinator.com/companies/expanse) |
+| [Expanse](expanse.md) | Spring 2026 | `copyable` | `implemented` | `expanse-public` | [#57](https://github.com/PalmerMichaels/yc-2026-public-master/issues/57) | [YC](https://www.ycombinator.com/companies/expanse) |
 | [FinalDose](finaldose.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#58](https://github.com/PalmerMichaels/yc-2026-public-master/issues/58) | [YC](https://www.ycombinator.com/companies/finaldose) |
-| [flowscope](flowscope.md) | Spring 2026 | `copyable` | `in-progress` | `flowscope-public` | [#59](https://github.com/PalmerMichaels/yc-2026-public-master/issues/59) | [YC](https://www.ycombinator.com/companies/flowscope) |
-| [Foaster](foaster.md) | Spring 2026 | `copyable` | `in-progress` | `foaster-public` | [#60](https://github.com/PalmerMichaels/yc-2026-public-master/issues/60) | [YC](https://www.ycombinator.com/companies/foaster) |
-| [Foresight](foresight.md) | Spring 2026 | `copyable` | `in-progress` | `foresight-public` | [#61](https://github.com/PalmerMichaels/yc-2026-public-master/issues/61) | [YC](https://www.ycombinator.com/companies/foresight) |
-| [Framewise Health](framewise-health.md) | Spring 2026 | `copyable` | `in-progress` | `framewise-health-public` | [#62](https://github.com/PalmerMichaels/yc-2026-public-master/issues/62) | [YC](https://www.ycombinator.com/companies/framewise-health) |
+| [flowscope](flowscope.md) | Spring 2026 | `copyable` | `implemented` | `flowscope-public` | [#59](https://github.com/PalmerMichaels/yc-2026-public-master/issues/59) | [YC](https://www.ycombinator.com/companies/flowscope) |
+| [Foaster](foaster.md) | Spring 2026 | `copyable` | `implemented` | `foaster-public` | [#60](https://github.com/PalmerMichaels/yc-2026-public-master/issues/60) | [YC](https://www.ycombinator.com/companies/foaster) |
+| [Foresight](foresight.md) | Spring 2026 | `copyable` | `implemented` | `foresight-public` | [#61](https://github.com/PalmerMichaels/yc-2026-public-master/issues/61) | [YC](https://www.ycombinator.com/companies/foresight) |
+| [Framewise Health](framewise-health.md) | Spring 2026 | `copyable` | `implemented` | `framewise-health-public` | [#62](https://github.com/PalmerMichaels/yc-2026-public-master/issues/62) | [YC](https://www.ycombinator.com/companies/framewise-health) |
 | [Fuchsia](fuchsia.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#63](https://github.com/PalmerMichaels/yc-2026-public-master/issues/63) | [YC](https://www.ycombinator.com/companies/fuchsia) |
 | [General Aviation](general-aviation.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#64](https://github.com/PalmerMichaels/yc-2026-public-master/issues/64) | [YC](https://www.ycombinator.com/companies/general-aviation) |
 | [General Instinct](general-instinct.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#65](https://github.com/PalmerMichaels/yc-2026-public-master/issues/65) | [YC](https://www.ycombinator.com/companies/general-instinct) |
-| [Gigacatalyst](gigacatalyst.md) | Spring 2026 | `copyable` | `in-progress` | `gigacatalyst-public` | [#66](https://github.com/PalmerMichaels/yc-2026-public-master/issues/66) | [YC](https://www.ycombinator.com/companies/gigacatalyst) |
+| [Gigacatalyst](gigacatalyst.md) | Spring 2026 | `copyable` | `implemented` | `gigacatalyst-public` | [#66](https://github.com/PalmerMichaels/yc-2026-public-master/issues/66) | [YC](https://www.ycombinator.com/companies/gigacatalyst) |
 | [Gojiberry AI](gojiberry-ai.md) | Spring 2026 | `copyable` | `classified` | `gojiberry-ai-public` | [#67](https://github.com/PalmerMichaels/yc-2026-public-master/issues/67) | [YC](https://www.ycombinator.com/companies/gojiberry-ai) |
 | [GovGuard](govguard.md) | Spring 2026 | `copyable` | `classified` | `govguard-public` | [#68](https://github.com/PalmerMichaels/yc-2026-public-master/issues/68) | [YC](https://www.ycombinator.com/companies/govguard) |
 | [Gravy](gravy.md) | Spring 2026 | `copyable` | `classified` | `gravy-public` | [#69](https://github.com/PalmerMichaels/yc-2026-public-master/issues/69) | [YC](https://www.ycombinator.com/companies/gravy) |
