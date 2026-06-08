@@ -6,9 +6,11 @@ Total companies: 405
 Copyable: 146
 Not copyable: 259
 Uncertain: 0
-GitHub issues created: 88
-GitHub issues pending: 317
+GitHub issues created: 119
+GitHub issues pending: 286
 Closed duplicate issues: 88
+Project items synced: 30
+Project items pending for current issues: 89
 
 Batches covered:
 - Winter 2026: 198
@@ -106,37 +108,37 @@ Batches covered:
 | [Interfaze](interfaze.md) | Spring 2026 | `not-copyable` |  | [#86](https://github.com/PalmerMichaels/yc-2026-public-master/issues/86) | [YC](https://www.ycombinator.com/companies/interfaze) |
 | [Inth](inth.md) | Spring 2026 | `not-copyable` |  | [#87](https://github.com/PalmerMichaels/yc-2026-public-master/issues/87) | [YC](https://www.ycombinator.com/companies/inth) |
 | [jo](jo.md) | Spring 2026 | `copyable` | `jo-public` | [#89](https://github.com/PalmerMichaels/yc-2026-public-master/issues/89) | [YC](https://www.ycombinator.com/companies/jo) |
-| [Juno](juno-chat.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/juno-chat) |
-| [KelAI](kelai.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/kelai) |
-| [Keyframe Labs](keyframe-labs.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/keyframe-labs) |
-| [Kimpton AI](kimpton-ai.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/kimpton-ai) |
-| [Kinect](kinect.md) | Spring 2026 | `copyable` | `kinect-public` | Pending | [YC](https://www.ycombinator.com/companies/kinect) |
-| [Kinro](kinro.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/kinro) |
-| [Klaimee](klaimee.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/klaimee) |
-| [Klarify](klarify.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/klarify) |
-| [Korso](korso.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/korso) |
-| [KugelAudio](kugelaudio.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/kugelaudio) |
-| [Kuli](kuli.md) | Spring 2026 | `copyable` | `kuli-public` | Pending | [YC](https://www.ycombinator.com/companies/kuli) |
-| [Lab0](lab0.md) | Spring 2026 | `copyable` | `lab0-public` | Pending | [YC](https://www.ycombinator.com/companies/lab0) |
-| [Lamina Labs](lamina-labs.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/lamina-labs) |
-| [Lattice Health](lattice-health.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/lattice-health) |
-| [Light Anchor](light-anchor.md) | Spring 2026 | `copyable` | `light-anchor-public` | Pending | [YC](https://www.ycombinator.com/companies/light-anchor) |
-| [Lightsprint](lightsprint.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/lightsprint) |
-| [Limrun](limrun.md) | Spring 2026 | `copyable` | `limrun-public` | Pending | [YC](https://www.ycombinator.com/companies/limrun) |
-| [Lumius](lumius.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/lumius) |
-| [Madrone](madrone.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/madrone) |
-| [Manicule](manicule.md) | Spring 2026 | `copyable` | `manicule-public` | Pending | [YC](https://www.ycombinator.com/companies/manicule) |
-| [Maquoketa Research](maquoketa-research.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/maquoketa-research) |
-| [matforge](matforge.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/matforge) |
-| [Memoir](memoir.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/memoir) |
-| [Memory Store](memory-store.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/memory-store) |
-| [Minicor](minicor.md) | Spring 2026 | `copyable` | `minicor-public` | Pending | [YC](https://www.ycombinator.com/companies/minicor) |
-| [Miso Labs](miso-labs.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/miso-labs) |
-| [Mochatrade](mochatrade.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/mochatrade) |
-| [Modern](modern.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/modern) |
-| [Mount](mount.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/mount) |
-| [Napkin Math](napkin-math.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/napkin-math) |
-| [Netter](netter.md) | Spring 2026 | `copyable` | `netter-public` | Pending | [YC](https://www.ycombinator.com/companies/netter) |
+| [Juno](juno-chat.md) | Spring 2026 | `not-copyable` |  | [#90](https://github.com/PalmerMichaels/yc-2026-public-master/issues/90) | [YC](https://www.ycombinator.com/companies/juno-chat) |
+| [KelAI](kelai.md) | Spring 2026 | `not-copyable` |  | [#91](https://github.com/PalmerMichaels/yc-2026-public-master/issues/91) | [YC](https://www.ycombinator.com/companies/kelai) |
+| [Keyframe Labs](keyframe-labs.md) | Spring 2026 | `not-copyable` |  | [#92](https://github.com/PalmerMichaels/yc-2026-public-master/issues/92) | [YC](https://www.ycombinator.com/companies/keyframe-labs) |
+| [Kimpton AI](kimpton-ai.md) | Spring 2026 | `not-copyable` |  | [#93](https://github.com/PalmerMichaels/yc-2026-public-master/issues/93) | [YC](https://www.ycombinator.com/companies/kimpton-ai) |
+| [Kinect](kinect.md) | Spring 2026 | `copyable` | `kinect-public` | [#94](https://github.com/PalmerMichaels/yc-2026-public-master/issues/94) | [YC](https://www.ycombinator.com/companies/kinect) |
+| [Kinro](kinro.md) | Spring 2026 | `not-copyable` |  | [#95](https://github.com/PalmerMichaels/yc-2026-public-master/issues/95) | [YC](https://www.ycombinator.com/companies/kinro) |
+| [Klaimee](klaimee.md) | Spring 2026 | `not-copyable` |  | [#96](https://github.com/PalmerMichaels/yc-2026-public-master/issues/96) | [YC](https://www.ycombinator.com/companies/klaimee) |
+| [Klarify](klarify.md) | Spring 2026 | `not-copyable` |  | [#97](https://github.com/PalmerMichaels/yc-2026-public-master/issues/97) | [YC](https://www.ycombinator.com/companies/klarify) |
+| [Korso](korso.md) | Spring 2026 | `not-copyable` |  | [#98](https://github.com/PalmerMichaels/yc-2026-public-master/issues/98) | [YC](https://www.ycombinator.com/companies/korso) |
+| [KugelAudio](kugelaudio.md) | Spring 2026 | `not-copyable` |  | [#99](https://github.com/PalmerMichaels/yc-2026-public-master/issues/99) | [YC](https://www.ycombinator.com/companies/kugelaudio) |
+| [Kuli](kuli.md) | Spring 2026 | `copyable` | `kuli-public` | [#100](https://github.com/PalmerMichaels/yc-2026-public-master/issues/100) | [YC](https://www.ycombinator.com/companies/kuli) |
+| [Lab0](lab0.md) | Spring 2026 | `copyable` | `lab0-public` | [#101](https://github.com/PalmerMichaels/yc-2026-public-master/issues/101) | [YC](https://www.ycombinator.com/companies/lab0) |
+| [Lamina Labs](lamina-labs.md) | Spring 2026 | `not-copyable` |  | [#102](https://github.com/PalmerMichaels/yc-2026-public-master/issues/102) | [YC](https://www.ycombinator.com/companies/lamina-labs) |
+| [Lattice Health](lattice-health.md) | Spring 2026 | `not-copyable` |  | [#103](https://github.com/PalmerMichaels/yc-2026-public-master/issues/103) | [YC](https://www.ycombinator.com/companies/lattice-health) |
+| [Light Anchor](light-anchor.md) | Spring 2026 | `copyable` | `light-anchor-public` | [#104](https://github.com/PalmerMichaels/yc-2026-public-master/issues/104) | [YC](https://www.ycombinator.com/companies/light-anchor) |
+| [Lightsprint](lightsprint.md) | Spring 2026 | `not-copyable` |  | [#105](https://github.com/PalmerMichaels/yc-2026-public-master/issues/105) | [YC](https://www.ycombinator.com/companies/lightsprint) |
+| [Limrun](limrun.md) | Spring 2026 | `copyable` | `limrun-public` | [#106](https://github.com/PalmerMichaels/yc-2026-public-master/issues/106) | [YC](https://www.ycombinator.com/companies/limrun) |
+| [Lumius](lumius.md) | Spring 2026 | `not-copyable` |  | [#107](https://github.com/PalmerMichaels/yc-2026-public-master/issues/107) | [YC](https://www.ycombinator.com/companies/lumius) |
+| [Madrone](madrone.md) | Spring 2026 | `not-copyable` |  | [#108](https://github.com/PalmerMichaels/yc-2026-public-master/issues/108) | [YC](https://www.ycombinator.com/companies/madrone) |
+| [Manicule](manicule.md) | Spring 2026 | `copyable` | `manicule-public` | [#109](https://github.com/PalmerMichaels/yc-2026-public-master/issues/109) | [YC](https://www.ycombinator.com/companies/manicule) |
+| [Maquoketa Research](maquoketa-research.md) | Spring 2026 | `not-copyable` |  | [#110](https://github.com/PalmerMichaels/yc-2026-public-master/issues/110) | [YC](https://www.ycombinator.com/companies/maquoketa-research) |
+| [matforge](matforge.md) | Spring 2026 | `not-copyable` |  | [#111](https://github.com/PalmerMichaels/yc-2026-public-master/issues/111) | [YC](https://www.ycombinator.com/companies/matforge) |
+| [Memoir](memoir.md) | Spring 2026 | `not-copyable` |  | [#112](https://github.com/PalmerMichaels/yc-2026-public-master/issues/112) | [YC](https://www.ycombinator.com/companies/memoir) |
+| [Memory Store](memory-store.md) | Spring 2026 | `not-copyable` |  | [#113](https://github.com/PalmerMichaels/yc-2026-public-master/issues/113) | [YC](https://www.ycombinator.com/companies/memory-store) |
+| [Minicor](minicor.md) | Spring 2026 | `copyable` | `minicor-public` | [#114](https://github.com/PalmerMichaels/yc-2026-public-master/issues/114) | [YC](https://www.ycombinator.com/companies/minicor) |
+| [Miso Labs](miso-labs.md) | Spring 2026 | `not-copyable` |  | [#115](https://github.com/PalmerMichaels/yc-2026-public-master/issues/115) | [YC](https://www.ycombinator.com/companies/miso-labs) |
+| [Mochatrade](mochatrade.md) | Spring 2026 | `not-copyable` |  | [#116](https://github.com/PalmerMichaels/yc-2026-public-master/issues/116) | [YC](https://www.ycombinator.com/companies/mochatrade) |
+| [Modern](modern.md) | Spring 2026 | `not-copyable` |  | [#117](https://github.com/PalmerMichaels/yc-2026-public-master/issues/117) | [YC](https://www.ycombinator.com/companies/modern) |
+| [Mount](mount.md) | Spring 2026 | `not-copyable` |  | [#118](https://github.com/PalmerMichaels/yc-2026-public-master/issues/118) | [YC](https://www.ycombinator.com/companies/mount) |
+| [Napkin Math](napkin-math.md) | Spring 2026 | `not-copyable` |  | [#119](https://github.com/PalmerMichaels/yc-2026-public-master/issues/119) | [YC](https://www.ycombinator.com/companies/napkin-math) |
+| [Netter](netter.md) | Spring 2026 | `copyable` | `netter-public` | [#120](https://github.com/PalmerMichaels/yc-2026-public-master/issues/120) | [YC](https://www.ycombinator.com/companies/netter) |
 | [Nine Fives](nine-fives.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/nine-fives) |
 | [Oddpool](oddpool.md) | Spring 2026 | `not-copyable` |  | Pending | [YC](https://www.ycombinator.com/companies/oddpool) |
 | [Ontora](ontora.md) | Spring 2026 | `copyable` | `ontora-public` | Pending | [YC](https://www.ycombinator.com/companies/ontora) |

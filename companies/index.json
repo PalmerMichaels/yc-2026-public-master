@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T15:15:50.997Z",
+  "generated_at": "2026-06-08T16:02:44.014Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -2346,10 +2346,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on health|medical|clinical|patient|doctor|dental|therapy|therapist|care provider|billing services|primary care|hospital. Healthcare products commonly require medical workflows, regulated data, or clinical approval boundaries.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 90,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/90",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwcncg"
     },
     {
       "slug": "kelai",
@@ -2375,10 +2375,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet. Fintech products commonly require banking, payments, trading, lending, or insurance rails.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 91,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/91",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwdDqA"
     },
     {
       "slug": "keyframe-labs",
@@ -2398,10 +2398,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 92,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/92",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwdgsQ"
     },
     {
       "slug": "kimpton-ai",
@@ -2421,10 +2421,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune. Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet. Fintech products commonly require banking, payments, trading, lending, or insurance rails.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 93,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/93",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwd9Gg"
     },
     {
       "slug": "kinect",
@@ -2444,10 +2444,10 @@
       "public_repo": "kinect-public",
       "implementation_scope": "Build an original web app that demonstrates brand layer for ai native commerce: onboarding, workspace/project setup, core workflow screens, sample data, role-aware task/status management, and mocked external integrations where needed. Include seed data, tests, and clear clean-room documentation.",
       "classification_rationale": "Pure software product based on public description; a clean-room implementation can provide original UI, data model, and mocked/public integrations without copying proprietary assets or bypassing access controls.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 94,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/94",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEweaVg"
     },
     {
       "slug": "kinro",
@@ -2467,10 +2467,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune. Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet. Public description indicates dependency on customs brokerage|regulated|regulatory|compliance for physical products|fda|immigration law firm|law firm|legal work|legal operating system|medlegal.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 95,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/95",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwe1kA"
     },
     {
       "slug": "klaimee",
@@ -2496,10 +2496,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune. Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet. Fintech products commonly require banking, payments, trading, lending, or insurance rails.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 96,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/96",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwfQzQ"
     },
     {
       "slug": "klarify",
@@ -2525,10 +2525,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on health|medical|clinical|patient|doctor|dental|therapy|therapist|care provider|billing services|primary care|hospital. Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet. Healthcare products commonly require medical workflows, regulated data, or clinical approval boundaries.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 97,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/97",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwfs1Q"
     },
     {
       "slug": "korso",
@@ -2552,10 +2552,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on hardware|robot|drone|aerospace|satellite|space|nuclear|welding|manufactur|semiconductor|silicon|battery|radar|sensor|wearable|ultrasound|camera|vehicle|warehouse|farm|agriculture|cattle|fish|industrial facilities|cooling|solar|power grid|uranium|data centers|mechanical parts|3d ultrasound.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 98,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/98",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwgLog"
     },
     {
       "slug": "kugelaudio",
@@ -2579,10 +2579,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 99,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/99",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwgp-A"
     },
     {
       "slug": "kuli",
@@ -2602,10 +2602,10 @@
       "public_repo": "kuli-public",
       "implementation_scope": "Build an original web app that demonstrates ai coworker for marketing teams at the largest consumer brands: onboarding, workspace/project setup, core workflow screens, sample data, role-aware task/status management, and mocked external integrations where needed. Include seed data, tests, and clear clean-room documentation.",
       "classification_rationale": "Pure software product based on public description; a clean-room implementation can provide original UI, data model, and mocked/public integrations without copying proprietary assets or bypassing access controls.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 100,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/100",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwhHUg"
     },
     {
       "slug": "lab0",
@@ -2631,10 +2631,10 @@
       "public_repo": "lab0-public",
       "implementation_scope": "Build an original web app that demonstrates automated forward-deployed engineers (ai fdes): onboarding, workspace/project setup, core workflow screens, sample data, role-aware task/status management, and mocked external integrations where needed. Include seed data, tests, and clear clean-room documentation.",
       "classification_rationale": "Pure software product based on public description; a clean-room implementation can provide original UI, data model, and mocked/public integrations without copying proprietary assets or bypassing access controls.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 101,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/101",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwhhFg"
     },
     {
       "slug": "lamina-labs",
@@ -2660,10 +2660,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 102,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/102",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwh8Lg"
     },
     {
       "slug": "lattice-health",
@@ -2686,10 +2686,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on health|medical|clinical|patient|doctor|dental|therapy|therapist|care provider|billing services|primary care|hospital. Healthcare products commonly require medical workflows, regulated data, or clinical approval boundaries.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 103,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/103",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwiZ3Q"
     },
     {
       "slug": "light-anchor",
@@ -2712,10 +2712,10 @@
       "public_repo": "light-anchor-public",
       "implementation_scope": "Build an original web app that demonstrates ai-run consumer brands: onboarding, workspace/project setup, core workflow screens, sample data, role-aware task/status management, and mocked external integrations where needed. Include seed data, tests, and clear clean-room documentation.",
       "classification_rationale": "Pure software product based on public description; a clean-room implementation can provide original UI, data model, and mocked/public integrations without copying proprietary assets or bypassing access controls.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 104,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/104",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwi2Vw"
     },
     {
       "slug": "lightsprint",
@@ -2741,10 +2741,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 105,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/105",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwjUeg"
     },
     {
       "slug": "limrun",
@@ -2769,10 +2769,10 @@
       "public_repo": "limrun-public",
       "implementation_scope": "Build an original web app that demonstrates extend your cloud agent with xcode, android and more: onboarding, workspace/project setup, core workflow screens, sample data, role-aware task/status management, and mocked external integrations where needed. Include seed data, tests, and clear clean-room documentation.",
       "classification_rationale": "Pure software product based on public description; a clean-room implementation can provide original UI, data model, and mocked/public integrations without copying proprietary assets or bypassing access controls.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 106,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/106",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwjyUA"
     },
     {
       "slug": "lumius",
@@ -2796,10 +2796,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on health|medical|clinical|patient|doctor|dental|therapy|therapist|care provider|billing services|primary care|hospital. Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune. Public description indicates dependency on hardware|robot|drone|aerospace|satellite|space|nuclear|welding|manufactur|semiconductor|silicon|battery|radar|sensor|wearable|ultrasound|camera|vehicle|warehouse|farm|agriculture|cattle|fish|industrial facilities|cooling|solar|power grid|uranium|data centers|mechanical parts|3d ultrasound.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 107,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/107",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwkOLA"
     },
     {
       "slug": "madrone",
@@ -2825,10 +2825,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on hardware|robot|drone|aerospace|satellite|space|nuclear|welding|manufactur|semiconductor|silicon|battery|radar|sensor|wearable|ultrasound|camera|vehicle|warehouse|farm|agriculture|cattle|fish|industrial facilities|cooling|solar|power grid|uranium|data centers|mechanical parts|3d ultrasound. Industrial products commonly require hardware, robotics, manufacturing, defense, energy, or physical-world operations.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 108,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/108",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwkqMg"
     },
     {
       "slug": "manicule",
@@ -2848,10 +2848,10 @@
       "public_repo": "manicule-public",
       "implementation_scope": "Build an original web app that demonstrates ai native developer relations: onboarding, workspace/project setup, core workflow screens, sample data, role-aware task/status management, and mocked external integrations where needed. Include seed data, tests, and clear clean-room documentation.",
       "classification_rationale": "Pure software product based on public description; a clean-room implementation can provide original UI, data model, and mocked/public integrations without copying proprietary assets or bypassing access controls.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 109,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/109",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwlFTg"
     },
     {
       "slug": "maquoketa-research",
@@ -2877,10 +2877,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on hardware|robot|drone|aerospace|satellite|space|nuclear|welding|manufactur|semiconductor|silicon|battery|radar|sensor|wearable|ultrasound|camera|vehicle|warehouse|farm|agriculture|cattle|fish|industrial facilities|cooling|solar|power grid|uranium|data centers|mechanical parts|3d ultrasound. Public description indicates dependency on defen[cs]e|counter-uas|attack drones|law enforcement|government affairs|govtech|foia|security cameras|surveillance. Industrial products commonly require hardware, robotics, manufacturing, defense, energy, or physical-world operations.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 110,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/110",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwlfpA"
     },
     {
       "slug": "matforge",
@@ -2900,10 +2900,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on hardware|robot|drone|aerospace|satellite|space|nuclear|welding|manufactur|semiconductor|silicon|battery|radar|sensor|wearable|ultrasound|camera|vehicle|warehouse|farm|agriculture|cattle|fish|industrial facilities|cooling|solar|power grid|uranium|data centers|mechanical parts|3d ultrasound. Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet. Industrial products commonly require hardware, robotics, manufacturing, defense, energy, or physical-world operations.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 111,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/111",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwl6Ig"
     },
     {
       "slug": "memoir",
@@ -2928,10 +2928,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune. Public description indicates dependency on hardware|robot|drone|aerospace|satellite|space|nuclear|welding|manufactur|semiconductor|silicon|battery|radar|sensor|wearable|ultrasound|camera|vehicle|warehouse|farm|agriculture|cattle|fish|industrial facilities|cooling|solar|power grid|uranium|data centers|mechanical parts|3d ultrasound.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 112,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/112",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwmXKg"
     },
     {
       "slug": "memory-store",
@@ -2955,10 +2955,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 113,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/113",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwm2yw"
     },
     {
       "slug": "minicor",
@@ -2978,10 +2978,10 @@
       "public_repo": "minicor-public",
       "implementation_scope": "Build an original web app that demonstrates rpa platform for deploying ai into legacy desktop systems: onboarding, workspace/project setup, core workflow screens, sample data, role-aware task/status management, and mocked external integrations where needed. Include seed data, tests, and clear clean-room documentation.",
       "classification_rationale": "Pure software product based on public description; a clean-room implementation can provide original UI, data model, and mocked/public integrations without copying proprietary assets or bypassing access controls.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 114,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/114",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwnWTw"
     },
     {
       "slug": "miso-labs",
@@ -3003,10 +3003,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 115,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/115",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwn09A"
     },
     {
       "slug": "mochatrade",
@@ -3030,10 +3030,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet. Fintech products commonly require banking, payments, trading, lending, or insurance rails.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 116,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/116",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwoVSQ"
     },
     {
       "slug": "modern",
@@ -3059,10 +3059,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on health|medical|clinical|patient|doctor|dental|therapy|therapist|care provider|billing services|primary care|hospital. Public description indicates dependency on hardware|robot|drone|aerospace|satellite|space|nuclear|welding|manufactur|semiconductor|silicon|battery|radar|sensor|wearable|ultrasound|camera|vehicle|warehouse|farm|agriculture|cattle|fish|industrial facilities|cooling|solar|power grid|uranium|data centers|mechanical parts|3d ultrasound.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 117,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/117",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwo1SQ"
     },
     {
       "slug": "mount",
@@ -3088,10 +3088,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet. Fintech products commonly require banking, payments, trading, lending, or insurance rails.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 118,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/118",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwpXrA"
     },
     {
       "slug": "napkin-math",
@@ -3117,10 +3117,10 @@
       "public_repo": null,
       "implementation_scope": null,
       "classification_rationale": "Public description indicates dependency on health|medical|clinical|patient|doctor|dental|therapy|therapist|care provider|billing services|primary care|hospital. Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 119,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/119",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwp5zQ"
     },
     {
       "slug": "netter",
@@ -3145,10 +3145,10 @@
       "public_repo": "netter-public",
       "implementation_scope": "Build an original web app that demonstrates ai native palantir for mid market: onboarding, workspace/project setup, core workflow screens, sample data, role-aware task/status management, and mocked external integrations where needed. Include seed data, tests, and clear clean-room documentation.",
       "classification_rationale": "Pure software product based on public description; a clean-room implementation can provide original UI, data model, and mocked/public integrations without copying proprietary assets or bypassing access controls.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 120,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/120",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwqdmw"
     },
     {
       "slug": "nine-fives",
@@ -10188,14 +10188,18 @@
     }
   ],
   "issue_creation": {
-    "created": 88,
-    "pending": 317,
+    "created": 119,
+    "pending": 286,
     "duplicate_closed": [
       88
     ]
   },
   "project_sync": {
     "project": "https://github.com/users/PalmerMichaels/projects/2",
-    "status": "pending GraphQL quota reset and project item sync"
+    "status": "partial",
+    "synced_items": 30,
+    "pending_current_open_issues": 89,
+    "last_batch_added": 30,
+    "synced_at": "2026-06-08T16:02:43.195Z"
   }
 }

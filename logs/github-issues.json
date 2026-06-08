@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-08T15:15:50.992Z",
+  "generated_at": "2026-06-08T16:02:44.010Z",
   "repo": "PalmerMichaels/yc-2026-public-master",
-  "total_open": 88,
-  "total_all": 89,
+  "total_open": 119,
+  "total_all": 120,
   "closed_duplicates": [
     {
       "title": "Inth (Spring 2026)",
@@ -12,6 +12,223 @@
     }
   ],
   "issues": [
+    {
+      "title": "Netter (Spring 2026)",
+      "number": 120,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/120",
+      "node_id": "I_kwDOS0hnm88AAAABEwqdmw",
+      "state": "open"
+    },
+    {
+      "title": "Napkin Math (Spring 2026)",
+      "number": 119,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/119",
+      "node_id": "I_kwDOS0hnm88AAAABEwp5zQ",
+      "state": "open"
+    },
+    {
+      "title": "Mount (Spring 2026)",
+      "number": 118,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/118",
+      "node_id": "I_kwDOS0hnm88AAAABEwpXrA",
+      "state": "open"
+    },
+    {
+      "title": "Modern (Spring 2026)",
+      "number": 117,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/117",
+      "node_id": "I_kwDOS0hnm88AAAABEwo1SQ",
+      "state": "open"
+    },
+    {
+      "title": "Mochatrade (Spring 2026)",
+      "number": 116,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/116",
+      "node_id": "I_kwDOS0hnm88AAAABEwoVSQ",
+      "state": "open"
+    },
+    {
+      "title": "Miso Labs (Spring 2026)",
+      "number": 115,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/115",
+      "node_id": "I_kwDOS0hnm88AAAABEwn09A",
+      "state": "open"
+    },
+    {
+      "title": "Minicor (Spring 2026)",
+      "number": 114,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/114",
+      "node_id": "I_kwDOS0hnm88AAAABEwnWTw",
+      "state": "open"
+    },
+    {
+      "title": "Memory Store (Spring 2026)",
+      "number": 113,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/113",
+      "node_id": "I_kwDOS0hnm88AAAABEwm2yw",
+      "state": "open"
+    },
+    {
+      "title": "Memoir (Spring 2026)",
+      "number": 112,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/112",
+      "node_id": "I_kwDOS0hnm88AAAABEwmXKg",
+      "state": "open"
+    },
+    {
+      "title": "matforge (Spring 2026)",
+      "number": 111,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/111",
+      "node_id": "I_kwDOS0hnm88AAAABEwl6Ig",
+      "state": "open"
+    },
+    {
+      "title": "Maquoketa Research (Spring 2026)",
+      "number": 110,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/110",
+      "node_id": "I_kwDOS0hnm88AAAABEwlfpA",
+      "state": "open"
+    },
+    {
+      "title": "Manicule (Spring 2026)",
+      "number": 109,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/109",
+      "node_id": "I_kwDOS0hnm88AAAABEwlFTg",
+      "state": "open"
+    },
+    {
+      "title": "Madrone (Spring 2026)",
+      "number": 108,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/108",
+      "node_id": "I_kwDOS0hnm88AAAABEwkqMg",
+      "state": "open"
+    },
+    {
+      "title": "Lumius (Spring 2026)",
+      "number": 107,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/107",
+      "node_id": "I_kwDOS0hnm88AAAABEwkOLA",
+      "state": "open"
+    },
+    {
+      "title": "Limrun (Spring 2026)",
+      "number": 106,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/106",
+      "node_id": "I_kwDOS0hnm88AAAABEwjyUA",
+      "state": "open"
+    },
+    {
+      "title": "Lightsprint (Spring 2026)",
+      "number": 105,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/105",
+      "node_id": "I_kwDOS0hnm88AAAABEwjUeg",
+      "state": "open"
+    },
+    {
+      "title": "Light Anchor (Spring 2026)",
+      "number": 104,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/104",
+      "node_id": "I_kwDOS0hnm88AAAABEwi2Vw",
+      "state": "open"
+    },
+    {
+      "title": "Lattice Health (Spring 2026)",
+      "number": 103,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/103",
+      "node_id": "I_kwDOS0hnm88AAAABEwiZ3Q",
+      "state": "open"
+    },
+    {
+      "title": "Lamina Labs (Spring 2026)",
+      "number": 102,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/102",
+      "node_id": "I_kwDOS0hnm88AAAABEwh8Lg",
+      "state": "open"
+    },
+    {
+      "title": "Lab0 (Spring 2026)",
+      "number": 101,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/101",
+      "node_id": "I_kwDOS0hnm88AAAABEwhhFg",
+      "state": "open"
+    },
+    {
+      "title": "Kuli (Spring 2026)",
+      "number": 100,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/100",
+      "node_id": "I_kwDOS0hnm88AAAABEwhHUg",
+      "state": "open"
+    },
+    {
+      "title": "KugelAudio (Spring 2026)",
+      "number": 99,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/99",
+      "node_id": "I_kwDOS0hnm88AAAABEwgp-A",
+      "state": "open"
+    },
+    {
+      "title": "Korso (Spring 2026)",
+      "number": 98,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/98",
+      "node_id": "I_kwDOS0hnm88AAAABEwgLog",
+      "state": "open"
+    },
+    {
+      "title": "Klarify (Spring 2026)",
+      "number": 97,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/97",
+      "node_id": "I_kwDOS0hnm88AAAABEwfs1Q",
+      "state": "open"
+    },
+    {
+      "title": "Klaimee (Spring 2026)",
+      "number": 96,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/96",
+      "node_id": "I_kwDOS0hnm88AAAABEwfQzQ",
+      "state": "open"
+    },
+    {
+      "title": "Kinro (Spring 2026)",
+      "number": 95,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/95",
+      "node_id": "I_kwDOS0hnm88AAAABEwe1kA",
+      "state": "open"
+    },
+    {
+      "title": "Kinect (Spring 2026)",
+      "number": 94,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/94",
+      "node_id": "I_kwDOS0hnm88AAAABEweaVg",
+      "state": "open"
+    },
+    {
+      "title": "Kimpton AI (Spring 2026)",
+      "number": 93,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/93",
+      "node_id": "I_kwDOS0hnm88AAAABEwd9Gg",
+      "state": "open"
+    },
+    {
+      "title": "Keyframe Labs (Spring 2026)",
+      "number": 92,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/92",
+      "node_id": "I_kwDOS0hnm88AAAABEwdgsQ",
+      "state": "open"
+    },
+    {
+      "title": "KelAI (Spring 2026)",
+      "number": 91,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/91",
+      "node_id": "I_kwDOS0hnm88AAAABEwdDqA",
+      "state": "open"
+    },
+    {
+      "title": "Juno (Spring 2026)",
+      "number": 90,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/90",
+      "node_id": "I_kwDOS0hnm88AAAABEwcncg",
+      "state": "open"
+    },
     {
       "title": "jo (Spring 2026)",
       "number": 89,
