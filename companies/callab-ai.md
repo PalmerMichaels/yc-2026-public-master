@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/callab-ai
 - Website: https://callab.ai
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/38
 - Implementation Repository: https://github.com/PalmerMichaels/callab-ai-public
+- Implementation Commit: `966af4d0d2f63c53605b1c89e3404712f5734e2b`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/callab-ai-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `966af4d0d2f63c53605b1c89e3404712f5734e2b`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

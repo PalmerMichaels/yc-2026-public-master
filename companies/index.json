@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T21:06:45.221Z",
+  "generated_at": "2026-06-08T21:21:06.224Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -1007,11 +1007,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/34",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUn2w",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "auxos-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/auxos-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_commit": "8c5b97d1c272cc53912e99fb6c517f30892ef073",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
       "implementation_scope_override": "Simulations of real people for market research."
     },
     {
@@ -1064,11 +1064,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/36",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUocg",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "bentolabs-ai-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/bentolabs-ai-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_commit": "728aea2a0d620e958485517a2d116e010acd7abc",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
       "implementation_scope_override": "Monitoring and learning layer for long-running agents."
     },
     {
@@ -1093,11 +1093,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/37",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUoxw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "biostack-platforms-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/biostack-platforms-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_commit": "21cf5b5877435bfdc5dac6024dc33991c78502dd",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
       "implementation_scope_override": "Real world training environments for healthcare AI models, using synthetic data/non-clinical clean-room demo only."
     },
     {
@@ -1126,11 +1126,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/38",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUo_w",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "callab-ai-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/callab-ai-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_commit": "966af4d0d2f63c53605b1c89e3404712f5734e2b",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
       "implementation_scope_override": "AI voice agents for on-prem telephony stack, mock telephony only."
     },
     {
@@ -1158,11 +1158,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/39",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUpNQ",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "centralcoms-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/centralcoms-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_commit": "085e50eaa383f76abf9737be9b4df7fae449eb0e",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
       "implementation_scope_override": "AI agents for property management."
     },
     {
@@ -1193,11 +1193,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/40",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUpag",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "characterquilt-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/characterquilt-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_commit": "472a54be4e927d1e09ce081c46138d73c13b56db",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
       "implementation_scope_override": "AI infrastructure for marketers to ship campaigns in existing tools, mocked integrations."
     },
     {
@@ -10707,7 +10707,7 @@
     "synced_items": 120,
     "pending_current_open_issues": 0,
     "synced_at": "2026-06-08T16:20:50.963Z",
-    "implementation_status_field_sync": "deferred until GraphQL quota reset and mutation permissions allow",
+    "implementation_status_field_sync": "deferred; prior GitHub Project field mutations failed with permission errors",
     "implementation_status_field_sync_pending": [
       "napkin-math",
       "inth",
@@ -10734,7 +10734,7 @@
       "centralcoms",
       "characterquilt"
     ],
-    "updated_at": "2026-06-08T21:06:45.221Z",
+    "updated_at": "2026-06-08T21:21:06.224Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -10753,7 +10753,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-08T21:06:45.221Z",
+    "updated_at": "2026-06-08T21:21:06.224Z",
     "implemented": [
       "agentphone",
       "akkari",
@@ -10771,17 +10771,16 @@
       "asendia-ai",
       "asterlab",
       "atrisa",
-      "inth",
-      "napkin-math"
-    ],
-    "in_progress": [
       "auxos",
       "bentolabs-ai",
       "biostack-platforms",
       "callab-ai",
       "centralcoms",
-      "characterquilt"
+      "characterquilt",
+      "inth",
+      "napkin-math"
     ],
+    "in_progress": [],
     "ready_copyable": 255,
     "skipped_pending_recheck": [
       "aquashield"

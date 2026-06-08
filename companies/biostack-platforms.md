@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/biostack-platforms
 - Website: https://www.getbiostack.com/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/37
 - Implementation Repository: https://github.com/PalmerMichaels/biostack-platforms-public
+- Implementation Commit: `21cf5b5877435bfdc5dac6024dc33991c78502dd`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/biostack-platforms-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `21cf5b5877435bfdc5dac6024dc33991c78502dd`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

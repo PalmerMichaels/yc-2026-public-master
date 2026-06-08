@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T21:06:45.284Z",
+  "generated_at": "2026-06-08T21:21:06.287Z",
   "implemented": [
     {
       "slug": "agentphone",
@@ -258,6 +258,102 @@
       "priority": "implemented"
     },
     {
+      "slug": "auxos",
+      "name": "Auxos",
+      "batch": "Spring 2026",
+      "issue_number": 34,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/34",
+      "source_url": "https://www.ycombinator.com/companies/auxos",
+      "website": "https://www.useauxos.com",
+      "proposed_repo": "auxos-public",
+      "implementation_scope": "Simulations of real people for market research.",
+      "classification": "copyable",
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/auxos-public",
+      "implementation_commit": "8c5b97d1c272cc53912e99fb6c517f30892ef073",
+      "priority": "implemented"
+    },
+    {
+      "slug": "bentolabs-ai",
+      "name": "BentoLabs AI",
+      "batch": "Spring 2026",
+      "issue_number": 36,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/36",
+      "source_url": "https://www.ycombinator.com/companies/bentolabs-ai",
+      "website": "https://bentolabs.ai/",
+      "proposed_repo": "bentolabs-ai-public",
+      "implementation_scope": "Monitoring and learning layer for long-running agents.",
+      "classification": "copyable",
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/bentolabs-ai-public",
+      "implementation_commit": "728aea2a0d620e958485517a2d116e010acd7abc",
+      "priority": "implemented"
+    },
+    {
+      "slug": "biostack-platforms",
+      "name": "BioStack Platforms",
+      "batch": "Spring 2026",
+      "issue_number": 37,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/37",
+      "source_url": "https://www.ycombinator.com/companies/biostack-platforms",
+      "website": "https://www.getbiostack.com/",
+      "proposed_repo": "biostack-platforms-public",
+      "implementation_scope": "Real world training environments for healthcare AI models, using synthetic data/non-clinical clean-room demo only.",
+      "classification": "copyable",
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/biostack-platforms-public",
+      "implementation_commit": "21cf5b5877435bfdc5dac6024dc33991c78502dd",
+      "priority": "implemented"
+    },
+    {
+      "slug": "callab-ai",
+      "name": "Callab AI",
+      "batch": "Spring 2026",
+      "issue_number": 38,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/38",
+      "source_url": "https://www.ycombinator.com/companies/callab-ai",
+      "website": "https://callab.ai",
+      "proposed_repo": "callab-ai-public",
+      "implementation_scope": "AI voice agents for on-prem telephony stack, mock telephony only.",
+      "classification": "copyable",
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/callab-ai-public",
+      "implementation_commit": "966af4d0d2f63c53605b1c89e3404712f5734e2b",
+      "priority": "implemented"
+    },
+    {
+      "slug": "centralcoms",
+      "name": "CentralComs",
+      "batch": "Spring 2026",
+      "issue_number": 39,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/39",
+      "source_url": "https://www.ycombinator.com/companies/centralcoms",
+      "website": "https://centralcoms.com",
+      "proposed_repo": "centralcoms-public",
+      "implementation_scope": "AI agents for property management.",
+      "classification": "copyable",
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/centralcoms-public",
+      "implementation_commit": "085e50eaa383f76abf9737be9b4df7fae449eb0e",
+      "priority": "implemented"
+    },
+    {
+      "slug": "characterquilt",
+      "name": "CharacterQuilt",
+      "batch": "Spring 2026",
+      "issue_number": 40,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/40",
+      "source_url": "https://www.ycombinator.com/companies/characterquilt",
+      "website": "https://characterquilt.com",
+      "proposed_repo": "characterquilt-public",
+      "implementation_scope": "AI infrastructure for marketers to ship campaigns in existing tools, mocked integrations.",
+      "classification": "copyable",
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/characterquilt-public",
+      "implementation_commit": "472a54be4e927d1e09ce081c46138d73c13b56db",
+      "priority": "implemented"
+    },
+    {
       "slug": "inth",
       "name": "Inth",
       "batch": "Spring 2026",
@@ -290,104 +386,7 @@
       "priority": "implemented"
     }
   ],
-  "in_progress": [
-    {
-      "slug": "auxos",
-      "name": "Auxos",
-      "batch": "Spring 2026",
-      "issue_number": 34,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/34",
-      "source_url": "https://www.ycombinator.com/companies/auxos",
-      "website": "https://www.useauxos.com",
-      "proposed_repo": "auxos-public",
-      "implementation_scope": "Simulations of real people for market research.",
-      "classification": "copyable",
-      "implementation_status": "in-progress",
-      "implementation_repo_url": "https://github.com/PalmerMichaels/auxos-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
-    },
-    {
-      "slug": "bentolabs-ai",
-      "name": "BentoLabs AI",
-      "batch": "Spring 2026",
-      "issue_number": 36,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/36",
-      "source_url": "https://www.ycombinator.com/companies/bentolabs-ai",
-      "website": "https://bentolabs.ai/",
-      "proposed_repo": "bentolabs-ai-public",
-      "implementation_scope": "Monitoring and learning layer for long-running agents.",
-      "classification": "copyable",
-      "implementation_status": "in-progress",
-      "implementation_repo_url": "https://github.com/PalmerMichaels/bentolabs-ai-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
-    },
-    {
-      "slug": "biostack-platforms",
-      "name": "BioStack Platforms",
-      "batch": "Spring 2026",
-      "issue_number": 37,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/37",
-      "source_url": "https://www.ycombinator.com/companies/biostack-platforms",
-      "website": "https://www.getbiostack.com/",
-      "proposed_repo": "biostack-platforms-public",
-      "implementation_scope": "Real world training environments for healthcare AI models, using synthetic data/non-clinical clean-room demo only.",
-      "classification": "copyable",
-      "implementation_status": "in-progress",
-      "implementation_repo_url": "https://github.com/PalmerMichaels/biostack-platforms-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
-    },
-    {
-      "slug": "callab-ai",
-      "name": "Callab AI",
-      "batch": "Spring 2026",
-      "issue_number": 38,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/38",
-      "source_url": "https://www.ycombinator.com/companies/callab-ai",
-      "website": "https://callab.ai",
-      "proposed_repo": "callab-ai-public",
-      "implementation_scope": "AI voice agents for on-prem telephony stack, mock telephony only.",
-      "classification": "copyable",
-      "implementation_status": "in-progress",
-      "implementation_repo_url": "https://github.com/PalmerMichaels/callab-ai-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
-    },
-    {
-      "slug": "centralcoms",
-      "name": "CentralComs",
-      "batch": "Spring 2026",
-      "issue_number": 39,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/39",
-      "source_url": "https://www.ycombinator.com/companies/centralcoms",
-      "website": "https://centralcoms.com",
-      "proposed_repo": "centralcoms-public",
-      "implementation_scope": "AI agents for property management.",
-      "classification": "copyable",
-      "implementation_status": "in-progress",
-      "implementation_repo_url": "https://github.com/PalmerMichaels/centralcoms-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
-    },
-    {
-      "slug": "characterquilt",
-      "name": "CharacterQuilt",
-      "batch": "Spring 2026",
-      "issue_number": 40,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/40",
-      "source_url": "https://www.ycombinator.com/companies/characterquilt",
-      "website": "https://characterquilt.com",
-      "proposed_repo": "characterquilt-public",
-      "implementation_scope": "AI infrastructure for marketers to ship campaigns in existing tools, mocked integrations.",
-      "classification": "copyable",
-      "implementation_status": "in-progress",
-      "implementation_repo_url": "https://github.com/PalmerMichaels/characterquilt-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
-    }
-  ],
+  "in_progress": [],
   "pending_recheck": [
     {
       "slug": "aquashield",
@@ -406,5 +405,5 @@
       "priority": "pending-recheck"
     }
   ],
-  "project_field_sync": "deferred until GraphQL quota reset and mutation permissions allow"
+  "project_field_sync": "deferred; prior GitHub Project field mutations failed with permission errors"
 }

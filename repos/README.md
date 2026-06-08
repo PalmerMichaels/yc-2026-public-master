@@ -21,16 +21,17 @@ Implemented:
 - `asendia-ai` -> https://github.com/PalmerMichaels/asendia-ai-public @ `b1a6f17f5a3959a3b01f975e4528a029c8e50a5b`
 - `asterlab` -> https://github.com/PalmerMichaels/asterlab-public @ `ecfc10c6441b625b375e76384b9b4954fb6a7410`
 - `atrisa` -> https://github.com/PalmerMichaels/atrisa-public @ `4a50e4d33c9cdfa84babdc98df5fc6f202bcf4fc`
+- `auxos` -> https://github.com/PalmerMichaels/auxos-public @ `8c5b97d1c272cc53912e99fb6c517f30892ef073`
+- `bentolabs-ai` -> https://github.com/PalmerMichaels/bentolabs-ai-public @ `728aea2a0d620e958485517a2d116e010acd7abc`
+- `biostack-platforms` -> https://github.com/PalmerMichaels/biostack-platforms-public @ `21cf5b5877435bfdc5dac6024dc33991c78502dd`
+- `callab-ai` -> https://github.com/PalmerMichaels/callab-ai-public @ `966af4d0d2f63c53605b1c89e3404712f5734e2b`
+- `centralcoms` -> https://github.com/PalmerMichaels/centralcoms-public @ `085e50eaa383f76abf9737be9b4df7fae449eb0e`
+- `characterquilt` -> https://github.com/PalmerMichaels/characterquilt-public @ `472a54be4e927d1e09ce081c46138d73c13b56db`
 - `inth` -> https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- `auxos` -> `auxos-public` ([#34](https://github.com/PalmerMichaels/yc-2026-public-master/issues/34))
-- `bentolabs-ai` -> `bentolabs-ai-public` ([#36](https://github.com/PalmerMichaels/yc-2026-public-master/issues/36))
-- `biostack-platforms` -> `biostack-platforms-public` ([#37](https://github.com/PalmerMichaels/yc-2026-public-master/issues/37))
-- `callab-ai` -> `callab-ai-public` ([#38](https://github.com/PalmerMichaels/yc-2026-public-master/issues/38))
-- `centralcoms` -> `centralcoms-public` ([#39](https://github.com/PalmerMichaels/yc-2026-public-master/issues/39))
-- `characterquilt` -> `characterquilt-public` ([#40](https://github.com/PalmerMichaels/yc-2026-public-master/issues/40))
+- None
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -42,8 +43,8 @@ Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
 Current queue counts:
-- Implemented: 18
-- In progress: 6
+- Implemented: 24
+- In progress: 0
 - Pending re-check: 1
 - Ready for fan-out: 254
 - Total copyable: 279

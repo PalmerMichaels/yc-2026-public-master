@@ -6,8 +6,8 @@ Total companies: 405
 Copyable: 279
 Not copyable: 126
 Uncertain: 0
-Implemented: 18
-In progress: 6
+Implemented: 24
+In progress: 0
 Ready copyable: 255
 Skipped pending re-check: aquashield
 GitHub issues created: 120
@@ -33,16 +33,17 @@ Implemented repositories:
 - `asendia-ai`: https://github.com/PalmerMichaels/asendia-ai-public @ `b1a6f17f5a3959a3b01f975e4528a029c8e50a5b`
 - `asterlab`: https://github.com/PalmerMichaels/asterlab-public @ `ecfc10c6441b625b375e76384b9b4954fb6a7410`
 - `atrisa`: https://github.com/PalmerMichaels/atrisa-public @ `4a50e4d33c9cdfa84babdc98df5fc6f202bcf4fc`
+- `auxos`: https://github.com/PalmerMichaels/auxos-public @ `8c5b97d1c272cc53912e99fb6c517f30892ef073`
+- `bentolabs-ai`: https://github.com/PalmerMichaels/bentolabs-ai-public @ `728aea2a0d620e958485517a2d116e010acd7abc`
+- `biostack-platforms`: https://github.com/PalmerMichaels/biostack-platforms-public @ `21cf5b5877435bfdc5dac6024dc33991c78502dd`
+- `callab-ai`: https://github.com/PalmerMichaels/callab-ai-public @ `966af4d0d2f63c53605b1c89e3404712f5734e2b`
+- `centralcoms`: https://github.com/PalmerMichaels/centralcoms-public @ `085e50eaa383f76abf9737be9b4df7fae449eb0e`
+- `characterquilt`: https://github.com/PalmerMichaels/characterquilt-public @ `472a54be4e927d1e09ce081c46138d73c13b56db`
 - `inth`: https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
 - `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In-progress implementations:
-- `auxos`: [#34](https://github.com/PalmerMichaels/yc-2026-public-master/issues/34) -> `auxos-public`
-- `bentolabs-ai`: [#36](https://github.com/PalmerMichaels/yc-2026-public-master/issues/36) -> `bentolabs-ai-public`
-- `biostack-platforms`: [#37](https://github.com/PalmerMichaels/yc-2026-public-master/issues/37) -> `biostack-platforms-public`
-- `callab-ai`: [#38](https://github.com/PalmerMichaels/yc-2026-public-master/issues/38) -> `callab-ai-public`
-- `centralcoms`: [#39](https://github.com/PalmerMichaels/yc-2026-public-master/issues/39) -> `centralcoms-public`
-- `characterquilt`: [#40](https://github.com/PalmerMichaels/yc-2026-public-master/issues/40) -> `characterquilt-public`
+- None
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.
@@ -93,13 +94,13 @@ Batches covered:
 | [Astraea](astraea.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#31](https://github.com/PalmerMichaels/yc-2026-public-master/issues/31) | [YC](https://www.ycombinator.com/companies/astraea) |
 | [Atrisa (formerly Refortifai)](atrisa.md) | Spring 2026 | `copyable` | `implemented` | `atrisa-public` | [#32](https://github.com/PalmerMichaels/yc-2026-public-master/issues/32) | [YC](https://www.ycombinator.com/companies/atrisa) |
 | [Autostep](autostep.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#33](https://github.com/PalmerMichaels/yc-2026-public-master/issues/33) | [YC](https://www.ycombinator.com/companies/autostep) |
-| [Auxos](auxos.md) | Spring 2026 | `copyable` | `in-progress` | `auxos-public` | [#34](https://github.com/PalmerMichaels/yc-2026-public-master/issues/34) | [YC](https://www.ycombinator.com/companies/auxos) |
+| [Auxos](auxos.md) | Spring 2026 | `copyable` | `implemented` | `auxos-public` | [#34](https://github.com/PalmerMichaels/yc-2026-public-master/issues/34) | [YC](https://www.ycombinator.com/companies/auxos) |
 | [Avea Robotics](avea-robotics.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#35](https://github.com/PalmerMichaels/yc-2026-public-master/issues/35) | [YC](https://www.ycombinator.com/companies/avea-robotics) |
-| [BentoLabs AI](bentolabs-ai.md) | Spring 2026 | `copyable` | `in-progress` | `bentolabs-ai-public` | [#36](https://github.com/PalmerMichaels/yc-2026-public-master/issues/36) | [YC](https://www.ycombinator.com/companies/bentolabs-ai) |
-| [BioStack Platforms](biostack-platforms.md) | Spring 2026 | `copyable` | `in-progress` | `biostack-platforms-public` | [#37](https://github.com/PalmerMichaels/yc-2026-public-master/issues/37) | [YC](https://www.ycombinator.com/companies/biostack-platforms) |
-| [Callab AI](callab-ai.md) | Spring 2026 | `copyable` | `in-progress` | `callab-ai-public` | [#38](https://github.com/PalmerMichaels/yc-2026-public-master/issues/38) | [YC](https://www.ycombinator.com/companies/callab-ai) |
-| [CentralComs](centralcoms.md) | Spring 2026 | `copyable` | `in-progress` | `centralcoms-public` | [#39](https://github.com/PalmerMichaels/yc-2026-public-master/issues/39) | [YC](https://www.ycombinator.com/companies/centralcoms) |
-| [CharacterQuilt](characterquilt.md) | Spring 2026 | `copyable` | `in-progress` | `characterquilt-public` | [#40](https://github.com/PalmerMichaels/yc-2026-public-master/issues/40) | [YC](https://www.ycombinator.com/companies/characterquilt) |
+| [BentoLabs AI](bentolabs-ai.md) | Spring 2026 | `copyable` | `implemented` | `bentolabs-ai-public` | [#36](https://github.com/PalmerMichaels/yc-2026-public-master/issues/36) | [YC](https://www.ycombinator.com/companies/bentolabs-ai) |
+| [BioStack Platforms](biostack-platforms.md) | Spring 2026 | `copyable` | `implemented` | `biostack-platforms-public` | [#37](https://github.com/PalmerMichaels/yc-2026-public-master/issues/37) | [YC](https://www.ycombinator.com/companies/biostack-platforms) |
+| [Callab AI](callab-ai.md) | Spring 2026 | `copyable` | `implemented` | `callab-ai-public` | [#38](https://github.com/PalmerMichaels/yc-2026-public-master/issues/38) | [YC](https://www.ycombinator.com/companies/callab-ai) |
+| [CentralComs](centralcoms.md) | Spring 2026 | `copyable` | `implemented` | `centralcoms-public` | [#39](https://github.com/PalmerMichaels/yc-2026-public-master/issues/39) | [YC](https://www.ycombinator.com/companies/centralcoms) |
+| [CharacterQuilt](characterquilt.md) | Spring 2026 | `copyable` | `implemented` | `characterquilt-public` | [#40](https://github.com/PalmerMichaels/yc-2026-public-master/issues/40) | [YC](https://www.ycombinator.com/companies/characterquilt) |
 | [Chert](chert.md) | Spring 2026 | `copyable` | `classified` | `chert-public` | [#41](https://github.com/PalmerMichaels/yc-2026-public-master/issues/41) | [YC](https://www.ycombinator.com/companies/chert) |
 | [Chronicle Labs](chronicle-labs.md) | Spring 2026 | `copyable` | `classified` | `chronicle-labs-public` | [#42](https://github.com/PalmerMichaels/yc-2026-public-master/issues/42) | [YC](https://www.ycombinator.com/companies/chronicle-labs) |
 | [Cignara](cignara.md) | Spring 2026 | `copyable` | `classified` | `cignara-public` | [#43](https://github.com/PalmerMichaels/yc-2026-public-master/issues/43) | [YC](https://www.ycombinator.com/companies/cignara) |

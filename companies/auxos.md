@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/auxos
 - Website: https://www.useauxos.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/34
 - Implementation Repository: https://github.com/PalmerMichaels/auxos-public
+- Implementation Commit: `8c5b97d1c272cc53912e99fb6c517f30892ef073`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/auxos-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `8c5b97d1c272cc53912e99fb6c517f30892ef073`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 
