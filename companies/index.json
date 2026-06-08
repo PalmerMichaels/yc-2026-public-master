@@ -10653,7 +10653,7 @@
     "synced_items": 120,
     "pending_current_open_issues": 0,
     "synced_at": "2026-06-08T16:20:50.963Z",
-    "implementation_status_field_sync": "deferred until GraphQL quota reset",
+    "implementation_status_field_sync": "partial",
     "implementation_status_field_sync_pending": [
       "napkin-math",
       "inth",
@@ -10668,7 +10668,8 @@
       "arden",
       "ardent"
     ],
-    "updated_at": "2026-06-08T16:48:58.263Z"
+    "updated_at": "2026-06-08T20:06:48.679Z",
+    "implementation_status_field_synced": []
   },
   "classification_revision": {
     "revised_at": "2026-06-08T16:16:38.251Z",

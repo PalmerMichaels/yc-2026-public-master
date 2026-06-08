@@ -1,0 +1,248 @@
+{
+  "generated_at": "2026-06-08T20:06:48.679Z",
+  "project": "https://github.com/users/PalmerMichaels/projects/2",
+  "results": [
+    {
+      "slug": "napkin-math",
+      "issue_number": 119,
+      "status": "implemented",
+      "result": "failed",
+      "message": "gh: Resource not accessible by integration"
+    },
+    {
+      "slug": "inth",
+      "issue_number": 87,
+      "status": "implemented",
+      "result": "failed",
+      "message": "gh: Resource not accessible by integration"
+    },
+    {
+      "slug": "agentphone",
+      "issue_number": 8,
+      "status": "implemented",
+      "result": "failed",
+      "message": "gh: Resource not accessible by integration"
+    },
+    {
+      "slug": "akkari",
+      "issue_number": 10,
+      "status": "implemented",
+      "result": "failed",
+      "message": "gh: Resource not accessible by integration"
+    },
+    {
+      "slug": "amboras",
+      "issue_number": 13,
+      "status": "implemented",
+      "result": "failed",
+      "message": "gh: Resource not accessible by integration"
+    },
+    {
+      "slug": "andco",
+      "issue_number": 14,
+      "status": "implemented",
+      "result": "failed",
+      "message": "gh: Resource not accessible by integration"
+    },
+    {
+      "slug": "andustry",
+      "issue_number": 15,
+      "status": "in-progress",
+      "result": "failed",
+      "message": "gh: Resource not accessible by integration"
+    },
+    {
+      "slug": "ara",
+      "issue_number": 19,
+      "status": "in-progress",
+      "result": "failed",
+      "message": "gh: Resource not accessible by integration"
+    },
+    {
+      "slug": "archer",
+      "issue_number": 20,
+      "status": "in-progress",
+      "result": "failed",
+      "message": "gh: Resource not accessible by integration"
+    },
+    {
+      "slug": "arctic-health",
+      "issue_number": 21,
+      "status": "in-progress",
+      "result": "failed",
+      "message": "gh: Resource not accessible by integration"
+    },
+    {
+      "slug": "arden",
+      "issue_number": 22,
+      "status": "in-progress",
+      "result": "failed",
+      "message": "gh: Resource not accessible by integration"
+    },
+    {
+      "slug": "ardent",
+      "issue_number": 23,
+      "status": "in-progress",
+      "result": "failed",
+      "message": "gh: Resource not accessible by integration"
+    }
+  ],
+  "verified": {
+    "napkin-math": {
+      "issue_number": 119,
+      "title": "Napkin Math (Spring 2026)",
+      "fields": {
+        "Title": "Napkin Math (Spring 2026)",
+        "Classification": "copyable",
+        "Batch": "Spring 2026",
+        "Status": "Todo",
+        "Source URL": "https://www.ycombinator.com/companies/napkin-math",
+        "Implementation Status": "classified",
+        "Public Repo": "napkin-math-public"
+      }
+    },
+    "inth": {
+      "issue_number": 87,
+      "title": "Inth (Spring 2026)",
+      "fields": {
+        "Title": "Inth (Spring 2026)",
+        "Classification": "copyable",
+        "Batch": "Spring 2026",
+        "Source URL": "https://www.ycombinator.com/companies/inth",
+        "Implementation Status": "classified",
+        "Status": "Todo",
+        "Public Repo": "inth-public"
+      }
+    },
+    "ardent": {
+      "issue_number": 23,
+      "title": "Ardent (Spring 2026)",
+      "fields": {
+        "Title": "Ardent (Spring 2026)",
+        "Classification": "copyable",
+        "Batch": "Spring 2026",
+        "Source URL": "https://www.ycombinator.com/companies/ardent",
+        "Status": "Todo",
+        "Public Repo": "ardent-public",
+        "Implementation Status": "classified"
+      }
+    },
+    "arden": {
+      "issue_number": 22,
+      "title": "Arden (Spring 2026)",
+      "fields": {
+        "Title": "Arden (Spring 2026)",
+        "Classification": "copyable",
+        "Batch": "Spring 2026",
+        "Source URL": "https://www.ycombinator.com/companies/arden",
+        "Public Repo": "arden-public",
+        "Status": "Todo",
+        "Implementation Status": "classified"
+      }
+    },
+    "arctic-health": {
+      "issue_number": 21,
+      "title": "Arctic Health (Spring 2026)",
+      "fields": {
+        "Title": "Arctic Health (Spring 2026)",
+        "Classification": "copyable",
+        "Batch": "Spring 2026",
+        "Source URL": "https://www.ycombinator.com/companies/arctic-health",
+        "Status": "Todo",
+        "Implementation Status": "classified",
+        "Public Repo": "arctic-health-public"
+      }
+    },
+    "archer": {
+      "issue_number": 20,
+      "title": "Archer (Spring 2026)",
+      "fields": {
+        "Title": "Archer (Spring 2026)",
+        "Classification": "copyable",
+        "Batch": "Spring 2026",
+        "Source URL": "https://www.ycombinator.com/companies/archer",
+        "Implementation Status": "classified",
+        "Status": "Todo",
+        "Public Repo": "archer-public"
+      }
+    },
+    "ara": {
+      "issue_number": 19,
+      "title": "Ara (Spring 2026)",
+      "fields": {
+        "Title": "Ara (Spring 2026)",
+        "Classification": "copyable",
+        "Batch": "Spring 2026",
+        "Source URL": "https://www.ycombinator.com/companies/ara",
+        "Public Repo": "ara-public",
+        "Implementation Status": "classified",
+        "Status": "Todo"
+      }
+    },
+    "andustry": {
+      "issue_number": 15,
+      "title": "Andustry (Spring 2026)",
+      "fields": {
+        "Title": "Andustry (Spring 2026)",
+        "Classification": "copyable",
+        "Batch": "Spring 2026",
+        "Source URL": "https://www.ycombinator.com/companies/andustry",
+        "Implementation Status": "classified",
+        "Status": "Todo",
+        "Public Repo": "andustry-public"
+      }
+    },
+    "andco": {
+      "issue_number": 14,
+      "title": "Andco (Spring 2026)",
+      "fields": {
+        "Title": "Andco (Spring 2026)",
+        "Classification": "copyable",
+        "Batch": "Spring 2026",
+        "Source URL": "https://www.ycombinator.com/companies/andco",
+        "Public Repo": "andco-public",
+        "Implementation Status": "classified",
+        "Status": "Todo"
+      }
+    },
+    "amboras": {
+      "issue_number": 13,
+      "title": "Amboras (Spring 2026)",
+      "fields": {
+        "Title": "Amboras (Spring 2026)",
+        "Classification": "copyable",
+        "Batch": "Spring 2026",
+        "Source URL": "https://www.ycombinator.com/companies/amboras",
+        "Status": "Todo",
+        "Public Repo": "amboras-public",
+        "Implementation Status": "classified"
+      }
+    },
+    "akkari": {
+      "issue_number": 10,
+      "title": "Akkari (Spring 2026)",
+      "fields": {
+        "Title": "Akkari (Spring 2026)",
+        "Classification": "copyable",
+        "Batch": "Spring 2026",
+        "Source URL": "https://www.ycombinator.com/companies/akkari",
+        "Implementation Status": "classified",
+        "Status": "Todo",
+        "Public Repo": "akkari-public"
+      }
+    },
+    "agentphone": {
+      "issue_number": 8,
+      "title": "AgentPhone (Spring 2026)",
+      "fields": {
+        "Title": "AgentPhone (Spring 2026)",
+        "Classification": "copyable",
+        "Batch": "Spring 2026",
+        "Source URL": "https://www.ycombinator.com/companies/agentphone",
+        "Status": "Todo",
+        "Public Repo": "agentphone-public",
+        "Implementation Status": "classified"
+      }
+    }
+  }
+}
