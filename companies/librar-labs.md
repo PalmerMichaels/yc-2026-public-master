@@ -1,0 +1,34 @@
+# Librar Labs
+
+- Slug: `librar-labs`
+- Batch: Winter 2026
+- Status: Active
+- Classification: `copyable`
+- Source: https://www.ycombinator.com/companies/librar-labs
+- Website: https://www.librarlabs.com
+- GitHub Project: https://github.com/users/PalmerMichaels/projects/2
+- GitHub Issue: Pending creation
+
+## Public Description
+
+Intelligence for cultural institutions
+
+We build intelligence for cultural institutions. Our first commercial product is for the literature industry with a focus on school and public libraries. It is a AI-native OS for libraries, that helps librarians save time on tedious tasks and lets them focus on their patrons.
+
+## Classification Rationale
+
+Pure software product based on public description; a clean-room implementation can provide original UI, data model, and mocked/public integrations without copying proprietary assets or bypassing access controls.
+
+## Clean-Room Constraints
+
+- Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
+- Do not bypass access controls or use non-public integrations.
+- Implement only original public software based on public descriptions and observable behavior.
+
+## Proposed Public Repository
+
+- Repository: `librar-labs-public`
+
+## End-to-End Implementation Scope
+
+Build an original web app that demonstrates intelligence for cultural institutions: onboarding, workspace/project setup, core workflow screens, sample data, role-aware task/status management, and mocked external integrations where needed. Include seed data, tests, and clear clean-room documentation.

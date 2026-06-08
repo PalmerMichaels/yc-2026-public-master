@@ -1,0 +1,30 @@
+# Control Seat
+
+- Slug: `control-seat`
+- Batch: Summer 2026
+- Status: Active
+- Classification: `not-copyable`
+- Source: https://www.ycombinator.com/companies/control-seat
+- Website: https://www.controlseat.com
+- GitHub Project: https://github.com/users/PalmerMichaels/projects/2
+- GitHub Issue: Pending creation
+
+## Public Description
+
+Control and Monitoring of Industrial Operations
+
+No long description listed.
+
+## Classification Rationale
+
+Industrial products commonly require hardware, robotics, manufacturing, defense, energy, or physical-world operations.
+
+## Clean-Room Constraints
+
+- Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
+- Do not bypass access controls or use non-public integrations.
+- Implement only original public software based on public descriptions and observable behavior.
+
+## Not-Copyable Boundary
+
+Do not create an implementation repository in this phase. Revisit only if public information later shows a safely separable pure-software subset.

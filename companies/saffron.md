@@ -1,0 +1,34 @@
+# Saffron
+
+- Slug: `saffron`
+- Batch: Spring 2026
+- Status: Active
+- Classification: `copyable`
+- Source: https://www.ycombinator.com/companies/saffron
+- Website: https://www.trysaffron.ai/
+- GitHub Project: https://github.com/users/PalmerMichaels/projects/2
+- GitHub Issue: Pending creation
+
+## Public Description
+
+Helping your company find 10x engineers.
+
+Saffron allows companies to quickly evaluate how well software engineers use AI to code. The way engineers write code has fundamentally changed, but the way companies evaluate them hasn't. Saffron gives teams full visibility into how candidates use AI agents to build, debug, and ship real features on an actual codebase. Saffron was founded by Robert Chondro (formerly MIT and Jane Street), Jerry Yao (Stanford and Jane Street), and Kazuma Choji (Harvey Mudd, published in NeurIPS and ICML), and is backed by Y Combinator (P26) and Afore Capital.
+
+## Classification Rationale
+
+Pure software product based on public description; a clean-room implementation can provide original UI, data model, and mocked/public integrations without copying proprietary assets or bypassing access controls.
+
+## Clean-Room Constraints
+
+- Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
+- Do not bypass access controls or use non-public integrations.
+- Implement only original public software based on public descriptions and observable behavior.
+
+## Proposed Public Repository
+
+- Repository: `saffron-public`
+
+## End-to-End Implementation Scope
+
+Build an original web app that demonstrates helping your company find 10x engineers: onboarding, workspace/project setup, core workflow screens, sample data, role-aware task/status management, and mocked external integrations where needed. Include seed data, tests, and clear clean-room documentation.

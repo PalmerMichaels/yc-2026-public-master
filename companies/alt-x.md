@@ -1,0 +1,30 @@
+# Alt-X
+
+- Slug: `alt-x`
+- Batch: Winter 2026
+- Status: Active
+- Classification: `not-copyable`
+- Source: https://www.ycombinator.com/companies/alt-x
+- Website: https://alt-x.co
+- GitHub Project: https://github.com/users/PalmerMichaels/projects/2
+- GitHub Issue: Pending creation
+
+## Public Description
+
+Automation for institutional-grade financial modeling in Excel
+
+Alt-X is building the AI-native liquidity layer for private markets. Private markets have created trillions of dollars in value, yet remain fragmented, illiquid, and inaccessible. While public markets benefit from exchanges, market makers, brokerages, and data infrastructure, private markets still rely on brokers, spreadsheets, and manual workflows to connect buyers and sellers. Alt-X uses AI to automate the core functions required to make private assets liquid. We streamline diligence, valuation, investor matching, and transaction execution, reducing the friction that makes private-market transactions slow, expensive, and opaque today. Our initial focus is venture-backed secondaries. We source opportunities from founders, employees, and early investors while building a network of accredited investors seeking exposure to the world's most valuable private companies. Over time, we believe every private asset—from startup equity to private credit and alternative investments—will require modern liquidity infrastructure. Building trusted infrastructure for private markets is difficult. Transactions involve complex diligence, fragmented information, transfer restrictions, and significant compliance requirements. Alt-X is focused on creating systems that can support real transactions at scale, not just marketplace listings. Ryan Samadi (Stanford CS/AI, former Citadel commodities trader) and Michael Wachsman (Cornell CS, infrastructure engineer) are building Alt-X because they believe ownership of innovation should be more liquid, transparent, and accessible. Today, Alt-X has sourced over $1.5 million in transaction opportunities and assembled a network of 40 accredited investors representing hundreds of millions of dollars in investable assets. Our mission is to democratize ownership of innovation by building the financial infrastructure that private markets have never had.
+
+## Classification Rationale
+
+Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet. Fintech products commonly require banking, payments, trading, lending, or insurance rails.
+
+## Clean-Room Constraints
+
+- Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
+- Do not bypass access controls or use non-public integrations.
+- Implement only original public software based on public descriptions and observable behavior.
+
+## Not-Copyable Boundary
+
+Do not create an implementation repository in this phase. Revisit only if public information later shows a safely separable pure-software subset.
