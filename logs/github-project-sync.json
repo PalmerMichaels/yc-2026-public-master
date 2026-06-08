@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-08T16:05:57.555Z",
+  "generated_at": "2026-06-08T16:09:04.461Z",
   "project": {
     "project": "https://github.com/users/PalmerMichaels/projects/2",
     "status": "partial",
-    "synced_items": 60,
-    "pending_current_open_issues": 59,
+    "synced_items": 90,
+    "pending_current_open_issues": 29,
     "last_batch_added": 30,
-    "synced_at": "2026-06-08T16:05:56.440Z"
+    "synced_at": "2026-06-08T16:09:03.622Z"
   },
   "items": [
     {
@@ -368,6 +368,186 @@
       "issue_number": 60,
       "title": "Foaster (Spring 2026)",
       "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/60"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHdE",
+      "issue_number": 59,
+      "title": "flowscope (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/59"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHe8",
+      "issue_number": 58,
+      "title": "FinalDose (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/58"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHgo",
+      "issue_number": 57,
+      "title": "Expanse (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/57"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHh0",
+      "issue_number": 56,
+      "title": "Enjamb Labs (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/56"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHjs",
+      "issue_number": 55,
+      "title": "Elyra (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/55"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHmY",
+      "issue_number": 54,
+      "title": "Eden Robotics (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/54"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHnw",
+      "issue_number": 53,
+      "title": "Drip (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/53"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHpY",
+      "issue_number": 52,
+      "title": "Drafted (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/52"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHq0",
+      "issue_number": 51,
+      "title": "Dispatch (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/51"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHso",
+      "issue_number": 50,
+      "title": "Deep Interactions (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/50"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHu0",
+      "issue_number": 49,
+      "title": "Dayjob (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/49"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHwI",
+      "issue_number": 48,
+      "title": "Datost (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/48"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHyI",
+      "issue_number": 47,
+      "title": "Complir (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/47"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHzQ",
+      "issue_number": 46,
+      "title": "Cohesion (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/46"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFH18",
+      "issue_number": 45,
+      "title": "Clawvisor (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/45"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFH4U",
+      "issue_number": 44,
+      "title": "Clara (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/44"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFH5s",
+      "issue_number": 43,
+      "title": "Cignara (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/43"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFH7U",
+      "issue_number": 42,
+      "title": "Chronicle Labs (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/42"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFH9I",
+      "issue_number": 41,
+      "title": "Chert (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/41"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFH-0",
+      "issue_number": 40,
+      "title": "CharacterQuilt (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/40"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFIAs",
+      "issue_number": 39,
+      "title": "CentralComs (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/39"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFIDI",
+      "issue_number": 38,
+      "title": "Callab AI (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/38"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFIE0",
+      "issue_number": 37,
+      "title": "BioStack Platforms (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/37"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFIG8",
+      "issue_number": 36,
+      "title": "BentoLabs AI (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/36"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFIOY",
+      "issue_number": 35,
+      "title": "Avea Robotics (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/35"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFIRY",
+      "issue_number": 34,
+      "title": "Auxos (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/34"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFIYs",
+      "issue_number": 33,
+      "title": "Autostep (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/33"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFIaA",
+      "issue_number": 32,
+      "title": "Atrisa (formerly Refortifai) (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/32"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFIcA",
+      "issue_number": 31,
+      "title": "Astraea (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/31"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFIc8",
+      "issue_number": 30,
+      "title": "Aster (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/30"
     }
   ]
 }

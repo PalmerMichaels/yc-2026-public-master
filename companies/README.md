@@ -9,8 +9,8 @@ Uncertain: 0
 GitHub issues created: 119
 GitHub issues pending: 286
 Closed duplicate issues: 88
-Project items synced: 60
-Project items pending for current issues: 59
+Project items synced: 90
+Project items pending for current issues: 29
 
 Batches covered:
 - Winter 2026: 198
