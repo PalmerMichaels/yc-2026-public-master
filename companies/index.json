@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T20:43:50.150Z",
+  "generated_at": "2026-06-08T20:58:27.825Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -705,11 +705,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/24",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUlTg",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "arga-labs-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/arga-labs-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "92733eb56abbffc547e97805fe4111549b5436b5",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "arlo-industries",
@@ -765,11 +765,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/26",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUlrg",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "armature-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/armature-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "9e2fe9843e3f4568b77e20ebbb5669cba38eeead",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "arzana",
@@ -799,11 +799,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/27",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUl6Q",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "arzana-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/arzana-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "196876cf6770fdc299e8bc859476649011604357",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "asendia-ai",
@@ -827,11 +827,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/28",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUmIA",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "asendia-ai-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/asendia-ai-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "b1a6f17f5a3959a3b01f975e4528a029c8e50a5b",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "aseon-labs",
@@ -888,11 +888,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/30",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUmyw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "asterlab-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/asterlab-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "ecfc10c6441b625b375e76384b9b4954fb6a7410",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "astraea",
@@ -950,11 +950,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/32",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUndQ",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "atrisa-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/atrisa-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "4a50e4d33c9cdfa84babdc98df5fc6f202bcf4fc",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "autostep",
@@ -10698,7 +10698,7 @@
       "asterlab",
       "atrisa"
     ],
-    "updated_at": "2026-06-08T20:43:50.150Z",
+    "updated_at": "2026-06-08T20:58:27.825Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -10717,7 +10717,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-08T20:43:50.150Z",
+    "updated_at": "2026-06-08T20:58:27.825Z",
     "implemented": [
       "agentphone",
       "akkari",
@@ -10729,17 +10729,16 @@
       "arctic-health",
       "arden",
       "ardent",
-      "inth",
-      "napkin-math"
-    ],
-    "in_progress": [
       "arga-labs",
       "armature",
       "arzana",
       "asendia-ai",
       "asterlab",
-      "atrisa"
+      "atrisa",
+      "inth",
+      "napkin-math"
     ],
+    "in_progress": [],
     "ready_copyable": 261,
     "skipped_pending_recheck": [
       "aquashield"

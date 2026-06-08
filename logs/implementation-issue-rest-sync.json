@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T20:44:23.462Z",
+  "generated_at": "2026-06-08T20:59:01.550Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -148,73 +148,79 @@
     {
       "slug": "arga-labs",
       "issue_number": 24,
-      "status": "in-progress",
+      "status": "implemented",
+      "commit": "92733eb56abbffc547e97805fe4111549b5436b5",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "armature",
       "issue_number": 26,
-      "status": "in-progress",
+      "status": "implemented",
+      "commit": "9e2fe9843e3f4568b77e20ebbb5669cba38eeead",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "arzana",
       "issue_number": 27,
-      "status": "in-progress",
+      "status": "implemented",
+      "commit": "196876cf6770fdc299e8bc859476649011604357",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "asendia-ai",
       "issue_number": 28,
-      "status": "in-progress",
+      "status": "implemented",
+      "commit": "b1a6f17f5a3959a3b01f975e4528a029c8e50a5b",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "asterlab",
       "issue_number": 30,
-      "status": "in-progress",
+      "status": "implemented",
+      "commit": "ecfc10c6441b625b375e76384b9b4954fb6a7410",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "atrisa",
       "issue_number": 32,
-      "status": "in-progress",
+      "status": "implemented",
+      "commit": "4a50e4d33c9cdfa84babdc98df5fc6f202bcf4fc",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ]

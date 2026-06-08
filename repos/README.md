@@ -15,16 +15,17 @@ Implemented:
 - `arctic-health` -> https://github.com/PalmerMichaels/arctic-health-public @ `fc797d31df41ce6c4cf3d6596399aba5d01dad68`
 - `arden` -> https://github.com/PalmerMichaels/arden-public @ `bd9c0d179f5a49527c426bcc8b8361748dfcda85`
 - `ardent` -> https://github.com/PalmerMichaels/ardent-public @ `c3129ed03e7994df8b73c6baa4fce53ba9d1682a`
+- `arga-labs` -> https://github.com/PalmerMichaels/arga-labs-public @ `92733eb56abbffc547e97805fe4111549b5436b5`
+- `armature` -> https://github.com/PalmerMichaels/armature-public @ `9e2fe9843e3f4568b77e20ebbb5669cba38eeead`
+- `arzana` -> https://github.com/PalmerMichaels/arzana-public @ `196876cf6770fdc299e8bc859476649011604357`
+- `asendia-ai` -> https://github.com/PalmerMichaels/asendia-ai-public @ `b1a6f17f5a3959a3b01f975e4528a029c8e50a5b`
+- `asterlab` -> https://github.com/PalmerMichaels/asterlab-public @ `ecfc10c6441b625b375e76384b9b4954fb6a7410`
+- `atrisa` -> https://github.com/PalmerMichaels/atrisa-public @ `4a50e4d33c9cdfa84babdc98df5fc6f202bcf4fc`
 - `inth` -> https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- `arga-labs` -> `arga-labs-public` ([#24](https://github.com/PalmerMichaels/yc-2026-public-master/issues/24))
-- `armature` -> `armature-public` ([#26](https://github.com/PalmerMichaels/yc-2026-public-master/issues/26))
-- `arzana` -> `arzana-public` ([#27](https://github.com/PalmerMichaels/yc-2026-public-master/issues/27))
-- `asendia-ai` -> `asendia-ai-public` ([#28](https://github.com/PalmerMichaels/yc-2026-public-master/issues/28))
-- `asterlab` -> `asterlab-public` ([#30](https://github.com/PalmerMichaels/yc-2026-public-master/issues/30))
-- `atrisa` -> `atrisa-public` ([#32](https://github.com/PalmerMichaels/yc-2026-public-master/issues/32))
+- None
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -36,8 +37,8 @@ Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
 Current queue counts:
-- Implemented: 12
-- In progress: 6
+- Implemented: 18
+- In progress: 0
 - Pending re-check: 1
 - Ready for fan-out: 260
 - Total copyable: 279
