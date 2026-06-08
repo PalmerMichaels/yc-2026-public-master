@@ -31,7 +31,12 @@ Implemented:
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- None
+- `chert` -> `chert-public` ([#41](https://github.com/PalmerMichaels/yc-2026-public-master/issues/41))
+- `chronicle-labs` -> `chronicle-labs-public` ([#42](https://github.com/PalmerMichaels/yc-2026-public-master/issues/42))
+- `cignara` -> `cignara-public` ([#43](https://github.com/PalmerMichaels/yc-2026-public-master/issues/43))
+- `clawvisor` -> `clawvisor-public` ([#45](https://github.com/PalmerMichaels/yc-2026-public-master/issues/45))
+- `cohesion` -> `cohesion-public` ([#46](https://github.com/PalmerMichaels/yc-2026-public-master/issues/46))
+- `complir` -> `complir-public` ([#47](https://github.com/PalmerMichaels/yc-2026-public-master/issues/47))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -44,21 +49,14 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 24
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 254
-- Total copyable: 279
+- Ready for fan-out: 247
+- Total copyable: 278
 
 Next unambiguous copyable entries:
 | Slug | Name | Issue | Proposed Repo | Source |
 | --- | --- | --- | --- | --- |
-| `chert` | Chert | [#41](https://github.com/PalmerMichaels/yc-2026-public-master/issues/41) | `chert-public` | [YC](https://www.ycombinator.com/companies/chert) |
-| `chronicle-labs` | Chronicle Labs | [#42](https://github.com/PalmerMichaels/yc-2026-public-master/issues/42) | `chronicle-labs-public` | [YC](https://www.ycombinator.com/companies/chronicle-labs) |
-| `cignara` | Cignara | [#43](https://github.com/PalmerMichaels/yc-2026-public-master/issues/43) | `cignara-public` | [YC](https://www.ycombinator.com/companies/cignara) |
-| `clara-2` | Clara | [#44](https://github.com/PalmerMichaels/yc-2026-public-master/issues/44) | `clara-2-public` | [YC](https://www.ycombinator.com/companies/clara-2) |
-| `clawvisor` | Clawvisor | [#45](https://github.com/PalmerMichaels/yc-2026-public-master/issues/45) | `clawvisor-public` | [YC](https://www.ycombinator.com/companies/clawvisor) |
-| `cohesion` | Cohesion | [#46](https://github.com/PalmerMichaels/yc-2026-public-master/issues/46) | `cohesion-public` | [YC](https://www.ycombinator.com/companies/cohesion) |
-| `complir` | Complir | [#47](https://github.com/PalmerMichaels/yc-2026-public-master/issues/47) | `complir-public` | [YC](https://www.ycombinator.com/companies/complir) |
 | `datost` | Datost | [#48](https://github.com/PalmerMichaels/yc-2026-public-master/issues/48) | `datost-public` | [YC](https://www.ycombinator.com/companies/datost) |
 | `dayjob` | Dayjob | [#49](https://github.com/PalmerMichaels/yc-2026-public-master/issues/49) | `dayjob-public` | [YC](https://www.ycombinator.com/companies/dayjob) |
 | `deep-interactions` | Deep Interactions | [#50](https://github.com/PalmerMichaels/yc-2026-public-master/issues/50) | `deep-interactions-public` | [YC](https://www.ycombinator.com/companies/deep-interactions) |
@@ -102,3 +100,10 @@ Next unambiguous copyable entries:
 | `lattice-health` | Lattice Health | [#103](https://github.com/PalmerMichaels/yc-2026-public-master/issues/103) | `lattice-health-public` | [YC](https://www.ycombinator.com/companies/lattice-health) |
 | `light-anchor` | Light Anchor | [#104](https://github.com/PalmerMichaels/yc-2026-public-master/issues/104) | `light-anchor-public` | [YC](https://www.ycombinator.com/companies/light-anchor) |
 | `lightsprint` | Lightsprint | [#105](https://github.com/PalmerMichaels/yc-2026-public-master/issues/105) | `lightsprint-public` | [YC](https://www.ycombinator.com/companies/lightsprint) |
+| `limrun` | Limrun | [#106](https://github.com/PalmerMichaels/yc-2026-public-master/issues/106) | `limrun-public` | [YC](https://www.ycombinator.com/companies/limrun) |
+| `manicule` | Manicule | [#109](https://github.com/PalmerMichaels/yc-2026-public-master/issues/109) | `manicule-public` | [YC](https://www.ycombinator.com/companies/manicule) |
+| `memoir` | Memoir | [#112](https://github.com/PalmerMichaels/yc-2026-public-master/issues/112) | `memoir-public` | [YC](https://www.ycombinator.com/companies/memoir) |
+| `memory-store` | Memory Store | [#113](https://github.com/PalmerMichaels/yc-2026-public-master/issues/113) | `memory-store-public` | [YC](https://www.ycombinator.com/companies/memory-store) |
+| `minicor` | Minicor | [#114](https://github.com/PalmerMichaels/yc-2026-public-master/issues/114) | `minicor-public` | [YC](https://www.ycombinator.com/companies/minicor) |
+| `miso-labs` | Miso Labs | [#115](https://github.com/PalmerMichaels/yc-2026-public-master/issues/115) | `miso-labs-public` | [YC](https://www.ycombinator.com/companies/miso-labs) |
+| `netter` | Netter | [#120](https://github.com/PalmerMichaels/yc-2026-public-master/issues/120) | `netter-public` | [YC](https://www.ycombinator.com/companies/netter) |

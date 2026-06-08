@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-08T16:16:38.257Z",
+  "generated_at": "2026-06-08T21:30:33.261Z",
   "old_counts": {
     "copyable": 146,
     "not_copyable": 259,
     "uncertain": 0
   },
   "new_counts": {
-    "copyable": 279,
-    "not_copyable": 126,
+    "copyable": 278,
+    "not_copyable": 127,
     "uncertain": 0
   },
   "changed": [
@@ -109,15 +109,6 @@
       "new": "copyable",
       "issue_number": 43,
       "public_repo": "cignara-public"
-    },
-    {
-      "slug": "clara-2",
-      "name": "Clara",
-      "batch": "Spring 2026",
-      "old": "not-copyable",
-      "new": "copyable",
-      "issue_number": 44,
-      "public_repo": "clara-2-public"
     },
     {
       "slug": "complir",
@@ -1243,6 +1234,20 @@
       "new": "not-copyable",
       "issue_number": null,
       "public_repo": null
+    },
+    {
+      "slug": "clara-2",
+      "name": "Clara",
+      "batch": "Spring 2026",
+      "old": "copyable",
+      "new": "not-copyable",
+      "issue_number": 44,
+      "public_repo": null,
+      "reason": "Core product is \"AI primary care doctor,\" implying clinical diagnosis/treatment as the core deliverable; do not implement or fan out a repo."
     }
+  ],
+  "changed_count": 137,
+  "notes": [
+    "clara-2 reclassified not-copyable: core product is AI primary care doctor, implying clinical diagnosis/treatment as core deliverable."
   ]
 }

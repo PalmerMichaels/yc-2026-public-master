@@ -3,12 +3,12 @@
 Source of truth for YC 2026 discovery, classification, and implementation status. Actual implementation tasks are GitHub issues added to [Project #2](https://github.com/users/PalmerMichaels/projects/2).
 
 Total companies: 405
-Copyable: 279
-Not copyable: 126
+Copyable: 278
+Not copyable: 127
 Uncertain: 0
 Implemented: 24
-In progress: 0
-Ready copyable: 255
+In progress: 6
+Ready copyable: 248
 Skipped pending re-check: aquashield
 GitHub issues created: 120
 GitHub issues pending: 285
@@ -43,15 +43,20 @@ Implemented repositories:
 - `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In-progress implementations:
-- None
+- `chert`: [#41](https://github.com/PalmerMichaels/yc-2026-public-master/issues/41) -> `chert-public`
+- `chronicle-labs`: [#42](https://github.com/PalmerMichaels/yc-2026-public-master/issues/42) -> `chronicle-labs-public`
+- `cignara`: [#43](https://github.com/PalmerMichaels/yc-2026-public-master/issues/43) -> `cignara-public`
+- `clawvisor`: [#45](https://github.com/PalmerMichaels/yc-2026-public-master/issues/45) -> `clawvisor-public`
+- `cohesion`: [#46](https://github.com/PalmerMichaels/yc-2026-public-master/issues/46) -> `cohesion-public`
+- `complir`: [#47](https://github.com/PalmerMichaels/yc-2026-public-master/issues/47) -> `complir-public`
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.
 
 Classification revision:
 - Old counts: 146 copyable, 259 not-copyable, 0 uncertain
-- New counts: 279 copyable, 126 not-copyable, 0 uncertain
-- Changed classifications: 137
+- New counts: 278 copyable, 127 not-copyable, 0 uncertain
+- Changed classifications: 1
 
 Batches covered:
 - Winter 2026: 198
@@ -101,13 +106,13 @@ Batches covered:
 | [Callab AI](callab-ai.md) | Spring 2026 | `copyable` | `implemented` | `callab-ai-public` | [#38](https://github.com/PalmerMichaels/yc-2026-public-master/issues/38) | [YC](https://www.ycombinator.com/companies/callab-ai) |
 | [CentralComs](centralcoms.md) | Spring 2026 | `copyable` | `implemented` | `centralcoms-public` | [#39](https://github.com/PalmerMichaels/yc-2026-public-master/issues/39) | [YC](https://www.ycombinator.com/companies/centralcoms) |
 | [CharacterQuilt](characterquilt.md) | Spring 2026 | `copyable` | `implemented` | `characterquilt-public` | [#40](https://github.com/PalmerMichaels/yc-2026-public-master/issues/40) | [YC](https://www.ycombinator.com/companies/characterquilt) |
-| [Chert](chert.md) | Spring 2026 | `copyable` | `classified` | `chert-public` | [#41](https://github.com/PalmerMichaels/yc-2026-public-master/issues/41) | [YC](https://www.ycombinator.com/companies/chert) |
-| [Chronicle Labs](chronicle-labs.md) | Spring 2026 | `copyable` | `classified` | `chronicle-labs-public` | [#42](https://github.com/PalmerMichaels/yc-2026-public-master/issues/42) | [YC](https://www.ycombinator.com/companies/chronicle-labs) |
-| [Cignara](cignara.md) | Spring 2026 | `copyable` | `classified` | `cignara-public` | [#43](https://github.com/PalmerMichaels/yc-2026-public-master/issues/43) | [YC](https://www.ycombinator.com/companies/cignara) |
-| [Clara](clara-2.md) | Spring 2026 | `copyable` | `classified` | `clara-2-public` | [#44](https://github.com/PalmerMichaels/yc-2026-public-master/issues/44) | [YC](https://www.ycombinator.com/companies/clara-2) |
-| [Clawvisor](clawvisor.md) | Spring 2026 | `copyable` | `classified` | `clawvisor-public` | [#45](https://github.com/PalmerMichaels/yc-2026-public-master/issues/45) | [YC](https://www.ycombinator.com/companies/clawvisor) |
-| [Cohesion](cohesion.md) | Spring 2026 | `copyable` | `classified` | `cohesion-public` | [#46](https://github.com/PalmerMichaels/yc-2026-public-master/issues/46) | [YC](https://www.ycombinator.com/companies/cohesion) |
-| [Complir](complir.md) | Spring 2026 | `copyable` | `classified` | `complir-public` | [#47](https://github.com/PalmerMichaels/yc-2026-public-master/issues/47) | [YC](https://www.ycombinator.com/companies/complir) |
+| [Chert](chert.md) | Spring 2026 | `copyable` | `in-progress` | `chert-public` | [#41](https://github.com/PalmerMichaels/yc-2026-public-master/issues/41) | [YC](https://www.ycombinator.com/companies/chert) |
+| [Chronicle Labs](chronicle-labs.md) | Spring 2026 | `copyable` | `in-progress` | `chronicle-labs-public` | [#42](https://github.com/PalmerMichaels/yc-2026-public-master/issues/42) | [YC](https://www.ycombinator.com/companies/chronicle-labs) |
+| [Cignara](cignara.md) | Spring 2026 | `copyable` | `in-progress` | `cignara-public` | [#43](https://github.com/PalmerMichaels/yc-2026-public-master/issues/43) | [YC](https://www.ycombinator.com/companies/cignara) |
+| [Clara](clara-2.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#44](https://github.com/PalmerMichaels/yc-2026-public-master/issues/44) | [YC](https://www.ycombinator.com/companies/clara-2) |
+| [Clawvisor](clawvisor.md) | Spring 2026 | `copyable` | `in-progress` | `clawvisor-public` | [#45](https://github.com/PalmerMichaels/yc-2026-public-master/issues/45) | [YC](https://www.ycombinator.com/companies/clawvisor) |
+| [Cohesion](cohesion.md) | Spring 2026 | `copyable` | `in-progress` | `cohesion-public` | [#46](https://github.com/PalmerMichaels/yc-2026-public-master/issues/46) | [YC](https://www.ycombinator.com/companies/cohesion) |
+| [Complir](complir.md) | Spring 2026 | `copyable` | `in-progress` | `complir-public` | [#47](https://github.com/PalmerMichaels/yc-2026-public-master/issues/47) | [YC](https://www.ycombinator.com/companies/complir) |
 | [Datost](datost.md) | Spring 2026 | `copyable` | `classified` | `datost-public` | [#48](https://github.com/PalmerMichaels/yc-2026-public-master/issues/48) | [YC](https://www.ycombinator.com/companies/datost) |
 | [Dayjob](dayjob.md) | Spring 2026 | `copyable` | `classified` | `dayjob-public` | [#49](https://github.com/PalmerMichaels/yc-2026-public-master/issues/49) | [YC](https://www.ycombinator.com/companies/dayjob) |
 | [Deep Interactions](deep-interactions.md) | Spring 2026 | `copyable` | `classified` | `deep-interactions-public` | [#50](https://github.com/PalmerMichaels/yc-2026-public-master/issues/50) | [YC](https://www.ycombinator.com/companies/deep-interactions) |

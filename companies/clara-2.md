@@ -3,8 +3,8 @@
 - Slug: `clara-2`
 - Batch: Spring 2026
 - Status: Active
-- Classification: `copyable`
-- Implementation Status: `classified`
+- Classification: `not-copyable`
+- Implementation Status: `not-copyable`
 - Source: https://www.ycombinator.com/companies/clara-2
 - Website: http://askclara.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
@@ -18,7 +18,7 @@ Clara is an AI primary care and longevity practice from the team that founded an
 
 ## Classification Rationale
 
-Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.
+Core product is "AI primary care doctor," implying clinical diagnosis/treatment as the core deliverable; do not implement or fan out a repo.
 
 ## Clean-Room Constraints
 
@@ -28,12 +28,9 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## Implementation Tracking
 
-- Status: `classified`
+- Status: `not-copyable`
+- Notes: Not copyable: clinical diagnosis/treatment is the core deliverable.
 
-## Proposed Public Repository
+## Not-Copyable Boundary
 
-- Repository: `clara-2-public`
-
-## End-to-End Implementation Scope
-
-Build an original web app demonstrating ai primary care doctor: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
+Do not create an implementation repository in this phase. Revisit only if public information later shows a safely separable pure-software subset.

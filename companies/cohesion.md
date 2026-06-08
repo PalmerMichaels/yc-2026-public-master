@@ -4,11 +4,12 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
+- Implementation Status: `in-progress`
 - Source: https://www.ycombinator.com/companies/cohesion
 - Website: https://cohesionplatform.com/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/46
+- Implementation Repository: https://github.com/PalmerMichaels/cohesion-public
 
 ## Public Description
 
@@ -28,7 +29,9 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## Implementation Tracking
 
-- Status: `classified`
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/cohesion-public
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
 
 ## Proposed Public Repository
 
@@ -36,4 +39,4 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## End-to-End Implementation Scope
 
-Build an original web app demonstrating your public equities agentic teammate: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
+Public equities agentic teammate, using synthetic/public-demo data only; no investment advice, brokerage, trading, order execution, or real money movement.

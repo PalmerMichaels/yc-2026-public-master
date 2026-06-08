@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T21:21:06.224Z",
+  "generated_at": "2026-06-08T21:30:33.261Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -10,8 +10,8 @@
     "Fall 2026": 3
   },
   "counts": {
-    "copyable": 279,
-    "not_copyable": 126,
+    "copyable": 278,
+    "not_copyable": 127,
     "uncertain": 0
   },
   "companies": [
@@ -1228,7 +1228,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/41",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUpmw",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "chert-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/chert-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Trusted communication infrastructure at scale; use only generic/mock messaging, no Apple/iMessage branding/assets or real platform integration."
     },
     {
       "slug": "chronicle-labs",
@@ -1256,7 +1261,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/42",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUp2w",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "chronicle-labs-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/chronicle-labs-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Staging environments for enterprise AI agents."
     },
     {
       "slug": "cignara",
@@ -1283,14 +1293,19 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/43",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUqFA",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "cignara-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/cignara-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "AI agents for enterprise-grade customer support."
     },
     {
       "slug": "clara-2",
       "name": "Clara",
       "batch": "Spring 2026",
       "status": "Active",
-      "classification": "copyable",
+      "classification": "not-copyable",
       "source_url": "https://www.ycombinator.com/companies/clara-2",
       "website": "http://askclara.com",
       "one_liner": "AI primary care doctor",
@@ -1302,12 +1317,17 @@
       "team_size": 9,
       "public_repo": "clara-2-public",
       "implementation_scope": "Build an original web app demonstrating ai primary care doctor: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
-      "classification_rationale": "Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.",
+      "classification_rationale": "Core product is \"AI primary care doctor,\" implying clinical diagnosis/treatment as the core deliverable; do not implement or fan out a repo.",
       "issue_number": 44,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/44",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUqTg",
-      "implementation_status": "classified"
+      "implementation_status": "not-copyable",
+      "implementation_repo": null,
+      "implementation_repo_url": null,
+      "implementation_commit": null,
+      "implementation_notes": "Not copyable: clinical diagnosis/treatment is the core deliverable.",
+      "implementation_scope_override": null
     },
     {
       "slug": "clawvisor",
@@ -1335,7 +1355,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/45",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUqjA",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "clawvisor-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/clawvisor-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Authorization layer for AI agents."
     },
     {
       "slug": "cohesion",
@@ -1359,7 +1384,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/46",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUqxA",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "cohesion-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/cohesion-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Public equities agentic teammate, using synthetic/public-demo data only; no investment advice, brokerage, trading, order execution, or real money movement."
     },
     {
       "slug": "complir",
@@ -1387,7 +1417,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/47",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUq8w",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "complir-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/complir-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Vanta-like compliance/workflow tooling for physical products, with synthetic docs and no real certification/regulatory approval behavior."
     },
     {
       "slug": "datost",
@@ -10732,9 +10767,16 @@
       "biostack-platforms",
       "callab-ai",
       "centralcoms",
-      "characterquilt"
+      "characterquilt",
+      "clara-2",
+      "chert",
+      "chronicle-labs",
+      "cignara",
+      "clawvisor",
+      "cohesion",
+      "complir"
     ],
-    "updated_at": "2026-06-08T21:21:06.224Z",
+    "updated_at": "2026-06-08T21:30:33.261Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -10746,14 +10788,14 @@
       "uncertain": 0
     },
     "new_counts": {
-      "copyable": 279,
-      "not_copyable": 126,
+      "copyable": 278,
+      "not_copyable": 127,
       "uncertain": 0
     },
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-08T21:21:06.224Z",
+    "updated_at": "2026-06-08T21:30:33.261Z",
     "implemented": [
       "agentphone",
       "akkari",
@@ -10780,8 +10822,15 @@
       "inth",
       "napkin-math"
     ],
-    "in_progress": [],
-    "ready_copyable": 255,
+    "in_progress": [
+      "chert",
+      "chronicle-labs",
+      "cignara",
+      "clawvisor",
+      "cohesion",
+      "complir"
+    ],
+    "ready_copyable": 248,
     "skipped_pending_recheck": [
       "aquashield"
     ]
