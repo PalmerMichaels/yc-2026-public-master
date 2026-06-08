@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/ara
 - Website: https://ara.so
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/19
 - Implementation Repository: https://github.com/PalmerMichaels/ara-public
+- Implementation Commit: `b8327f2e28cca2a1b61262bf537f2dff88c6847e`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/ara-public
-- Notes: Implementation repository/workers launched by meta; public implementation in progress.
+- Commit: `b8327f2e28cca2a1b61262bf537f2dff88c6847e`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

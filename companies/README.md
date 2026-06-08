@@ -6,8 +6,8 @@ Total companies: 405
 Copyable: 279
 Not copyable: 126
 Uncertain: 0
-Implemented: 6
-In progress: 6
+Implemented: 12
+In progress: 0
 Ready copyable: 267
 Skipped pending re-check: aquashield
 GitHub issues created: 120
@@ -17,20 +17,21 @@ Project items synced: 120
 Project items pending for current issues: 0
 
 Implemented repositories:
-- `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
-- `inth`: https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
 - `agentphone`: https://github.com/PalmerMichaels/agentphone-public @ `c195d8160dd6292a5399fc6f5d5efce2efeaa8bd`
 - `akkari`: https://github.com/PalmerMichaels/akkari-public @ `d46f6fc0835494c35117c3445c40c376efccdc12`
 - `amboras`: https://github.com/PalmerMichaels/amboras-public @ `48226eb334ee474d190a5d73c44dae678e137123`
 - `andco`: https://github.com/PalmerMichaels/andco-public @ `24f80de0d195fbb0c878e885836acb3f30990ce2`
+- `andustry`: https://github.com/PalmerMichaels/andustry-public @ `d6ef7a21bf1eea4c17dc42b9dee70d8dccf5a1e9`
+- `ara`: https://github.com/PalmerMichaels/ara-public @ `b8327f2e28cca2a1b61262bf537f2dff88c6847e`
+- `archer`: https://github.com/PalmerMichaels/archer-public @ `10316e34909daad6903428f82d5a5986f8492c89`
+- `arctic-health`: https://github.com/PalmerMichaels/arctic-health-public @ `fc797d31df41ce6c4cf3d6596399aba5d01dad68`
+- `arden`: https://github.com/PalmerMichaels/arden-public @ `bd9c0d179f5a49527c426bcc8b8361748dfcda85`
+- `ardent`: https://github.com/PalmerMichaels/ardent-public @ `c3129ed03e7994df8b73c6baa4fce53ba9d1682a`
+- `inth`: https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
+- `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In-progress implementations:
-- `andustry`: [#15](https://github.com/PalmerMichaels/yc-2026-public-master/issues/15) -> `andustry-public`
-- `ara`: [#19](https://github.com/PalmerMichaels/yc-2026-public-master/issues/19) -> `ara-public`
-- `archer`: [#20](https://github.com/PalmerMichaels/yc-2026-public-master/issues/20) -> `archer-public`
-- `arctic-health`: [#21](https://github.com/PalmerMichaels/yc-2026-public-master/issues/21) -> `arctic-health-public`
-- `arden`: [#22](https://github.com/PalmerMichaels/yc-2026-public-master/issues/22) -> `arden-public`
-- `ardent`: [#23](https://github.com/PalmerMichaels/yc-2026-public-master/issues/23) -> `ardent-public`
+- None
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.
@@ -62,15 +63,15 @@ Batches covered:
 | [Allowance](allowance.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#12](https://github.com/PalmerMichaels/yc-2026-public-master/issues/12) | [YC](https://www.ycombinator.com/companies/allowance) |
 | [Amboras](amboras.md) | Spring 2026 | `copyable` | `implemented` | `amboras-public` | [#13](https://github.com/PalmerMichaels/yc-2026-public-master/issues/13) | [YC](https://www.ycombinator.com/companies/amboras) |
 | [Andco](andco.md) | Spring 2026 | `copyable` | `implemented` | `andco-public` | [#14](https://github.com/PalmerMichaels/yc-2026-public-master/issues/14) | [YC](https://www.ycombinator.com/companies/andco) |
-| [Andustry](andustry.md) | Spring 2026 | `copyable` | `in-progress` | `andustry-public` | [#15](https://github.com/PalmerMichaels/yc-2026-public-master/issues/15) | [YC](https://www.ycombinator.com/companies/andustry) |
+| [Andustry](andustry.md) | Spring 2026 | `copyable` | `implemented` | `andustry-public` | [#15](https://github.com/PalmerMichaels/yc-2026-public-master/issues/15) | [YC](https://www.ycombinator.com/companies/andustry) |
 | [ANORIA](anoria.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#16](https://github.com/PalmerMichaels/yc-2026-public-master/issues/16) | [YC](https://www.ycombinator.com/companies/anoria) |
 | [Apollo Atomics, Inc.](apollo-atomics-inc.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#17](https://github.com/PalmerMichaels/yc-2026-public-master/issues/17) | [YC](https://www.ycombinator.com/companies/apollo-atomics-inc) |
 | [AquaShield](aquashield.md) | Spring 2026 | `copyable` | `classified` | `aquashield-public` | [#18](https://github.com/PalmerMichaels/yc-2026-public-master/issues/18) | [YC](https://www.ycombinator.com/companies/aquashield) |
-| [Ara](ara.md) | Spring 2026 | `copyable` | `in-progress` | `ara-public` | [#19](https://github.com/PalmerMichaels/yc-2026-public-master/issues/19) | [YC](https://www.ycombinator.com/companies/ara) |
-| [Archer](archer.md) | Spring 2026 | `copyable` | `in-progress` | `archer-public` | [#20](https://github.com/PalmerMichaels/yc-2026-public-master/issues/20) | [YC](https://www.ycombinator.com/companies/archer) |
-| [Arctic Health](arctic-health.md) | Spring 2026 | `copyable` | `in-progress` | `arctic-health-public` | [#21](https://github.com/PalmerMichaels/yc-2026-public-master/issues/21) | [YC](https://www.ycombinator.com/companies/arctic-health) |
-| [Arden](arden.md) | Spring 2026 | `copyable` | `in-progress` | `arden-public` | [#22](https://github.com/PalmerMichaels/yc-2026-public-master/issues/22) | [YC](https://www.ycombinator.com/companies/arden) |
-| [Ardent](ardent.md) | Spring 2026 | `copyable` | `in-progress` | `ardent-public` | [#23](https://github.com/PalmerMichaels/yc-2026-public-master/issues/23) | [YC](https://www.ycombinator.com/companies/ardent) |
+| [Ara](ara.md) | Spring 2026 | `copyable` | `implemented` | `ara-public` | [#19](https://github.com/PalmerMichaels/yc-2026-public-master/issues/19) | [YC](https://www.ycombinator.com/companies/ara) |
+| [Archer](archer.md) | Spring 2026 | `copyable` | `implemented` | `archer-public` | [#20](https://github.com/PalmerMichaels/yc-2026-public-master/issues/20) | [YC](https://www.ycombinator.com/companies/archer) |
+| [Arctic Health](arctic-health.md) | Spring 2026 | `copyable` | `implemented` | `arctic-health-public` | [#21](https://github.com/PalmerMichaels/yc-2026-public-master/issues/21) | [YC](https://www.ycombinator.com/companies/arctic-health) |
+| [Arden](arden.md) | Spring 2026 | `copyable` | `implemented` | `arden-public` | [#22](https://github.com/PalmerMichaels/yc-2026-public-master/issues/22) | [YC](https://www.ycombinator.com/companies/arden) |
+| [Ardent](ardent.md) | Spring 2026 | `copyable` | `implemented` | `ardent-public` | [#23](https://github.com/PalmerMichaels/yc-2026-public-master/issues/23) | [YC](https://www.ycombinator.com/companies/ardent) |
 | [Arga Labs](arga-labs.md) | Spring 2026 | `copyable` | `classified` | `arga-labs-public` | [#24](https://github.com/PalmerMichaels/yc-2026-public-master/issues/24) | [YC](https://www.ycombinator.com/companies/arga-labs) |
 | [Arlo Industries](arlo-industries.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#25](https://github.com/PalmerMichaels/yc-2026-public-master/issues/25) | [YC](https://www.ycombinator.com/companies/arlo-industries) |
 | [Armature](armature.md) | Spring 2026 | `copyable` | `classified` | `armature-public` | [#26](https://github.com/PalmerMichaels/yc-2026-public-master/issues/26) | [YC](https://www.ycombinator.com/companies/armature) |

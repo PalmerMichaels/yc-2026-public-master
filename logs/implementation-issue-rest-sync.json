@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T20:07:50.306Z",
+  "generated_at": "2026-06-08T20:31:35.706Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -76,73 +76,73 @@
     {
       "slug": "andustry",
       "issue_number": 15,
-      "status": "in-progress",
+      "status": "implemented",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "ara",
       "issue_number": 19,
-      "status": "in-progress",
+      "status": "implemented",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "archer",
       "issue_number": 20,
-      "status": "in-progress",
+      "status": "implemented",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "arctic-health",
       "issue_number": 21,
-      "status": "in-progress",
+      "status": "implemented",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "arden",
       "issue_number": 22,
-      "status": "in-progress",
+      "status": "implemented",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "ardent",
       "issue_number": 23,
-      "status": "in-progress",
+      "status": "implemented",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ]

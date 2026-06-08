@@ -5,20 +5,21 @@ Workers will record created `<company-slug>-public` repositories here.
 ## Implementation Status
 
 Implemented:
-- `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
-- `inth` -> https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
 - `agentphone` -> https://github.com/PalmerMichaels/agentphone-public @ `c195d8160dd6292a5399fc6f5d5efce2efeaa8bd`
 - `akkari` -> https://github.com/PalmerMichaels/akkari-public @ `d46f6fc0835494c35117c3445c40c376efccdc12`
 - `amboras` -> https://github.com/PalmerMichaels/amboras-public @ `48226eb334ee474d190a5d73c44dae678e137123`
 - `andco` -> https://github.com/PalmerMichaels/andco-public @ `24f80de0d195fbb0c878e885836acb3f30990ce2`
+- `andustry` -> https://github.com/PalmerMichaels/andustry-public @ `d6ef7a21bf1eea4c17dc42b9dee70d8dccf5a1e9`
+- `ara` -> https://github.com/PalmerMichaels/ara-public @ `b8327f2e28cca2a1b61262bf537f2dff88c6847e`
+- `archer` -> https://github.com/PalmerMichaels/archer-public @ `10316e34909daad6903428f82d5a5986f8492c89`
+- `arctic-health` -> https://github.com/PalmerMichaels/arctic-health-public @ `fc797d31df41ce6c4cf3d6596399aba5d01dad68`
+- `arden` -> https://github.com/PalmerMichaels/arden-public @ `bd9c0d179f5a49527c426bcc8b8361748dfcda85`
+- `ardent` -> https://github.com/PalmerMichaels/ardent-public @ `c3129ed03e7994df8b73c6baa4fce53ba9d1682a`
+- `inth` -> https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
+- `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- `andustry` -> `andustry-public` ([#15](https://github.com/PalmerMichaels/yc-2026-public-master/issues/15))
-- `ara` -> `ara-public` ([#19](https://github.com/PalmerMichaels/yc-2026-public-master/issues/19))
-- `archer` -> `archer-public` ([#20](https://github.com/PalmerMichaels/yc-2026-public-master/issues/20))
-- `arctic-health` -> `arctic-health-public` ([#21](https://github.com/PalmerMichaels/yc-2026-public-master/issues/21))
-- `arden` -> `arden-public` ([#22](https://github.com/PalmerMichaels/yc-2026-public-master/issues/22))
-- `ardent` -> `ardent-public` ([#23](https://github.com/PalmerMichaels/yc-2026-public-master/issues/23))
+- None
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -30,8 +31,8 @@ Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
 Current queue counts:
-- Implemented: 6
-- In progress: 6
+- Implemented: 12
+- In progress: 0
 - Pending re-check: 1
 - Ready for fan-out: 266
 - Total copyable: 279
