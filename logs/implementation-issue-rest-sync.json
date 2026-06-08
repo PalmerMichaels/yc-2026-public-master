@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T23:24:37.522Z",
+  "generated_at": "2026-06-08T23:41:25.113Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -768,6 +768,90 @@
         "batch:spring-2026",
         "status:active",
         "implemented"
+      ]
+    },
+    {
+      "slug": "insforge",
+      "issue_number": 83,
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/insforge-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "instaagent",
+      "issue_number": 84,
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/instaagent-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "interfaze",
+      "issue_number": 86,
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/interfaze-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "jo",
+      "issue_number": 89,
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/jo-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "juno-chat",
+      "issue_number": 90,
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/juno-chat-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "kelai",
+      "issue_number": 91,
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/kelai-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
       ]
     }
   ],

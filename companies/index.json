@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T23:23:53.421Z",
+  "generated_at": "2026-06-08T23:40:44.119Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -2497,7 +2497,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/83",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwWVEw",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "insforge-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/insforge-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "instaagent",
@@ -2526,7 +2530,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/84",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwWa2w",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "instaagent-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/instaagent-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "intelligence-factory",
@@ -2581,7 +2589,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/86",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwWjTw",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "interfaze-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/interfaze-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "inth",
@@ -2643,7 +2655,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/89",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwWxCw",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "jo-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/jo-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "juno-chat",
@@ -2667,7 +2683,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/90",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwcncg",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "juno-chat-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/juno-chat-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "kelai",
@@ -2697,7 +2717,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/91",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwdDqA",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "kelai-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/kelai-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "keyframe-labs",
@@ -10894,9 +10918,15 @@
       "huscarl-inc",
       "hyper-4",
       "imperfect",
-      "incandor"
+      "incandor",
+      "insforge",
+      "instaagent",
+      "interfaze",
+      "jo",
+      "juno-chat",
+      "kelai"
     ],
-    "updated_at": "2026-06-08T23:23:53.421Z",
+    "updated_at": "2026-06-08T23:40:44.119Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -10915,7 +10945,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-08T23:23:53.421Z",
+    "updated_at": "2026-06-08T23:40:44.119Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -10972,8 +11002,15 @@
       "inth",
       "napkin-math"
     ],
-    "in_progress": [],
-    "ready_copyable": 224,
+    "in_progress": [
+      "insforge",
+      "instaagent",
+      "interfaze",
+      "jo",
+      "juno-chat",
+      "kelai"
+    ],
+    "ready_copyable": 218,
     "skipped_pending_recheck": [
       "aquashield"
     ]

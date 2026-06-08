@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T23:23:53.421Z",
+  "generated_at": "2026-06-08T23:40:44.119Z",
   "implemented": [
     {
       "slug": "godhands",
@@ -866,7 +866,104 @@
       "priority": "implemented"
     }
   ],
-  "in_progress": [],
+  "in_progress": [
+    {
+      "slug": "insforge",
+      "name": "InsForge",
+      "batch": "Spring 2026",
+      "issue_number": 83,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/83",
+      "source_url": "https://www.ycombinator.com/companies/insforge",
+      "website": "https://insforge.dev/",
+      "proposed_repo": "insforge-public",
+      "implementation_scope": "Build an original web app demonstrating the agent-native cloud infrastructure platform: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/insforge-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "instaagent",
+      "name": "InstaAgent",
+      "batch": "Spring 2026",
+      "issue_number": 84,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/84",
+      "source_url": "https://www.ycombinator.com/companies/instaagent",
+      "website": "https://instaagent.com",
+      "proposed_repo": "instaagent-public",
+      "implementation_scope": "Build an original web app demonstrating scale marketing campaigns across hundreds of personas: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/instaagent-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "interfaze",
+      "name": "Interfaze",
+      "batch": "Spring 2026",
+      "issue_number": 86,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/86",
+      "source_url": "https://www.ycombinator.com/companies/interfaze",
+      "website": "https://interfaze.ai",
+      "proposed_repo": "interfaze-public",
+      "implementation_scope": "Build an original web app demonstrating ai model built for deterministic developer tasks like ocr: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/interfaze-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "jo",
+      "name": "jo",
+      "batch": "Spring 2026",
+      "issue_number": 89,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/89",
+      "source_url": "https://www.ycombinator.com/companies/jo",
+      "website": "https://askjo.ai",
+      "proposed_repo": "jo-public",
+      "implementation_scope": "Build an original web app demonstrating a new personal ai that actually knows you.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/jo-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "juno-chat",
+      "name": "Juno",
+      "batch": "Spring 2026",
+      "issue_number": 90,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/90",
+      "source_url": "https://www.ycombinator.com/companies/juno-chat",
+      "website": "https://junocompanion.com/",
+      "proposed_repo": "juno-chat-public",
+      "implementation_scope": "Build an original web app demonstrating ai health assistant for chronic illness: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/juno-chat-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "kelai",
+      "name": "KelAI",
+      "batch": "Spring 2026",
+      "issue_number": 91,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/91",
+      "source_url": "https://www.ycombinator.com/companies/kelai",
+      "website": "https://kelaitech.com/",
+      "proposed_repo": "kelai-public",
+      "implementation_scope": "Build an original web app demonstrating the ai quant: autonomous alpha engine for funds and traders.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/kelai-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    }
+  ],
   "pending_recheck": [
     {
       "slug": "aquashield",

@@ -61,7 +61,12 @@ Implemented:
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- None
+- `insforge` -> `insforge-public` ([#83](https://github.com/PalmerMichaels/yc-2026-public-master/issues/83))
+- `instaagent` -> `instaagent-public` ([#84](https://github.com/PalmerMichaels/yc-2026-public-master/issues/84))
+- `interfaze` -> `interfaze-public` ([#86](https://github.com/PalmerMichaels/yc-2026-public-master/issues/86))
+- `jo` -> `jo-public` ([#89](https://github.com/PalmerMichaels/yc-2026-public-master/issues/89))
+- `juno-chat` -> `juno-chat-public` ([#90](https://github.com/PalmerMichaels/yc-2026-public-master/issues/90))
+- `kelai` -> `kelai-public` ([#91](https://github.com/PalmerMichaels/yc-2026-public-master/issues/91))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -74,20 +79,14 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 54
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 223
+- Ready for fan-out: 217
 - Total copyable: 278
 
 Next unambiguous copyable entries:
 | Slug | Name | Issue | Proposed Repo | Source |
 | --- | --- | --- | --- | --- |
-| `insforge` | InsForge | [#83](https://github.com/PalmerMichaels/yc-2026-public-master/issues/83) | `insforge-public` | [YC](https://www.ycombinator.com/companies/insforge) |
-| `instaagent` | InstaAgent | [#84](https://github.com/PalmerMichaels/yc-2026-public-master/issues/84) | `instaagent-public` | [YC](https://www.ycombinator.com/companies/instaagent) |
-| `interfaze` | Interfaze | [#86](https://github.com/PalmerMichaels/yc-2026-public-master/issues/86) | `interfaze-public` | [YC](https://www.ycombinator.com/companies/interfaze) |
-| `jo` | jo | [#89](https://github.com/PalmerMichaels/yc-2026-public-master/issues/89) | `jo-public` | [YC](https://www.ycombinator.com/companies/jo) |
-| `juno-chat` | Juno | [#90](https://github.com/PalmerMichaels/yc-2026-public-master/issues/90) | `juno-chat-public` | [YC](https://www.ycombinator.com/companies/juno-chat) |
-| `kelai` | KelAI | [#91](https://github.com/PalmerMichaels/yc-2026-public-master/issues/91) | `kelai-public` | [YC](https://www.ycombinator.com/companies/kelai) |
 | `keyframe-labs` | Keyframe Labs | [#92](https://github.com/PalmerMichaels/yc-2026-public-master/issues/92) | `keyframe-labs-public` | [YC](https://www.ycombinator.com/companies/keyframe-labs) |
 | `kimpton-ai` | Kimpton AI | [#93](https://github.com/PalmerMichaels/yc-2026-public-master/issues/93) | `kimpton-ai-public` | [YC](https://www.ycombinator.com/companies/kimpton-ai) |
 | `kinect` | Kinect | [#94](https://github.com/PalmerMichaels/yc-2026-public-master/issues/94) | `kinect-public` | [YC](https://www.ycombinator.com/companies/kinect) |
@@ -132,3 +131,9 @@ Next unambiguous copyable entries:
 | `captain` | Captain | Pending | `captain-public` | [YC](https://www.ycombinator.com/companies/captain) |
 | `cardboard` | Cardboard | Pending | `cardboard-public` | [YC](https://www.ycombinator.com/companies/cardboard) |
 | `care-gp` | Care GP | Pending | `care-gp-public` | [YC](https://www.ycombinator.com/companies/care-gp) |
+| `caretta` | Caretta | Pending | `caretta-public` | [YC](https://www.ycombinator.com/companies/caretta) |
+| `carrot-labs` | Carrot Labs | Pending | `carrot-labs-public` | [YC](https://www.ycombinator.com/companies/carrot-labs) |
+| `carson` | Carson | Pending | `carson-public` | [YC](https://www.ycombinator.com/companies/carson) |
+| `cascade` | Cascade | Pending | `cascade-public` | [YC](https://www.ycombinator.com/companies/cascade) |
+| `catchback-cards` | CatchBack Cards | Pending | `catchback-cards-public` | [YC](https://www.ycombinator.com/companies/catchback-cards) |
+| `cerenovus` | Cerenovus | Pending | `cerenovus-public` | [YC](https://www.ycombinator.com/companies/cerenovus) |
