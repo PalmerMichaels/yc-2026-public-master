@@ -17,7 +17,7 @@ Creating the largest patient-derived cancer single-cell dataset for licensing to
 
 ## Classification Rationale
 
-Public description indicates dependency on health|medical|clinical|patient|doctor|dental|therapy|therapist|care provider|billing services|primary care|hospital. Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune. Healthcare products commonly require medical workflows, regulated data, or clinical approval boundaries.
+Core product appears to require hardware, robotics, biotech/lab work, regulated money movement/insurance/brokerage, licensed services, proprietary datasets, or other dependencies that cannot be safely recreated as public clean-room software.
 
 ## Clean-Room Constraints
 

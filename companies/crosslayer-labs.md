@@ -3,7 +3,7 @@
 - Slug: `crosslayer-labs`
 - Batch: Winter 2026
 - Status: Active
-- Classification: `copyable`
+- Classification: `not-copyable`
 - Source: https://www.ycombinator.com/companies/crosslayer-labs
 - Website: https://www.crosslayerlabs.com/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
@@ -17,7 +17,7 @@ Crosslayer Labs detects impersonation attacks on websites and APIs. We provide "
 
 ## Classification Rationale
 
-Pure software product based on public description; a clean-room implementation can provide original UI, data model, and mocked/public integrations without copying proprietary assets or bypassing access controls.
+Public description indicates the core deliverable depends on unrecreatable hardware/biotech/regulated financial or physical-world capabilities, not just adjacent software workflow.
 
 ## Clean-Room Constraints
 
@@ -25,10 +25,6 @@ Pure software product based on public description; a clean-room implementation c
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Proposed Public Repository
+## Not-Copyable Boundary
 
-- Repository: `crosslayer-labs-public`
-
-## End-to-End Implementation Scope
-
-Build an original web app that demonstrates protect, monitor and defend your internet presence: onboarding, workspace/project setup, core workflow screens, sample data, role-aware task/status management, and mocked external integrations where needed. Include seed data, tests, and clear clean-room documentation.
+Do not create an implementation repository in this phase. Revisit only if public information later shows a safely separable pure-software subset.

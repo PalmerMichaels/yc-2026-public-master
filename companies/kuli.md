@@ -7,7 +7,7 @@
 - Source: https://www.ycombinator.com/companies/kuli
 - Website: https://kuli.one
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
-- GitHub Issue: Pending creation
+- GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/100
 
 ## Public Description
 
@@ -17,7 +17,7 @@ Kuli is an AI coworker for marketing teams at the world's largest consumer brand
 
 ## Classification Rationale
 
-Pure software product based on public description; a clean-room implementation can provide original UI, data model, and mocked/public integrations without copying proprietary assets or bypassing access controls.
+Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.
 
 ## Clean-Room Constraints
 
@@ -31,4 +31,4 @@ Pure software product based on public description; a clean-room implementation c
 
 ## End-to-End Implementation Scope
 
-Build an original web app that demonstrates ai coworker for marketing teams at the largest consumer brands: onboarding, workspace/project setup, core workflow screens, sample data, role-aware task/status management, and mocked external integrations where needed. Include seed data, tests, and clear clean-room documentation.
+Build an original web app demonstrating ai coworker for marketing teams at the largest consumer brands: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.

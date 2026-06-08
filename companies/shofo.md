@@ -17,7 +17,7 @@ We are building the world’s largest video library. We've aggregated billions o
 
 ## Classification Rationale
 
-Public description indicates dependency on real-world training data|proprietary intelligence|world's largest video library|human movement data|place intelligence|identity and fraud.
+Core product appears to require hardware, robotics, biotech/lab work, regulated money movement/insurance/brokerage, licensed services, proprietary datasets, or other dependencies that cannot be safely recreated as public clean-room software.
 
 ## Clean-Room Constraints
 

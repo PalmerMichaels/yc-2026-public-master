@@ -7,7 +7,7 @@
 - Source: https://www.ycombinator.com/companies/madrone
 - Website: https://madrone.cool/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
-- GitHub Issue: Pending creation
+- GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/108
 
 ## Public Description
 
@@ -17,7 +17,7 @@ Madrone builds cooling systems for data centers. In Texas, where most new sites 
 
 ## Classification Rationale
 
-Public description indicates dependency on hardware|robot|drone|aerospace|satellite|space|nuclear|welding|manufactur|semiconductor|silicon|battery|radar|sensor|wearable|ultrasound|camera|vehicle|warehouse|farm|agriculture|cattle|fish|industrial facilities|cooling|solar|power grid|uranium|data centers|mechanical parts|3d ultrasound. Industrial products commonly require hardware, robotics, manufacturing, defense, energy, or physical-world operations.
+Core product appears to require hardware, robotics, biotech/lab work, regulated money movement/insurance/brokerage, licensed services, proprietary datasets, or other dependencies that cannot be safely recreated as public clean-room software.
 
 ## Clean-Room Constraints
 

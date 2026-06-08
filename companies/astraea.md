@@ -17,7 +17,7 @@ Astraea automates clinical trial biometrics from raw study inputs to FDA-ready o
 
 ## Classification Rationale
 
-Public description indicates dependency on health|medical|clinical|patient|doctor|dental|therapy|therapist|care provider|billing services|primary care|hospital. Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune. Public description indicates dependency on customs brokerage|regulated|regulatory|compliance for physical products|fda|immigration law firm|law firm|legal work|legal operating system|medlegal.
+Core healthcare deliverable appears to cross into diagnosis/treatment, clinical operations, medical device/lab control, FDA/regulatory service, or licensed-service behavior.
 
 ## Clean-Room Constraints
 

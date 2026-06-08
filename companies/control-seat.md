@@ -17,7 +17,7 @@ No long description listed.
 
 ## Classification Rationale
 
-Industrial products commonly require hardware, robotics, manufacturing, defense, energy, or physical-world operations.
+Core product appears to require hardware, robotics, biotech/lab work, regulated money movement/insurance/brokerage, licensed services, proprietary datasets, or other dependencies that cannot be safely recreated as public clean-room software.
 
 ## Clean-Room Constraints
 

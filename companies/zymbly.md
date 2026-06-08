@@ -3,7 +3,7 @@
 - Slug: `zymbly`
 - Batch: Winter 2026
 - Status: Active
-- Classification: `copyable`
+- Classification: `not-copyable`
 - Source: https://www.ycombinator.com/companies/zymbly
 - Website: https://www.zymbly.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
@@ -17,7 +17,7 @@ No long description listed.
 
 ## Classification Rationale
 
-Pure software product based on public description; a clean-room implementation can provide original UI, data model, and mocked/public integrations without copying proprietary assets or bypassing access controls.
+Core product appears to require hardware, robotics, biotech/lab work, regulated money movement/insurance/brokerage, licensed services, proprietary datasets, or other dependencies that cannot be safely recreated as public clean-room software.
 
 ## Clean-Room Constraints
 
@@ -25,10 +25,6 @@ Pure software product based on public description; a clean-room implementation c
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Proposed Public Repository
+## Not-Copyable Boundary
 
-- Repository: `zymbly-public`
-
-## End-to-End Implementation Scope
-
-Build an original web app that demonstrates automates admin for aircraft mechanics: onboarding, workspace/project setup, core workflow screens, sample data, role-aware task/status management, and mocked external integrations where needed. Include seed data, tests, and clear clean-room documentation.
+Do not create an implementation repository in this phase. Revisit only if public information later shows a safely separable pure-software subset.

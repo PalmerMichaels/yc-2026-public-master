@@ -17,7 +17,7 @@ One API for KYC, KYB, AML, biometrics, and fraud — powered by 1,000+ data sour
 
 ## Classification Rationale
 
-Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune. Public description indicates dependency on real-world training data|proprietary intelligence|world's largest video library|human movement data|place intelligence|identity and fraud.
+Core product appears to require hardware, robotics, biotech/lab work, regulated money movement/insurance/brokerage, licensed services, proprietary datasets, or other dependencies that cannot be safely recreated as public clean-room software.
 
 ## Clean-Room Constraints
 

@@ -7,7 +7,7 @@
 - Source: https://www.ycombinator.com/companies/matforge
 - Website: https://matforge.ai/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
-- GitHub Issue: Pending creation
+- GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/111
 
 ## Public Description
 
@@ -17,7 +17,7 @@ We build AI scientists that discover new materials for the semiconductor industr
 
 ## Classification Rationale
 
-Public description indicates dependency on hardware|robot|drone|aerospace|satellite|space|nuclear|welding|manufactur|semiconductor|silicon|battery|radar|sensor|wearable|ultrasound|camera|vehicle|warehouse|farm|agriculture|cattle|fish|industrial facilities|cooling|solar|power grid|uranium|data centers|mechanical parts|3d ultrasound. Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet. Industrial products commonly require hardware, robotics, manufacturing, defense, energy, or physical-world operations.
+Core product appears to require hardware, robotics, biotech/lab work, regulated money movement/insurance/brokerage, licensed services, proprietary datasets, or other dependencies that cannot be safely recreated as public clean-room software.
 
 ## Clean-Room Constraints
 

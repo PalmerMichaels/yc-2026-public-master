@@ -17,7 +17,7 @@ Copperlane helps mortgage lenders accelerate the loan process and reduce mistake
 
 ## Classification Rationale
 
-Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet.
+Public description indicates the core deliverable depends on unrecreatable hardware/biotech/regulated financial or physical-world capabilities, not just adjacent software workflow.
 
 ## Clean-Room Constraints
 

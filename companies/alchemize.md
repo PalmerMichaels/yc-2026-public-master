@@ -17,7 +17,7 @@ Alchemize is building an AI-native customs brokerage. Importers are currently hi
 
 ## Classification Rationale
 
-Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet. Public description indicates dependency on customs brokerage|regulated|regulatory|compliance for physical products|fda|immigration law firm|law firm|legal work|legal operating system|medlegal.
+Public description indicates the core deliverable depends on unrecreatable hardware/biotech/regulated financial or physical-world capabilities, not just adjacent software workflow.
 
 ## Clean-Room Constraints
 

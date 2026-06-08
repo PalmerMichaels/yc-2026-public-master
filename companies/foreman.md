@@ -3,7 +3,7 @@
 - Slug: `foreman`
 - Batch: Winter 2026
 - Status: Active
-- Classification: `not-copyable`
+- Classification: `copyable`
 - Source: https://www.ycombinator.com/companies/foreman
 - Website: https://foreman.co
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
@@ -17,7 +17,7 @@ Foreman is the all-in-one AI-powered project management platform built for const
 
 ## Classification Rationale
 
-Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune.
+Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.
 
 ## Clean-Room Constraints
 
@@ -25,6 +25,10 @@ Public description indicates dependency on biotech|bio|drug|therapeutic|gene|pro
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Not-Copyable Boundary
+## Proposed Public Repository
 
-Do not create an implementation repository in this phase. Revisit only if public information later shows a safely separable pure-software subset.
+- Repository: `foreman-public`
+
+## End-to-End Implementation Scope
+
+Build an original web app demonstrating keeping contractors on the job site, not behind a desk.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.

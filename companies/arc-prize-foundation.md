@@ -17,7 +17,7 @@ ARC Prize builds AI benchmarks that measure general intelligence. Our benchmark,
 
 ## Classification Rationale
 
-Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune. Industrial products commonly require hardware, robotics, manufacturing, defense, energy, or physical-world operations.
+Core product appears to require hardware, robotics, biotech/lab work, regulated money movement/insurance/brokerage, licensed services, proprietary datasets, or other dependencies that cannot be safely recreated as public clean-room software.
 
 ## Clean-Room Constraints
 

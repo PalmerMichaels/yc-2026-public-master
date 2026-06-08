@@ -3,7 +3,7 @@
 - Slug: `ressl-ai`
 - Batch: Winter 2026
 - Status: Active
-- Classification: `not-copyable`
+- Classification: `copyable`
 - Source: https://www.ycombinator.com/companies/ressl-ai
 - Website: https://ressl.ai
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
@@ -17,7 +17,7 @@ We automate the back office so field crews can focus on the actual work. Trades 
 
 ## Classification Rationale
 
-Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune. Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet.
+Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.
 
 ## Clean-Room Constraints
 
@@ -25,6 +25,10 @@ Public description indicates dependency on biotech|bio|drug|therapeutic|gene|pro
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Not-Copyable Boundary
+## Proposed Public Repository
 
-Do not create an implementation repository in this phase. Revisit only if public information later shows a safely separable pure-software subset.
+- Repository: `ressl-ai-public`
+
+## End-to-End Implementation Scope
+
+Build an original web app demonstrating ai workers for field services: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.

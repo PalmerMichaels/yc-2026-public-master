@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-08T16:12:04.809Z",
+  "generated_at": "2026-06-08T16:20:50.956Z",
   "repo": "PalmerMichaels/yc-2026-public-master",
-  "total_open": 119,
-  "total_all": 120,
+  "total_open": 120,
+  "total_all": 121,
   "closed_duplicates": [
     {
       "title": "Inth (Spring 2026)",
@@ -12,6 +12,13 @@
     }
   ],
   "issues": [
+    {
+      "title": "Nine Fives (Spring 2026)",
+      "number": 121,
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/121",
+      "node_id": "I_kwDOS0hnm88AAAABEwxwhw",
+      "state": "open"
+    },
     {
       "title": "Netter (Spring 2026)",
       "number": 120,

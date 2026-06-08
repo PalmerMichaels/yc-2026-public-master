@@ -1,0 +1,1248 @@
+{
+  "generated_at": "2026-06-08T16:16:38.257Z",
+  "old_counts": {
+    "copyable": 146,
+    "not_copyable": 259,
+    "uncertain": 0
+  },
+  "new_counts": {
+    "copyable": 279,
+    "not_copyable": 126,
+    "uncertain": 0
+  },
+  "changed": [
+    {
+      "slug": "godhands",
+      "name": "GodHands",
+      "batch": "Fall 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 2,
+      "public_repo": "godhands-public"
+    },
+    {
+      "slug": "akkari",
+      "name": "Akkari",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 10,
+      "public_repo": "akkari-public"
+    },
+    {
+      "slug": "andustry",
+      "name": "Andustry",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 15,
+      "public_repo": "andustry-public"
+    },
+    {
+      "slug": "archer",
+      "name": "Archer",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 20,
+      "public_repo": "archer-public"
+    },
+    {
+      "slug": "arctic-health",
+      "name": "Arctic Health",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 21,
+      "public_repo": "arctic-health-public"
+    },
+    {
+      "slug": "armature",
+      "name": "Armature",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 26,
+      "public_repo": "armature-public"
+    },
+    {
+      "slug": "arzana",
+      "name": "Arzana",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 27,
+      "public_repo": "arzana-public"
+    },
+    {
+      "slug": "atrisa",
+      "name": "Atrisa (formerly Refortifai)",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 32,
+      "public_repo": "atrisa-public"
+    },
+    {
+      "slug": "biostack-platforms",
+      "name": "BioStack Platforms",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 37,
+      "public_repo": "biostack-platforms-public"
+    },
+    {
+      "slug": "characterquilt",
+      "name": "CharacterQuilt",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 40,
+      "public_repo": "characterquilt-public"
+    },
+    {
+      "slug": "cignara",
+      "name": "Cignara",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 43,
+      "public_repo": "cignara-public"
+    },
+    {
+      "slug": "clara-2",
+      "name": "Clara",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 44,
+      "public_repo": "clara-2-public"
+    },
+    {
+      "slug": "complir",
+      "name": "Complir",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 47,
+      "public_repo": "complir-public"
+    },
+    {
+      "slug": "deep-interactions",
+      "name": "Deep Interactions",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 50,
+      "public_repo": "deep-interactions-public"
+    },
+    {
+      "slug": "drafted",
+      "name": "Drafted",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 52,
+      "public_repo": "drafted-public"
+    },
+    {
+      "slug": "framewise-health",
+      "name": "Framewise Health",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 62,
+      "public_repo": "framewise-health-public"
+    },
+    {
+      "slug": "govguard",
+      "name": "GovGuard",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 68,
+      "public_repo": "govguard-public"
+    },
+    {
+      "slug": "gravy",
+      "name": "Gravy",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 69,
+      "public_repo": "gravy-public"
+    },
+    {
+      "slug": "huscarl-inc",
+      "name": "Huscarl Inc.",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 77,
+      "public_repo": "huscarl-inc-public"
+    },
+    {
+      "slug": "imperfect",
+      "name": "Imperfect",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 79,
+      "public_repo": "imperfect-public"
+    },
+    {
+      "slug": "incandor",
+      "name": "Incandor",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 80,
+      "public_repo": "incandor-public"
+    },
+    {
+      "slug": "instaagent",
+      "name": "InstaAgent",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 84,
+      "public_repo": "instaagent-public"
+    },
+    {
+      "slug": "interfaze",
+      "name": "Interfaze",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 86,
+      "public_repo": "interfaze-public"
+    },
+    {
+      "slug": "inth",
+      "name": "Inth",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 87,
+      "public_repo": "inth-public"
+    },
+    {
+      "slug": "juno-chat",
+      "name": "Juno",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 90,
+      "public_repo": "juno-chat-public"
+    },
+    {
+      "slug": "kelai",
+      "name": "KelAI",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 91,
+      "public_repo": "kelai-public"
+    },
+    {
+      "slug": "keyframe-labs",
+      "name": "Keyframe Labs",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 92,
+      "public_repo": "keyframe-labs-public"
+    },
+    {
+      "slug": "kimpton-ai",
+      "name": "Kimpton AI",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 93,
+      "public_repo": "kimpton-ai-public"
+    },
+    {
+      "slug": "kinro",
+      "name": "Kinro",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 95,
+      "public_repo": "kinro-public"
+    },
+    {
+      "slug": "klarify",
+      "name": "Klarify",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 97,
+      "public_repo": "klarify-public"
+    },
+    {
+      "slug": "korso",
+      "name": "Korso",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 98,
+      "public_repo": "korso-public"
+    },
+    {
+      "slug": "kugelaudio",
+      "name": "KugelAudio",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 99,
+      "public_repo": "kugelaudio-public"
+    },
+    {
+      "slug": "lamina-labs",
+      "name": "Lamina Labs",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 102,
+      "public_repo": "lamina-labs-public"
+    },
+    {
+      "slug": "lattice-health",
+      "name": "Lattice Health",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 103,
+      "public_repo": "lattice-health-public"
+    },
+    {
+      "slug": "lightsprint",
+      "name": "Lightsprint",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 105,
+      "public_repo": "lightsprint-public"
+    },
+    {
+      "slug": "memoir",
+      "name": "Memoir",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 112,
+      "public_repo": "memoir-public"
+    },
+    {
+      "slug": "memory-store",
+      "name": "Memory Store",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 113,
+      "public_repo": "memory-store-public"
+    },
+    {
+      "slug": "miso-labs",
+      "name": "Miso Labs",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 115,
+      "public_repo": "miso-labs-public"
+    },
+    {
+      "slug": "napkin-math",
+      "name": "Napkin Math",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": 119,
+      "public_repo": "napkin-math-public"
+    },
+    {
+      "slug": "oddpool",
+      "name": "Oddpool",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "oddpool-public"
+    },
+    {
+      "slug": "openprose",
+      "name": "OpenProse",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "openprose-public"
+    },
+    {
+      "slug": "pairio",
+      "name": "Pairio",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "pairio-public"
+    },
+    {
+      "slug": "pavoot",
+      "name": "Pavoot",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "pavoot-public"
+    },
+    {
+      "slug": "pentagon",
+      "name": "Pentagon",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "pentagon-public"
+    },
+    {
+      "slug": "plan0-ai",
+      "name": "PLAN0 AI",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "plan0-ai-public"
+    },
+    {
+      "slug": "playablai",
+      "name": "Playabl.ai",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "playablai-public"
+    },
+    {
+      "slug": "plena-health",
+      "name": "Plena Health",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "plena-health-public"
+    },
+    {
+      "slug": "result",
+      "name": "Result",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "result-public"
+    },
+    {
+      "slug": "runharbor",
+      "name": "Harbor",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "runharbor-public"
+    },
+    {
+      "slug": "salesgraph",
+      "name": "Salesgraph",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "salesgraph-public"
+    },
+    {
+      "slug": "saudara-ai",
+      "name": "Saudara AI",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "saudara-ai-public"
+    },
+    {
+      "slug": "scope",
+      "name": "Scope",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "scope-public"
+    },
+    {
+      "slug": "smartbase",
+      "name": "Smartbase",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "smartbase-public"
+    },
+    {
+      "slug": "soria",
+      "name": "Soria",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "soria-public"
+    },
+    {
+      "slug": "stage",
+      "name": "Stage",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "stage-public"
+    },
+    {
+      "slug": "standard-signal",
+      "name": "Standard Signal",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "standard-signal-public"
+    },
+    {
+      "slug": "standout",
+      "name": "Standout",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "standout-public"
+    },
+    {
+      "slug": "taiga",
+      "name": "Taiga",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "taiga-public"
+    },
+    {
+      "slug": "takecareos",
+      "name": "TakeCareOS",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "takecareos-public"
+    },
+    {
+      "slug": "tasklet-2",
+      "name": "Tasklet",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "tasklet-2-public"
+    },
+    {
+      "slug": "tdaycom",
+      "name": "tday.com",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "tdaycom-public"
+    },
+    {
+      "slug": "textsidekick",
+      "name": "Sidekick",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "textsidekick-public"
+    },
+    {
+      "slug": "trellistech",
+      "name": "Trellis",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "trellistech-public"
+    },
+    {
+      "slug": "valctrl",
+      "name": "ValCtrl",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "valctrl-public"
+    },
+    {
+      "slug": "voquill",
+      "name": "Voquill",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "voquill-public"
+    },
+    {
+      "slug": "walter",
+      "name": "Walter",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "walter-public"
+    },
+    {
+      "slug": "wealor",
+      "name": "Wealor",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "wealor-public"
+    },
+    {
+      "slug": "withai",
+      "name": "WithAI",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "withai-public"
+    },
+    {
+      "slug": "youart",
+      "name": "YouArt",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "youart-public"
+    },
+    {
+      "slug": "zibra-labs",
+      "name": "Zibra Labs",
+      "batch": "Spring 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "zibra-labs-public"
+    },
+    {
+      "slug": "care-gp",
+      "name": "Care GP",
+      "batch": "Summer 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "care-gp-public"
+    },
+    {
+      "slug": "realpact",
+      "name": "RealPact",
+      "batch": "Summer 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "realpact-public"
+    },
+    {
+      "slug": "rex-inc",
+      "name": "Rex",
+      "batch": "Summer 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "rex-inc-public"
+    },
+    {
+      "slug": "aemon",
+      "name": "Aemon",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "aemon-public"
+    },
+    {
+      "slug": "alt-x",
+      "name": "Alt-X",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "alt-x-public"
+    },
+    {
+      "slug": "ashr",
+      "name": "Ashr",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "ashr-public"
+    },
+    {
+      "slug": "autositu",
+      "name": "AutoSitu",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "autositu-public"
+    },
+    {
+      "slug": "autumn-ai",
+      "name": "Autumn AI",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "autumn-ai-public"
+    },
+    {
+      "slug": "avoice",
+      "name": "Avoice",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "avoice-public"
+    },
+    {
+      "slug": "axis-2",
+      "name": "Axis",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "axis-2-public"
+    },
+    {
+      "slug": "baseframe",
+      "name": "BaseFrame",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "baseframe-public"
+    },
+    {
+      "slug": "beacon-health",
+      "name": "Beacon Health",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "beacon-health-public"
+    },
+    {
+      "slug": "cardboard",
+      "name": "Cardboard",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "cardboard-public"
+    },
+    {
+      "slug": "carson",
+      "name": "Carson",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "carson-public"
+    },
+    {
+      "slug": "cascade",
+      "name": "Cascade",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "cascade-public"
+    },
+    {
+      "slug": "catchback-cards",
+      "name": "CatchBack Cards",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "catchback-cards-public"
+    },
+    {
+      "slug": "chasi",
+      "name": "Chasi",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "chasi-public"
+    },
+    {
+      "slug": "claimglide",
+      "name": "ClaimGlide",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "claimglide-public"
+    },
+    {
+      "slug": "codewisp",
+      "name": "CodeWisp",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "codewisp-public"
+    },
+    {
+      "slug": "condor-energy",
+      "name": "Condor Energy",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "condor-energy-public"
+    },
+    {
+      "slug": "corelayer",
+      "name": "Corelayer",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "corelayer-public"
+    },
+    {
+      "slug": "corvera",
+      "name": "Corvera",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "corvera-public"
+    },
+    {
+      "slug": "crosslayer-labs",
+      "name": "Crosslayer Labs",
+      "batch": "Winter 2026",
+      "old": "copyable",
+      "new": "not-copyable",
+      "issue_number": null,
+      "public_repo": null
+    },
+    {
+      "slug": "docura-health",
+      "name": "Docura Health",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "docura-health-public"
+    },
+    {
+      "slug": "eigenpal",
+      "name": "EigenPal",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "eigenpal-public"
+    },
+    {
+      "slug": "end-close",
+      "name": "End Close",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "end-close-public"
+    },
+    {
+      "slug": "eos-ai",
+      "name": "Eos AI",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "eos-ai-public"
+    },
+    {
+      "slug": "fed10",
+      "name": "Fed10",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "fed10-public"
+    },
+    {
+      "slug": "foreman",
+      "name": "Foreman",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "foreman-public"
+    },
+    {
+      "slug": "general-legal",
+      "name": "General Legal",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "general-legal-public"
+    },
+    {
+      "slug": "glue",
+      "name": "Glue",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "glue-public"
+    },
+    {
+      "slug": "inventoryquant",
+      "name": "InventoryQuant",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "inventoryquant-public"
+    },
+    {
+      "slug": "kita",
+      "name": "Kita",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "kita-public"
+    },
+    {
+      "slug": "laurence",
+      "name": "Laurence",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "laurence-public"
+    },
+    {
+      "slug": "legalos",
+      "name": "LegalOS",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "legalos-public"
+    },
+    {
+      "slug": "martini",
+      "name": "Martini",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "martini-public"
+    },
+    {
+      "slug": "maywood",
+      "name": "Maywood",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "maywood-public"
+    },
+    {
+      "slug": "moritz",
+      "name": "Moritz",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "moritz-public"
+    },
+    {
+      "slug": "opalite-health",
+      "name": "Opalite Health",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "opalite-health-public"
+    },
+    {
+      "slug": "orthogonal",
+      "name": "Orthogonal",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "orthogonal-public"
+    },
+    {
+      "slug": "overdrive-health",
+      "name": "Overdrive Health",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "overdrive-health-public"
+    },
+    {
+      "slug": "patientdeskai",
+      "name": "Patientdesk.ai",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "patientdeskai-public"
+    },
+    {
+      "slug": "pax-historia",
+      "name": "Pax Historia",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "pax-historia-public"
+    },
+    {
+      "slug": "polymorph",
+      "name": "Polymorph",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "polymorph-public"
+    },
+    {
+      "slug": "prana-health",
+      "name": "Prana",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "prana-health-public"
+    },
+    {
+      "slug": "q2q",
+      "name": "Q2Q",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "q2q-public"
+    },
+    {
+      "slug": "ramain",
+      "name": "RamAIn",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "ramain-public"
+    },
+    {
+      "slug": "remix-3",
+      "name": "Remix",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "remix-3-public"
+    },
+    {
+      "slug": "ressl-ai",
+      "name": "Ressl AI",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "ressl-ai-public"
+    },
+    {
+      "slug": "rev1",
+      "name": "REV1",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "rev1-public"
+    },
+    {
+      "slug": "revion",
+      "name": "Revion",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "revion-public"
+    },
+    {
+      "slug": "rhizome-ai",
+      "name": "Rhizome AI",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "rhizome-ai-public"
+    },
+    {
+      "slug": "robby",
+      "name": "Robby",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "robby-public"
+    },
+    {
+      "slug": "ruma-care",
+      "name": "Ruma Care",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "ruma-care-public"
+    },
+    {
+      "slug": "samora-ai",
+      "name": "Samora AI",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "samora-ai-public"
+    },
+    {
+      "slug": "scheduling-wizard",
+      "name": "Scheduling Wizard",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "scheduling-wizard-public"
+    },
+    {
+      "slug": "sentrial",
+      "name": "Sentrial",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "sentrial-public"
+    },
+    {
+      "slug": "sila",
+      "name": "Sila",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "sila-public"
+    },
+    {
+      "slug": "stilta",
+      "name": "Stilta",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "stilta-public"
+    },
+    {
+      "slug": "tepali",
+      "name": "Tepali",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "tepali-public"
+    },
+    {
+      "slug": "unisson",
+      "name": "Unisson",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "unisson-public"
+    },
+    {
+      "slug": "vector-legal",
+      "name": "Vector Legal",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "vector-legal-public"
+    },
+    {
+      "slug": "vela",
+      "name": "Vela",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "vela-public"
+    },
+    {
+      "slug": "verdex",
+      "name": "Verdex",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "verdex-public"
+    },
+    {
+      "slug": "voygr",
+      "name": "VOYGR",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "voygr-public"
+    },
+    {
+      "slug": "wayco",
+      "name": "Wayco",
+      "batch": "Winter 2026",
+      "old": "not-copyable",
+      "new": "copyable",
+      "issue_number": null,
+      "public_repo": "wayco-public"
+    },
+    {
+      "slug": "zymbly",
+      "name": "Zymbly",
+      "batch": "Winter 2026",
+      "old": "copyable",
+      "new": "not-copyable",
+      "issue_number": null,
+      "public_repo": null
+    }
+  ]
+}

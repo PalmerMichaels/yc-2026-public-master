@@ -3,7 +3,7 @@
 - Slug: `trellistech`
 - Batch: Spring 2026
 - Status: Active
-- Classification: `not-copyable`
+- Classification: `copyable`
 - Source: https://www.ycombinator.com/companies/trellistech
 - Website: https://trellistech.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
@@ -17,7 +17,7 @@ Trellis is building toward a new hospitality platform: one that does not just he
 
 ## Classification Rationale
 
-Public description indicates dependency on health|medical|clinical|patient|doctor|dental|therapy|therapist|care provider|billing services|primary care|hospital.
+Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.
 
 ## Clean-Room Constraints
 
@@ -25,6 +25,10 @@ Public description indicates dependency on health|medical|clinical|patient|docto
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Not-Copyable Boundary
+## Proposed Public Repository
 
-Do not create an implementation repository in this phase. Revisit only if public information later shows a safely separable pure-software subset.
+- Repository: `trellistech-public`
+
+## End-to-End Implementation Scope
+
+Build an original web app demonstrating the platform where short-term rentals run themselves: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.

@@ -17,7 +17,7 @@ Hi, I'm Thomas, and my creator is named Thomas :p Thomas is the first YC-backed 
 
 ## Classification Rationale
 
-Pure software product based on public description; a clean-room implementation can provide original UI, data model, and mocked/public integrations without copying proprietary assets or bypassing access controls.
+Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.
 
 ## Clean-Room Constraints
 
@@ -31,4 +31,4 @@ Pure software product based on public description; a clean-room implementation c
 
 ## End-to-End Implementation Scope
 
-Build an original web app that demonstrates the first ai founder: a virtual human who runs his own companies: onboarding, workspace/project setup, core workflow screens, sample data, role-aware task/status management, and mocked external integrations where needed. Include seed data, tests, and clear clean-room documentation.
+Build an original web app demonstrating the first ai founder: a virtual human who runs his own companies.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.

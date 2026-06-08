@@ -17,7 +17,7 @@ We create a new kind of data for training AI models. Most LLMs are pre-trained o
 
 ## Classification Rationale
 
-Public description indicates dependency on hardware|robot|drone|aerospace|satellite|space|nuclear|welding|manufactur|semiconductor|silicon|battery|radar|sensor|wearable|ultrasound|camera|vehicle|warehouse|farm|agriculture|cattle|fish|industrial facilities|cooling|solar|power grid|uranium|data centers|mechanical parts|3d ultrasound.
+Public description indicates the core deliverable depends on unrecreatable hardware/biotech/regulated financial or physical-world capabilities, not just adjacent software workflow.
 
 ## Clean-Room Constraints
 

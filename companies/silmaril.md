@@ -17,7 +17,7 @@ Silmaril is self-healing prompt injection defense for AI native applications and
 
 ## Classification Rationale
 
-Public description indicates dependency on defen[cs]e|counter-uas|attack drones|law enforcement|government affairs|govtech|foia|security cameras|surveillance.
+Public description indicates the core deliverable depends on unrecreatable hardware/biotech/regulated financial or physical-world capabilities, not just adjacent software workflow.
 
 ## Clean-Room Constraints
 

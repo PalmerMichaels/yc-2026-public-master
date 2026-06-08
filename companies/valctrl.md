@@ -3,7 +3,7 @@
 - Slug: `valctrl`
 - Batch: Spring 2026
 - Status: Active
-- Classification: `not-copyable`
+- Classification: `copyable`
 - Source: https://www.ycombinator.com/companies/valctrl
 - Website: https://valctrl.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
@@ -17,7 +17,7 @@ ValCtrl is building the world model for Prediction Finance. Prediction markets c
 
 ## Classification Rationale
 
-Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet. Fintech products commonly require banking, payments, trading, lending, or insurance rails.
+Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.
 
 ## Clean-Room Constraints
 
@@ -25,6 +25,10 @@ Public description indicates dependency on fintech|bank|banking|payment|payroll|
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Not-Copyable Boundary
+## Proposed Public Repository
 
-Do not create an implementation repository in this phase. Revisit only if public information later shows a safely separable pure-software subset.
+- Repository: `valctrl-public`
+
+## End-to-End Implementation Scope
+
+Build an original web app demonstrating valctrl is the world model for prediction finance, and kassandre…: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.

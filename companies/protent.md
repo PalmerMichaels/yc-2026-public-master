@@ -17,7 +17,7 @@ We provide real-time video intelligence that identifies escalating incidents as 
 
 ## Classification Rationale
 
-Public description indicates dependency on defen[cs]e|counter-uas|attack drones|law enforcement|government affairs|govtech|foia|security cameras|surveillance.
+Core product appears to require hardware, robotics, biotech/lab work, regulated money movement/insurance/brokerage, licensed services, proprietary datasets, or other dependencies that cannot be safely recreated as public clean-room software.
 
 ## Clean-Room Constraints
 

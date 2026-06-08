@@ -17,7 +17,7 @@ CentralComs is building AI Agents for property managers that tracks every mainte
 
 ## Classification Rationale
 
-Pure software product based on public description; a clean-room implementation can provide original UI, data model, and mocked/public integrations without copying proprietary assets or bypassing access controls.
+Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.
 
 ## Clean-Room Constraints
 
@@ -31,4 +31,4 @@ Pure software product based on public description; a clean-room implementation c
 
 ## End-to-End Implementation Scope
 
-Build an original web app that demonstrates ai agents for property management: onboarding, workspace/project setup, core workflow screens, sample data, role-aware task/status management, and mocked external integrations where needed. Include seed data, tests, and clear clean-room documentation.
+Build an original web app demonstrating ai agents for property management: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.

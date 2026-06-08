@@ -7,7 +7,7 @@
 - Source: https://www.ycombinator.com/companies/modern
 - Website: https://getmodern.ai
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
-- GitHub Issue: Pending creation
+- GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/117
 
 ## Public Description
 
@@ -17,7 +17,7 @@ Modern is consolidating the IT function into a single platform powered by secure
 
 ## Classification Rationale
 
-Public description indicates dependency on health|medical|clinical|patient|doctor|dental|therapy|therapist|care provider|billing services|primary care|hospital. Public description indicates dependency on hardware|robot|drone|aerospace|satellite|space|nuclear|welding|manufactur|semiconductor|silicon|battery|radar|sensor|wearable|ultrasound|camera|vehicle|warehouse|farm|agriculture|cattle|fish|industrial facilities|cooling|solar|power grid|uranium|data centers|mechanical parts|3d ultrasound.
+Public description indicates the core deliverable depends on unrecreatable hardware/biotech/regulated financial or physical-world capabilities, not just adjacent software workflow.
 
 ## Clean-Room Constraints
 

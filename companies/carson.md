@@ -3,7 +3,7 @@
 - Slug: `carson`
 - Batch: Winter 2026
 - Status: Active
-- Classification: `not-copyable`
+- Classification: `copyable`
 - Source: https://www.ycombinator.com/companies/carson
 - Website: https://usecarson.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
@@ -17,7 +17,7 @@ Carson is a desktop AI app that replaces the chat box by generating a custom, sh
 
 ## Classification Rationale
 
-Public description indicates dependency on biotech|bio|drug|therapeutic|gene|protein|dna|biology|cancer|life[- ]?sciences|pharma|biopharma|lab instruments|orthopedic|autoimmune. Public description indicates dependency on hardware|robot|drone|aerospace|satellite|space|nuclear|welding|manufactur|semiconductor|silicon|battery|radar|sensor|wearable|ultrasound|camera|vehicle|warehouse|farm|agriculture|cattle|fish|industrial facilities|cooling|solar|power grid|uranium|data centers|mechanical parts|3d ultrasound. Public description indicates dependency on fintech|bank|banking|payment|payroll|insurance|lending|loan|credit|brokerage|exchange|trading|trader|crypto|stablecoin|defi|wealth|cash|yield|finance-compliant|direct billing|in-app purchase|card at checkout|debit card|wallet.
+Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.
 
 ## Clean-Room Constraints
 
@@ -25,6 +25,10 @@ Public description indicates dependency on biotech|bio|drug|therapeutic|gene|pro
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Not-Copyable Boundary
+## Proposed Public Repository
 
-Do not create an implementation repository in this phase. Revisit only if public information later shows a safely separable pure-software subset.
+- Repository: `carson-public`
+
+## End-to-End Implementation Scope
+
+Build an original web app demonstrating carson is a desktop ai app that generates custom, sharable workspaces: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
