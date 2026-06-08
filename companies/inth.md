@@ -4,10 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/inth
 - Website: https://inth.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/87
+- Implementation Repository: https://github.com/PalmerMichaels/inth-public
+- Implementation Commit: `63581c900ecf3487019918f35209dfa53e3cf27e`
 
 ## Public Description
 
@@ -24,6 +27,13 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
+
+## Implementation Tracking
+
+- Status: `implemented`
+- Repository: https://github.com/PalmerMichaels/inth-public
+- Commit: `63581c900ecf3487019918f35209dfa53e3cf27e`
+- Notes: Pushed to main with scanner/dashboard/evidence demo.
 
 ## Proposed Public Repository
 

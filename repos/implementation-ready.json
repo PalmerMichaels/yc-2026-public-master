@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-06-08T16:24:22.799Z",
+  "generated_at": "2026-06-08T16:36:24.208Z",
   "source": "companies/index.json",
   "policy": "Implementation-ready entries are pure-software clean-room candidates. Do not create implementation repositories from this tracker worker; meta owns repo creation and worker fan-out to avoid duplicates.",
   "counts": {
-    "confirmed_ready": 2,
-    "ready": 277,
-    "total": 279
+    "implemented": 2,
+    "in_progress": 4,
+    "ready": 273,
+    "total_copyable": 279
   },
-  "confirmed_ready": [
+  "implemented": [
     {
       "slug": "napkin-math",
       "name": "Napkin Math",
@@ -19,7 +20,10 @@
       "proposed_repo": "napkin-math-public",
       "implementation_scope": "Build an original web app demonstrating the personalized ai food journal that people love to use.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification": "copyable",
-      "priority": "confirmed-ready"
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/napkin-math-public",
+      "implementation_commit": "0ec52453464fcec28986b08452249aebb8fac502",
+      "priority": "implemented"
     },
     {
       "slug": "inth",
@@ -32,12 +36,81 @@
       "proposed_repo": "inth-public",
       "implementation_scope": "Build an original web app demonstrating privacy compliance, enforced in code: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification": "copyable",
-      "priority": "confirmed-ready"
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/inth-public",
+      "implementation_commit": "63581c900ecf3487019918f35209dfa53e3cf27e",
+      "priority": "implemented"
+    }
+  ],
+  "in_progress": [
+    {
+      "slug": "agentphone",
+      "name": "AgentPhone",
+      "batch": "Spring 2026",
+      "issue_number": 8,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/8",
+      "source_url": "https://www.ycombinator.com/companies/agentphone",
+      "website": "https://agentphone.ai/",
+      "proposed_repo": "agentphone-public",
+      "implementation_scope": "Build an original web app demonstrating phone numbers for ai agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/agentphone-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "akkari",
+      "name": "Akkari",
+      "batch": "Spring 2026",
+      "issue_number": 10,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/10",
+      "source_url": "https://www.ycombinator.com/companies/akkari",
+      "website": "https://akkari.io/",
+      "proposed_repo": "akkari-public",
+      "implementation_scope": "Build an original web app demonstrating autonomous customer operations: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/akkari-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "amboras",
+      "name": "Amboras",
+      "batch": "Spring 2026",
+      "issue_number": 13,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/13",
+      "source_url": "https://www.ycombinator.com/companies/amboras",
+      "website": "https://amboras.com",
+      "proposed_repo": "amboras-public",
+      "implementation_scope": "Build an original web app demonstrating let ai sell your stuff on autopilot: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/amboras-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "andco",
+      "name": "Andco",
+      "batch": "Spring 2026",
+      "issue_number": 14,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/14",
+      "source_url": "https://www.ycombinator.com/companies/andco",
+      "website": "http://www.useandco.com",
+      "proposed_repo": "andco-public",
+      "implementation_scope": "Build an original web app demonstrating end-to-end case workups for personal injury firms.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/andco-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
     }
   ],
   "ready_batches": [
     {
-      "name": "confirmed-copyable-first",
+      "name": "implemented",
       "entries": [
         {
           "slug": "napkin-math",
@@ -50,7 +123,10 @@
           "proposed_repo": "napkin-math-public",
           "implementation_scope": "Build an original web app demonstrating the personalized ai food journal that people love to use.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
-          "priority": "confirmed-ready"
+          "implementation_status": "implemented",
+          "implementation_repo_url": "https://github.com/PalmerMichaels/napkin-math-public",
+          "implementation_commit": "0ec52453464fcec28986b08452249aebb8fac502",
+          "priority": "implemented"
         },
         {
           "slug": "inth",
@@ -63,12 +139,15 @@
           "proposed_repo": "inth-public",
           "implementation_scope": "Build an original web app demonstrating privacy compliance, enforced in code: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
-          "priority": "confirmed-ready"
+          "implementation_status": "implemented",
+          "implementation_repo_url": "https://github.com/PalmerMichaels/inth-public",
+          "implementation_commit": "63581c900ecf3487019918f35209dfa53e3cf27e",
+          "priority": "implemented"
         }
       ]
     },
     {
-      "name": "unambiguous-copyable",
+      "name": "in-progress",
       "entries": [
         {
           "slug": "agentphone",
@@ -81,7 +160,10 @@
           "proposed_repo": "agentphone-public",
           "implementation_scope": "Build an original web app demonstrating phone numbers for ai agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
-          "priority": "ready"
+          "implementation_status": "in-progress",
+          "implementation_repo_url": "https://github.com/PalmerMichaels/agentphone-public",
+          "implementation_commit": null,
+          "priority": "in-progress"
         },
         {
           "slug": "akkari",
@@ -94,7 +176,10 @@
           "proposed_repo": "akkari-public",
           "implementation_scope": "Build an original web app demonstrating autonomous customer operations: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
-          "priority": "ready"
+          "implementation_status": "in-progress",
+          "implementation_repo_url": "https://github.com/PalmerMichaels/akkari-public",
+          "implementation_commit": null,
+          "priority": "in-progress"
         },
         {
           "slug": "amboras",
@@ -107,7 +192,10 @@
           "proposed_repo": "amboras-public",
           "implementation_scope": "Build an original web app demonstrating let ai sell your stuff on autopilot: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
-          "priority": "ready"
+          "implementation_status": "in-progress",
+          "implementation_repo_url": "https://github.com/PalmerMichaels/amboras-public",
+          "implementation_commit": null,
+          "priority": "in-progress"
         },
         {
           "slug": "andco",
@@ -120,8 +208,16 @@
           "proposed_repo": "andco-public",
           "implementation_scope": "Build an original web app demonstrating end-to-end case workups for personal injury firms.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
-          "priority": "ready"
-        },
+          "implementation_status": "in-progress",
+          "implementation_repo_url": "https://github.com/PalmerMichaels/andco-public",
+          "implementation_commit": null,
+          "priority": "in-progress"
+        }
+      ]
+    },
+    {
+      "name": "ready-copyable",
+      "entries": [
         {
           "slug": "andustry",
           "name": "Andustry",
@@ -133,6 +229,9 @@
           "proposed_repo": "andustry-public",
           "implementation_scope": "Build an original web app demonstrating we help manufacturers find suppliers for industrial goods.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -146,6 +245,9 @@
           "proposed_repo": "aquashield-public",
           "implementation_scope": "Build an original web app demonstrating ai water leak detection for buildings: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -159,6 +261,9 @@
           "proposed_repo": "ara-public",
           "implementation_scope": "Build an original web app demonstrating ara is the self-driving ide for software teams.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -172,6 +277,9 @@
           "proposed_repo": "archer-public",
           "implementation_scope": "Build an original web app demonstrating ai-powered gifting for customer acquisition and retention: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -185,6 +293,9 @@
           "proposed_repo": "arctic-health-public",
           "implementation_scope": "Build an original web app demonstrating ai-native credentialing and contracting for healthcare: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -198,6 +309,9 @@
           "proposed_repo": "arden-public",
           "implementation_scope": "Build an original web app demonstrating ai agents that automate sox control testing.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -211,6 +325,9 @@
           "proposed_repo": "ardent-public",
           "implementation_scope": "Build an original web app demonstrating database sandboxes for agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -224,6 +341,9 @@
           "proposed_repo": "arga-labs-public",
           "implementation_scope": "Build an original web app demonstrating real-world sandboxes to test agents and agent-facing software: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -237,6 +357,9 @@
           "proposed_repo": "armature-public",
           "implementation_scope": "Build an original web app demonstrating armature helps companies monitor and optimize the agent experience.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -250,6 +373,9 @@
           "proposed_repo": "arzana-public",
           "implementation_scope": "Build an original web app demonstrating ai automation for the manufacturing office: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -263,6 +389,9 @@
           "proposed_repo": "asendia-ai-public",
           "implementation_scope": "Build an original web app demonstrating ai recruiters for staffing agencies: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -276,6 +405,9 @@
           "proposed_repo": "asterlab-public",
           "implementation_scope": "Build an original web app demonstrating the first ai-native ai research lab: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -289,6 +421,9 @@
           "proposed_repo": "atrisa-public",
           "implementation_scope": "Build an original web app demonstrating ai agents for analog circuit design: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -302,6 +437,9 @@
           "proposed_repo": "auxos-public",
           "implementation_scope": "Build an original web app demonstrating simulations of real people for market research: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -315,6 +453,9 @@
           "proposed_repo": "bentolabs-ai-public",
           "implementation_scope": "Build an original web app demonstrating monitoring and learning layer for long-running agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -328,6 +469,9 @@
           "proposed_repo": "biostack-platforms-public",
           "implementation_scope": "Build an original web app demonstrating real world training envs for healthcare ai models: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -341,6 +485,9 @@
           "proposed_repo": "callab-ai-public",
           "implementation_scope": "Build an original web app demonstrating ai voice agents for on-prem telephony stack.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -354,6 +501,9 @@
           "proposed_repo": "centralcoms-public",
           "implementation_scope": "Build an original web app demonstrating ai agents for property management: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -367,6 +517,9 @@
           "proposed_repo": "characterquilt-public",
           "implementation_scope": "Build an original web app demonstrating ai infrastructure for marketers. ship campaigns in your tools in an…: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -380,6 +533,9 @@
           "proposed_repo": "chert-public",
           "implementation_scope": "Build an original web app demonstrating imessage infrastructure for trusted communication at scale: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -393,6 +549,9 @@
           "proposed_repo": "chronicle-labs-public",
           "implementation_scope": "Build an original web app demonstrating staging environments for enterprise ai agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -406,6 +565,9 @@
           "proposed_repo": "cignara-public",
           "implementation_scope": "Build an original web app demonstrating ai agents for fortune 500 grade customer support: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -419,6 +581,9 @@
           "proposed_repo": "clara-2-public",
           "implementation_scope": "Build an original web app demonstrating ai primary care doctor: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -432,6 +597,9 @@
           "proposed_repo": "clawvisor-public",
           "implementation_scope": "Build an original web app demonstrating the authorization layer for ai agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -445,6 +613,9 @@
           "proposed_repo": "cohesion-public",
           "implementation_scope": "Build an original web app demonstrating your public equities agentic teammate: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -458,6 +629,9 @@
           "proposed_repo": "complir-public",
           "implementation_scope": "Build an original web app demonstrating vanta for physical products: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -471,6 +645,9 @@
           "proposed_repo": "datost-public",
           "implementation_scope": "Build an original web app demonstrating the proactive ai data analyst: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -484,6 +661,9 @@
           "proposed_repo": "dayjob-public",
           "implementation_scope": "Build an original web app demonstrating ai scheduling for short haul trucks: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -497,6 +677,9 @@
           "proposed_repo": "deep-interactions-public",
           "implementation_scope": "Build an original web app demonstrating collaborative ai app builder for teams: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -510,6 +693,9 @@
           "proposed_repo": "drafted-public",
           "implementation_scope": "Build an original web app demonstrating design your home instantly with ai: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -523,6 +709,9 @@
           "proposed_repo": "drippay-public",
           "implementation_scope": "Build an original web app demonstrating ai that books meetings for you: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -536,6 +725,9 @@
           "proposed_repo": "elyra-public",
           "implementation_scope": "Build an original web app demonstrating ai reservation system for restaurants: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -549,6 +741,9 @@
           "proposed_repo": "expanse-public",
           "implementation_scope": "Build an original web app demonstrating unlock wasted gpu capacity.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -562,6 +757,9 @@
           "proposed_repo": "flowscope-public",
           "implementation_scope": "Build an original web app demonstrating ai-native consulting to map and automate business processes: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -575,6 +773,9 @@
           "proposed_repo": "foaster-public",
           "implementation_scope": "Build an original web app demonstrating the ai-native consulting firm for ai transformation.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -588,6 +789,9 @@
           "proposed_repo": "foresight-public",
           "implementation_scope": "Build an original web app demonstrating on-demand consumer insights: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -601,6 +805,9 @@
           "proposed_repo": "framewise-health-public",
           "implementation_scope": "Build an original web app demonstrating ai-native patient engagement: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -614,6 +821,9 @@
           "proposed_repo": "gigacatalyst-public",
           "implementation_scope": "Build an original web app demonstrating customize your software to every user with ai: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -627,6 +837,9 @@
           "proposed_repo": "godhands-public",
           "implementation_scope": "Build an original web app demonstrating deterministic computer use infra for ai agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -640,6 +853,9 @@
           "proposed_repo": "gojiberry-ai-public",
           "implementation_scope": "Build an original web app demonstrating ai gtm agents for b2b teams: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -653,6 +869,9 @@
           "proposed_repo": "govguard-public",
           "implementation_scope": "Build an original web app demonstrating automating government workflows, starting with foia: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -666,6 +885,9 @@
           "proposed_repo": "gravy-public",
           "implementation_scope": "Build an original web app demonstrating ai agent for your personal finances.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -679,6 +901,9 @@
           "proposed_repo": "hessian-public",
           "implementation_scope": "Build an original web app demonstrating forward-deployed ai agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -692,6 +917,9 @@
           "proposed_repo": "hexa-public",
           "implementation_scope": "Build an original web app demonstrating autonomous operations for industrial distributors: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -705,6 +933,9 @@
           "proposed_repo": "heyclicky-public",
           "implementation_scope": "Build an original web app demonstrating an ai buddy that lives on your mac.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -718,6 +949,9 @@
           "proposed_repo": "humwork-public",
           "implementation_scope": "Build an original web app demonstrating connect ai agents to human experts in 30 seconds: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -731,6 +965,9 @@
           "proposed_repo": "huscarl-inc-public",
           "implementation_scope": "Build an original web app demonstrating actuarial intelligence for corporate risk managers: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -744,6 +981,9 @@
           "proposed_repo": "hyper-4-public",
           "implementation_scope": "Build an original web app demonstrating the self-driving company brain: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -757,6 +997,9 @@
           "proposed_repo": "imperfect-public",
           "implementation_scope": "Build an original web app demonstrating ai coach for athletes with real lives and epic goals: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -770,6 +1013,9 @@
           "proposed_repo": "incandor-public",
           "implementation_scope": "Build an original web app demonstrating behavioral intelligence infrastructure for anti-fraud: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -783,6 +1029,9 @@
           "proposed_repo": "insforge-public",
           "implementation_scope": "Build an original web app demonstrating the agent-native cloud infrastructure platform: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -796,6 +1045,9 @@
           "proposed_repo": "instaagent-public",
           "implementation_scope": "Build an original web app demonstrating scale marketing campaigns across hundreds of personas: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -809,6 +1061,9 @@
           "proposed_repo": "interfaze-public",
           "implementation_scope": "Build an original web app demonstrating ai model built for deterministic developer tasks like ocr: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -822,6 +1077,9 @@
           "proposed_repo": "jo-public",
           "implementation_scope": "Build an original web app demonstrating a new personal ai that actually knows you.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -835,6 +1093,9 @@
           "proposed_repo": "juno-chat-public",
           "implementation_scope": "Build an original web app demonstrating ai health assistant for chronic illness: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -848,6 +1109,9 @@
           "proposed_repo": "kelai-public",
           "implementation_scope": "Build an original web app demonstrating the ai quant: autonomous alpha engine for funds and traders.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -861,6 +1125,9 @@
           "proposed_repo": "keyframe-labs-public",
           "implementation_scope": "Build an original web app demonstrating turn agents into lifelike video calls. $0.06 a minute.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -874,6 +1141,9 @@
           "proposed_repo": "kimpton-ai-public",
           "implementation_scope": "Build an original web app demonstrating ai-native investment research: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -887,6 +1157,9 @@
           "proposed_repo": "kinect-public",
           "implementation_scope": "Build an original web app demonstrating brand layer for ai native commerce: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -900,6 +1173,9 @@
           "proposed_repo": "kinro-public",
           "implementation_scope": "Build an original web app demonstrating ai sales agents for insurance. sell everywhere your buyers are.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -913,6 +1189,9 @@
           "proposed_repo": "klarify-public",
           "implementation_scope": "Build an original web app demonstrating ai agent for therapists: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -926,6 +1205,9 @@
           "proposed_repo": "korso-public",
           "implementation_scope": "Build an original web app demonstrating the intelligence layer for manufacturing.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -939,6 +1221,9 @@
           "proposed_repo": "kugelaudio-public",
           "implementation_scope": "Build an original web app demonstrating kugel is an on-prem enterprise tts supporting 25+ languages: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -952,6 +1237,9 @@
           "proposed_repo": "kuli-public",
           "implementation_scope": "Build an original web app demonstrating ai coworker for marketing teams at the largest consumer brands: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -965,6 +1253,9 @@
           "proposed_repo": "lab0-public",
           "implementation_scope": "Build an original web app demonstrating automated forward-deployed engineers (ai fdes): onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -978,6 +1269,9 @@
           "proposed_repo": "lamina-labs-public",
           "implementation_scope": "Build an original web app demonstrating near-real-time structured video generation infrastructure for llms: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -991,6 +1285,9 @@
           "proposed_repo": "lattice-health-public",
           "implementation_scope": "Build an original web app demonstrating monitoring and governance for deployed medical imaging ai: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1004,6 +1301,9 @@
           "proposed_repo": "light-anchor-public",
           "implementation_scope": "Build an original web app demonstrating ai-run consumer brands: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1017,6 +1317,9 @@
           "proposed_repo": "lightsprint-public",
           "implementation_scope": "Build an original web app demonstrating collaborative product development platform: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1030,6 +1333,9 @@
           "proposed_repo": "limrun-public",
           "implementation_scope": "Build an original web app demonstrating extend your cloud agent with xcode, android and more: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1043,6 +1349,9 @@
           "proposed_repo": "manicule-public",
           "implementation_scope": "Build an original web app demonstrating ai native developer relations: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1056,6 +1365,9 @@
           "proposed_repo": "memoir-public",
           "implementation_scope": "Build an original web app demonstrating ai cmo for software companies: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1069,6 +1381,9 @@
           "proposed_repo": "memory-store-public",
           "implementation_scope": "Build an original web app demonstrating shared context for all of your team's agents.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1082,6 +1397,9 @@
           "proposed_repo": "minicor-public",
           "implementation_scope": "Build an original web app demonstrating rpa platform for deploying ai into legacy desktop systems: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1095,6 +1413,9 @@
           "proposed_repo": "miso-labs-public",
           "implementation_scope": "Build an original web app demonstrating the most emotive foundation models for voice: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1108,6 +1429,9 @@
           "proposed_repo": "netter-public",
           "implementation_scope": "Build an original web app demonstrating ai native palantir for mid market.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1121,6 +1445,9 @@
           "proposed_repo": "21st-public",
           "implementation_scope": "Build an original web app demonstrating infrastructure and ui building blocks for the agentic internet: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1134,6 +1461,9 @@
           "proposed_repo": "aemon-public",
           "implementation_scope": "Build an original web app demonstrating the forward-deployed ai research engineer: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1147,6 +1477,9 @@
           "proposed_repo": "agentic-fabriq-public",
           "implementation_scope": "Build an original web app demonstrating okta for agents.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1160,6 +1493,9 @@
           "proposed_repo": "alt-x-public",
           "implementation_scope": "Build an original web app demonstrating automation for institutional-grade financial modeling in excel: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1173,6 +1509,9 @@
           "proposed_repo": "approxima-public",
           "implementation_scope": "Build an original web app demonstrating your software should build itself.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1186,6 +1525,9 @@
           "proposed_repo": "archal-public",
           "implementation_scope": "Build an original web app demonstrating the eval platform for autonomous software: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1199,6 +1541,9 @@
           "proposed_repo": "ashr-public",
           "implementation_scope": "Build an original web app demonstrating automated multi-modal testing for agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1212,6 +1557,9 @@
           "proposed_repo": "aurorin-cad-public",
           "implementation_scope": "Build an original web app demonstrating claude code for mechanical engineers: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1225,6 +1573,9 @@
           "proposed_repo": "autositu-public",
           "implementation_scope": "Build an original web app demonstrating ai-native workspace for development plan reviews: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1238,6 +1589,9 @@
           "proposed_repo": "autumn-ai-public",
           "implementation_scope": "Build an original web app demonstrating stalk your prospects at scale.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1251,6 +1605,9 @@
           "proposed_repo": "avoice-public",
           "implementation_scope": "Build an original web app demonstrating harvey for architecture: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1264,6 +1621,9 @@
           "proposed_repo": "axis-2-public",
           "implementation_scope": "Build an original web app demonstrating an ai copilot for trading desks: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1277,6 +1637,9 @@
           "proposed_repo": "baseframe-public",
           "implementation_scope": "Build an original web app demonstrating detect what ai can automate for your team: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1290,6 +1653,9 @@
           "proposed_repo": "beacon-health-public",
           "implementation_scope": "Build an original web app demonstrating ai employees for primary care: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1303,6 +1669,9 @@
           "proposed_repo": "bidflow-public",
           "implementation_scope": "Build an original web app demonstrating ai takeoffs for electrical: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1316,6 +1685,9 @@
           "proposed_repo": "booko-public",
           "implementation_scope": "Build an original web app demonstrating dynamically pricing the whole economy.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1329,6 +1701,9 @@
           "proposed_repo": "brownie-public",
           "implementation_scope": "Build an original web app demonstrating ai sre agent that triages, coordinates, and fixes production incidents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1342,6 +1717,9 @@
           "proposed_repo": "bubble-lab-public",
           "implementation_scope": "Build an original web app demonstrating prompt once, automate forever.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1355,6 +1733,9 @@
           "proposed_repo": "burt-public",
           "implementation_scope": "Build an original web app demonstrating ai teammates for logistics: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1368,6 +1749,9 @@
           "proposed_repo": "cajal-technologies-public",
           "implementation_scope": "Build an original web app demonstrating scaling formal verification to accelerate scientific discovery: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1381,6 +1765,9 @@
           "proposed_repo": "canary-public",
           "implementation_scope": "Build an original web app demonstrating the first ai qa engineer that understands your code: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1394,6 +1781,9 @@
           "proposed_repo": "captain-public",
           "implementation_scope": "Build an original web app demonstrating give ai agents accurate knowledge search that scales: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1407,6 +1797,9 @@
           "proposed_repo": "cardboard-public",
           "implementation_scope": "Build an original web app demonstrating agentic video editor: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1420,6 +1813,9 @@
           "proposed_repo": "care-gp-public",
           "implementation_scope": "Build an original web app demonstrating ai agents to run primary healthcare operations: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1433,6 +1829,9 @@
           "proposed_repo": "caretta-public",
           "implementation_scope": "Build an original web app demonstrating realtime ai for sales calls: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1446,6 +1845,9 @@
           "proposed_repo": "carrot-labs-public",
           "implementation_scope": "Build an original web app demonstrating ai cost management: track and attribute ai spend across every provider: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1459,6 +1861,9 @@
           "proposed_repo": "carson-public",
           "implementation_scope": "Build an original web app demonstrating carson is a desktop ai app that generates custom, sharable workspaces: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1472,6 +1877,9 @@
           "proposed_repo": "cascade-public",
           "implementation_scope": "Build an original web app demonstrating distilling proprietary intelligence: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1485,6 +1893,9 @@
           "proposed_repo": "catchback-cards-public",
           "implementation_scope": "Build an original web app demonstrating the most thrilling way to create and rip digital collectible packs: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1498,6 +1909,9 @@
           "proposed_repo": "cerenovus-public",
           "implementation_scope": "Build an original web app demonstrating aggregate company knowledge and make inferences: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1511,6 +1925,9 @@
           "proposed_repo": "chamber-public",
           "implementation_scope": "Build an original web app demonstrating the aiops agent for ml teams: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1524,6 +1941,9 @@
           "proposed_repo": "chasi-public",
           "implementation_scope": "Build an original web app demonstrating ai revenue engine for the equipment industry: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1537,6 +1957,9 @@
           "proposed_repo": "claimglide-public",
           "implementation_scope": "Build an original web app demonstrating ai automated prior-auths for private medical practices: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1550,6 +1973,9 @@
           "proposed_repo": "codag-public",
           "implementation_scope": "Build an original web app demonstrating systems log compression for agents.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1563,6 +1989,9 @@
           "proposed_repo": "codewisp-public",
           "implementation_scope": "Build an original web app demonstrating anyone can create real games with ai: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1576,6 +2005,9 @@
           "proposed_repo": "cofia-public",
           "implementation_scope": "Build an original web app demonstrating ai automations that implement themselves: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1589,6 +2021,9 @@
           "proposed_repo": "compresr-public",
           "implementation_scope": "Build an original web app demonstrating llm context compression for better accuracy: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1602,6 +2037,9 @@
           "proposed_repo": "condor-energy-public",
           "implementation_scope": "Build an original web app demonstrating software for enterprise energy procurement.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1615,6 +2053,9 @@
           "proposed_repo": "confluence-labs-public",
           "implementation_scope": "Build an original web app demonstrating ai models that learn from experience: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1628,6 +2069,9 @@
           "proposed_repo": "contextdev-public",
           "implementation_scope": "Build an original web app demonstrating we give ai agents realtime web context.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1641,6 +2085,9 @@
           "proposed_repo": "corelayer-public",
           "implementation_scope": "Build an original web app demonstrating ai on-call engineer for data-heavy, regulated industries: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1654,6 +2101,9 @@
           "proposed_repo": "corvera-public",
           "implementation_scope": "Build an original web app demonstrating the context layer for ai-native cpg brands: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1667,6 +2117,9 @@
           "proposed_repo": "crow-public",
           "implementation_scope": "Build an original web app demonstrating ai for commercial real estate: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1680,6 +2133,9 @@
           "proposed_repo": "cumulus-labs-public",
           "implementation_scope": "Build an original web app demonstrating the fastest multimodal inference os: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1693,6 +2149,9 @@
           "proposed_repo": "docura-health-public",
           "implementation_scope": "Build an original web app demonstrating ai-native med-legal firm: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1706,6 +2165,9 @@
           "proposed_repo": "doomersion-public",
           "implementation_scope": "Build an original web app demonstrating doomscroll to learn languages: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1719,6 +2181,9 @@
           "proposed_repo": "eigenpal-public",
           "implementation_scope": "Build an original web app demonstrating ai document workflows for enterprises: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1732,6 +2197,9 @@
           "proposed_repo": "emdash-public",
           "implementation_scope": "Build an original web app demonstrating open-source agentic development environment: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1745,6 +2213,9 @@
           "proposed_repo": "end-close-public",
           "implementation_scope": "Build an original web app demonstrating ai powered reconciliation for high-volume payments companies: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1758,6 +2229,9 @@
           "proposed_repo": "envariant-public",
           "implementation_scope": "Build an original web app demonstrating interpretability and reasoning infra for foundation models.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1771,6 +2245,9 @@
           "proposed_repo": "eos-ai-public",
           "implementation_scope": "Build an original web app demonstrating autonomous os for healthcare: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1784,6 +2261,9 @@
           "proposed_repo": "fed10-public",
           "implementation_scope": "Build an original web app demonstrating ai agents for government affairs: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1797,6 +2277,9 @@
           "proposed_repo": "fixture-public",
           "implementation_scope": "Build an original web app demonstrating an ai-first crm built for startups: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1810,6 +2293,9 @@
           "proposed_repo": "foreman-public",
           "implementation_scope": "Build an original web app demonstrating keeping contractors on the job site, not behind a desk.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1823,6 +2309,9 @@
           "proposed_repo": "fullseam-public",
           "implementation_scope": "Build an original web app demonstrating ai agents for corporate accounting teams: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1836,6 +2325,9 @@
           "proposed_repo": "general-legal-public",
           "implementation_scope": "Build an original web app demonstrating the ai native law firm for growth stage companies: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1849,6 +2341,9 @@
           "proposed_repo": "getbalance-public",
           "implementation_scope": "Build an original web app demonstrating full-stack ai accounting: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1862,6 +2357,9 @@
           "proposed_repo": "glue-public",
           "implementation_scope": "Build an original web app demonstrating the interface design canvas for ai agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1875,6 +2373,9 @@
           "proposed_repo": "haladir-public",
           "implementation_scope": "Build an original web app demonstrating operational superintelligence for global logistics: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1888,6 +2389,9 @@
           "proposed_repo": "hex-security-public",
           "implementation_scope": "Build an original web app demonstrating agentic offensive security at scale: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1901,6 +2405,9 @@
           "proposed_repo": "inventoryquant-public",
           "implementation_scope": "Build an original web app demonstrating we automate the inventory process in insurance: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1914,6 +2421,9 @@
           "proposed_repo": "jinba-public",
           "implementation_scope": "Build an original web app demonstrating automate enterprise workflows through chat: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1927,6 +2437,9 @@
           "proposed_repo": "kita-public",
           "implementation_scope": "Build an original web app demonstrating automate credit review for lenders in emerging markets: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1940,6 +2453,9 @@
           "proposed_repo": "klaus-ai-public",
           "implementation_scope": "Build an original web app demonstrating fast and safe openclaw on the cloud: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1953,6 +2469,9 @@
           "proposed_repo": "lance-public",
           "implementation_scope": "Build an original web app demonstrating ai agents that run hotel operations.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1966,6 +2485,9 @@
           "proposed_repo": "laurence-public",
           "implementation_scope": "Build an original web app demonstrating hedge fund for ads: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1979,6 +2501,9 @@
           "proposed_repo": "legalos-public",
           "implementation_scope": "Build an original web app demonstrating the ai-native immigration law firm: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -1992,6 +2517,9 @@
           "proposed_repo": "librar-labs-public",
           "implementation_scope": "Build an original web app demonstrating intelligence for cultural institutions: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2005,6 +2533,9 @@
           "proposed_repo": "lucent-public",
           "implementation_scope": "Build an original web app demonstrating ai that automatically improves products from user behavior: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2018,6 +2549,9 @@
           "proposed_repo": "luel-public",
           "implementation_scope": "Build an original web app demonstrating turning everyday words and actions into usable training data.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2031,6 +2565,9 @@
           "proposed_repo": "mantis-public",
           "implementation_scope": "Build an original web app demonstrating digital twins of humans: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2044,6 +2581,9 @@
           "proposed_repo": "martini-public",
           "implementation_scope": "Build an original web app demonstrating ai video production for professionals: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2057,6 +2597,9 @@
           "proposed_repo": "maywood-public",
           "implementation_scope": "Build an original web app demonstrating the first finance-compliant proactive ai that runs 24/7: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2070,6 +2613,9 @@
           "proposed_repo": "mendral-public",
           "implementation_scope": "Build an original web app demonstrating ai devops engineer: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2083,6 +2629,9 @@
           "proposed_repo": "menza-public",
           "implementation_scope": "Build an original web app demonstrating the ai data analyst for consumer brands: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2096,6 +2645,9 @@
           "proposed_repo": "mochacare-public",
           "implementation_scope": "Build an original web app demonstrating agentic management service for care organizations: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2109,6 +2661,9 @@
           "proposed_repo": "moda-public",
           "implementation_scope": "Build an original web app demonstrating the monitoring layer your ai agents need.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2122,6 +2677,9 @@
           "proposed_repo": "moritz-public",
           "implementation_scope": "Build an original web app demonstrating global ai-native law firm handling legal work with same-day turnaround: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2135,6 +2693,9 @@
           "proposed_repo": "mousecat-public",
           "implementation_scope": "Build an original web app demonstrating ai-powered fraud investigations: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2148,6 +2709,9 @@
           "proposed_repo": "o11-public",
           "implementation_scope": "Build an original web app demonstrating the ai agent inside every enterprise app: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2161,6 +2725,9 @@
           "proposed_repo": "oddpool-public",
           "implementation_scope": "Build an original web app demonstrating institutional infrastructure for prediction markets: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2174,6 +2741,9 @@
           "proposed_repo": "ontora-public",
           "implementation_scope": "Build an original web app demonstrating ai agents that interview every employee to map how work gets done.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2187,6 +2757,9 @@
           "proposed_repo": "opalite-health-public",
           "implementation_scope": "Build an original web app demonstrating helping healthcare providers speak any language: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2200,6 +2773,9 @@
           "proposed_repo": "openprose-public",
           "implementation_scope": "Build an original web app demonstrating open-source infrastructure for reliable long-running agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2213,6 +2789,9 @@
           "proposed_repo": "openspec-public",
           "implementation_scope": "Build an original web app demonstrating plan mode for complex features: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2226,6 +2805,9 @@
           "proposed_repo": "openwork-public",
           "implementation_scope": "Build an original web app demonstrating the open source alternative to claude cowork: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2239,6 +2821,9 @@
           "proposed_repo": "orthogonal-public",
           "implementation_scope": "Build an original web app demonstrating agentic payments for apis: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2252,6 +2837,9 @@
           "proposed_repo": "overdrive-health-public",
           "implementation_scope": "Build an original web app demonstrating ai-native medical billing services: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2265,6 +2853,9 @@
           "proposed_repo": "oximy-public",
           "implementation_scope": "Build an original web app demonstrating see and control all ai activity across your enterprise: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2278,6 +2869,9 @@
           "proposed_repo": "pairio-public",
           "implementation_scope": "Build an original web app demonstrating ai-native industrial maintenance software: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2291,6 +2885,9 @@
           "proposed_repo": "patientdeskai-public",
           "implementation_scope": "Build an original web app demonstrating ai front & back office agent for dental practices: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2304,6 +2901,9 @@
           "proposed_repo": "pavoot-public",
           "implementation_scope": "Build an original web app demonstrating ai event manager for customer events: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2317,6 +2917,9 @@
           "proposed_repo": "pax-historia-public",
           "implementation_scope": "Build an original web app demonstrating the first ai-powered grand strategy platform: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2330,6 +2933,9 @@
           "proposed_repo": "pentagon-public",
           "implementation_scope": "Build an original web app demonstrating a coordination layer for humans and agents.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2343,6 +2949,9 @@
           "proposed_repo": "perfectly-public",
           "implementation_scope": "Build an original web app demonstrating the ai-native recruiting os: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2356,6 +2965,9 @@
           "proposed_repo": "plan0-ai-public",
           "implementation_scope": "Build an original web app demonstrating ai native construction cost estimation & analytics.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2369,6 +2981,9 @@
           "proposed_repo": "playablai-public",
           "implementation_scope": "Build an original web app demonstrating tiktok for user-generated games: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2382,6 +2997,9 @@
           "proposed_repo": "plena-health-public",
           "implementation_scope": "Build an original web app demonstrating plena is the ai operating system for specialty medical practices: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2395,6 +3013,9 @@
           "proposed_repo": "pollen-public",
           "implementation_scope": "Build an original web app demonstrating ai agents that automate customer success: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2408,6 +3029,9 @@
           "proposed_repo": "pollinate-public",
           "implementation_scope": "Build an original web app demonstrating ai agents for the supply chain.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2421,6 +3045,9 @@
           "proposed_repo": "polymath-public",
           "implementation_scope": "Build an original web app demonstrating simulation environments to train & evaluate long-horizon ai agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2434,6 +3061,9 @@
           "proposed_repo": "polymorph-public",
           "implementation_scope": "Build an original web app demonstrating personalization infra that improves retention, ltv, and cac: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2447,6 +3077,9 @@
           "proposed_repo": "pops-public",
           "implementation_scope": "Build an original web app demonstrating create & play ai games with friends: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2460,6 +3093,9 @@
           "proposed_repo": "prana-health-public",
           "implementation_scope": "Build an original web app demonstrating an ai primary care doctor in your pocket: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2473,6 +3109,9 @@
           "proposed_repo": "primitive-public",
           "implementation_scope": "Build an original web app demonstrating communication for agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2486,6 +3125,9 @@
           "proposed_repo": "q2q-public",
           "implementation_scope": "Build an original web app demonstrating we help private equity teams find acquisition targets faster: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2499,6 +3141,9 @@
           "proposed_repo": "qomplement-public",
           "implementation_scope": "Build an original web app demonstrating the agentic erp for supply chain operations: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2512,6 +3157,9 @@
           "proposed_repo": "ramain-public",
           "implementation_scope": "Build an original web app demonstrating automate any ui task with natural language: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2525,6 +3173,9 @@
           "proposed_repo": "realpact-public",
           "implementation_scope": "Build an original web app demonstrating ai-native os for real estate brokerages: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2538,6 +3189,9 @@
           "proposed_repo": "reasonblocks-public",
           "implementation_scope": "Build an original web app demonstrating the runtime layer that makes ai agents cheaper and more reliable: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2551,6 +3205,9 @@
           "proposed_repo": "regbase-public",
           "implementation_scope": "Build an original web app demonstrating the source of truth for global and local regulation: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2564,6 +3221,9 @@
           "proposed_repo": "remix-3-public",
           "implementation_scope": "Build an original web app demonstrating social media content auto-generated with your existing data: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2577,6 +3237,9 @@
           "proposed_repo": "rentahuman-public",
           "implementation_scope": "Build an original web app demonstrating marketplace for ai agents to hire humans.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2590,6 +3253,9 @@
           "proposed_repo": "replicas-public",
           "implementation_scope": "Build an original web app demonstrating run any coding agent harness in the cloud: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2603,6 +3269,9 @@
           "proposed_repo": "ressl-ai-public",
           "implementation_scope": "Build an original web app demonstrating ai workers for field services: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2616,6 +3285,9 @@
           "proposed_repo": "result-public",
           "implementation_scope": "Build an original web app demonstrating where new internet entrepreneurs build and run their companies: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2629,6 +3301,9 @@
           "proposed_repo": "rev1-public",
           "implementation_scope": "Build an original web app demonstrating claude code for mechanical engineers: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2642,6 +3317,9 @@
           "proposed_repo": "revion-public",
           "implementation_scope": "Build an original web app demonstrating intelligence for automotive operations: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2655,6 +3333,9 @@
           "proposed_repo": "revnu-public",
           "implementation_scope": "Build an original web app demonstrating the ai that replaces your growth team: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2668,6 +3349,9 @@
           "proposed_repo": "rex-inc-public",
           "implementation_scope": "Build an original web app demonstrating ai operations partner for enterprise order to cash: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2681,6 +3365,9 @@
           "proposed_repo": "rhizome-ai-public",
           "implementation_scope": "Build an original web app demonstrating agent platform for life sciences: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2694,6 +3381,9 @@
           "proposed_repo": "robby-public",
           "implementation_scope": "Build an original web app demonstrating ai agents that grow revenue for home services businesses: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2707,6 +3397,9 @@
           "proposed_repo": "rubric-ai-public",
           "implementation_scope": "Build an original web app demonstrating reasoning and verification infra for ai: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2720,6 +3413,9 @@
           "proposed_repo": "rudus-public",
           "implementation_scope": "Build an original web app demonstrating ai takeoffs for concrete: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2733,6 +3429,9 @@
           "proposed_repo": "ruma-care-public",
           "implementation_scope": "Build an original web app demonstrating the operations stack for biologic infusion clinics: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2746,6 +3445,9 @@
           "proposed_repo": "runanywhere-public",
           "implementation_scope": "Build an original web app demonstrating the default way of running on-device ai at scale: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2759,6 +3461,9 @@
           "proposed_repo": "runharbor-public",
           "implementation_scope": "Build an original web app demonstrating ai-native cro for clinical trial operations: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2772,6 +3477,9 @@
           "proposed_repo": "runtime-public",
           "implementation_scope": "Build an original web app demonstrating sandboxed coding agents for everyone on your team.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2785,6 +3493,9 @@
           "proposed_repo": "saffron-public",
           "implementation_scope": "Build an original web app demonstrating helping your company find 10x engineers.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2798,6 +3509,9 @@
           "proposed_repo": "salesgraph-public",
           "implementation_scope": "Build an original web app demonstrating the context layer for fast moving sales teams: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2811,6 +3525,9 @@
           "proposed_repo": "salus-public",
           "implementation_scope": "Build an original web app demonstrating guardrails to validate your agent's actions before they execute: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2824,6 +3541,9 @@
           "proposed_repo": "samora-ai-public",
           "implementation_scope": "Build an original web app demonstrating multilingual voice agents that outperform humans: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2837,6 +3557,9 @@
           "proposed_repo": "saudara-ai-public",
           "implementation_scope": "Build an original web app demonstrating ai native sourcing broker for overseas manufacturing: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2850,6 +3573,9 @@
           "proposed_repo": "sazabi-public",
           "implementation_scope": "Build an original web app demonstrating the ai-native observability platform for fast-moving engineering…: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2863,6 +3589,9 @@
           "proposed_repo": "scheduling-wizard-public",
           "implementation_scope": "Build an original web app demonstrating logistics infrastructure to modernize healthcare operations: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2876,6 +3605,9 @@
           "proposed_repo": "scope-public",
           "implementation_scope": "Build an original web app demonstrating the infra layer for ai agent experience.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2889,6 +3621,9 @@
           "proposed_repo": "sentrial-public",
           "implementation_scope": "Build an original web app demonstrating datadog for agent reliability: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2902,6 +3637,9 @@
           "proposed_repo": "sherpa-public",
           "implementation_scope": "Build an original web app demonstrating turn more website visitors into customers: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2915,6 +3653,9 @@
           "proposed_repo": "shortkit-public",
           "implementation_scope": "Build an original web app demonstrating media infra for consumer apps: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2928,6 +3669,9 @@
           "proposed_repo": "signals-public",
           "implementation_scope": "Build an original web app demonstrating proactive ai customer support that engages high-value users: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2941,6 +3685,9 @@
           "proposed_repo": "sila-public",
           "implementation_scope": "Build an original web app demonstrating ai work messaging & collaboration platform: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2954,6 +3701,9 @@
           "proposed_repo": "sitefire-public",
           "implementation_scope": "Build an original web app demonstrating marketing suite for the agentic web: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2967,6 +3717,9 @@
           "proposed_repo": "skillsync-public",
           "implementation_scope": "Build an original web app demonstrating hire engineers based on what they’ve shipped: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2980,6 +3733,9 @@
           "proposed_repo": "smartbase-public",
           "implementation_scope": "Build an original web app demonstrating ai-native erp for manufacturers: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -2993,6 +3749,9 @@
           "proposed_repo": "smol-machines-public",
           "implementation_scope": "Build an original web app demonstrating ship software faster with portable, self contained virtual machines.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3006,6 +3765,9 @@
           "proposed_repo": "sonarly-public",
           "implementation_scope": "Build an original web app demonstrating makes software self-healing: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3019,6 +3781,9 @@
           "proposed_repo": "soria-public",
           "implementation_scope": "Build an original web app demonstrating ai bloomberg terminal built for healthcare (and beyond): onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3032,6 +3797,9 @@
           "proposed_repo": "sparkles-public",
           "implementation_scope": "Build an original web app demonstrating make everyone on your team an engineer: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3045,6 +3813,9 @@
           "proposed_repo": "stablebrowse-public",
           "implementation_scope": "Build an original web app demonstrating browser layer for ai agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3058,6 +3829,9 @@
           "proposed_repo": "stage-public",
           "implementation_scope": "Build an original web app demonstrating code review platform for humans and agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3071,6 +3845,9 @@
           "proposed_repo": "standard-signal-public",
           "implementation_scope": "Build an original web app demonstrating hedge fund where ai researches and executes every trade: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3084,6 +3861,9 @@
           "proposed_repo": "standout-public",
           "implementation_scope": "Build an original web app demonstrating agentic hiring marketplace: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3097,6 +3877,9 @@
           "proposed_repo": "stilta-public",
           "implementation_scope": "Build an original web app demonstrating agentic ai for intellectual property: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3110,6 +3893,9 @@
           "proposed_repo": "supafax-public",
           "implementation_scope": "Build an original web app demonstrating ai assistant for your email and calendar: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3123,6 +3909,9 @@
           "proposed_repo": "superlog-public",
           "implementation_scope": "Build an original web app demonstrating observability that installs itself and fixes the bugs it finds.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3136,6 +3925,9 @@
           "proposed_repo": "superset-public",
           "implementation_scope": "Build an original web app demonstrating the ide for the ai agents era: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3149,6 +3941,9 @@
           "proposed_repo": "synthetic-sciences-public",
           "implementation_scope": "Build an original web app demonstrating foundation models for scientific research: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3162,6 +3957,9 @@
           "proposed_repo": "syntropy-public",
           "implementation_scope": "Build an original web app demonstrating the agentic coding app for complex tasks.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3175,6 +3973,9 @@
           "proposed_repo": "taiga-public",
           "implementation_scope": "Build an original web app demonstrating autonomous medical billing: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3188,6 +3989,9 @@
           "proposed_repo": "takecareos-public",
           "implementation_scope": "Build an original web app demonstrating ai-native operating system for long term care providers: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3201,6 +4005,9 @@
           "proposed_repo": "talking-computers-public",
           "implementation_scope": "Build an original web app demonstrating ai for ai infrastructure: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3214,6 +4021,9 @@
           "proposed_repo": "tasklet-2-public",
           "implementation_scope": "Build an original web app demonstrating the cloud agent operating system for knowledge work: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3227,6 +4037,9 @@
           "proposed_repo": "tdaycom-public",
           "implementation_scope": "Build an original web app demonstrating ai that turns your product into on-brand marketing content: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3240,6 +4053,9 @@
           "proposed_repo": "tepali-public",
           "implementation_scope": "Build an original web app demonstrating ai-native operating system for aesthetics & wellness: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3253,6 +4069,9 @@
           "proposed_repo": "terminal-use-public",
           "implementation_scope": "Build an original web app demonstrating vercel for background agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3266,6 +4085,9 @@
           "proposed_repo": "testerarmy-public",
           "implementation_scope": "Build an original web app demonstrating test your app with ai, catch bugs before users do: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3279,6 +4101,9 @@
           "proposed_repo": "textsidekick-public",
           "implementation_scope": "Build an original web app demonstrating ai-powered sms assistant for deskless workers.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3292,6 +4117,9 @@
           "proposed_repo": "the-company-company-public",
           "implementation_scope": "Build an original web app demonstrating the last agent your company will ever need.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3305,6 +4133,9 @@
           "proposed_repo": "the-token-company-public",
           "implementation_scope": "Build an original web app demonstrating compression middleware that improves llm outputs: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3318,6 +4149,9 @@
           "proposed_repo": "thomas-public",
           "implementation_scope": "Build an original web app demonstrating the first ai founder: a virtual human who runs his own companies.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3331,6 +4165,9 @@
           "proposed_repo": "traverse-public",
           "implementation_scope": "Build an original web app demonstrating research lab solving non-verifiable work: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3344,6 +4181,9 @@
           "proposed_repo": "travo-public",
           "implementation_scope": "Build an original web app demonstrating the data infrastructure for real estate: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3357,6 +4197,9 @@
           "proposed_repo": "trellistech-public",
           "implementation_scope": "Build an original web app demonstrating the platform where short-term rentals run themselves: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3370,6 +4213,9 @@
           "proposed_repo": "trybloom-public",
           "implementation_scope": "Build an original web app demonstrating brand infrastructure for ai: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3383,6 +4229,9 @@
           "proposed_repo": "trycardinal-ai-public",
           "implementation_scope": "Build an original web app demonstrating ai platform for precision outbound: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3396,6 +4245,9 @@
           "proposed_repo": "tryprism-public",
           "implementation_scope": "Build an original web app demonstrating ai-native recruiting agency: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3409,6 +4261,9 @@
           "proposed_repo": "tsenta-public",
           "implementation_scope": "Build an original web app demonstrating we match you with jobs and apply automatically: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3422,6 +4277,9 @@
           "proposed_repo": "unisson-public",
           "implementation_scope": "Build an original web app demonstrating ai agents that automate b2b software implementation: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3435,6 +4293,9 @@
           "proposed_repo": "useparrot-public",
           "implementation_scope": "Build an original web app demonstrating agentic operating system for auto repair shops: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3448,6 +4309,9 @@
           "proposed_repo": "userlens-public",
           "implementation_scope": "Build an original web app demonstrating first ever agentic csms to upsell & renew 6+ figure deals.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3461,6 +4325,9 @@
           "proposed_repo": "valctrl-public",
           "implementation_scope": "Build an original web app demonstrating valctrl is the world model for prediction finance, and kassandre…: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3474,6 +4341,9 @@
           "proposed_repo": "vector-legal-public",
           "implementation_scope": "Build an original web app demonstrating the premier ai-native law firm & legal operating system for startups.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3487,6 +4357,9 @@
           "proposed_repo": "vela-public",
           "implementation_scope": "Build an original web app demonstrating ai agents for complex scheduling coordination: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3500,6 +4373,9 @@
           "proposed_repo": "velum-labs-public",
           "implementation_scope": "Build an original web app demonstrating the os for data quality across any stack: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3513,6 +4389,9 @@
           "proposed_repo": "verdex-public",
           "implementation_scope": "Build an original web app demonstrating ai verification for insurance: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3526,6 +4405,9 @@
           "proposed_repo": "voquill-public",
           "implementation_scope": "Build an original web app demonstrating the modern ai-native operating system for medical labs.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3539,6 +4421,9 @@
           "proposed_repo": "voygr-public",
           "implementation_scope": "Build an original web app demonstrating real-world place intelligence for ai apps and agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3552,6 +4437,9 @@
           "proposed_repo": "walter-public",
           "implementation_scope": "Build an original web app demonstrating ai employee for manufacturing operations: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3565,6 +4453,9 @@
           "proposed_repo": "wato-public",
           "implementation_scope": "Build an original web app demonstrating shared memory, tools, and workflows for agents across teams: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3578,6 +4469,9 @@
           "proposed_repo": "wayco-public",
           "implementation_scope": "Build an original web app demonstrating ai operator for medlegal cases: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3591,6 +4485,9 @@
           "proposed_repo": "wealor-public",
           "implementation_scope": "Build an original web app demonstrating ai-native platform for wealth managers: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3604,6 +4501,9 @@
           "proposed_repo": "wideframe-public",
           "implementation_scope": "Build an original web app demonstrating ai coworker for video editors to ship more video faster: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3617,6 +4517,9 @@
           "proposed_repo": "withai-public",
           "implementation_scope": "Build an original web app demonstrating agent harnesses for asset managers: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3630,6 +4533,9 @@
           "proposed_repo": "youart-public",
           "implementation_scope": "Build an original web app demonstrating patreon for ai originals: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3643,6 +4549,9 @@
           "proposed_repo": "zatanna-public",
           "implementation_scope": "Build an original web app demonstrating turning all software into agent-first apis: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3656,6 +4565,9 @@
           "proposed_repo": "zenbu-2-public",
           "implementation_scope": "Build an original web app demonstrating the extensible ide for coding agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         },
         {
@@ -3669,6 +4581,9 @@
           "proposed_repo": "zibra-labs-public",
           "implementation_scope": "Build an original web app demonstrating distributed compute for ai: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
+          "implementation_status": "classified",
+          "implementation_repo_url": null,
+          "implementation_commit": null,
           "priority": "ready"
         }
       ]

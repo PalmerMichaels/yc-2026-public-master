@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T16:20:50.963Z",
+  "generated_at": "2026-06-08T16:38:28.879Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -42,7 +42,8 @@
       "issue_number": 1,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/1",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUfvQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUfvQ",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "godhands",
@@ -69,7 +70,8 @@
       "issue_number": 2,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/2",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUf7Q"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUf7Q",
+      "implementation_status": "classified"
     },
     {
       "slug": "rightnow",
@@ -92,7 +94,8 @@
       "issue_number": 3,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/3",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUgIQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUgIQ",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "9-mothers-corporation",
@@ -115,7 +118,8 @@
       "issue_number": 4,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/4",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUgUw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUgUw",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "abinitio-bio",
@@ -142,7 +146,8 @@
       "issue_number": 5,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/5",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUgmw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUgmw",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "adialante",
@@ -169,7 +174,8 @@
       "issue_number": 6,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/6",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUgzg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUgzg",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "advanced-metal-research",
@@ -196,7 +202,8 @@
       "issue_number": 7,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/7",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUg_w"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUg_w",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "agentphone",
@@ -219,7 +226,10 @@
       "issue_number": 8,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/8",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUhOA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUhOA",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/agentphone-public",
+      "implementation_notes": "Implementation worker/repository claimed by meta; public implementation in progress."
     },
     {
       "slug": "aice",
@@ -247,7 +257,8 @@
       "issue_number": 9,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/9",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUhcA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUhcA",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "akkari",
@@ -276,7 +287,10 @@
       "issue_number": 10,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/10",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUhow"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUhow",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/akkari-public",
+      "implementation_notes": "Implementation worker/repository claimed by meta; public implementation in progress."
     },
     {
       "slug": "alchemize",
@@ -299,7 +313,8 @@
       "issue_number": 11,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/11",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUiHA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUiHA",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "allowance",
@@ -326,7 +341,8 @@
       "issue_number": 12,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/12",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUiYQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUiYQ",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "amboras",
@@ -349,7 +365,10 @@
       "issue_number": 13,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/13",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUikQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUikQ",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/amboras-public",
+      "implementation_notes": "Implementation worker/repository claimed by meta; public implementation in progress."
     },
     {
       "slug": "andco",
@@ -375,7 +394,10 @@
       "issue_number": 14,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/14",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUizA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUizA",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/andco-public",
+      "implementation_notes": "Implementation worker/repository claimed by meta; public implementation in progress."
     },
     {
       "slug": "andustry",
@@ -404,7 +426,8 @@
       "issue_number": 15,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/15",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUjHg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUjHg",
+      "implementation_status": "classified"
     },
     {
       "slug": "anoria",
@@ -433,7 +456,8 @@
       "issue_number": 16,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/16",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUjhA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUjhA",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "apollo-atomics-inc",
@@ -459,7 +483,8 @@
       "issue_number": 17,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/17",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUjsQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUjsQ",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "aquashield",
@@ -485,7 +510,8 @@
       "issue_number": 18,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/18",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUj8g"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUj8g",
+      "implementation_status": "classified"
     },
     {
       "slug": "ara",
@@ -514,7 +540,8 @@
       "issue_number": 19,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/19",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUkMw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUkMw",
+      "implementation_status": "classified"
     },
     {
       "slug": "archer",
@@ -541,7 +568,8 @@
       "issue_number": 20,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/20",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUkbw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUkbw",
+      "implementation_status": "classified"
     },
     {
       "slug": "arctic-health",
@@ -568,7 +596,8 @@
       "issue_number": 21,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/21",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUkrg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUkrg",
+      "implementation_status": "classified"
     },
     {
       "slug": "arden",
@@ -591,7 +620,8 @@
       "issue_number": 22,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/22",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUk6A"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUk6A",
+      "implementation_status": "classified"
     },
     {
       "slug": "ardent",
@@ -614,7 +644,8 @@
       "issue_number": 23,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/23",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUlFA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUlFA",
+      "implementation_status": "classified"
     },
     {
       "slug": "arga-labs",
@@ -641,7 +672,8 @@
       "issue_number": 24,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/24",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUlTg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUlTg",
+      "implementation_status": "classified"
     },
     {
       "slug": "arlo-industries",
@@ -670,7 +702,8 @@
       "issue_number": 25,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/25",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUlfw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUlfw",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "armature",
@@ -695,7 +728,8 @@
       "issue_number": 26,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/26",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUlrg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUlrg",
+      "implementation_status": "classified"
     },
     {
       "slug": "arzana",
@@ -724,7 +758,8 @@
       "issue_number": 27,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/27",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUl6Q"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUl6Q",
+      "implementation_status": "classified"
     },
     {
       "slug": "asendia-ai",
@@ -747,7 +782,8 @@
       "issue_number": 28,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/28",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUmIA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUmIA",
+      "implementation_status": "classified"
     },
     {
       "slug": "aseon-labs",
@@ -776,7 +812,8 @@
       "issue_number": 29,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/29",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUmUA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUmUA",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "asterlab",
@@ -802,7 +839,8 @@
       "issue_number": 30,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/30",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUmyw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUmyw",
+      "implementation_status": "classified"
     },
     {
       "slug": "astraea",
@@ -829,7 +867,8 @@
       "issue_number": 31,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/31",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUnNQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUnNQ",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "atrisa",
@@ -858,7 +897,8 @@
       "issue_number": 32,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/32",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUndQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUndQ",
+      "implementation_status": "classified"
     },
     {
       "slug": "autostep",
@@ -881,7 +921,8 @@
       "issue_number": 33,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/33",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUnpA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUnpA",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "auxos",
@@ -909,7 +950,8 @@
       "issue_number": 34,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/34",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUn2w"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUn2w",
+      "implementation_status": "classified"
     },
     {
       "slug": "avea-robotics",
@@ -936,7 +978,8 @@
       "issue_number": 35,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/35",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUoHA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUoHA",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "bentolabs-ai",
@@ -959,7 +1002,8 @@
       "issue_number": 36,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/36",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUocg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUocg",
+      "implementation_status": "classified"
     },
     {
       "slug": "biostack-platforms",
@@ -982,7 +1026,8 @@
       "issue_number": 37,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/37",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUoxw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUoxw",
+      "implementation_status": "classified"
     },
     {
       "slug": "callab-ai",
@@ -1009,7 +1054,8 @@
       "issue_number": 38,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/38",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUo_w"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUo_w",
+      "implementation_status": "classified"
     },
     {
       "slug": "centralcoms",
@@ -1035,7 +1081,8 @@
       "issue_number": 39,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/39",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUpNQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUpNQ",
+      "implementation_status": "classified"
     },
     {
       "slug": "characterquilt",
@@ -1064,7 +1111,8 @@
       "issue_number": 40,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/40",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUpag"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUpag",
+      "implementation_status": "classified"
     },
     {
       "slug": "chert",
@@ -1093,7 +1141,8 @@
       "issue_number": 41,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/41",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUpmw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUpmw",
+      "implementation_status": "classified"
     },
     {
       "slug": "chronicle-labs",
@@ -1120,7 +1169,8 @@
       "issue_number": 42,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/42",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUp2w"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUp2w",
+      "implementation_status": "classified"
     },
     {
       "slug": "cignara",
@@ -1146,7 +1196,8 @@
       "issue_number": 43,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/43",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUqFA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUqFA",
+      "implementation_status": "classified"
     },
     {
       "slug": "clara-2",
@@ -1169,7 +1220,8 @@
       "issue_number": 44,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/44",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUqTg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUqTg",
+      "implementation_status": "classified"
     },
     {
       "slug": "clawvisor",
@@ -1196,7 +1248,8 @@
       "issue_number": 45,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/45",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUqjA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUqjA",
+      "implementation_status": "classified"
     },
     {
       "slug": "cohesion",
@@ -1219,7 +1272,8 @@
       "issue_number": 46,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/46",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUqxA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUqxA",
+      "implementation_status": "classified"
     },
     {
       "slug": "complir",
@@ -1246,7 +1300,8 @@
       "issue_number": 47,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/47",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUq8w"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUq8w",
+      "implementation_status": "classified"
     },
     {
       "slug": "datost",
@@ -1273,7 +1328,8 @@
       "issue_number": 48,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/48",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUrmA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUrmA",
+      "implementation_status": "classified"
     },
     {
       "slug": "dayjob",
@@ -1296,7 +1352,8 @@
       "issue_number": 49,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/49",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUr7g"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUr7g",
+      "implementation_status": "classified"
     },
     {
       "slug": "deep-interactions",
@@ -1325,7 +1382,8 @@
       "issue_number": 50,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/50",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUsOg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUsOg",
+      "implementation_status": "classified"
     },
     {
       "slug": "dispatch",
@@ -1348,7 +1406,8 @@
       "issue_number": 51,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/51",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUsfw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUsfw",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "drafted",
@@ -1371,7 +1430,8 @@
       "issue_number": 52,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/52",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUsrA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUsrA",
+      "implementation_status": "classified"
     },
     {
       "slug": "drippay",
@@ -1399,7 +1459,8 @@
       "issue_number": 53,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/53",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUs4w"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUs4w",
+      "implementation_status": "classified"
     },
     {
       "slug": "eden-robotics",
@@ -1427,7 +1488,8 @@
       "issue_number": 54,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/54",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUtFQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUtFQ",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "elyra",
@@ -1450,7 +1512,8 @@
       "issue_number": 55,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/55",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUtQg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUtQg",
+      "implementation_status": "classified"
     },
     {
       "slug": "enjamb-labs",
@@ -1473,7 +1536,8 @@
       "issue_number": 56,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/56",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUtfw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUtfw",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "expanse",
@@ -1501,7 +1565,8 @@
       "issue_number": 57,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/57",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUtrw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUtrw",
+      "implementation_status": "classified"
     },
     {
       "slug": "finaldose",
@@ -1529,7 +1594,8 @@
       "issue_number": 58,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/58",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUt5A"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUt5A",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "flowscope",
@@ -1556,7 +1622,8 @@
       "issue_number": 59,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/59",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUuKA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUuKA",
+      "implementation_status": "classified"
     },
     {
       "slug": "foaster",
@@ -1583,7 +1650,8 @@
       "issue_number": 60,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/60",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUuaA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUuaA",
+      "implementation_status": "classified"
     },
     {
       "slug": "foresight",
@@ -1611,7 +1679,8 @@
       "issue_number": 61,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/61",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUuqw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUuqw",
+      "implementation_status": "classified"
     },
     {
       "slug": "framewise-health",
@@ -1634,7 +1703,8 @@
       "issue_number": 62,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/62",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUu1Q"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUu1Q",
+      "implementation_status": "classified"
     },
     {
       "slug": "fuchsia",
@@ -1663,7 +1733,8 @@
       "issue_number": 63,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/63",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUu_A"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUu_A",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "general-aviation",
@@ -1692,7 +1763,8 @@
       "issue_number": 64,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/64",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUvMw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUvMw",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "general-instinct",
@@ -1720,7 +1792,8 @@
       "issue_number": 65,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/65",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUvXA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUvXA",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "gigacatalyst",
@@ -1748,7 +1821,8 @@
       "issue_number": 66,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/66",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUvjw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUvjw",
+      "implementation_status": "classified"
     },
     {
       "slug": "gojiberry-ai",
@@ -1775,7 +1849,8 @@
       "issue_number": 67,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/67",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUvvw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUvvw",
+      "implementation_status": "classified"
     },
     {
       "slug": "govguard",
@@ -1800,7 +1875,8 @@
       "issue_number": 68,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/68",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUv7g"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUv7g",
+      "implementation_status": "classified"
     },
     {
       "slug": "gravy",
@@ -1828,7 +1904,8 @@
       "issue_number": 69,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/69",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUwHw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUwHw",
+      "implementation_status": "classified"
     },
     {
       "slug": "hedge",
@@ -1856,7 +1933,8 @@
       "issue_number": 70,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/70",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUwWg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUwWg",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "hessian",
@@ -1884,7 +1962,8 @@
       "issue_number": 71,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/71",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUwjw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUwjw",
+      "implementation_status": "classified"
     },
     {
       "slug": "hevn-inc",
@@ -1913,7 +1992,8 @@
       "issue_number": 72,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/72",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUwwA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUwwA",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "hexa",
@@ -1936,7 +2016,8 @@
       "issue_number": 73,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/73",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUw_A"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUw_A",
+      "implementation_status": "classified"
     },
     {
       "slug": "heyclicky",
@@ -1959,7 +2040,8 @@
       "issue_number": 74,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/74",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUxOQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUxOQ",
+      "implementation_status": "classified"
     },
     {
       "slug": "hubxyz",
@@ -1988,7 +2070,8 @@
       "issue_number": 75,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/75",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUxdA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUxdA",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "humwork",
@@ -2011,7 +2094,8 @@
       "issue_number": 76,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/76",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUxow"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUxow",
+      "implementation_status": "classified"
     },
     {
       "slug": "huscarl-inc",
@@ -2034,7 +2118,8 @@
       "issue_number": 77,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/77",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUx2g"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUx2g",
+      "implementation_status": "classified"
     },
     {
       "slug": "hyper-4",
@@ -2057,7 +2142,8 @@
       "issue_number": 78,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/78",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUyDw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUyDw",
+      "implementation_status": "classified"
     },
     {
       "slug": "imperfect",
@@ -2085,7 +2171,8 @@
       "issue_number": 79,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/79",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUyUw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUyUw",
+      "implementation_status": "classified"
     },
     {
       "slug": "incandor",
@@ -2111,7 +2198,8 @@
       "issue_number": 80,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/80",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwUylA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwUylA",
+      "implementation_status": "classified"
     },
     {
       "slug": "infera",
@@ -2134,7 +2222,8 @@
       "issue_number": 81,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/81",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwWMTw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwWMTw",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "inloop-robotics",
@@ -2162,7 +2251,8 @@
       "issue_number": 82,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/82",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwWQjQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwWQjQ",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "insforge",
@@ -2189,7 +2279,8 @@
       "issue_number": 83,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/83",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwWVEw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwWVEw",
+      "implementation_status": "classified"
     },
     {
       "slug": "instaagent",
@@ -2217,7 +2308,8 @@
       "issue_number": 84,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/84",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwWa2w"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwWa2w",
+      "implementation_status": "classified"
     },
     {
       "slug": "intelligence-factory",
@@ -2243,7 +2335,8 @@
       "issue_number": 85,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/85",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwWe7Q"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwWe7Q",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "interfaze",
@@ -2270,7 +2363,8 @@
       "issue_number": 86,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/86",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwWjTw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwWjTw",
+      "implementation_status": "classified"
     },
     {
       "slug": "inth",
@@ -2298,7 +2392,11 @@
       "issue_number": 87,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/87",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwWnrA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwWnrA",
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/inth-public",
+      "implementation_commit": "63581c900ecf3487019918f35209dfa53e3cf27e",
+      "implementation_notes": "Pushed to main with scanner/dashboard/evidence demo."
     },
     {
       "slug": "jo",
@@ -2326,7 +2424,8 @@
       "issue_number": 89,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/89",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwWxCw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwWxCw",
+      "implementation_status": "classified"
     },
     {
       "slug": "juno-chat",
@@ -2349,7 +2448,8 @@
       "issue_number": 90,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/90",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwcncg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwcncg",
+      "implementation_status": "classified"
     },
     {
       "slug": "kelai",
@@ -2378,7 +2478,8 @@
       "issue_number": 91,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/91",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwdDqA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwdDqA",
+      "implementation_status": "classified"
     },
     {
       "slug": "keyframe-labs",
@@ -2401,7 +2502,8 @@
       "issue_number": 92,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/92",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwdgsQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwdgsQ",
+      "implementation_status": "classified"
     },
     {
       "slug": "kimpton-ai",
@@ -2424,7 +2526,8 @@
       "issue_number": 93,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/93",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwd9Gg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwd9Gg",
+      "implementation_status": "classified"
     },
     {
       "slug": "kinect",
@@ -2447,7 +2550,8 @@
       "issue_number": 94,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/94",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEweaVg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEweaVg",
+      "implementation_status": "classified"
     },
     {
       "slug": "kinro",
@@ -2470,7 +2574,8 @@
       "issue_number": 95,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/95",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwe1kA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwe1kA",
+      "implementation_status": "classified"
     },
     {
       "slug": "klaimee",
@@ -2499,7 +2604,8 @@
       "issue_number": 96,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/96",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwfQzQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwfQzQ",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "klarify",
@@ -2528,7 +2634,8 @@
       "issue_number": 97,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/97",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwfs1Q"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwfs1Q",
+      "implementation_status": "classified"
     },
     {
       "slug": "korso",
@@ -2555,7 +2662,8 @@
       "issue_number": 98,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/98",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwgLog"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwgLog",
+      "implementation_status": "classified"
     },
     {
       "slug": "kugelaudio",
@@ -2582,7 +2690,8 @@
       "issue_number": 99,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/99",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwgp-A"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwgp-A",
+      "implementation_status": "classified"
     },
     {
       "slug": "kuli",
@@ -2605,7 +2714,8 @@
       "issue_number": 100,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/100",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwhHUg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwhHUg",
+      "implementation_status": "classified"
     },
     {
       "slug": "lab0",
@@ -2634,7 +2744,8 @@
       "issue_number": 101,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/101",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwhhFg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwhhFg",
+      "implementation_status": "classified"
     },
     {
       "slug": "lamina-labs",
@@ -2663,7 +2774,8 @@
       "issue_number": 102,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/102",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwh8Lg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwh8Lg",
+      "implementation_status": "classified"
     },
     {
       "slug": "lattice-health",
@@ -2689,7 +2801,8 @@
       "issue_number": 103,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/103",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwiZ3Q"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwiZ3Q",
+      "implementation_status": "classified"
     },
     {
       "slug": "light-anchor",
@@ -2715,7 +2828,8 @@
       "issue_number": 104,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/104",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwi2Vw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwi2Vw",
+      "implementation_status": "classified"
     },
     {
       "slug": "lightsprint",
@@ -2744,7 +2858,8 @@
       "issue_number": 105,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/105",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwjUeg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwjUeg",
+      "implementation_status": "classified"
     },
     {
       "slug": "limrun",
@@ -2772,7 +2887,8 @@
       "issue_number": 106,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/106",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwjyUA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwjyUA",
+      "implementation_status": "classified"
     },
     {
       "slug": "lumius",
@@ -2799,7 +2915,8 @@
       "issue_number": 107,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/107",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwkOLA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwkOLA",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "madrone",
@@ -2828,7 +2945,8 @@
       "issue_number": 108,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/108",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwkqMg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwkqMg",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "manicule",
@@ -2851,7 +2969,8 @@
       "issue_number": 109,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/109",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwlFTg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwlFTg",
+      "implementation_status": "classified"
     },
     {
       "slug": "maquoketa-research",
@@ -2880,7 +2999,8 @@
       "issue_number": 110,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/110",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwlfpA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwlfpA",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "matforge",
@@ -2903,7 +3023,8 @@
       "issue_number": 111,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/111",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwl6Ig"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwl6Ig",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "memoir",
@@ -2931,7 +3052,8 @@
       "issue_number": 112,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/112",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwmXKg"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwmXKg",
+      "implementation_status": "classified"
     },
     {
       "slug": "memory-store",
@@ -2958,7 +3080,8 @@
       "issue_number": 113,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/113",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwm2yw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwm2yw",
+      "implementation_status": "classified"
     },
     {
       "slug": "minicor",
@@ -2981,7 +3104,8 @@
       "issue_number": 114,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/114",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwnWTw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwnWTw",
+      "implementation_status": "classified"
     },
     {
       "slug": "miso-labs",
@@ -3006,7 +3130,8 @@
       "issue_number": 115,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/115",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwn09A"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwn09A",
+      "implementation_status": "classified"
     },
     {
       "slug": "mochatrade",
@@ -3033,7 +3158,8 @@
       "issue_number": 116,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/116",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwoVSQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwoVSQ",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "modern",
@@ -3062,7 +3188,8 @@
       "issue_number": 117,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/117",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwo1SQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwo1SQ",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "mount",
@@ -3091,7 +3218,8 @@
       "issue_number": 118,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/118",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwpXrA"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwpXrA",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "napkin-math",
@@ -3120,7 +3248,11 @@
       "issue_number": 119,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/119",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwp5zQ"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwp5zQ",
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/napkin-math-public",
+      "implementation_commit": "0ec52453464fcec28986b08452249aebb8fac502",
+      "implementation_notes": "Tests/build passed; Project #3 issues #1-#4 created."
     },
     {
       "slug": "netter",
@@ -3148,7 +3280,8 @@
       "issue_number": 120,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/120",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwqdmw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwqdmw",
+      "implementation_status": "classified"
     },
     {
       "slug": "nine-fives",
@@ -3175,7 +3308,8 @@
       "issue_number": 121,
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/121",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwxwhw"
+      "issue_node_id": "I_kwDOS0hnm88AAAABEwxwhw",
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "oddpool",
@@ -3202,7 +3336,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "ontora",
@@ -3225,7 +3360,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "openprose",
@@ -3248,7 +3384,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "openwork",
@@ -3271,7 +3408,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "ornadyne",
@@ -3299,7 +3437,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "pairio",
@@ -3326,7 +3465,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "panacea",
@@ -3355,7 +3495,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "pavoot",
@@ -3383,7 +3524,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "pentagon",
@@ -3410,7 +3552,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "perfectbit",
@@ -3436,7 +3579,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "plan0-ai",
@@ -3465,7 +3609,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "playablai",
@@ -3492,7 +3637,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "plena-health",
@@ -3518,7 +3664,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "pops",
@@ -3546,7 +3693,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "primitive",
@@ -3575,7 +3723,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "projectx",
@@ -3604,7 +3753,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "prototypingio",
@@ -3632,7 +3782,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "qomplement",
@@ -3661,7 +3812,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "raspire",
@@ -3690,7 +3842,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "reasonblocks",
@@ -3713,7 +3866,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "regbase",
@@ -3741,7 +3895,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "rentahuman",
@@ -3767,7 +3922,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "replicas",
@@ -3796,7 +3952,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "result",
@@ -3819,7 +3976,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "revnu",
@@ -3842,7 +4000,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "river-markets",
@@ -3865,7 +4024,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "rudus",
@@ -3893,7 +4053,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "runharbor",
@@ -3916,7 +4077,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "runtime",
@@ -3942,7 +4104,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "saffron",
@@ -3969,7 +4132,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "salesgraph",
@@ -3996,7 +4160,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "saudara-ai",
@@ -4025,7 +4190,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "sazabi",
@@ -4050,7 +4216,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "scope",
@@ -4077,7 +4244,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "sherpa",
@@ -4106,7 +4274,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "shotwellai",
@@ -4134,7 +4303,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "silmaril",
@@ -4159,7 +4329,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "smartbase",
@@ -4188,7 +4359,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "smol-machines",
@@ -4214,7 +4386,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "soria",
@@ -4243,7 +4416,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "stablebrowse",
@@ -4271,7 +4445,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "stage",
@@ -4297,7 +4472,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "standard-signal",
@@ -4323,7 +4499,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "standout",
@@ -4350,7 +4527,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "superlog",
@@ -4379,7 +4557,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "superset",
@@ -4402,7 +4581,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "surtr-defense-systems",
@@ -4425,7 +4605,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "synphony",
@@ -4453,7 +4634,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "taiga",
@@ -4476,7 +4658,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "takecareos",
@@ -4505,7 +4688,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "tasklet-2",
@@ -4528,7 +4712,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "tdaycom",
@@ -4557,7 +4742,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "tenet-industries",
@@ -4580,7 +4766,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "testerarmy",
@@ -4607,7 +4794,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "textsidekick",
@@ -4634,7 +4822,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "the-company-company",
@@ -4657,7 +4846,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "thomas",
@@ -4685,7 +4875,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "totalis",
@@ -4711,7 +4902,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "transload",
@@ -4738,7 +4930,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "trellistech",
@@ -4761,7 +4954,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "trybloom",
@@ -4788,7 +4982,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "tryprism",
@@ -4816,7 +5011,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "twolabs",
@@ -4839,7 +5035,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "uno-wallet",
@@ -4868,7 +5065,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "useparrot",
@@ -4896,7 +5094,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "userlens",
@@ -4924,7 +5123,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "valctrl",
@@ -4953,7 +5153,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "voquill",
@@ -4980,7 +5181,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "walter",
@@ -5009,7 +5211,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "wato",
@@ -5035,7 +5238,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "wealor",
@@ -5060,7 +5264,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "withai",
@@ -5087,7 +5292,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "youart",
@@ -5114,7 +5320,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "zenbu-2",
@@ -5141,7 +5348,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "zibra-labs",
@@ -5169,7 +5377,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "zolvo",
@@ -5192,7 +5401,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "agentcard",
@@ -5217,7 +5427,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "archal",
@@ -5245,7 +5456,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "care-gp",
@@ -5272,7 +5484,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "cerenovus",
@@ -5297,7 +5510,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "codag",
@@ -5322,7 +5536,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "contextdev",
@@ -5348,7 +5563,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "control-seat",
@@ -5375,7 +5591,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "guild",
@@ -5404,7 +5621,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "realpact",
@@ -5431,7 +5649,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "rex-inc",
@@ -5458,7 +5677,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "tsenta",
@@ -5481,7 +5701,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "10x-science",
@@ -5509,7 +5730,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "21st",
@@ -5532,7 +5754,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "aemon",
@@ -5555,7 +5778,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "agentic-fabriq",
@@ -5578,7 +5802,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "alt-x",
@@ -5601,7 +5826,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "approxima",
@@ -5628,7 +5854,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "arc-prize-foundation",
@@ -5651,7 +5878,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "ashr",
@@ -5674,7 +5902,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "asimov",
@@ -5697,7 +5926,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "aurorin-cad",
@@ -5720,7 +5950,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "autositu",
@@ -5743,7 +5974,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "autumn-ai",
@@ -5766,7 +5998,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "avoice",
@@ -5789,7 +6022,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "axionorbital-space",
@@ -5812,7 +6046,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "axis-2",
@@ -5835,7 +6070,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "baseframe",
@@ -5858,7 +6094,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "beacon-health",
@@ -5881,7 +6118,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "beesafe-ai",
@@ -5904,7 +6142,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "beyond-reach-labs",
@@ -5927,7 +6166,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "bidflow",
@@ -5955,7 +6195,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "booko",
@@ -5978,7 +6219,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "brownie",
@@ -6005,7 +6247,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "bubble-lab",
@@ -6033,7 +6276,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "burt",
@@ -6056,7 +6300,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "button-computer",
@@ -6079,7 +6324,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "byteport",
@@ -6102,7 +6348,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "cajal-technologies",
@@ -6125,7 +6372,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "canary",
@@ -6148,7 +6396,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "captain",
@@ -6176,7 +6425,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "cardboard",
@@ -6199,7 +6449,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "caretta",
@@ -6222,7 +6473,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "carrot-labs",
@@ -6251,7 +6503,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "carson",
@@ -6274,7 +6527,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "cascade",
@@ -6297,7 +6551,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "catchback-cards",
@@ -6320,7 +6575,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "celltype",
@@ -6343,7 +6599,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "chamber",
@@ -6366,7 +6623,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "chasi",
@@ -6389,7 +6647,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "claimglide",
@@ -6417,7 +6676,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "codewisp",
@@ -6440,7 +6700,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "cofia",
@@ -6463,7 +6724,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "compresr",
@@ -6486,7 +6748,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "condor-energy",
@@ -6509,7 +6772,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "confluence-labs",
@@ -6532,7 +6796,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "congruent",
@@ -6555,7 +6820,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "constellation-space",
@@ -6578,7 +6844,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "copperlane",
@@ -6601,7 +6868,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "corelayer",
@@ -6629,7 +6897,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "corvera",
@@ -6658,7 +6927,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "crosslayer-labs",
@@ -6681,7 +6951,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "crow",
@@ -6704,7 +6975,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "cumulus-labs",
@@ -6727,7 +6999,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "daivin",
@@ -6750,7 +7023,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "didit",
@@ -6773,7 +7047,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "ditto-biosciences",
@@ -6796,7 +7071,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "docura-health",
@@ -6819,7 +7095,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "doomersion",
@@ -6842,7 +7119,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "eigenpal",
@@ -6865,7 +7143,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "emdash",
@@ -6888,7 +7167,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "end-close",
@@ -6911,7 +7191,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "envariant",
@@ -6934,7 +7215,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "eos-ai",
@@ -6957,7 +7239,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "fed10",
@@ -6980,7 +7263,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "fenrock-ai",
@@ -7003,7 +7287,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "fern-bot",
@@ -7029,7 +7314,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "fixture",
@@ -7052,7 +7338,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "foreman",
@@ -7081,7 +7368,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "fort",
@@ -7104,7 +7392,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "forum",
@@ -7127,7 +7416,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "fullseam",
@@ -7150,7 +7440,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "galactic-resource-utilization-space-inc-gru-space",
@@ -7173,7 +7464,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "general-legal",
@@ -7196,7 +7488,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "generalastro",
@@ -7219,7 +7512,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "getbalance",
@@ -7242,7 +7536,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "glue",
@@ -7268,7 +7563,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "grade",
@@ -7296,7 +7592,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "grazemate",
@@ -7324,7 +7621,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "haladir",
@@ -7353,7 +7651,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "hex-security",
@@ -7376,7 +7675,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "hlabs",
@@ -7399,7 +7699,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "human-archive",
@@ -7422,7 +7723,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "instinct-xyz",
@@ -7450,7 +7752,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "inventoryquant",
@@ -7476,7 +7779,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "inviscid-ai",
@@ -7499,7 +7803,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "jinba",
@@ -7522,7 +7827,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "kita",
@@ -7550,7 +7856,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "klaus-ai",
@@ -7573,7 +7880,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "kyten-technologies",
@@ -7596,7 +7904,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "lance",
@@ -7619,7 +7928,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "laurence",
@@ -7642,7 +7952,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "legalos",
@@ -7665,7 +7976,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "lexius",
@@ -7688,7 +8000,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "librar-labs",
@@ -7714,7 +8027,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "lucent",
@@ -7737,7 +8051,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "luel",
@@ -7760,7 +8075,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "mango-medical-inc",
@@ -7783,7 +8099,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "mantis",
@@ -7806,7 +8123,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "martini",
@@ -7829,7 +8147,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "maven",
@@ -7852,7 +8171,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "maywood",
@@ -7875,7 +8195,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "mendral",
@@ -7898,7 +8219,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "menza",
@@ -7921,7 +8243,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "milliray",
@@ -7944,7 +8267,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "mochacare",
@@ -7967,7 +8291,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "moda",
@@ -7990,7 +8315,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "moritz",
@@ -8013,7 +8339,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "mousecat",
@@ -8036,7 +8363,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "ndea-com",
@@ -8065,7 +8393,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "o11",
@@ -8088,7 +8417,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "octapulse",
@@ -8111,7 +8441,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "one-robot",
@@ -8134,7 +8465,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "opalite-health",
@@ -8157,7 +8489,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "openspec",
@@ -8180,7 +8513,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "origami-robotics",
@@ -8203,7 +8537,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "origin-bio",
@@ -8226,7 +8561,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "orthogonal",
@@ -8249,7 +8585,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "overdrive-health",
@@ -8272,7 +8609,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "overshoot",
@@ -8295,7 +8633,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "oximy",
@@ -8318,7 +8657,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "oxus",
@@ -8341,7 +8681,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "palus-finance",
@@ -8364,7 +8705,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "panta",
@@ -8387,7 +8729,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "patientdeskai",
@@ -8410,7 +8753,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "pax-historia",
@@ -8433,7 +8777,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "payna",
@@ -8456,7 +8801,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "perfectly",
@@ -8479,7 +8825,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "pirislabs",
@@ -8502,7 +8849,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "pocket",
@@ -8525,7 +8873,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "pollen",
@@ -8548,7 +8897,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "pollinate",
@@ -8571,7 +8921,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "polymath",
@@ -8594,7 +8945,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "polymorph",
@@ -8617,7 +8969,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "prana-health",
@@ -8640,7 +8993,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "protent",
@@ -8663,7 +9017,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "proximitty",
@@ -8686,7 +9041,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "q2q",
@@ -8714,7 +9070,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "ramain",
@@ -8741,7 +9098,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "remix-3",
@@ -8764,7 +9122,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "ressl-ai",
@@ -8787,7 +9146,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "rev1",
@@ -8810,7 +9170,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "revion",
@@ -8833,7 +9194,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "rhizome-ai",
@@ -8856,7 +9218,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "ritivel",
@@ -8885,7 +9248,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "robby",
@@ -8908,7 +9272,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "robodock",
@@ -8931,7 +9296,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "rubric-ai",
@@ -8954,7 +9320,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "ruma-care",
@@ -8977,7 +9344,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "runanywhere",
@@ -9000,7 +9368,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "salus",
@@ -9029,7 +9398,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "samora-ai",
@@ -9052,7 +9422,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "scheduling-wizard",
@@ -9075,7 +9446,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "seeing-systems",
@@ -9103,7 +9475,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "sentrial",
@@ -9126,7 +9499,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "sequence-markets",
@@ -9149,7 +9523,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "servo7",
@@ -9172,7 +9547,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "shofo",
@@ -9199,7 +9575,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "shortkit",
@@ -9222,7 +9599,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "signals",
@@ -9245,7 +9623,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "sila",
@@ -9268,7 +9647,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "sitefire",
@@ -9291,7 +9671,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "skillsync",
@@ -9314,7 +9695,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "sonarly",
@@ -9337,7 +9719,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "sparkles",
@@ -9360,7 +9743,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "sponge",
@@ -9383,7 +9767,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "spotpay",
@@ -9406,7 +9791,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "squid",
@@ -9429,7 +9815,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "stilta",
@@ -9452,7 +9839,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "strand-ai",
@@ -9475,7 +9863,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "supafax",
@@ -9504,7 +9893,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "synthetic-sciences",
@@ -9527,7 +9917,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "syntropy",
@@ -9550,7 +9941,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "talking-computers",
@@ -9573,7 +9965,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "tepali",
@@ -9596,7 +9989,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "terminal-use",
@@ -9619,7 +10013,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "terranox-ai",
@@ -9642,7 +10037,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "the-token-company",
@@ -9665,7 +10061,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "traverse",
@@ -9692,7 +10089,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "travo",
@@ -9715,7 +10113,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "trycardinal-ai",
@@ -9738,7 +10137,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "unifold",
@@ -9761,7 +10161,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "unisson",
@@ -9784,7 +10185,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "usereframe",
@@ -9807,7 +10209,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "valence",
@@ -9830,7 +10233,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "valgo",
@@ -9853,7 +10257,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "vector-legal",
@@ -9876,7 +10281,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "vela",
@@ -9899,7 +10305,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "velum-labs",
@@ -9925,7 +10332,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "ventura",
@@ -9948,7 +10356,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "verdex",
@@ -9971,7 +10380,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "visibl-semiconductors",
@@ -9994,7 +10404,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "voltair",
@@ -10017,7 +10428,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "voxel-energy",
@@ -10046,7 +10458,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "voygr",
@@ -10069,7 +10482,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "wayco",
@@ -10092,7 +10506,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "wideframe",
@@ -10115,7 +10530,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "zatanna",
@@ -10138,7 +10554,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "classified"
     },
     {
       "slug": "zerosettle",
@@ -10161,7 +10578,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     },
     {
       "slug": "zymbly",
@@ -10184,7 +10602,8 @@
       "issue_number": null,
       "issue_url": null,
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null
+      "issue_node_id": null,
+      "implementation_status": "not-copyable"
     }
   ],
   "issue_creation": {
@@ -10199,7 +10618,17 @@
     "status": "current-open-issues-synced",
     "synced_items": 120,
     "pending_current_open_issues": 0,
-    "synced_at": "2026-06-08T16:20:50.963Z"
+    "synced_at": "2026-06-08T16:20:50.963Z",
+    "implementation_status_field_sync": "pending GraphQL quota reset",
+    "implementation_status_field_sync_pending": [
+      "napkin-math",
+      "inth",
+      "agentphone",
+      "akkari",
+      "amboras",
+      "andco"
+    ],
+    "updated_at": "2026-06-08T16:38:28.879Z"
   },
   "classification_revision": {
     "revised_at": "2026-06-08T16:16:38.251Z",
@@ -10215,5 +10644,19 @@
       "uncertain": 0
     },
     "changed_count": 137
+  },
+  "implementation_summary": {
+    "updated_at": "2026-06-08T16:36:24.169Z",
+    "implemented": [
+      "napkin-math",
+      "inth"
+    ],
+    "in_progress": [
+      "agentphone",
+      "akkari",
+      "amboras",
+      "andco"
+    ],
+    "ready_copyable": 273
   }
 }

@@ -4,6 +4,7 @@
 - Batch: Summer 2026
 - Status: Active
 - Classification: `copyable`
+- Implementation Status: `classified`
 - Source: https://www.ycombinator.com/companies/realpact
 - Website: https://realpact.ai
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
@@ -24,6 +25,10 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
+
+## Implementation Tracking
+
+- Status: `classified`
 
 ## Proposed Public Repository
 

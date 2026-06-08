@@ -2,28 +2,33 @@
 
 Workers will record created `<company-slug>-public` repositories here.
 
+## Implementation Status
+
+Implemented:
+- `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
+- `inth` -> https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
+
+In progress:
+- `agentphone` -> `agentphone-public` ([#8](https://github.com/PalmerMichaels/yc-2026-public-master/issues/8))
+- `akkari` -> `akkari-public` ([#10](https://github.com/PalmerMichaels/yc-2026-public-master/issues/10))
+- `amboras` -> `amboras-public` ([#13](https://github.com/PalmerMichaels/yc-2026-public-master/issues/13))
+- `andco` -> `andco-public` ([#14](https://github.com/PalmerMichaels/yc-2026-public-master/issues/14))
+
 ## Implementation-Ready Queue
 
 Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
-Confirmed ready first:
-- `napkin-math` -> `napkin-math-public`
-- `inth` -> `inth-public`
-
 Current queue counts:
-- Confirmed ready: 2
-- Additional ready: 277
-- Total ready: 279
+- Implemented: 2
+- In progress: 4
+- Ready for fan-out: 273
+- Total copyable: 279
 
 Next unambiguous copyable entries:
 | Slug | Name | Issue | Proposed Repo | Source |
 | --- | --- | --- | --- | --- |
-| `agentphone` | AgentPhone | [#8](https://github.com/PalmerMichaels/yc-2026-public-master/issues/8) | `agentphone-public` | [YC](https://www.ycombinator.com/companies/agentphone) |
-| `akkari` | Akkari | [#10](https://github.com/PalmerMichaels/yc-2026-public-master/issues/10) | `akkari-public` | [YC](https://www.ycombinator.com/companies/akkari) |
-| `amboras` | Amboras | [#13](https://github.com/PalmerMichaels/yc-2026-public-master/issues/13) | `amboras-public` | [YC](https://www.ycombinator.com/companies/amboras) |
-| `andco` | Andco | [#14](https://github.com/PalmerMichaels/yc-2026-public-master/issues/14) | `andco-public` | [YC](https://www.ycombinator.com/companies/andco) |
 | `andustry` | Andustry | [#15](https://github.com/PalmerMichaels/yc-2026-public-master/issues/15) | `andustry-public` | [YC](https://www.ycombinator.com/companies/andustry) |
 | `aquashield` | AquaShield | [#18](https://github.com/PalmerMichaels/yc-2026-public-master/issues/18) | `aquashield-public` | [YC](https://www.ycombinator.com/companies/aquashield) |
 | `ara` | Ara | [#19](https://github.com/PalmerMichaels/yc-2026-public-master/issues/19) | `ara-public` | [YC](https://www.ycombinator.com/companies/ara) |
@@ -70,3 +75,7 @@ Next unambiguous copyable entries:
 | `hexa` | Hexa | [#73](https://github.com/PalmerMichaels/yc-2026-public-master/issues/73) | `hexa-public` | [YC](https://www.ycombinator.com/companies/hexa) |
 | `heyclicky` | HeyClicky | [#74](https://github.com/PalmerMichaels/yc-2026-public-master/issues/74) | `heyclicky-public` | [YC](https://www.ycombinator.com/companies/heyclicky) |
 | `humwork` | Humwork | [#76](https://github.com/PalmerMichaels/yc-2026-public-master/issues/76) | `humwork-public` | [YC](https://www.ycombinator.com/companies/humwork) |
+| `huscarl-inc` | Huscarl Inc. | [#77](https://github.com/PalmerMichaels/yc-2026-public-master/issues/77) | `huscarl-inc-public` | [YC](https://www.ycombinator.com/companies/huscarl-inc) |
+| `hyper-4` | Hyper | [#78](https://github.com/PalmerMichaels/yc-2026-public-master/issues/78) | `hyper-4-public` | [YC](https://www.ycombinator.com/companies/hyper-4) |
+| `imperfect` | Imperfect | [#79](https://github.com/PalmerMichaels/yc-2026-public-master/issues/79) | `imperfect-public` | [YC](https://www.ycombinator.com/companies/imperfect) |
+| `incandor` | Incandor | [#80](https://github.com/PalmerMichaels/yc-2026-public-master/issues/80) | `incandor-public` | [YC](https://www.ycombinator.com/companies/incandor) |

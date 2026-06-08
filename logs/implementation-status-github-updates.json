@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-06-08T16:38:16.064Z",
+  "project_fields": "pending GraphQL quota reset",
+  "updated": [
+    {
+      "slug": "napkin-math",
+      "issue_number": 119,
+      "status": "implemented"
+    },
+    {
+      "slug": "inth",
+      "issue_number": 87,
+      "status": "implemented"
+    },
+    {
+      "slug": "agentphone",
+      "issue_number": 8,
+      "status": "in-progress"
+    },
+    {
+      "slug": "akkari",
+      "issue_number": 10,
+      "status": "in-progress"
+    },
+    {
+      "slug": "amboras",
+      "issue_number": 13,
+      "status": "in-progress"
+    },
+    {
+      "slug": "andco",
+      "issue_number": 14,
+      "status": "in-progress"
+    }
+  ]
+}

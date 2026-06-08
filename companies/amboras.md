@@ -4,10 +4,12 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
+- Implementation Status: `in-progress`
 - Source: https://www.ycombinator.com/companies/amboras
 - Website: https://amboras.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/13
+- Implementation Repository: https://github.com/PalmerMichaels/amboras-public
 
 ## Public Description
 
@@ -24,6 +26,12 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
+
+## Implementation Tracking
+
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/amboras-public
+- Notes: Implementation worker/repository claimed by meta; public implementation in progress.
 
 ## Proposed Public Repository
 

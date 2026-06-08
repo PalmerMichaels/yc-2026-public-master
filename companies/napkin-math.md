@@ -4,10 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/napkin-math
 - Website: https://napkinmath.club
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/119
+- Implementation Repository: https://github.com/PalmerMichaels/napkin-math-public
+- Implementation Commit: `0ec52453464fcec28986b08452249aebb8fac502`
 
 ## Public Description
 
@@ -24,6 +27,13 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
+
+## Implementation Tracking
+
+- Status: `implemented`
+- Repository: https://github.com/PalmerMichaels/napkin-math-public
+- Commit: `0ec52453464fcec28986b08452249aebb8fac502`
+- Notes: Tests/build passed; Project #3 issues #1-#4 created.
 
 ## Proposed Public Repository
 

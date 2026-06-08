@@ -4,6 +4,7 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `not-copyable`
+- Implementation Status: `not-copyable`
 - Source: https://www.ycombinator.com/companies/autostep
 - Website: https://autostep.ai/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
@@ -24,6 +25,10 @@ Public description indicates the core deliverable depends on unrecreatable hardw
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
+
+## Implementation Tracking
+
+- Status: `not-copyable`
 
 ## Not-Copyable Boundary
 

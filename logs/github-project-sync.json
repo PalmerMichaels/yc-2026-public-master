@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T16:20:50.969Z",
+  "generated_at": "2026-06-08T16:38:28.885Z",
   "project": {
     "project": "https://github.com/users/PalmerMichaels/projects/2",
     "status": "current-open-issues-synced",
@@ -728,5 +728,14 @@
       "title": "Nine Fives (Spring 2026)",
       "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/121"
     }
+  ],
+  "implementation_status_field_sync": "pending GraphQL quota reset",
+  "implementation_status_field_sync_pending": [
+    "napkin-math",
+    "inth",
+    "agentphone",
+    "akkari",
+    "amboras",
+    "andco"
   ]
 }
