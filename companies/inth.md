@@ -33,7 +33,7 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 - Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/inth-public
 - Commit: `63581c900ecf3487019918f35209dfa53e3cf27e`
-- Notes: Pushed to main with scanner/dashboard/evidence demo.
+- Notes: Implemented and pushed to main with scanner/dashboard/evidence demo.
 
 ## Proposed Public Repository
 

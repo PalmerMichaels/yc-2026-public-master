@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/andco
 - Website: http://www.useandco.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/14
 - Implementation Repository: https://github.com/PalmerMichaels/andco-public
+- Implementation Commit: `24f80de0d195fbb0c878e885836acb3f30990ce2`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/andco-public
-- Notes: Implementation worker/repository claimed by meta; public implementation in progress.
+- Commit: `24f80de0d195fbb0c878e885836acb3f30990ce2`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

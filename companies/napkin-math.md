@@ -33,7 +33,7 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 - Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/napkin-math-public
 - Commit: `0ec52453464fcec28986b08452249aebb8fac502`
-- Notes: Tests/build passed; Project #3 issues #1-#4 created.
+- Notes: Implemented and pushed; tests/build passed; Project #3 issues #1-#4 created.
 
 ## Proposed Public Repository
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T16:38:28.879Z",
+  "generated_at": "2026-06-08T16:48:58.263Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -227,9 +227,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/8",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUhOA",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/agentphone-public",
-      "implementation_notes": "Implementation worker/repository claimed by meta; public implementation in progress."
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
+      "implementation_repo": "agentphone-public",
+      "implementation_commit": "c195d8160dd6292a5399fc6f5d5efce2efeaa8bd"
     },
     {
       "slug": "aice",
@@ -288,9 +290,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/10",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUhow",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/akkari-public",
-      "implementation_notes": "Implementation worker/repository claimed by meta; public implementation in progress."
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
+      "implementation_repo": "akkari-public",
+      "implementation_commit": "d46f6fc0835494c35117c3445c40c376efccdc12"
     },
     {
       "slug": "alchemize",
@@ -366,9 +370,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/13",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUikQ",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/amboras-public",
-      "implementation_notes": "Implementation worker/repository claimed by meta; public implementation in progress."
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
+      "implementation_repo": "amboras-public",
+      "implementation_commit": "48226eb334ee474d190a5d73c44dae678e137123"
     },
     {
       "slug": "andco",
@@ -395,9 +401,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/14",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUizA",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/andco-public",
-      "implementation_notes": "Implementation worker/repository claimed by meta; public implementation in progress."
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
+      "implementation_repo": "andco-public",
+      "implementation_commit": "24f80de0d195fbb0c878e885836acb3f30990ce2"
     },
     {
       "slug": "andustry",
@@ -427,7 +435,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/15",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUjHg",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "andustry-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/andustry-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository/workers launched by meta; public implementation in progress."
     },
     {
       "slug": "anoria",
@@ -541,7 +553,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/19",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUkMw",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "ara-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/ara-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository/workers launched by meta; public implementation in progress."
     },
     {
       "slug": "archer",
@@ -569,7 +585,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/20",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUkbw",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "archer-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/archer-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository/workers launched by meta; public implementation in progress."
     },
     {
       "slug": "arctic-health",
@@ -597,7 +617,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/21",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUkrg",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "arctic-health-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/arctic-health-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository/workers launched by meta; public implementation in progress."
     },
     {
       "slug": "arden",
@@ -621,7 +645,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/22",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUk6A",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "arden-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/arden-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository/workers launched by meta; public implementation in progress."
     },
     {
       "slug": "ardent",
@@ -645,7 +673,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/23",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwUlFA",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "ardent-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/ardent-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository/workers launched by meta; public implementation in progress."
     },
     {
       "slug": "arga-labs",
@@ -2396,7 +2428,8 @@
       "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/inth-public",
       "implementation_commit": "63581c900ecf3487019918f35209dfa53e3cf27e",
-      "implementation_notes": "Pushed to main with scanner/dashboard/evidence demo."
+      "implementation_notes": "Implemented and pushed to main with scanner/dashboard/evidence demo.",
+      "implementation_repo": "inth-public"
     },
     {
       "slug": "jo",
@@ -3252,7 +3285,8 @@
       "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/napkin-math-public",
       "implementation_commit": "0ec52453464fcec28986b08452249aebb8fac502",
-      "implementation_notes": "Tests/build passed; Project #3 issues #1-#4 created."
+      "implementation_notes": "Implemented and pushed; tests/build passed; Project #3 issues #1-#4 created.",
+      "implementation_repo": "napkin-math-public"
     },
     {
       "slug": "netter",
@@ -10619,16 +10653,22 @@
     "synced_items": 120,
     "pending_current_open_issues": 0,
     "synced_at": "2026-06-08T16:20:50.963Z",
-    "implementation_status_field_sync": "pending GraphQL quota reset",
+    "implementation_status_field_sync": "deferred until GraphQL quota reset",
     "implementation_status_field_sync_pending": [
       "napkin-math",
       "inth",
       "agentphone",
       "akkari",
       "amboras",
-      "andco"
+      "andco",
+      "andustry",
+      "ara",
+      "archer",
+      "arctic-health",
+      "arden",
+      "ardent"
     ],
-    "updated_at": "2026-06-08T16:38:28.879Z"
+    "updated_at": "2026-06-08T16:48:58.263Z"
   },
   "classification_revision": {
     "revised_at": "2026-06-08T16:16:38.251Z",
@@ -10646,17 +10686,26 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-08T16:36:24.169Z",
+    "updated_at": "2026-06-08T16:48:58.263Z",
     "implemented": [
       "napkin-math",
-      "inth"
-    ],
-    "in_progress": [
+      "inth",
       "agentphone",
       "akkari",
       "amboras",
       "andco"
     ],
-    "ready_copyable": 273
+    "in_progress": [
+      "andustry",
+      "ara",
+      "archer",
+      "arctic-health",
+      "arden",
+      "ardent"
+    ],
+    "ready_copyable": 267,
+    "skipped_pending_recheck": [
+      "aquashield"
+    ]
   }
 }

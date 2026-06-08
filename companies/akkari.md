@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/akkari
 - Website: https://akkari.io/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/10
 - Implementation Repository: https://github.com/PalmerMichaels/akkari-public
+- Implementation Commit: `d46f6fc0835494c35117c3445c40c376efccdc12`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/akkari-public
-- Notes: Implementation worker/repository claimed by meta; public implementation in progress.
+- Commit: `d46f6fc0835494c35117c3445c40c376efccdc12`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

@@ -7,12 +7,21 @@ Workers will record created `<company-slug>-public` repositories here.
 Implemented:
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 - `inth` -> https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
+- `agentphone` -> https://github.com/PalmerMichaels/agentphone-public @ `c195d8160dd6292a5399fc6f5d5efce2efeaa8bd`
+- `akkari` -> https://github.com/PalmerMichaels/akkari-public @ `d46f6fc0835494c35117c3445c40c376efccdc12`
+- `amboras` -> https://github.com/PalmerMichaels/amboras-public @ `48226eb334ee474d190a5d73c44dae678e137123`
+- `andco` -> https://github.com/PalmerMichaels/andco-public @ `24f80de0d195fbb0c878e885836acb3f30990ce2`
 
 In progress:
-- `agentphone` -> `agentphone-public` ([#8](https://github.com/PalmerMichaels/yc-2026-public-master/issues/8))
-- `akkari` -> `akkari-public` ([#10](https://github.com/PalmerMichaels/yc-2026-public-master/issues/10))
-- `amboras` -> `amboras-public` ([#13](https://github.com/PalmerMichaels/yc-2026-public-master/issues/13))
-- `andco` -> `andco-public` ([#14](https://github.com/PalmerMichaels/yc-2026-public-master/issues/14))
+- `andustry` -> `andustry-public` ([#15](https://github.com/PalmerMichaels/yc-2026-public-master/issues/15))
+- `ara` -> `ara-public` ([#19](https://github.com/PalmerMichaels/yc-2026-public-master/issues/19))
+- `archer` -> `archer-public` ([#20](https://github.com/PalmerMichaels/yc-2026-public-master/issues/20))
+- `arctic-health` -> `arctic-health-public` ([#21](https://github.com/PalmerMichaels/yc-2026-public-master/issues/21))
+- `arden` -> `arden-public` ([#22](https://github.com/PalmerMichaels/yc-2026-public-master/issues/22))
+- `ardent` -> `ardent-public` ([#23](https://github.com/PalmerMichaels/yc-2026-public-master/issues/23))
+
+Pending re-check:
+- `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
 
 ## Implementation-Ready Queue
 
@@ -21,21 +30,15 @@ Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
 Current queue counts:
-- Implemented: 2
-- In progress: 4
-- Ready for fan-out: 273
+- Implemented: 6
+- In progress: 6
+- Pending re-check: 1
+- Ready for fan-out: 266
 - Total copyable: 279
 
 Next unambiguous copyable entries:
 | Slug | Name | Issue | Proposed Repo | Source |
 | --- | --- | --- | --- | --- |
-| `andustry` | Andustry | [#15](https://github.com/PalmerMichaels/yc-2026-public-master/issues/15) | `andustry-public` | [YC](https://www.ycombinator.com/companies/andustry) |
-| `aquashield` | AquaShield | [#18](https://github.com/PalmerMichaels/yc-2026-public-master/issues/18) | `aquashield-public` | [YC](https://www.ycombinator.com/companies/aquashield) |
-| `ara` | Ara | [#19](https://github.com/PalmerMichaels/yc-2026-public-master/issues/19) | `ara-public` | [YC](https://www.ycombinator.com/companies/ara) |
-| `archer` | Archer | [#20](https://github.com/PalmerMichaels/yc-2026-public-master/issues/20) | `archer-public` | [YC](https://www.ycombinator.com/companies/archer) |
-| `arctic-health` | Arctic Health | [#21](https://github.com/PalmerMichaels/yc-2026-public-master/issues/21) | `arctic-health-public` | [YC](https://www.ycombinator.com/companies/arctic-health) |
-| `arden` | Arden | [#22](https://github.com/PalmerMichaels/yc-2026-public-master/issues/22) | `arden-public` | [YC](https://www.ycombinator.com/companies/arden) |
-| `ardent` | Ardent | [#23](https://github.com/PalmerMichaels/yc-2026-public-master/issues/23) | `ardent-public` | [YC](https://www.ycombinator.com/companies/ardent) |
 | `arga-labs` | Arga Labs | [#24](https://github.com/PalmerMichaels/yc-2026-public-master/issues/24) | `arga-labs-public` | [YC](https://www.ycombinator.com/companies/arga-labs) |
 | `armature` | Armature | [#26](https://github.com/PalmerMichaels/yc-2026-public-master/issues/26) | `armature-public` | [YC](https://www.ycombinator.com/companies/armature) |
 | `arzana` | Arzana | [#27](https://github.com/PalmerMichaels/yc-2026-public-master/issues/27) | `arzana-public` | [YC](https://www.ycombinator.com/companies/arzana) |
@@ -79,3 +82,10 @@ Next unambiguous copyable entries:
 | `hyper-4` | Hyper | [#78](https://github.com/PalmerMichaels/yc-2026-public-master/issues/78) | `hyper-4-public` | [YC](https://www.ycombinator.com/companies/hyper-4) |
 | `imperfect` | Imperfect | [#79](https://github.com/PalmerMichaels/yc-2026-public-master/issues/79) | `imperfect-public` | [YC](https://www.ycombinator.com/companies/imperfect) |
 | `incandor` | Incandor | [#80](https://github.com/PalmerMichaels/yc-2026-public-master/issues/80) | `incandor-public` | [YC](https://www.ycombinator.com/companies/incandor) |
+| `insforge` | InsForge | [#83](https://github.com/PalmerMichaels/yc-2026-public-master/issues/83) | `insforge-public` | [YC](https://www.ycombinator.com/companies/insforge) |
+| `instaagent` | InstaAgent | [#84](https://github.com/PalmerMichaels/yc-2026-public-master/issues/84) | `instaagent-public` | [YC](https://www.ycombinator.com/companies/instaagent) |
+| `interfaze` | Interfaze | [#86](https://github.com/PalmerMichaels/yc-2026-public-master/issues/86) | `interfaze-public` | [YC](https://www.ycombinator.com/companies/interfaze) |
+| `jo` | jo | [#89](https://github.com/PalmerMichaels/yc-2026-public-master/issues/89) | `jo-public` | [YC](https://www.ycombinator.com/companies/jo) |
+| `juno-chat` | Juno | [#90](https://github.com/PalmerMichaels/yc-2026-public-master/issues/90) | `juno-chat-public` | [YC](https://www.ycombinator.com/companies/juno-chat) |
+| `kelai` | KelAI | [#91](https://github.com/PalmerMichaels/yc-2026-public-master/issues/91) | `kelai-public` | [YC](https://www.ycombinator.com/companies/kelai) |
+| `keyframe-labs` | Keyframe Labs | [#92](https://github.com/PalmerMichaels/yc-2026-public-master/issues/92) | `keyframe-labs-public` | [YC](https://www.ycombinator.com/companies/keyframe-labs) |

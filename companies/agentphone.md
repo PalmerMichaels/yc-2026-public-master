@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/agentphone
 - Website: https://agentphone.ai/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/8
 - Implementation Repository: https://github.com/PalmerMichaels/agentphone-public
+- Implementation Commit: `c195d8160dd6292a5399fc6f5d5efce2efeaa8bd`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/agentphone-public
-- Notes: Implementation worker/repository claimed by meta; public implementation in progress.
+- Commit: `c195d8160dd6292a5399fc6f5d5efce2efeaa8bd`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

@@ -4,11 +4,12 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
+- Implementation Status: `in-progress`
 - Source: https://www.ycombinator.com/companies/arctic-health
 - Website: https://arctic.health
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/21
+- Implementation Repository: https://github.com/PalmerMichaels/arctic-health-public
 
 ## Public Description
 
@@ -28,7 +29,9 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## Implementation Tracking
 
-- Status: `classified`
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/arctic-health-public
+- Notes: Implementation repository/workers launched by meta; public implementation in progress.
 
 ## Proposed Public Repository
 
