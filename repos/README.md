@@ -25,7 +25,12 @@ Implemented:
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- None
+- `auxos` -> `auxos-public` ([#34](https://github.com/PalmerMichaels/yc-2026-public-master/issues/34))
+- `bentolabs-ai` -> `bentolabs-ai-public` ([#36](https://github.com/PalmerMichaels/yc-2026-public-master/issues/36))
+- `biostack-platforms` -> `biostack-platforms-public` ([#37](https://github.com/PalmerMichaels/yc-2026-public-master/issues/37))
+- `callab-ai` -> `callab-ai-public` ([#38](https://github.com/PalmerMichaels/yc-2026-public-master/issues/38))
+- `centralcoms` -> `centralcoms-public` ([#39](https://github.com/PalmerMichaels/yc-2026-public-master/issues/39))
+- `characterquilt` -> `characterquilt-public` ([#40](https://github.com/PalmerMichaels/yc-2026-public-master/issues/40))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -38,20 +43,14 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 18
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 260
+- Ready for fan-out: 254
 - Total copyable: 279
 
 Next unambiguous copyable entries:
 | Slug | Name | Issue | Proposed Repo | Source |
 | --- | --- | --- | --- | --- |
-| `auxos` | Auxos | [#34](https://github.com/PalmerMichaels/yc-2026-public-master/issues/34) | `auxos-public` | [YC](https://www.ycombinator.com/companies/auxos) |
-| `bentolabs-ai` | BentoLabs AI | [#36](https://github.com/PalmerMichaels/yc-2026-public-master/issues/36) | `bentolabs-ai-public` | [YC](https://www.ycombinator.com/companies/bentolabs-ai) |
-| `biostack-platforms` | BioStack Platforms | [#37](https://github.com/PalmerMichaels/yc-2026-public-master/issues/37) | `biostack-platforms-public` | [YC](https://www.ycombinator.com/companies/biostack-platforms) |
-| `callab-ai` | Callab AI | [#38](https://github.com/PalmerMichaels/yc-2026-public-master/issues/38) | `callab-ai-public` | [YC](https://www.ycombinator.com/companies/callab-ai) |
-| `centralcoms` | CentralComs | [#39](https://github.com/PalmerMichaels/yc-2026-public-master/issues/39) | `centralcoms-public` | [YC](https://www.ycombinator.com/companies/centralcoms) |
-| `characterquilt` | CharacterQuilt | [#40](https://github.com/PalmerMichaels/yc-2026-public-master/issues/40) | `characterquilt-public` | [YC](https://www.ycombinator.com/companies/characterquilt) |
 | `chert` | Chert | [#41](https://github.com/PalmerMichaels/yc-2026-public-master/issues/41) | `chert-public` | [YC](https://www.ycombinator.com/companies/chert) |
 | `chronicle-labs` | Chronicle Labs | [#42](https://github.com/PalmerMichaels/yc-2026-public-master/issues/42) | `chronicle-labs-public` | [YC](https://www.ycombinator.com/companies/chronicle-labs) |
 | `cignara` | Cignara | [#43](https://github.com/PalmerMichaels/yc-2026-public-master/issues/43) | `cignara-public` | [YC](https://www.ycombinator.com/companies/cignara) |
@@ -96,3 +95,9 @@ Next unambiguous copyable entries:
 | `klarify` | Klarify | [#97](https://github.com/PalmerMichaels/yc-2026-public-master/issues/97) | `klarify-public` | [YC](https://www.ycombinator.com/companies/klarify) |
 | `korso` | Korso | [#98](https://github.com/PalmerMichaels/yc-2026-public-master/issues/98) | `korso-public` | [YC](https://www.ycombinator.com/companies/korso) |
 | `kugelaudio` | KugelAudio | [#99](https://github.com/PalmerMichaels/yc-2026-public-master/issues/99) | `kugelaudio-public` | [YC](https://www.ycombinator.com/companies/kugelaudio) |
+| `kuli` | Kuli | [#100](https://github.com/PalmerMichaels/yc-2026-public-master/issues/100) | `kuli-public` | [YC](https://www.ycombinator.com/companies/kuli) |
+| `lab0` | Lab0 | [#101](https://github.com/PalmerMichaels/yc-2026-public-master/issues/101) | `lab0-public` | [YC](https://www.ycombinator.com/companies/lab0) |
+| `lamina-labs` | Lamina Labs | [#102](https://github.com/PalmerMichaels/yc-2026-public-master/issues/102) | `lamina-labs-public` | [YC](https://www.ycombinator.com/companies/lamina-labs) |
+| `lattice-health` | Lattice Health | [#103](https://github.com/PalmerMichaels/yc-2026-public-master/issues/103) | `lattice-health-public` | [YC](https://www.ycombinator.com/companies/lattice-health) |
+| `light-anchor` | Light Anchor | [#104](https://github.com/PalmerMichaels/yc-2026-public-master/issues/104) | `light-anchor-public` | [YC](https://www.ycombinator.com/companies/light-anchor) |
+| `lightsprint` | Lightsprint | [#105](https://github.com/PalmerMichaels/yc-2026-public-master/issues/105) | `lightsprint-public` | [YC](https://www.ycombinator.com/companies/lightsprint) |

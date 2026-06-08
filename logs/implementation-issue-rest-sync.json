@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T20:59:01.550Z",
+  "generated_at": "2026-06-08T21:07:18.790Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -221,6 +221,84 @@
         "batch:spring-2026",
         "status:active",
         "implemented"
+      ]
+    },
+    {
+      "slug": "auxos",
+      "issue_number": 34,
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/auxos-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "bentolabs-ai",
+      "issue_number": 36,
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/bentolabs-ai-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "biostack-platforms",
+      "issue_number": 37,
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/biostack-platforms-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "callab-ai",
+      "issue_number": 38,
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/callab-ai-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "centralcoms",
+      "issue_number": 39,
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/centralcoms-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "characterquilt",
+      "issue_number": 40,
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/characterquilt-public",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:spring-2026",
+        "status:active",
+        "implementation-in-progress"
       ]
     }
   ]
