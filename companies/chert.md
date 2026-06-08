@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/chert
 - Website: https://www.trychert.com/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/41
 - Implementation Repository: https://github.com/PalmerMichaels/chert-public
+- Implementation Commit: `e159aa4d3cfd71b6ea9f032d8d0bc7befc4eddd6`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/chert-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `e159aa4d3cfd71b6ea9f032d8d0bc7befc4eddd6`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

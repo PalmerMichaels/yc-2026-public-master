@@ -27,16 +27,17 @@ Implemented:
 - `callab-ai` -> https://github.com/PalmerMichaels/callab-ai-public @ `966af4d0d2f63c53605b1c89e3404712f5734e2b`
 - `centralcoms` -> https://github.com/PalmerMichaels/centralcoms-public @ `085e50eaa383f76abf9737be9b4df7fae449eb0e`
 - `characterquilt` -> https://github.com/PalmerMichaels/characterquilt-public @ `472a54be4e927d1e09ce081c46138d73c13b56db`
+- `chert` -> https://github.com/PalmerMichaels/chert-public @ `e159aa4d3cfd71b6ea9f032d8d0bc7befc4eddd6`
+- `chronicle-labs` -> https://github.com/PalmerMichaels/chronicle-labs-public @ `32cc20cbfa02af63461b761312c27174a5a3d124`
+- `cignara` -> https://github.com/PalmerMichaels/cignara-public @ `d6a045d90f2f92ff9514529ce6da3b9e20f8b4fc`
+- `clawvisor` -> https://github.com/PalmerMichaels/clawvisor-public @ `50f69d88f58568001648102d3a499d8e505465ca`
+- `cohesion` -> https://github.com/PalmerMichaels/cohesion-public @ `7bade37a1a76dbb5fbd2d5d858c86dc1fd2fb523`
+- `complir` -> https://github.com/PalmerMichaels/complir-public @ `8c1cbd2c39ca1b7638b787964587315a428d9283`
 - `inth` -> https://github.com/PalmerMichaels/inth-public @ `63581c900ecf3487019918f35209dfa53e3cf27e`
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- `chert` -> `chert-public` ([#41](https://github.com/PalmerMichaels/yc-2026-public-master/issues/41))
-- `chronicle-labs` -> `chronicle-labs-public` ([#42](https://github.com/PalmerMichaels/yc-2026-public-master/issues/42))
-- `cignara` -> `cignara-public` ([#43](https://github.com/PalmerMichaels/yc-2026-public-master/issues/43))
-- `clawvisor` -> `clawvisor-public` ([#45](https://github.com/PalmerMichaels/yc-2026-public-master/issues/45))
-- `cohesion` -> `cohesion-public` ([#46](https://github.com/PalmerMichaels/yc-2026-public-master/issues/46))
-- `complir` -> `complir-public` ([#47](https://github.com/PalmerMichaels/yc-2026-public-master/issues/47))
+- None
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -48,8 +49,8 @@ Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
 Current queue counts:
-- Implemented: 24
-- In progress: 6
+- Implemented: 30
+- In progress: 0
 - Pending re-check: 1
 - Ready for fan-out: 247
 - Total copyable: 278

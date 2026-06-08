@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/cignara
 - Website: https://cignara.com/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/43
 - Implementation Repository: https://github.com/PalmerMichaels/cignara-public
+- Implementation Commit: `d6a045d90f2f92ff9514529ce6da3b9e20f8b4fc`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/cignara-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `d6a045d90f2f92ff9514529ce6da3b9e20f8b4fc`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T21:31:12.543Z",
+  "generated_at": "2026-06-08T21:43:17.143Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -324,84 +324,90 @@
       "slug": "chert",
       "issue_number": 41,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/chert-public",
+      "commit": "e159aa4d3cfd71b6ea9f032d8d0bc7befc4eddd6",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "chronicle-labs",
       "issue_number": 42,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/chronicle-labs-public",
+      "commit": "32cc20cbfa02af63461b761312c27174a5a3d124",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "cignara",
       "issue_number": 43,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/cignara-public",
+      "commit": "d6a045d90f2f92ff9514529ce6da3b9e20f8b4fc",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "clawvisor",
       "issue_number": 45,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/clawvisor-public",
+      "commit": "50f69d88f58568001648102d3a499d8e505465ca",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "cohesion",
       "issue_number": 46,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/cohesion-public",
+      "commit": "7bade37a1a76dbb5fbd2d5d858c86dc1fd2fb523",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "complir",
       "issue_number": 47,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/complir-public",
+      "commit": "8c1cbd2c39ca1b7638b787964587315a428d9283",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ]

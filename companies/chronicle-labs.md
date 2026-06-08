@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/chronicle-labs
 - Website: https://chronicle-labs.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/42
 - Implementation Repository: https://github.com/PalmerMichaels/chronicle-labs-public
+- Implementation Commit: `32cc20cbfa02af63461b761312c27174a5a3d124`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/chronicle-labs-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `32cc20cbfa02af63461b761312c27174a5a3d124`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/clawvisor
 - Website: https://clawvisor.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/45
 - Implementation Repository: https://github.com/PalmerMichaels/clawvisor-public
+- Implementation Commit: `50f69d88f58568001648102d3a499d8e505465ca`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/clawvisor-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `50f69d88f58568001648102d3a499d8e505465ca`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 
