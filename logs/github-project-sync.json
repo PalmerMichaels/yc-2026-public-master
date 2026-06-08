@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-08T16:02:44.020Z",
+  "generated_at": "2026-06-08T16:05:57.555Z",
   "project": {
     "project": "https://github.com/users/PalmerMichaels/projects/2",
     "status": "partial",
-    "synced_items": 30,
-    "pending_current_open_issues": 89,
+    "synced_items": 60,
+    "pending_current_open_issues": 59,
     "last_batch_added": 30,
-    "synced_at": "2026-06-08T16:02:43.195Z"
+    "synced_at": "2026-06-08T16:05:56.440Z"
   },
   "items": [
     {
@@ -188,6 +188,186 @@
       "issue_number": 91,
       "title": "KelAI (Spring 2026)",
       "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/91"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGBo",
+      "issue_number": 90,
+      "title": "Juno (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/90"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGEA",
+      "issue_number": 89,
+      "title": "jo (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/89"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGGM",
+      "issue_number": 87,
+      "title": "Inth (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/87"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGJI",
+      "issue_number": 86,
+      "title": "Interfaze (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/86"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGLY",
+      "issue_number": 85,
+      "title": "Intelligence Factory (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/85"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGOM",
+      "issue_number": 84,
+      "title": "InstaAgent (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/84"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGQE",
+      "issue_number": 83,
+      "title": "InsForge (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/83"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGTA",
+      "issue_number": 82,
+      "title": "InLoop Robotics (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/82"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGWI",
+      "issue_number": 81,
+      "title": "Infera (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/81"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGYw",
+      "issue_number": 80,
+      "title": "Incandor (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/80"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGcE",
+      "issue_number": 79,
+      "title": "Imperfect (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/79"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGeg",
+      "issue_number": 78,
+      "title": "Hyper (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/78"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGho",
+      "issue_number": 77,
+      "title": "Huscarl Inc. (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/77"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGjU",
+      "issue_number": 76,
+      "title": "Humwork (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/76"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGmc",
+      "issue_number": 75,
+      "title": "Hub.xyz (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/75"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGpQ",
+      "issue_number": 74,
+      "title": "HeyClicky (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/74"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGq8",
+      "issue_number": 73,
+      "title": "Hexa (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/73"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGto",
+      "issue_number": 72,
+      "title": "HEVN, inc (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/72"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGvc",
+      "issue_number": 71,
+      "title": "Hessian (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/71"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGxY",
+      "issue_number": 70,
+      "title": "Hedge (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/70"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFGzk",
+      "issue_number": 69,
+      "title": "Gravy (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/69"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFG1w",
+      "issue_number": 68,
+      "title": "GovGuard (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/68"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFG4o",
+      "issue_number": 67,
+      "title": "Gojiberry AI (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/67"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFG6w",
+      "issue_number": 66,
+      "title": "Gigacatalyst (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/66"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFG-g",
+      "issue_number": 65,
+      "title": "General Instinct (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/65"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHAo",
+      "issue_number": 64,
+      "title": "General Aviation (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/64"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHCg",
+      "issue_number": 63,
+      "title": "Fuchsia (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/63"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHEg",
+      "issue_number": 62,
+      "title": "Framewise Health (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/62"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHFk",
+      "issue_number": 61,
+      "title": "Foresight (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/61"
+    },
+    {
+      "item_id": "PVTI_lAHOD8ml3M4BaEWlzgvFHGs",
+      "issue_number": 60,
+      "title": "Foaster (Spring 2026)",
+      "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/60"
     }
   ]
 }
