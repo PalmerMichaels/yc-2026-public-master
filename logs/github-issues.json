@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-09T15:09:44.623Z",
+  "generated_at": "2026-06-09T15:25:13.297Z",
   "repo": "PalmerMichaels/yc-2026-public-master",
   "total_open": 120,
-  "total_all": 150,
+  "total_all": 156,
   "closed_duplicates": [
     {
       "title": "Inth (Spring 2026)",
@@ -1390,6 +1390,114 @@
         "batch:summer-2026",
         "status:active",
         "implemented"
+      ]
+    },
+    {
+      "slug": "codewisp",
+      "issue_number": 156,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/156",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5HsLQ",
+      "title": "CodeWisp (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/codewisp-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "cofia",
+      "issue_number": 157,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/157",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5HtDg",
+      "title": "Cofia (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/cofia-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "compresr",
+      "issue_number": 158,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/158",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5Ht3Q",
+      "title": "Compresr (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/compresr-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "condor-energy",
+      "issue_number": 159,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/159",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5HuoA",
+      "title": "Condor Energy (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/condor-energy-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "confluence-labs",
+      "issue_number": 160,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/160",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5Hvaw",
+      "title": "Confluence Labs (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/confluence-labs-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "contextdev",
+      "issue_number": 161,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/161",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5Hwvw",
+      "title": "Context.dev (Summer 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/contextdev-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:summer-2026",
+        "status:active",
+        "implementation-in-progress"
       ]
     }
   ]

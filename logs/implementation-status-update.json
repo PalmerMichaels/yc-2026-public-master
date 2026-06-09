@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T15:09:44.623Z",
+  "generated_at": "2026-06-09T15:25:13.297Z",
   "implemented": [
     {
       "slug": "godhands",
@@ -1826,7 +1826,104 @@
       "priority": "implemented"
     }
   ],
-  "in_progress": [],
+  "in_progress": [
+    {
+      "slug": "codewisp",
+      "name": "CodeWisp",
+      "batch": "Winter 2026",
+      "issue_number": 156,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/156",
+      "source_url": "https://www.ycombinator.com/companies/codewisp",
+      "website": "https://codewisp.ai/",
+      "proposed_repo": "codewisp-public",
+      "implementation_scope": "AI game creation studio with onboarding/workspace/project setup, synthetic game concepts/assets/prompts, playable prototype planning, generation review workflows, role-aware task/status management, mocked AI/game-engine integrations, validation/tests, docs, and clean-room disclaimers. Original UI/assets only; no copied games, copyrighted assets, private data, real publishing, or unsupported production-game claims.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/codewisp-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "cofia",
+      "name": "Cofia",
+      "batch": "Winter 2026",
+      "issue_number": 157,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/157",
+      "source_url": "https://www.ycombinator.com/companies/cofia",
+      "website": "https://cofia.ai",
+      "proposed_repo": "cofia-public",
+      "implementation_scope": "AI automations that implement themselves with synthetic business processes, workflow discovery, implementation plans, approvals, task/status tracking, mocked SaaS/action integrations, validation/tests, docs, and clean-room disclaimers. No real external automation, credentials, production changes, private data, or unsupported autonomous implementation claims.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/cofia-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "compresr",
+      "name": "Compresr",
+      "batch": "Winter 2026",
+      "issue_number": 158,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/158",
+      "source_url": "https://www.ycombinator.com/companies/compresr",
+      "website": "https://compresr.ai",
+      "proposed_repo": "compresr-public",
+      "implementation_scope": "LLM context compression workflow with synthetic prompts/docs/context windows, compression/evaluation dashboards, accuracy/retention scoring, mocked model/provider integrations, validation/tests, docs, and clean-room disclaimers. No proprietary datasets, private prompts, real provider credentials, or unsupported accuracy/reliability claims.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/compresr-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "condor-energy",
+      "name": "Condor Energy",
+      "batch": "Winter 2026",
+      "issue_number": 159,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/159",
+      "source_url": "https://www.ycombinator.com/companies/condor-energy",
+      "website": "https://www.condor.energy",
+      "proposed_repo": "condor-energy-public",
+      "implementation_scope": "Enterprise energy procurement workflow with synthetic facilities/contracts/usage/pricing scenarios, supplier comparison, procurement task/status management, approval/audit flows, mocked utility/supplier integrations, validation/tests, docs, and clean-room disclaimers. No real energy procurement, trading, regulated market participation, supplier contracts, private usage data, credentials, or transaction execution.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/condor-energy-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "confluence-labs",
+      "name": "Confluence Labs",
+      "batch": "Winter 2026",
+      "issue_number": 160,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/160",
+      "source_url": "https://www.ycombinator.com/companies/confluence-labs",
+      "website": "https://confluence.sh",
+      "proposed_repo": "confluence-labs-public",
+      "implementation_scope": "AI models that learn from experience demo with synthetic episodes/feedback/evaluation traces, experience memory workflows, model improvement dashboards, review/approval tasks, mocked model/training integrations, validation/tests, docs, and clean-room disclaimers. No proprietary training data, real model training claims, private data, credentials, or unsupported performance claims.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/confluence-labs-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "contextdev",
+      "name": "Context.dev",
+      "batch": "Summer 2026",
+      "issue_number": 161,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/161",
+      "source_url": "https://www.ycombinator.com/companies/contextdev",
+      "website": "https://context.dev",
+      "proposed_repo": "contextdev-public",
+      "implementation_scope": "Realtime web context layer for AI agents with synthetic web pages/events/context feeds, retrieval/refresh/citation workflows, agent context dashboard, mocked browser/search/API integrations, validation/tests, docs, and clean-room disclaimers. No scraping private sites, credentials, paywalled data, bypassed access controls, proprietary datasets, or unsupported freshness/accuracy claims.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/contextdev-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    }
+  ],
   "pending_recheck": [
     {
       "slug": "aquashield",

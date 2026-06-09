@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T15:09:44.623Z",
+  "generated_at": "2026-06-09T15:25:13.297Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -5920,11 +5920,17 @@
       "public_repo": "contextdev-public",
       "implementation_scope": "Build an original web app demonstrating we give ai agents realtime web context.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 161,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/161",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5Hwvw",
+      "implementation_status": "in-progress",
+      "implementation_repo": "contextdev-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/contextdev-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/74",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Realtime web context layer for AI agents with synthetic web pages/events/context feeds, retrieval/refresh/citation workflows, agent context dashboard, mocked browser/search/API integrations, validation/tests, docs, and clean-room disclaimers. No scraping private sites, credentials, paywalled data, bypassed access controls, proprietary datasets, or unsupported freshness/accuracy claims."
     },
     {
       "slug": "control-seat",
@@ -7228,11 +7234,17 @@
       "public_repo": "codewisp-public",
       "implementation_scope": "Build an original web app demonstrating anyone can create real games with ai: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 156,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/156",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5HsLQ",
+      "implementation_status": "in-progress",
+      "implementation_repo": "codewisp-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/codewisp-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/69",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "AI game creation studio with onboarding/workspace/project setup, synthetic game concepts/assets/prompts, playable prototype planning, generation review workflows, role-aware task/status management, mocked AI/game-engine integrations, validation/tests, docs, and clean-room disclaimers. Original UI/assets only; no copied games, copyrighted assets, private data, real publishing, or unsupported production-game claims."
     },
     {
       "slug": "cofia",
@@ -7252,11 +7264,17 @@
       "public_repo": "cofia-public",
       "implementation_scope": "Build an original web app demonstrating ai automations that implement themselves: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 157,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/157",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5HtDg",
+      "implementation_status": "in-progress",
+      "implementation_repo": "cofia-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/cofia-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/70",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "AI automations that implement themselves with synthetic business processes, workflow discovery, implementation plans, approvals, task/status tracking, mocked SaaS/action integrations, validation/tests, docs, and clean-room disclaimers. No real external automation, credentials, production changes, private data, or unsupported autonomous implementation claims."
     },
     {
       "slug": "compresr",
@@ -7276,11 +7294,17 @@
       "public_repo": "compresr-public",
       "implementation_scope": "Build an original web app demonstrating llm context compression for better accuracy: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 158,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/158",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5Ht3Q",
+      "implementation_status": "in-progress",
+      "implementation_repo": "compresr-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/compresr-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/71",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "LLM context compression workflow with synthetic prompts/docs/context windows, compression/evaluation dashboards, accuracy/retention scoring, mocked model/provider integrations, validation/tests, docs, and clean-room disclaimers. No proprietary datasets, private prompts, real provider credentials, or unsupported accuracy/reliability claims."
     },
     {
       "slug": "condor-energy",
@@ -7300,11 +7324,17 @@
       "public_repo": "condor-energy-public",
       "implementation_scope": "Build an original web app demonstrating software for enterprise energy procurement.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 159,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/159",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5HuoA",
+      "implementation_status": "in-progress",
+      "implementation_repo": "condor-energy-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/condor-energy-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/72",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Enterprise energy procurement workflow with synthetic facilities/contracts/usage/pricing scenarios, supplier comparison, procurement task/status management, approval/audit flows, mocked utility/supplier integrations, validation/tests, docs, and clean-room disclaimers. No real energy procurement, trading, regulated market participation, supplier contracts, private usage data, credentials, or transaction execution."
     },
     {
       "slug": "confluence-labs",
@@ -7324,11 +7354,17 @@
       "public_repo": "confluence-labs-public",
       "implementation_scope": "Build an original web app demonstrating ai models that learn from experience: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 160,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/160",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5Hvaw",
+      "implementation_status": "in-progress",
+      "implementation_repo": "confluence-labs-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/confluence-labs-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/73",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "AI models that learn from experience demo with synthetic episodes/feedback/evaluation traces, experience memory workflows, model improvement dashboards, review/approval tasks, mocked model/training integrations, validation/tests, docs, and clean-room disclaimers. No proprietary training data, real model training claims, private data, credentials, or unsupported performance claims."
     },
     {
       "slug": "congruent",
@@ -11232,7 +11268,7 @@
       "memory-store",
       "minicor"
     ],
-    "updated_at": "2026-06-09T15:09:44.623Z",
+    "updated_at": "2026-06-09T15:25:13.297Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -11251,7 +11287,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-09T15:09:44.623Z",
+    "updated_at": "2026-06-09T15:25:13.297Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -11368,8 +11404,15 @@
       "chasi",
       "claimglide"
     ],
-    "in_progress": [],
-    "ready_copyable": 164,
+    "in_progress": [
+      "contextdev",
+      "codewisp",
+      "cofia",
+      "compresr",
+      "condor-energy",
+      "confluence-labs"
+    ],
+    "ready_copyable": 158,
     "skipped_pending_recheck": [
       "aquashield"
     ]

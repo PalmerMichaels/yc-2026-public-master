@@ -7,10 +7,10 @@ Copyable: 278
 Not copyable: 127
 Uncertain: 0
 Implemented: 114
-In progress: 0
-Ready copyable: 163
+In progress: 6
+Ready copyable: 157
 Skipped pending re-check: aquashield
-GitHub issues created: 154
+GitHub issues created: 160
 GitHub issues pending: 285
 Closed duplicate issues: 88
 Project items synced: 120
@@ -133,7 +133,12 @@ Implemented repositories:
 - `codag`: https://github.com/PalmerMichaels/codag-public @ `ad047764a187582d03c2745c4b651ab92f20e708`
 
 In-progress implementations:
-- None
+- `codewisp`: [#156](https://github.com/PalmerMichaels/yc-2026-public-master/issues/156) -> `codewisp-public`
+- `cofia`: [#157](https://github.com/PalmerMichaels/yc-2026-public-master/issues/157) -> `cofia-public`
+- `compresr`: [#158](https://github.com/PalmerMichaels/yc-2026-public-master/issues/158) -> `compresr-public`
+- `condor-energy`: [#159](https://github.com/PalmerMichaels/yc-2026-public-master/issues/159) -> `condor-energy-public`
+- `confluence-labs`: [#160](https://github.com/PalmerMichaels/yc-2026-public-master/issues/160) -> `confluence-labs-public`
+- `contextdev`: [#161](https://github.com/PalmerMichaels/yc-2026-public-master/issues/161) -> `contextdev-public`
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T15:10:56.381Z",
+  "generated_at": "2026-06-09T15:22:50.849Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -1704,6 +1704,108 @@
         "batch:summer-2026",
         "status:active",
         "implemented"
+      ]
+    },
+    {
+      "slug": "codewisp",
+      "issue_number": 156,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/156",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5HsLQ",
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/codewisp-public",
+      "public_project": "https://github.com/users/PalmerMichaels/projects/69",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "cofia",
+      "issue_number": 157,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/157",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5HtDg",
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/cofia-public",
+      "public_project": "https://github.com/users/PalmerMichaels/projects/70",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "compresr",
+      "issue_number": 158,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/158",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5Ht3Q",
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/compresr-public",
+      "public_project": "https://github.com/users/PalmerMichaels/projects/71",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "condor-energy",
+      "issue_number": 159,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/159",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5HuoA",
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/condor-energy-public",
+      "public_project": "https://github.com/users/PalmerMichaels/projects/72",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "confluence-labs",
+      "issue_number": 160,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/160",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5Hvaw",
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/confluence-labs-public",
+      "public_project": "https://github.com/users/PalmerMichaels/projects/73",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "contextdev",
+      "issue_number": 161,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/161",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE5Hwvw",
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/contextdev-public",
+      "public_project": "https://github.com/users/PalmerMichaels/projects/74",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:summer-2026",
+        "status:active",
+        "implementation-in-progress"
       ]
     }
   ],

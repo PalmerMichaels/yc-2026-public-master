@@ -2,13 +2,15 @@
 
 - Slug: `confluence-labs`
 - Batch: Winter 2026
-- Status: Active
+- YC status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
-- Source: https://www.ycombinator.com/companies/confluence-labs
+- Implementation Status: `in-progress`
+- Source URL: https://www.ycombinator.com/companies/confluence-labs
 - Website: https://confluence.sh
+- GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/160
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
-- GitHub Issue: Pending creation
+- Public Repository: https://github.com/PalmerMichaels/confluence-labs-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/73
 
 ## Public Description
 
@@ -20,20 +22,23 @@ While modern AI excels in any area you can collect a lot of data for, it struggl
 
 Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.
 
+## Implementation Tracking
+
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/confluence-labs-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/73
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+
 ## Clean-Room Constraints
 
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Implementation Tracking
-
-- Status: `classified`
-
 ## Proposed Public Repository
 
-- Repository: `confluence-labs-public`
+`confluence-labs-public`
 
 ## End-to-End Implementation Scope
 
-Build an original web app demonstrating ai models that learn from experience: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
+AI models that learn from experience demo with synthetic episodes/feedback/evaluation traces, experience memory workflows, model improvement dashboards, review/approval tasks, mocked model/training integrations, validation/tests, docs, and clean-room disclaimers. No proprietary training data, real model training claims, private data, credentials, or unsupported performance claims.

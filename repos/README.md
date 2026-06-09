@@ -121,7 +121,12 @@ Implemented:
 - `codag` -> https://github.com/PalmerMichaels/codag-public @ `ad047764a187582d03c2745c4b651ab92f20e708`
 
 In progress:
-- None
+- `codewisp` -> `codewisp-public` ([#156](https://github.com/PalmerMichaels/yc-2026-public-master/issues/156))
+- `cofia` -> `cofia-public` ([#157](https://github.com/PalmerMichaels/yc-2026-public-master/issues/157))
+- `compresr` -> `compresr-public` ([#158](https://github.com/PalmerMichaels/yc-2026-public-master/issues/158))
+- `condor-energy` -> `condor-energy-public` ([#159](https://github.com/PalmerMichaels/yc-2026-public-master/issues/159))
+- `confluence-labs` -> `confluence-labs-public` ([#160](https://github.com/PalmerMichaels/yc-2026-public-master/issues/160))
+- `contextdev` -> `contextdev-public` ([#161](https://github.com/PalmerMichaels/yc-2026-public-master/issues/161))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -134,9 +139,9 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 114
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 163
+- Ready for fan-out: 157
 - Total copyable: 278
 
 Next unambiguous copyable entries:
