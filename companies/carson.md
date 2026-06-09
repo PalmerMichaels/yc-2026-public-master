@@ -2,13 +2,15 @@
 
 - Slug: `carson`
 - Batch: Winter 2026
-- Status: Active
+- YC status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
-- Source: https://www.ycombinator.com/companies/carson
+- Implementation Status: `in-progress`
+- Source URL: https://www.ycombinator.com/companies/carson
 - Website: https://usecarson.com
+- GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/148
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
-- GitHub Issue: Pending creation
+- Public Repository: https://github.com/PalmerMichaels/carson-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/61
 
 ## Public Description
 
@@ -20,20 +22,23 @@ Carson is a desktop AI app that replaces the chat box by generating a custom, sh
 
 Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.
 
+## Implementation Tracking
+
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/carson-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/61
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+
 ## Clean-Room Constraints
 
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Implementation Tracking
-
-- Status: `classified`
-
 ## Proposed Public Repository
 
-- Repository: `carson-public`
+`carson-public`
 
 ## End-to-End Implementation Scope
 
-Build an original web app demonstrating carson is a desktop ai app that generates custom, sharable workspaces: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
+Desktop AI workspace generator with synthetic workspaces/projects/files, workflow generation, role-aware task/status management, mocked desktop/app integrations, validation/tests, docs, and clean-room disclaimers. No real local-file access, credentials, private documents, copied UI/assets, or unsupported automation claims.

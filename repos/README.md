@@ -109,7 +109,12 @@ Implemented:
 - `captain` -> https://github.com/PalmerMichaels/captain-public @ `a37fdb1d477aa99ec3dbe0e48b772651f33a8c8e`
 
 In progress:
-- None
+- `cardboard` -> `cardboard-public` ([#144](https://github.com/PalmerMichaels/yc-2026-public-master/issues/144))
+- `care-gp` -> `care-gp-public` ([#145](https://github.com/PalmerMichaels/yc-2026-public-master/issues/145))
+- `caretta` -> `caretta-public` ([#146](https://github.com/PalmerMichaels/yc-2026-public-master/issues/146))
+- `carrot-labs` -> `carrot-labs-public` ([#147](https://github.com/PalmerMichaels/yc-2026-public-master/issues/147))
+- `carson` -> `carson-public` ([#148](https://github.com/PalmerMichaels/yc-2026-public-master/issues/148))
+- `cascade` -> `cascade-public` ([#149](https://github.com/PalmerMichaels/yc-2026-public-master/issues/149))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -122,9 +127,9 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 102
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 175
+- Ready for fan-out: 169
 - Total copyable: 278
 
 Next unambiguous copyable entries:

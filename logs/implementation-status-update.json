@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T13:12:37.571Z",
+  "generated_at": "2026-06-09T13:45:24.076Z",
   "implemented": [
     {
       "slug": "godhands",
@@ -1634,7 +1634,104 @@
       "priority": "implemented"
     }
   ],
-  "in_progress": [],
+  "in_progress": [
+    {
+      "slug": "cardboard",
+      "name": "Cardboard",
+      "batch": "Winter 2026",
+      "issue_number": 144,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/144",
+      "source_url": "https://www.ycombinator.com/companies/cardboard",
+      "website": "https://usecardboard.com",
+      "proposed_repo": "cardboard-public",
+      "implementation_scope": "Agentic video editor demo with onboarding/workspace/project setup, synthetic media/project data, workflow screens, timeline/editing/task/status management, mocked export/integration flows, seed data, validation/tests, docs, and clean-room disclaimers. Original UI/assets only; no copied branding, proprietary media, private data, or unsupported production/video claims.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/cardboard-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "care-gp",
+      "name": "Care GP",
+      "batch": "Summer 2026",
+      "issue_number": 145,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/145",
+      "source_url": "https://www.ycombinator.com/companies/care-gp",
+      "website": "https://caregp.com.au/",
+      "proposed_repo": "care-gp-public",
+      "implementation_scope": "Primary healthcare operations/admin agents with synthetic clinics/staff/tasks, scheduling/admin workflows, mocked communications/EHR-like admin connectors, approvals/audit logs, validation/tests, docs, and clean-room/non-clinical disclaimers. No diagnosis, treatment, triage, PHI, medical advice, clinical decision support, medical-device behavior, real patient data, or real EHR/clinic integrations.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/care-gp-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "caretta",
+      "name": "Caretta",
+      "batch": "Winter 2026",
+      "issue_number": 146,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/146",
+      "source_url": "https://www.ycombinator.com/companies/caretta",
+      "website": "https://www.caretta.so",
+      "proposed_repo": "caretta-public",
+      "implementation_scope": "Realtime AI for sales calls with synthetic calls/transcripts/accounts, call coaching/notes/action items, mocked CRM/telephony, validation/tests, docs, and clean-room disclaimers. No real call recording, credentials, private customer data, surveillance/compliance claims, or real telephony/CRM integrations.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/caretta-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "carrot-labs",
+      "name": "Carrot Labs",
+      "batch": "Winter 2026",
+      "issue_number": 147,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/147",
+      "source_url": "https://www.ycombinator.com/companies/carrot-labs",
+      "website": "https://superpenguin.ai/",
+      "proposed_repo": "carrot-labs-public",
+      "implementation_scope": "AI cost management across providers with synthetic provider/spend/usage data, cost insights/recommendations, budgets/alerts, mocked billing/provider APIs, validation/tests, docs, and clean-room disclaimers. No real invoices, credentials, account access, proprietary pricing data, or real provider API mutations.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/carrot-labs-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "carson",
+      "name": "Carson",
+      "batch": "Winter 2026",
+      "issue_number": 148,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/148",
+      "source_url": "https://www.ycombinator.com/companies/carson",
+      "website": "https://usecarson.com",
+      "proposed_repo": "carson-public",
+      "implementation_scope": "Desktop AI workspace generator with synthetic workspaces/projects/files, workflow generation, role-aware task/status management, mocked desktop/app integrations, validation/tests, docs, and clean-room disclaimers. No real local-file access, credentials, private documents, copied UI/assets, or unsupported automation claims.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/carson-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "cascade",
+      "name": "Cascade",
+      "batch": "Winter 2026",
+      "issue_number": 149,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/149",
+      "source_url": "https://www.ycombinator.com/companies/cascade",
+      "website": "https://runcascade.com/",
+      "proposed_repo": "cascade-public",
+      "implementation_scope": "Distilling proprietary intelligence / enterprise knowledge workflow with synthetic enterprise knowledge, ingestion/retrieval/summarization flows, mocked connectors, cited outputs, validation/tests, docs, and clean-room disclaimers. No proprietary documents, private datasets, confidential workflows, real connectors/credentials, or unsupported accuracy claims.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/cascade-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    }
+  ],
   "pending_recheck": [
     {
       "slug": "aquashield",

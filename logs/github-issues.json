@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-09T13:12:37.571Z",
+  "generated_at": "2026-06-09T13:45:24.076Z",
   "repo": "PalmerMichaels/yc-2026-public-master",
   "total_open": 120,
-  "total_all": 138,
+  "total_all": 144,
   "closed_duplicates": [
     {
       "title": "Inth (Spring 2026)",
@@ -1174,6 +1174,114 @@
         "batch:winter-2026",
         "status:active",
         "implemented"
+      ]
+    },
+    {
+      "slug": "cardboard",
+      "issue_number": 144,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/144",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE4XFMA",
+      "title": "Cardboard (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/cardboard-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "care-gp",
+      "issue_number": 145,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/145",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE4XF4Q",
+      "title": "Care GP (Summer 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/care-gp-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:summer-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "caretta",
+      "issue_number": 146,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/146",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE4XGww",
+      "title": "Caretta (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/caretta-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "carrot-labs",
+      "issue_number": 147,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/147",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE4XHjw",
+      "title": "Carrot Labs (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/carrot-labs-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "carson",
+      "issue_number": 148,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/148",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE4XIQg",
+      "title": "Carson (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/carson-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "cascade",
+      "issue_number": 149,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/149",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE4XJGQ",
+      "title": "Cascade (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/cascade-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
       ]
     }
   ]

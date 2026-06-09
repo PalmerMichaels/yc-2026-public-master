@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T13:12:37.571Z",
+  "generated_at": "2026-06-09T13:45:24.076Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -5823,11 +5823,17 @@
       "public_repo": "care-gp-public",
       "implementation_scope": "Build an original web app demonstrating ai agents to run primary healthcare operations: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 145,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/145",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE4XF4Q",
+      "implementation_status": "in-progress",
+      "implementation_repo": "care-gp-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/care-gp-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/58",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Primary healthcare operations/admin agents with synthetic clinics/staff/tasks, scheduling/admin workflows, mocked communications/EHR-like admin connectors, approvals/audit logs, validation/tests, docs, and clean-room/non-clinical disclaimers. No diagnosis, treatment, triage, PHI, medical advice, clinical decision support, medical-device behavior, real patient data, or real EHR/clinic integrations."
     },
     {
       "slug": "cerenovus",
@@ -6905,11 +6911,17 @@
       "public_repo": "cardboard-public",
       "implementation_scope": "Build an original web app demonstrating agentic video editor: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 144,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/144",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE4XFMA",
+      "implementation_status": "in-progress",
+      "implementation_repo": "cardboard-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/cardboard-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/57",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Agentic video editor demo with onboarding/workspace/project setup, synthetic media/project data, workflow screens, timeline/editing/task/status management, mocked export/integration flows, seed data, validation/tests, docs, and clean-room disclaimers. Original UI/assets only; no copied branding, proprietary media, private data, or unsupported production/video claims."
     },
     {
       "slug": "caretta",
@@ -6929,11 +6941,17 @@
       "public_repo": "caretta-public",
       "implementation_scope": "Build an original web app demonstrating realtime ai for sales calls: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 146,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/146",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE4XGww",
+      "implementation_status": "in-progress",
+      "implementation_repo": "caretta-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/caretta-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/59",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Realtime AI for sales calls with synthetic calls/transcripts/accounts, call coaching/notes/action items, mocked CRM/telephony, validation/tests, docs, and clean-room disclaimers. No real call recording, credentials, private customer data, surveillance/compliance claims, or real telephony/CRM integrations."
     },
     {
       "slug": "carrot-labs",
@@ -6959,11 +6977,17 @@
       "public_repo": "carrot-labs-public",
       "implementation_scope": "Build an original web app demonstrating ai cost management: track and attribute ai spend across every provider: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 147,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/147",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE4XHjw",
+      "implementation_status": "in-progress",
+      "implementation_repo": "carrot-labs-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/carrot-labs-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/60",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "AI cost management across providers with synthetic provider/spend/usage data, cost insights/recommendations, budgets/alerts, mocked billing/provider APIs, validation/tests, docs, and clean-room disclaimers. No real invoices, credentials, account access, proprietary pricing data, or real provider API mutations."
     },
     {
       "slug": "carson",
@@ -6983,11 +7007,17 @@
       "public_repo": "carson-public",
       "implementation_scope": "Build an original web app demonstrating carson is a desktop ai app that generates custom, sharable workspaces: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 148,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/148",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE4XIQg",
+      "implementation_status": "in-progress",
+      "implementation_repo": "carson-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/carson-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/61",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Desktop AI workspace generator with synthetic workspaces/projects/files, workflow generation, role-aware task/status management, mocked desktop/app integrations, validation/tests, docs, and clean-room disclaimers. No real local-file access, credentials, private documents, copied UI/assets, or unsupported automation claims."
     },
     {
       "slug": "cascade",
@@ -7007,11 +7037,17 @@
       "public_repo": "cascade-public",
       "implementation_scope": "Build an original web app demonstrating distilling proprietary intelligence: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 149,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/149",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE4XJGQ",
+      "implementation_status": "in-progress",
+      "implementation_repo": "cascade-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/cascade-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/62",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Distilling proprietary intelligence / enterprise knowledge workflow with synthetic enterprise knowledge, ingestion/retrieval/summarization flows, mocked connectors, cited outputs, validation/tests, docs, and clean-room disclaimers. No proprietary documents, private datasets, confidential workflows, real connectors/credentials, or unsupported accuracy claims."
     },
     {
       "slug": "catchback-cards",
@@ -11160,7 +11196,7 @@
       "memory-store",
       "minicor"
     ],
-    "updated_at": "2026-06-09T13:12:37.571Z",
+    "updated_at": "2026-06-09T13:45:24.076Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -11179,7 +11215,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-09T13:12:37.571Z",
+    "updated_at": "2026-06-09T13:45:24.076Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -11284,8 +11320,15 @@
       "canary",
       "captain"
     ],
-    "in_progress": [],
-    "ready_copyable": 176,
+    "in_progress": [
+      "care-gp",
+      "cardboard",
+      "caretta",
+      "carrot-labs",
+      "carson",
+      "cascade"
+    ],
+    "ready_copyable": 170,
     "skipped_pending_recheck": [
       "aquashield"
     ]

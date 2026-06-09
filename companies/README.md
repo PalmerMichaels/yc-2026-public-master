@@ -7,10 +7,10 @@ Copyable: 278
 Not copyable: 127
 Uncertain: 0
 Implemented: 102
-In progress: 0
-Ready copyable: 175
+In progress: 6
+Ready copyable: 169
 Skipped pending re-check: aquashield
-GitHub issues created: 142
+GitHub issues created: 148
 GitHub issues pending: 285
 Closed duplicate issues: 88
 Project items synced: 120
@@ -121,7 +121,12 @@ Implemented repositories:
 - `captain`: https://github.com/PalmerMichaels/captain-public @ `a37fdb1d477aa99ec3dbe0e48b772651f33a8c8e`
 
 In-progress implementations:
-- None
+- `cardboard`: [#144](https://github.com/PalmerMichaels/yc-2026-public-master/issues/144) -> `cardboard-public`
+- `care-gp`: [#145](https://github.com/PalmerMichaels/yc-2026-public-master/issues/145) -> `care-gp-public`
+- `caretta`: [#146](https://github.com/PalmerMichaels/yc-2026-public-master/issues/146) -> `caretta-public`
+- `carrot-labs`: [#147](https://github.com/PalmerMichaels/yc-2026-public-master/issues/147) -> `carrot-labs-public`
+- `carson`: [#148](https://github.com/PalmerMichaels/yc-2026-public-master/issues/148) -> `carson-public`
+- `cascade`: [#149](https://github.com/PalmerMichaels/yc-2026-public-master/issues/149) -> `cascade-public`
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.

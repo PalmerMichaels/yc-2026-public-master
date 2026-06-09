@@ -2,13 +2,15 @@
 
 - Slug: `cardboard`
 - Batch: Winter 2026
-- Status: Active
+- YC status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
-- Source: https://www.ycombinator.com/companies/cardboard
+- Implementation Status: `in-progress`
+- Source URL: https://www.ycombinator.com/companies/cardboard
 - Website: https://usecardboard.com
+- GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/144
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
-- GitHub Issue: Pending creation
+- Public Repository: https://github.com/PalmerMichaels/cardboard-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/57
 
 ## Public Description
 
@@ -20,20 +22,23 @@ Cardboard is an agentic video editor for growth/marketing teams and serious crea
 
 Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.
 
+## Implementation Tracking
+
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/cardboard-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/57
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+
 ## Clean-Room Constraints
 
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Implementation Tracking
-
-- Status: `classified`
-
 ## Proposed Public Repository
 
-- Repository: `cardboard-public`
+`cardboard-public`
 
 ## End-to-End Implementation Scope
 
-Build an original web app demonstrating agentic video editor: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
+Agentic video editor demo with onboarding/workspace/project setup, synthetic media/project data, workflow screens, timeline/editing/task/status management, mocked export/integration flows, seed data, validation/tests, docs, and clean-room disclaimers. Original UI/assets only; no copied branding, proprietary media, private data, or unsupported production/video claims.

@@ -2,13 +2,15 @@
 
 - Slug: `carrot-labs`
 - Batch: Winter 2026
-- Status: Active
+- YC status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
-- Source: https://www.ycombinator.com/companies/carrot-labs
+- Implementation Status: `in-progress`
+- Source URL: https://www.ycombinator.com/companies/carrot-labs
 - Website: https://superpenguin.ai/
+- GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/147
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
-- GitHub Issue: Pending creation
+- Public Repository: https://github.com/PalmerMichaels/carrot-labs-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/60
 
 ## Public Description
 
@@ -20,20 +22,23 @@ The problem: AI spend is scattered across multiple provider billing consoles tha
 
 Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.
 
+## Implementation Tracking
+
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/carrot-labs-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/60
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+
 ## Clean-Room Constraints
 
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Implementation Tracking
-
-- Status: `classified`
-
 ## Proposed Public Repository
 
-- Repository: `carrot-labs-public`
+`carrot-labs-public`
 
 ## End-to-End Implementation Scope
 
-Build an original web app demonstrating ai cost management: track and attribute ai spend across every provider: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
+AI cost management across providers with synthetic provider/spend/usage data, cost insights/recommendations, budgets/alerts, mocked billing/provider APIs, validation/tests, docs, and clean-room disclaimers. No real invoices, credentials, account access, proprietary pricing data, or real provider API mutations.
