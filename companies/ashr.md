@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/ashr
 - Website: https://ashr.io
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/128
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/ashr-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/41
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `920b78a494bb3e99500f321726b38879d7622612`
+- Notes: Implemented and pushed; Public repo, default branch main, clean worktree, local HEAD == origin/main, parity 0 0. Validation: npm run validate passed; 1 test file / 6 tests; TypeScript build and Vite production build passed.
 
 ## Clean-Room Constraints
 

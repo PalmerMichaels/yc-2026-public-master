@@ -4,7 +4,7 @@
 - Batch: Summer 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/archal
 - Website: https://www.archal.ai/
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/127
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/archal-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/40
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `e01105e6d74ca1b1fd109e532210627382b176f4`
+- Notes: Implemented and pushed; Public repo, default branch main, clean worktree, local HEAD == origin/main, parity 0 0. Validation: npm run validate:data passed; npm test passed; npm run build passed.
 
 ## Clean-Room Constraints
 

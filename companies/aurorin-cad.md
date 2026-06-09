@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/aurorin-cad
 - Website: https://aurorincad.com
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/129
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/aurorin-cad-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/42
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `cee5e74b13ced3751b471e5f49a5ef9f54425b4a`
+- Notes: Implemented and pushed; Public repo, default branch main, clean worktree, local HEAD == origin/main, parity 0 0. Validation: npm test passed, 6 tests; npm run validate passed with clean-room validation.
 
 ## Clean-Room Constraints
 

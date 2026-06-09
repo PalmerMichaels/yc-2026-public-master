@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-08T16:20:50.956Z",
+  "generated_at": "2026-06-09T11:21:45.882Z",
   "repo": "PalmerMichaels/yc-2026-public-master",
   "total_open": 120,
-  "total_all": 121,
+  "total_all": 126,
   "closed_duplicates": [
     {
       "title": "Inth (Spring 2026)",
@@ -851,6 +851,114 @@
       "url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/1",
       "node_id": "I_kwDOS0hnm88AAAABEwUfvQ",
       "state": "open"
+    },
+    {
+      "slug": "approxima",
+      "issue_number": 126,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/126",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0RmjA",
+      "title": "Approxima (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/approxima-public",
+      "implementation_commit": "f6a803a44ffe72973ec5a0b7826ba38b4a3da87c",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implemented"
+      ]
+    },
+    {
+      "slug": "archal",
+      "issue_number": 127,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/127",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0Rm3A",
+      "title": "Archal (Summer 2026)",
+      "classification": "copyable",
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/archal-public",
+      "implementation_commit": "e01105e6d74ca1b1fd109e532210627382b176f4",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:summer-2026",
+        "status:active",
+        "implemented"
+      ]
+    },
+    {
+      "slug": "ashr",
+      "issue_number": 128,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/128",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0RnMg",
+      "title": "Ashr (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/ashr-public",
+      "implementation_commit": "920b78a494bb3e99500f321726b38879d7622612",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implemented"
+      ]
+    },
+    {
+      "slug": "aurorin-cad",
+      "issue_number": 129,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/129",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0RnlQ",
+      "title": "Aurorin CAD (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/aurorin-cad-public",
+      "implementation_commit": "cee5e74b13ced3751b471e5f49a5ef9f54425b4a",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implemented"
+      ]
+    },
+    {
+      "slug": "autositu",
+      "issue_number": 130,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/130",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0Rn5Q",
+      "title": "AutoSitu (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/autositu-public",
+      "implementation_commit": "c45c75fd1516e56eac2f18f84357437363b47e74",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implemented"
+      ]
+    },
+    {
+      "slug": "autumn-ai",
+      "issue_number": 131,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/131",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0RohQ",
+      "title": "Autumn AI (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "implemented",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/autumn-ai-public",
+      "implementation_commit": "2041422d75aabc9ac354492a16141ef9d9f9c0de",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implemented"
+      ]
     }
   ]
 }

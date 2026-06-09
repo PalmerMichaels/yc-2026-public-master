@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/autumn-ai
 - Website: https://autumnai.com
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/131
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/autumn-ai-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/44
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `2041422d75aabc9ac354492a16141ef9d9f9c0de`
+- Notes: Implemented and pushed; Public repo, default branch main, clean worktree, local HEAD == origin/main, parity 0 0. Validation: npm run validate passed; 1 test file / 7 tests; typecheck and Vite production build passed.
 
 ## Clean-Room Constraints
 

@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/autositu
 - Website: https://autositu.com/
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/130
@@ -24,10 +24,11 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/autositu-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/43
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `c45c75fd1516e56eac2f18f84357437363b47e74`
+- Notes: Implemented and pushed; Public repo, default branch main, clean worktree, local HEAD == origin/main, parity 0 0. Validation: npm run validate passed; 8/8 tests; CLI demo completed successfully.
 
 ## Clean-Room Constraints
 

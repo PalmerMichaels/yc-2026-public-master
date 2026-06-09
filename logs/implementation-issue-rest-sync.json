@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T02:22:52.761Z",
+  "generated_at": "2026-06-09T11:22:51.280Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -1229,103 +1229,97 @@
     {
       "slug": "approxima",
       "issue_number": 126,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/126",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE0RmjA",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/approxima-public",
+      "commit": "f6a803a44ffe72973ec5a0b7826ba38b4a3da87c",
       "public_project": "https://github.com/users/PalmerMichaels/projects/39",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "archal",
       "issue_number": 127,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/127",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE0Rm3A",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/archal-public",
+      "commit": "e01105e6d74ca1b1fd109e532210627382b176f4",
       "public_project": "https://github.com/users/PalmerMichaels/projects/40",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:summer-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "ashr",
       "issue_number": 128,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/128",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE0RnMg",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/ashr-public",
+      "commit": "920b78a494bb3e99500f321726b38879d7622612",
       "public_project": "https://github.com/users/PalmerMichaels/projects/41",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "aurorin-cad",
       "issue_number": 129,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/129",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE0RnlQ",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/aurorin-cad-public",
+      "commit": "cee5e74b13ced3751b471e5f49a5ef9f54425b4a",
       "public_project": "https://github.com/users/PalmerMichaels/projects/42",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "autositu",
       "issue_number": 130,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/130",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE0Rn5Q",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/autositu-public",
+      "commit": "c45c75fd1516e56eac2f18f84357437363b47e74",
       "public_project": "https://github.com/users/PalmerMichaels/projects/43",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "autumn-ai",
       "issue_number": 131,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/131",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE0RohQ",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/autumn-ai-public",
+      "commit": "2041422d75aabc9ac354492a16141ef9d9f9c0de",
       "public_project": "https://github.com/users/PalmerMichaels/projects/44",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ],

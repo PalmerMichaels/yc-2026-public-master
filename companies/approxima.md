@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/approxima
 - Website: https://approxima.ai
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/126
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/approxima-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/39
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `f6a803a44ffe72973ec5a0b7826ba38b4a3da87c`
+- Notes: Implemented and pushed; Public repo, default branch main, clean worktree, local HEAD == origin/main, parity 0 0. Validation: npm run build passed; npm test passed, 1 test file / 5 tests.
 
 ## Clean-Room Constraints
 

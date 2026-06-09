@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T02:23:50.385Z",
+  "generated_at": "2026-06-09T11:21:45.882Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -5794,12 +5794,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/127",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE0Rm3A",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "archal-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/archal-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/40",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "e01105e6d74ca1b1fd109e532210627382b176f4",
+      "implementation_notes": "Implemented and pushed; Public repo, default branch main, clean worktree, local HEAD == origin/main, parity 0 0. Validation: npm run validate:data passed; npm test passed; npm run build passed."
     },
     {
       "slug": "care-gp",
@@ -6217,12 +6217,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/126",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE0RmjA",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "approxima-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/approxima-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/39",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "f6a803a44ffe72973ec5a0b7826ba38b4a3da87c",
+      "implementation_notes": "Implemented and pushed; Public repo, default branch main, clean worktree, local HEAD == origin/main, parity 0 0. Validation: npm run build passed; npm test passed, 1 test file / 5 tests."
     },
     {
       "slug": "arc-prize-foundation",
@@ -6270,12 +6270,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/128",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE0RnMg",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "ashr-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/ashr-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/41",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "920b78a494bb3e99500f321726b38879d7622612",
+      "implementation_notes": "Implemented and pushed; Public repo, default branch main, clean worktree, local HEAD == origin/main, parity 0 0. Validation: npm run validate passed; 1 test file / 6 tests; TypeScript build and Vite production build passed."
     },
     {
       "slug": "asimov",
@@ -6323,12 +6323,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/129",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE0RnlQ",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "aurorin-cad-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/aurorin-cad-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/42",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "cee5e74b13ced3751b471e5f49a5ef9f54425b4a",
+      "implementation_notes": "Implemented and pushed; Public repo, default branch main, clean worktree, local HEAD == origin/main, parity 0 0. Validation: npm test passed, 6 tests; npm run validate passed with clean-room validation."
     },
     {
       "slug": "autositu",
@@ -6352,12 +6352,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/130",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE0Rn5Q",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "autositu-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/autositu-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/43",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "c45c75fd1516e56eac2f18f84357437363b47e74",
+      "implementation_notes": "Implemented and pushed; Public repo, default branch main, clean worktree, local HEAD == origin/main, parity 0 0. Validation: npm run validate passed; 8/8 tests; CLI demo completed successfully."
     },
     {
       "slug": "autumn-ai",
@@ -6381,12 +6381,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/131",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE0RohQ",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "autumn-ai-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/autumn-ai-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/44",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "2041422d75aabc9ac354492a16141ef9d9f9c0de",
+      "implementation_notes": "Implemented and pushed; Public repo, default branch main, clean worktree, local HEAD == origin/main, parity 0 0. Validation: npm run validate passed; 1 test file / 7 tests; typecheck and Vite production build passed."
     },
     {
       "slug": "avoice",
@@ -11088,7 +11088,7 @@
       "memory-store",
       "minicor"
     ],
-    "updated_at": "2026-06-09T02:23:50.385Z",
+    "updated_at": "2026-06-09T11:21:45.882Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -11107,7 +11107,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-09T02:23:50.385Z",
+    "updated_at": "2026-06-09T11:21:45.882Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -11189,19 +11189,18 @@
       "miso-labs",
       "napkin-math",
       "netter",
+      "archal",
       "21st",
       "aemon",
       "agentic-fabriq",
-      "alt-x"
-    ],
-    "in_progress": [
-      "archal",
+      "alt-x",
       "approxima",
       "ashr",
       "aurorin-cad",
       "autositu",
       "autumn-ai"
     ],
+    "in_progress": [],
     "ready_copyable": 188,
     "skipped_pending_recheck": [
       "aquashield"

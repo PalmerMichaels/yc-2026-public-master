@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-09T02:23:50.385Z",
+  "generated_at": "2026-06-09T11:21:45.882Z",
   "source": "companies/index.json",
   "policy": "Implementation-ready entries are pure-software clean-room candidates. Do not create implementation repositories from this tracker worker; meta owns repo creation and worker fan-out to avoid duplicates.",
   "counts": {
-    "implemented": 84,
-    "in_progress": 6,
+    "implemented": 90,
+    "in_progress": 0,
     "ready": 187,
     "pending_recheck": 1,
     "total_copyable": 278
@@ -1353,9 +1353,7 @@
       "implementation_repo_url": "https://github.com/PalmerMichaels/alt-x-public",
       "implementation_commit": "57192277e57d8dd8d06691c6930664666cfdef59",
       "priority": "implemented"
-    }
-  ],
-  "in_progress": [
+    },
     {
       "slug": "approxima",
       "name": "Approxima",
@@ -1367,10 +1365,10 @@
       "proposed_repo": "approxima-public",
       "implementation_scope": "Build an original web app demonstrating your software should build itself.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/approxima-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "f6a803a44ffe72973ec5a0b7826ba38b4a3da87c",
+      "priority": "implemented"
     },
     {
       "slug": "archal",
@@ -1383,10 +1381,10 @@
       "proposed_repo": "archal-public",
       "implementation_scope": "Build an original web app demonstrating the eval platform for autonomous software: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/archal-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "e01105e6d74ca1b1fd109e532210627382b176f4",
+      "priority": "implemented"
     },
     {
       "slug": "ashr",
@@ -1399,10 +1397,10 @@
       "proposed_repo": "ashr-public",
       "implementation_scope": "Build an original web app demonstrating automated multi-modal testing for agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/ashr-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "920b78a494bb3e99500f321726b38879d7622612",
+      "priority": "implemented"
     },
     {
       "slug": "aurorin-cad",
@@ -1415,10 +1413,10 @@
       "proposed_repo": "aurorin-cad-public",
       "implementation_scope": "Build an original web app demonstrating claude code for mechanical engineers: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/aurorin-cad-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "cee5e74b13ced3751b471e5f49a5ef9f54425b4a",
+      "priority": "implemented"
     },
     {
       "slug": "autositu",
@@ -1431,10 +1429,10 @@
       "proposed_repo": "autositu-public",
       "implementation_scope": "Build an original web app demonstrating ai-native workspace for development plan reviews: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/autositu-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "c45c75fd1516e56eac2f18f84357437363b47e74",
+      "priority": "implemented"
     },
     {
       "slug": "autumn-ai",
@@ -1447,12 +1445,13 @@
       "proposed_repo": "autumn-ai-public",
       "implementation_scope": "Build an original web app demonstrating stalk your prospects at scale.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/autumn-ai-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "2041422d75aabc9ac354492a16141ef9d9f9c0de",
+      "priority": "implemented"
     }
   ],
+  "in_progress": [],
   "pending_recheck": [
     {
       "slug": "aquashield",
@@ -2818,12 +2817,7 @@
           "implementation_repo_url": "https://github.com/PalmerMichaels/alt-x-public",
           "implementation_commit": "57192277e57d8dd8d06691c6930664666cfdef59",
           "priority": "implemented"
-        }
-      ]
-    },
-    {
-      "name": "in-progress",
-      "entries": [
+        },
         {
           "slug": "approxima",
           "name": "Approxima",
@@ -2835,10 +2829,10 @@
           "proposed_repo": "approxima-public",
           "implementation_scope": "Build an original web app demonstrating your software should build itself.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/approxima-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "f6a803a44ffe72973ec5a0b7826ba38b4a3da87c",
+          "priority": "implemented"
         },
         {
           "slug": "archal",
@@ -2851,10 +2845,10 @@
           "proposed_repo": "archal-public",
           "implementation_scope": "Build an original web app demonstrating the eval platform for autonomous software: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/archal-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "e01105e6d74ca1b1fd109e532210627382b176f4",
+          "priority": "implemented"
         },
         {
           "slug": "ashr",
@@ -2867,10 +2861,10 @@
           "proposed_repo": "ashr-public",
           "implementation_scope": "Build an original web app demonstrating automated multi-modal testing for agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/ashr-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "920b78a494bb3e99500f321726b38879d7622612",
+          "priority": "implemented"
         },
         {
           "slug": "aurorin-cad",
@@ -2883,10 +2877,10 @@
           "proposed_repo": "aurorin-cad-public",
           "implementation_scope": "Build an original web app demonstrating claude code for mechanical engineers: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/aurorin-cad-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "cee5e74b13ced3751b471e5f49a5ef9f54425b4a",
+          "priority": "implemented"
         },
         {
           "slug": "autositu",
@@ -2899,10 +2893,10 @@
           "proposed_repo": "autositu-public",
           "implementation_scope": "Build an original web app demonstrating ai-native workspace for development plan reviews: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/autositu-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "c45c75fd1516e56eac2f18f84357437363b47e74",
+          "priority": "implemented"
         },
         {
           "slug": "autumn-ai",
@@ -2915,12 +2909,16 @@
           "proposed_repo": "autumn-ai-public",
           "implementation_scope": "Build an original web app demonstrating stalk your prospects at scale.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/autumn-ai-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "2041422d75aabc9ac354492a16141ef9d9f9c0de",
+          "priority": "implemented"
         }
       ]
+    },
+    {
+      "name": "in-progress",
+      "entries": []
     },
     {
       "name": "pending-recheck",

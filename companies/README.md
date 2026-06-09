@@ -6,8 +6,8 @@ Total companies: 405
 Copyable: 278
 Not copyable: 127
 Uncertain: 0
-Implemented: 84
-In progress: 6
+Implemented: 90
+In progress: 0
 Ready copyable: 187
 Skipped pending re-check: aquashield
 GitHub issues created: 130
@@ -101,14 +101,15 @@ Implemented repositories:
 - `aemon`: https://github.com/PalmerMichaels/aemon-public @ `3aa5425f4fa9be7cc41678ffbae4ff8cea56a410`
 - `agentic-fabriq`: https://github.com/PalmerMichaels/agentic-fabriq-public @ `e9f32605c54186658cf17b5dfac006cb7e444001`
 - `alt-x`: https://github.com/PalmerMichaels/alt-x-public @ `57192277e57d8dd8d06691c6930664666cfdef59`
+- `approxima`: https://github.com/PalmerMichaels/approxima-public @ `f6a803a44ffe72973ec5a0b7826ba38b4a3da87c`
+- `archal`: https://github.com/PalmerMichaels/archal-public @ `e01105e6d74ca1b1fd109e532210627382b176f4`
+- `ashr`: https://github.com/PalmerMichaels/ashr-public @ `920b78a494bb3e99500f321726b38879d7622612`
+- `aurorin-cad`: https://github.com/PalmerMichaels/aurorin-cad-public @ `cee5e74b13ced3751b471e5f49a5ef9f54425b4a`
+- `autositu`: https://github.com/PalmerMichaels/autositu-public @ `c45c75fd1516e56eac2f18f84357437363b47e74`
+- `autumn-ai`: https://github.com/PalmerMichaels/autumn-ai-public @ `2041422d75aabc9ac354492a16141ef9d9f9c0de`
 
 In-progress implementations:
-- `approxima`: [#126](https://github.com/PalmerMichaels/yc-2026-public-master/issues/126) -> `approxima-public`
-- `archal`: [#127](https://github.com/PalmerMichaels/yc-2026-public-master/issues/127) -> `archal-public`
-- `ashr`: [#128](https://github.com/PalmerMichaels/yc-2026-public-master/issues/128) -> `ashr-public`
-- `aurorin-cad`: [#129](https://github.com/PalmerMichaels/yc-2026-public-master/issues/129) -> `aurorin-cad-public`
-- `autositu`: [#130](https://github.com/PalmerMichaels/yc-2026-public-master/issues/130) -> `autositu-public`
-- `autumn-ai`: [#131](https://github.com/PalmerMichaels/yc-2026-public-master/issues/131) -> `autumn-ai-public`
+- None
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.
