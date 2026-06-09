@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/klarify
 - Website: https://www.klarify.ca/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/97
 - Implementation Repository: https://github.com/PalmerMichaels/klarify-public
+- Implementation Commit: `e112ab9c2f9f42ec3f5e167a3c3be55f81c63445`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/klarify-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `e112ab9c2f9f42ec3f5e167a3c3be55f81c63445`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

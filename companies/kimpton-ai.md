@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/kimpton-ai
 - Website: https://kimpton.ai
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/93
 - Implementation Repository: https://github.com/PalmerMichaels/kimpton-ai-public
+- Implementation Commit: `66018f844c976ab28e8d7cf0771b4de59669a709`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/kimpton-ai-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `66018f844c976ab28e8d7cf0771b4de59669a709`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

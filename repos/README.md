@@ -64,15 +64,16 @@ Implemented:
 - `jo` -> https://github.com/PalmerMichaels/jo-public @ `9cccf2bbd5408ab57e43df0c10f6132e24333508`
 - `juno-chat` -> https://github.com/PalmerMichaels/juno-chat-public @ `c4f8eb61f4dc1947408d39cb8f0d307cf7edd979`
 - `kelai` -> https://github.com/PalmerMichaels/kelai-public @ `688526c270d43679f2dcf457c6c3e39b3d9d9a40`
+- `keyframe-labs` -> https://github.com/PalmerMichaels/keyframe-labs-public @ `81c32eaeff7e0774a064d65cda7b05101540d83b`
+- `kimpton-ai` -> https://github.com/PalmerMichaels/kimpton-ai-public @ `66018f844c976ab28e8d7cf0771b4de59669a709`
+- `kinect` -> https://github.com/PalmerMichaels/kinect-public @ `4474a71c87c5bb00db03d6550ad3a792f3ea65f5`
+- `kinro` -> https://github.com/PalmerMichaels/kinro-public @ `f7ccc8ebbcdfc6c2a24fc223514322f78de6d231`
+- `klarify` -> https://github.com/PalmerMichaels/klarify-public @ `e112ab9c2f9f42ec3f5e167a3c3be55f81c63445`
+- `korso` -> https://github.com/PalmerMichaels/korso-public @ `5acf91b1c1dc83386992a8af593f3d632fcf150c`
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- `keyframe-labs` -> `keyframe-labs-public` ([#92](https://github.com/PalmerMichaels/yc-2026-public-master/issues/92))
-- `kimpton-ai` -> `kimpton-ai-public` ([#93](https://github.com/PalmerMichaels/yc-2026-public-master/issues/93))
-- `kinect` -> `kinect-public` ([#94](https://github.com/PalmerMichaels/yc-2026-public-master/issues/94))
-- `kinro` -> `kinro-public` ([#95](https://github.com/PalmerMichaels/yc-2026-public-master/issues/95))
-- `klarify` -> `klarify-public` ([#97](https://github.com/PalmerMichaels/yc-2026-public-master/issues/97))
-- `korso` -> `korso-public` ([#98](https://github.com/PalmerMichaels/yc-2026-public-master/issues/98))
+- None
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -84,8 +85,8 @@ Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
 Current queue counts:
-- Implemented: 60
-- In progress: 6
+- Implemented: 66
+- In progress: 0
 - Pending re-check: 1
 - Ready for fan-out: 211
 - Total copyable: 278

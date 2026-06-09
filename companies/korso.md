@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/korso
 - Website: https://korsoai.com/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/98
 - Implementation Repository: https://github.com/PalmerMichaels/korso-public
+- Implementation Commit: `5acf91b1c1dc83386992a8af593f3d632fcf150c`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/korso-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `5acf91b1c1dc83386992a8af593f3d632fcf150c`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

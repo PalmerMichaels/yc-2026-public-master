@@ -6,8 +6,8 @@ Total companies: 405
 Copyable: 278
 Not copyable: 127
 Uncertain: 0
-Implemented: 60
-In progress: 6
+Implemented: 66
+In progress: 0
 Ready copyable: 212
 Skipped pending re-check: aquashield
 GitHub issues created: 120
@@ -76,15 +76,16 @@ Implemented repositories:
 - `jo`: https://github.com/PalmerMichaels/jo-public @ `9cccf2bbd5408ab57e43df0c10f6132e24333508`
 - `juno-chat`: https://github.com/PalmerMichaels/juno-chat-public @ `c4f8eb61f4dc1947408d39cb8f0d307cf7edd979`
 - `kelai`: https://github.com/PalmerMichaels/kelai-public @ `688526c270d43679f2dcf457c6c3e39b3d9d9a40`
+- `keyframe-labs`: https://github.com/PalmerMichaels/keyframe-labs-public @ `81c32eaeff7e0774a064d65cda7b05101540d83b`
+- `kimpton-ai`: https://github.com/PalmerMichaels/kimpton-ai-public @ `66018f844c976ab28e8d7cf0771b4de59669a709`
+- `kinect`: https://github.com/PalmerMichaels/kinect-public @ `4474a71c87c5bb00db03d6550ad3a792f3ea65f5`
+- `kinro`: https://github.com/PalmerMichaels/kinro-public @ `f7ccc8ebbcdfc6c2a24fc223514322f78de6d231`
+- `klarify`: https://github.com/PalmerMichaels/klarify-public @ `e112ab9c2f9f42ec3f5e167a3c3be55f81c63445`
+- `korso`: https://github.com/PalmerMichaels/korso-public @ `5acf91b1c1dc83386992a8af593f3d632fcf150c`
 - `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In-progress implementations:
-- `keyframe-labs`: [#92](https://github.com/PalmerMichaels/yc-2026-public-master/issues/92) -> `keyframe-labs-public`
-- `kimpton-ai`: [#93](https://github.com/PalmerMichaels/yc-2026-public-master/issues/93) -> `kimpton-ai-public`
-- `kinect`: [#94](https://github.com/PalmerMichaels/yc-2026-public-master/issues/94) -> `kinect-public`
-- `kinro`: [#95](https://github.com/PalmerMichaels/yc-2026-public-master/issues/95) -> `kinro-public`
-- `klarify`: [#97](https://github.com/PalmerMichaels/yc-2026-public-master/issues/97) -> `klarify-public`
-- `korso`: [#98](https://github.com/PalmerMichaels/yc-2026-public-master/issues/98) -> `korso-public`
+- None
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.
@@ -192,13 +193,13 @@ Batches covered:
 | [jo](jo.md) | Spring 2026 | `copyable` | `implemented` | `jo-public` | [#89](https://github.com/PalmerMichaels/yc-2026-public-master/issues/89) | [YC](https://www.ycombinator.com/companies/jo) |
 | [Juno](juno-chat.md) | Spring 2026 | `copyable` | `implemented` | `juno-chat-public` | [#90](https://github.com/PalmerMichaels/yc-2026-public-master/issues/90) | [YC](https://www.ycombinator.com/companies/juno-chat) |
 | [KelAI](kelai.md) | Spring 2026 | `copyable` | `implemented` | `kelai-public` | [#91](https://github.com/PalmerMichaels/yc-2026-public-master/issues/91) | [YC](https://www.ycombinator.com/companies/kelai) |
-| [Keyframe Labs](keyframe-labs.md) | Spring 2026 | `copyable` | `in-progress` | `keyframe-labs-public` | [#92](https://github.com/PalmerMichaels/yc-2026-public-master/issues/92) | [YC](https://www.ycombinator.com/companies/keyframe-labs) |
-| [Kimpton AI](kimpton-ai.md) | Spring 2026 | `copyable` | `in-progress` | `kimpton-ai-public` | [#93](https://github.com/PalmerMichaels/yc-2026-public-master/issues/93) | [YC](https://www.ycombinator.com/companies/kimpton-ai) |
-| [Kinect](kinect.md) | Spring 2026 | `copyable` | `in-progress` | `kinect-public` | [#94](https://github.com/PalmerMichaels/yc-2026-public-master/issues/94) | [YC](https://www.ycombinator.com/companies/kinect) |
-| [Kinro](kinro.md) | Spring 2026 | `copyable` | `in-progress` | `kinro-public` | [#95](https://github.com/PalmerMichaels/yc-2026-public-master/issues/95) | [YC](https://www.ycombinator.com/companies/kinro) |
+| [Keyframe Labs](keyframe-labs.md) | Spring 2026 | `copyable` | `implemented` | `keyframe-labs-public` | [#92](https://github.com/PalmerMichaels/yc-2026-public-master/issues/92) | [YC](https://www.ycombinator.com/companies/keyframe-labs) |
+| [Kimpton AI](kimpton-ai.md) | Spring 2026 | `copyable` | `implemented` | `kimpton-ai-public` | [#93](https://github.com/PalmerMichaels/yc-2026-public-master/issues/93) | [YC](https://www.ycombinator.com/companies/kimpton-ai) |
+| [Kinect](kinect.md) | Spring 2026 | `copyable` | `implemented` | `kinect-public` | [#94](https://github.com/PalmerMichaels/yc-2026-public-master/issues/94) | [YC](https://www.ycombinator.com/companies/kinect) |
+| [Kinro](kinro.md) | Spring 2026 | `copyable` | `implemented` | `kinro-public` | [#95](https://github.com/PalmerMichaels/yc-2026-public-master/issues/95) | [YC](https://www.ycombinator.com/companies/kinro) |
 | [Klaimee](klaimee.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#96](https://github.com/PalmerMichaels/yc-2026-public-master/issues/96) | [YC](https://www.ycombinator.com/companies/klaimee) |
-| [Klarify](klarify.md) | Spring 2026 | `copyable` | `in-progress` | `klarify-public` | [#97](https://github.com/PalmerMichaels/yc-2026-public-master/issues/97) | [YC](https://www.ycombinator.com/companies/klarify) |
-| [Korso](korso.md) | Spring 2026 | `copyable` | `in-progress` | `korso-public` | [#98](https://github.com/PalmerMichaels/yc-2026-public-master/issues/98) | [YC](https://www.ycombinator.com/companies/korso) |
+| [Klarify](klarify.md) | Spring 2026 | `copyable` | `implemented` | `klarify-public` | [#97](https://github.com/PalmerMichaels/yc-2026-public-master/issues/97) | [YC](https://www.ycombinator.com/companies/klarify) |
+| [Korso](korso.md) | Spring 2026 | `copyable` | `implemented` | `korso-public` | [#98](https://github.com/PalmerMichaels/yc-2026-public-master/issues/98) | [YC](https://www.ycombinator.com/companies/korso) |
 | [KugelAudio](kugelaudio.md) | Spring 2026 | `copyable` | `classified` | `kugelaudio-public` | [#99](https://github.com/PalmerMichaels/yc-2026-public-master/issues/99) | [YC](https://www.ycombinator.com/companies/kugelaudio) |
 | [Kuli](kuli.md) | Spring 2026 | `copyable` | `classified` | `kuli-public` | [#100](https://github.com/PalmerMichaels/yc-2026-public-master/issues/100) | [YC](https://www.ycombinator.com/companies/kuli) |
 | [Lab0](lab0.md) | Spring 2026 | `copyable` | `classified` | `lab0-public` | [#101](https://github.com/PalmerMichaels/yc-2026-public-master/issues/101) | [YC](https://www.ycombinator.com/companies/lab0) |

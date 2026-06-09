@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T00:09:25.247Z",
+  "generated_at": "2026-06-09T00:37:24.990Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -2745,11 +2745,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/92",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwdgsQ",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "keyframe-labs-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/keyframe-labs-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "81c32eaeff7e0774a064d65cda7b05101540d83b",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "kimpton-ai",
@@ -2773,11 +2773,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/93",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwd9Gg",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "kimpton-ai-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/kimpton-ai-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "66018f844c976ab28e8d7cf0771b4de59669a709",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "kinect",
@@ -2801,11 +2801,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/94",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEweaVg",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "kinect-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/kinect-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "4474a71c87c5bb00db03d6550ad3a792f3ea65f5",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "kinro",
@@ -2829,11 +2829,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/95",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwe1kA",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "kinro-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/kinro-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "f7ccc8ebbcdfc6c2a24fc223514322f78de6d231",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "klaimee",
@@ -2893,11 +2893,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/97",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwfs1Q",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "klarify-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/klarify-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "e112ab9c2f9f42ec3f5e167a3c3be55f81c63445",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "korso",
@@ -2925,11 +2925,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/98",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwgLog",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "korso-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/korso-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "5acf91b1c1dc83386992a8af593f3d632fcf150c",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main."
     },
     {
       "slug": "kugelaudio",
@@ -10956,7 +10956,7 @@
       "klarify",
       "korso"
     ],
-    "updated_at": "2026-06-09T00:09:25.247Z",
+    "updated_at": "2026-06-09T00:37:24.990Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -10975,7 +10975,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-09T00:09:25.247Z",
+    "updated_at": "2026-06-09T00:37:24.990Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -11036,16 +11036,15 @@
       "jo",
       "juno-chat",
       "kelai",
-      "napkin-math"
-    ],
-    "in_progress": [
       "keyframe-labs",
       "kimpton-ai",
       "kinect",
       "kinro",
       "klarify",
-      "korso"
+      "korso",
+      "napkin-math"
     ],
+    "in_progress": [],
     "ready_copyable": 212,
     "skipped_pending_recheck": [
       "aquashield"

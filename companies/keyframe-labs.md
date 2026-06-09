@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/keyframe-labs
 - Website: https://keyframelabs.com
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/92
 - Implementation Repository: https://github.com/PalmerMichaels/keyframe-labs-public
+- Implementation Commit: `81c32eaeff7e0774a064d65cda7b05101540d83b`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/keyframe-labs-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `81c32eaeff7e0774a064d65cda7b05101540d83b`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 
