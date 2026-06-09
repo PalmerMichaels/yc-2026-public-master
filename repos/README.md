@@ -95,14 +95,15 @@ Implemented:
 - `aurorin-cad` -> https://github.com/PalmerMichaels/aurorin-cad-public @ `cee5e74b13ced3751b471e5f49a5ef9f54425b4a`
 - `autositu` -> https://github.com/PalmerMichaels/autositu-public @ `c45c75fd1516e56eac2f18f84357437363b47e74`
 - `autumn-ai` -> https://github.com/PalmerMichaels/autumn-ai-public @ `2041422d75aabc9ac354492a16141ef9d9f9c0de`
+- `avoice` -> https://github.com/PalmerMichaels/avoice-public @ `eda2f24e222fd6d7ce85494b017196cfc6c274ac`
+- `axis-2` -> https://github.com/PalmerMichaels/axis-2-public @ `7d4fff18228fd04e67e4d3f87f12f5f15120e4e0`
+- `baseframe` -> https://github.com/PalmerMichaels/baseframe-public @ `ae892d302ea439b662cb4b0d5ee4738f50babfc0`
+- `beacon-health` -> https://github.com/PalmerMichaels/beacon-health-public @ `3c5c894c608f6313c252ae94e348c8ad357a6773`
+- `bidflow` -> https://github.com/PalmerMichaels/bidflow-public @ `8c85709c73f973e1c673b08bf1944463224874bb`
+- `booko` -> https://github.com/PalmerMichaels/booko-public @ `8065db8bc3980e2e2137c721eb3a95b91e501659`
 
 In progress:
-- `avoice` -> `avoice-public` ([#132](https://github.com/PalmerMichaels/yc-2026-public-master/issues/132))
-- `axis-2` -> `axis-2-public` ([#133](https://github.com/PalmerMichaels/yc-2026-public-master/issues/133))
-- `baseframe` -> `baseframe-public` ([#134](https://github.com/PalmerMichaels/yc-2026-public-master/issues/134))
-- `beacon-health` -> `beacon-health-public` ([#135](https://github.com/PalmerMichaels/yc-2026-public-master/issues/135))
-- `bidflow` -> `bidflow-public` ([#136](https://github.com/PalmerMichaels/yc-2026-public-master/issues/136))
-- `booko` -> `booko-public` ([#137](https://github.com/PalmerMichaels/yc-2026-public-master/issues/137))
+- None
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -114,8 +115,8 @@ Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
 Current queue counts:
-- Implemented: 90
-- In progress: 6
+- Implemented: 96
+- In progress: 0
 - Pending re-check: 1
 - Ready for fan-out: 181
 - Total copyable: 278

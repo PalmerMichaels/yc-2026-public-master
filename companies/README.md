@@ -6,8 +6,8 @@ Total companies: 405
 Copyable: 278
 Not copyable: 127
 Uncertain: 0
-Implemented: 90
-In progress: 6
+Implemented: 96
+In progress: 0
 Ready copyable: 181
 Skipped pending re-check: aquashield
 GitHub issues created: 136
@@ -107,14 +107,15 @@ Implemented repositories:
 - `aurorin-cad`: https://github.com/PalmerMichaels/aurorin-cad-public @ `cee5e74b13ced3751b471e5f49a5ef9f54425b4a`
 - `autositu`: https://github.com/PalmerMichaels/autositu-public @ `c45c75fd1516e56eac2f18f84357437363b47e74`
 - `autumn-ai`: https://github.com/PalmerMichaels/autumn-ai-public @ `2041422d75aabc9ac354492a16141ef9d9f9c0de`
+- `avoice`: https://github.com/PalmerMichaels/avoice-public @ `eda2f24e222fd6d7ce85494b017196cfc6c274ac`
+- `axis-2`: https://github.com/PalmerMichaels/axis-2-public @ `7d4fff18228fd04e67e4d3f87f12f5f15120e4e0`
+- `baseframe`: https://github.com/PalmerMichaels/baseframe-public @ `ae892d302ea439b662cb4b0d5ee4738f50babfc0`
+- `beacon-health`: https://github.com/PalmerMichaels/beacon-health-public @ `3c5c894c608f6313c252ae94e348c8ad357a6773`
+- `bidflow`: https://github.com/PalmerMichaels/bidflow-public @ `8c85709c73f973e1c673b08bf1944463224874bb`
+- `booko`: https://github.com/PalmerMichaels/booko-public @ `8065db8bc3980e2e2137c721eb3a95b91e501659`
 
 In-progress implementations:
-- `avoice`: [#132](https://github.com/PalmerMichaels/yc-2026-public-master/issues/132) -> `avoice-public`
-- `axis-2`: [#133](https://github.com/PalmerMichaels/yc-2026-public-master/issues/133) -> `axis-2-public`
-- `baseframe`: [#134](https://github.com/PalmerMichaels/yc-2026-public-master/issues/134) -> `baseframe-public`
-- `beacon-health`: [#135](https://github.com/PalmerMichaels/yc-2026-public-master/issues/135) -> `beacon-health-public`
-- `bidflow`: [#136](https://github.com/PalmerMichaels/yc-2026-public-master/issues/136) -> `bidflow-public`
-- `booko`: [#137](https://github.com/PalmerMichaels/yc-2026-public-master/issues/137) -> `booko-public`
+- None
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.

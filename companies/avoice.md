@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/avoice
 - Website: https://avoice.co/
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/132
@@ -24,10 +24,11 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/avoice-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/45
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `eda2f24e222fd6d7ce85494b017196cfc6c274ac`
+- Notes: Implemented and pushed; local main matches origin/main. Scope verified: Harvey-for-architecture style architecture workflow studio; onboarding, workspace/project setup, document screens, role/task/status flows, synthetic project/doc data, mocked integrations, clean-room/non-regulated disclaimers. Validation: npm run validate passed; 7/7 tests; CLI report ran.
 
 ## Clean-Room Constraints
 
@@ -41,4 +42,4 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## End-to-End Implementation Scope
 
-Original clean-room web app demonstrating Harvey-for-architecture style workflows, synthetic data, mocked integrations, no copied assets/branding.
+Harvey-for-architecture style architecture workflow studio; onboarding, workspace/project setup, document screens, role/task/status flows, synthetic project/doc data, mocked integrations, clean-room/non-regulated disclaimers.

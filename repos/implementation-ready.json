@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-09T11:51:03.977Z",
+  "generated_at": "2026-06-09T12:30:48.870Z",
   "source": "companies/index.json",
   "policy": "Implementation-ready entries are pure-software clean-room candidates. Do not create implementation repositories from this tracker worker; meta owns repo creation and worker fan-out to avoid duplicates.",
   "counts": {
-    "implemented": 90,
-    "in_progress": 6,
+    "implemented": 96,
+    "in_progress": 0,
     "ready": 181,
     "pending_recheck": 1,
     "total_copyable": 278
@@ -1449,9 +1449,7 @@
       "implementation_repo_url": "https://github.com/PalmerMichaels/autumn-ai-public",
       "implementation_commit": "2041422d75aabc9ac354492a16141ef9d9f9c0de",
       "priority": "implemented"
-    }
-  ],
-  "in_progress": [
+    },
     {
       "slug": "avoice",
       "name": "Avoice",
@@ -1461,12 +1459,12 @@
       "source_url": "https://www.ycombinator.com/companies/avoice",
       "website": "https://avoice.co/",
       "proposed_repo": "avoice-public",
-      "implementation_scope": "Original clean-room web app demonstrating Harvey-for-architecture style workflows, synthetic data, mocked integrations, no copied assets/branding.",
+      "implementation_scope": "Harvey-for-architecture style architecture workflow studio; onboarding, workspace/project setup, document screens, role/task/status flows, synthetic project/doc data, mocked integrations, clean-room/non-regulated disclaimers.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/avoice-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "eda2f24e222fd6d7ce85494b017196cfc6c274ac",
+      "priority": "implemented"
     },
     {
       "slug": "axis-2",
@@ -1477,12 +1475,12 @@
       "source_url": "https://www.ycombinator.com/companies/axis-2",
       "website": "https://axisanalysis.com",
       "proposed_repo": "axis-2-public",
-      "implementation_scope": "AI copilot for trading desks demo. Avoid real trading, brokerage, execution, investment advice, credentials, live market integrations, or real money movement.",
+      "implementation_scope": "Synthetic AI trading-desk copilot; synthetic desk/order/risk data, mock market context, dashboards, review queues, explainable outputs. No real trading/brokerage/execution/advice/money movement.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/axis-2-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "7d4fff18228fd04e67e4d3f87f12f5f15120e4e0",
+      "priority": "implemented"
     },
     {
       "slug": "baseframe",
@@ -1493,12 +1491,12 @@
       "source_url": "https://www.ycombinator.com/companies/baseframe",
       "website": "https://baseframe.co",
       "proposed_repo": "baseframe-public",
-      "implementation_scope": "Detect/plan what AI can automate for a team; original UI, synthetic data, mocked integrations.",
+      "implementation_scope": "Automation opportunity planner for teams; onboarding/team context, app/workflow inventory, automation scoring, task recommendations, ROI/effort views, synthetic data, mocked integrations.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/baseframe-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "ae892d302ea439b662cb4b0d5ee4738f50babfc0",
+      "priority": "implemented"
     },
     {
       "slug": "beacon-health",
@@ -1509,12 +1507,12 @@
       "source_url": "https://www.ycombinator.com/companies/beacon-health",
       "website": "https://www.beaconhealth.ai/",
       "proposed_repo": "beacon-health-public",
-      "implementation_scope": "Non-clinical/admin-only synthetic workflows. No diagnosis, treatment, triage, PHI, medical advice, or medical-device behavior.",
+      "implementation_scope": "Non-clinical/admin-only synthetic operations console; intake admin, appointment/task coordination, staffing/coverage views, document checklist/status, mock admin assistant drafts. Explicitly no diagnosis/treatment/triage/PHI/medical advice/clinical decision support/medical-device behavior/real integrations.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/beacon-health-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "3c5c894c608f6313c252ae94e348c8ad357a6773",
+      "priority": "implemented"
     },
     {
       "slug": "bidflow",
@@ -1525,12 +1523,12 @@
       "source_url": "https://www.ycombinator.com/companies/bidflow",
       "website": "https://usebidflow.com",
       "proposed_repo": "bidflow-public",
-      "implementation_scope": "AI takeoffs for electrical demo with synthetic project data and no proprietary plans/assets.",
+      "implementation_scope": "Synthetic electrical takeoff workflow; plan/package intake, electrical line-item extraction/review, dashboards, estimate comparisons, exceptions, mocked integrations.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/bidflow-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "8c85709c73f973e1c673b08bf1944463224874bb",
+      "priority": "implemented"
     },
     {
       "slug": "booko",
@@ -1541,14 +1539,15 @@
       "source_url": "https://www.ycombinator.com/companies/booko",
       "website": "https://bookoapp.com",
       "proposed_repo": "booko-public",
-      "implementation_scope": "Dynamic pricing workflow with synthetic pricing/economy data; avoid real commerce/payment execution.",
+      "implementation_scope": "Dynamic pricing workflow only; product/service catalog, synthetic demand/supply signals, pricing recommendations, scenario simulation, approval flows, audit history, mocked integrations. No real commerce/payment execution/credentials/live marketplace integrations/real customer or pricing data.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/booko-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "8065db8bc3980e2e2137c721eb3a95b91e501659",
+      "priority": "implemented"
     }
   ],
+  "in_progress": [],
   "pending_recheck": [
     {
       "slug": "aquashield",
@@ -3010,12 +3009,7 @@
           "implementation_repo_url": "https://github.com/PalmerMichaels/autumn-ai-public",
           "implementation_commit": "2041422d75aabc9ac354492a16141ef9d9f9c0de",
           "priority": "implemented"
-        }
-      ]
-    },
-    {
-      "name": "in-progress",
-      "entries": [
+        },
         {
           "slug": "avoice",
           "name": "Avoice",
@@ -3025,12 +3019,12 @@
           "source_url": "https://www.ycombinator.com/companies/avoice",
           "website": "https://avoice.co/",
           "proposed_repo": "avoice-public",
-          "implementation_scope": "Original clean-room web app demonstrating Harvey-for-architecture style workflows, synthetic data, mocked integrations, no copied assets/branding.",
+          "implementation_scope": "Harvey-for-architecture style architecture workflow studio; onboarding, workspace/project setup, document screens, role/task/status flows, synthetic project/doc data, mocked integrations, clean-room/non-regulated disclaimers.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/avoice-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "eda2f24e222fd6d7ce85494b017196cfc6c274ac",
+          "priority": "implemented"
         },
         {
           "slug": "axis-2",
@@ -3041,12 +3035,12 @@
           "source_url": "https://www.ycombinator.com/companies/axis-2",
           "website": "https://axisanalysis.com",
           "proposed_repo": "axis-2-public",
-          "implementation_scope": "AI copilot for trading desks demo. Avoid real trading, brokerage, execution, investment advice, credentials, live market integrations, or real money movement.",
+          "implementation_scope": "Synthetic AI trading-desk copilot; synthetic desk/order/risk data, mock market context, dashboards, review queues, explainable outputs. No real trading/brokerage/execution/advice/money movement.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/axis-2-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "7d4fff18228fd04e67e4d3f87f12f5f15120e4e0",
+          "priority": "implemented"
         },
         {
           "slug": "baseframe",
@@ -3057,12 +3051,12 @@
           "source_url": "https://www.ycombinator.com/companies/baseframe",
           "website": "https://baseframe.co",
           "proposed_repo": "baseframe-public",
-          "implementation_scope": "Detect/plan what AI can automate for a team; original UI, synthetic data, mocked integrations.",
+          "implementation_scope": "Automation opportunity planner for teams; onboarding/team context, app/workflow inventory, automation scoring, task recommendations, ROI/effort views, synthetic data, mocked integrations.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/baseframe-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "ae892d302ea439b662cb4b0d5ee4738f50babfc0",
+          "priority": "implemented"
         },
         {
           "slug": "beacon-health",
@@ -3073,12 +3067,12 @@
           "source_url": "https://www.ycombinator.com/companies/beacon-health",
           "website": "https://www.beaconhealth.ai/",
           "proposed_repo": "beacon-health-public",
-          "implementation_scope": "Non-clinical/admin-only synthetic workflows. No diagnosis, treatment, triage, PHI, medical advice, or medical-device behavior.",
+          "implementation_scope": "Non-clinical/admin-only synthetic operations console; intake admin, appointment/task coordination, staffing/coverage views, document checklist/status, mock admin assistant drafts. Explicitly no diagnosis/treatment/triage/PHI/medical advice/clinical decision support/medical-device behavior/real integrations.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/beacon-health-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "3c5c894c608f6313c252ae94e348c8ad357a6773",
+          "priority": "implemented"
         },
         {
           "slug": "bidflow",
@@ -3089,12 +3083,12 @@
           "source_url": "https://www.ycombinator.com/companies/bidflow",
           "website": "https://usebidflow.com",
           "proposed_repo": "bidflow-public",
-          "implementation_scope": "AI takeoffs for electrical demo with synthetic project data and no proprietary plans/assets.",
+          "implementation_scope": "Synthetic electrical takeoff workflow; plan/package intake, electrical line-item extraction/review, dashboards, estimate comparisons, exceptions, mocked integrations.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/bidflow-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "8c85709c73f973e1c673b08bf1944463224874bb",
+          "priority": "implemented"
         },
         {
           "slug": "booko",
@@ -3105,14 +3099,18 @@
           "source_url": "https://www.ycombinator.com/companies/booko",
           "website": "https://bookoapp.com",
           "proposed_repo": "booko-public",
-          "implementation_scope": "Dynamic pricing workflow with synthetic pricing/economy data; avoid real commerce/payment execution.",
+          "implementation_scope": "Dynamic pricing workflow only; product/service catalog, synthetic demand/supply signals, pricing recommendations, scenario simulation, approval flows, audit history, mocked integrations. No real commerce/payment execution/credentials/live marketplace integrations/real customer or pricing data.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/booko-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "8065db8bc3980e2e2137c721eb3a95b91e501659",
+          "priority": "implemented"
         }
       ]
+    },
+    {
+      "name": "in-progress",
+      "entries": []
     },
     {
       "name": "pending-recheck",

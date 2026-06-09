@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T11:51:03.977Z",
+  "generated_at": "2026-06-09T12:30:48.870Z",
   "repo": "PalmerMichaels/yc-2026-public-master",
   "total_open": 120,
   "total_all": 132,
@@ -967,15 +967,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE3jCgA",
       "title": "Avoice (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/avoice-public",
-      "implementation_commit": null,
+      "implementation_commit": "eda2f24e222fd6d7ce85494b017196cfc6c274ac",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -985,15 +985,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE3jDPg",
       "title": "Axis (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/axis-2-public",
-      "implementation_commit": null,
+      "implementation_commit": "7d4fff18228fd04e67e4d3f87f12f5f15120e4e0",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1003,15 +1003,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE3jD0g",
       "title": "BaseFrame (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/baseframe-public",
-      "implementation_commit": null,
+      "implementation_commit": "ae892d302ea439b662cb4b0d5ee4738f50babfc0",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1021,15 +1021,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE3jEdQ",
       "title": "Beacon Health (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/beacon-health-public",
-      "implementation_commit": null,
+      "implementation_commit": "3c5c894c608f6313c252ae94e348c8ad357a6773",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1039,15 +1039,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE3jFGw",
       "title": "Bidflow (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/bidflow-public",
-      "implementation_commit": null,
+      "implementation_commit": "8c85709c73f973e1c673b08bf1944463224874bb",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1057,15 +1057,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE3jFvQ",
       "title": "Booko (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/booko-public",
-      "implementation_commit": null,
+      "implementation_commit": "8065db8bc3980e2e2137c721eb3a95b91e501659",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ]

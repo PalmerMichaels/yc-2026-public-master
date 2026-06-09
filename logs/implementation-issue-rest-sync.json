@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T11:49:01.032Z",
+  "generated_at": "2026-06-09T12:31:53.950Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -1325,103 +1325,97 @@
     {
       "slug": "avoice",
       "issue_number": 132,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/132",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE3jCgA",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/avoice-public",
+      "commit": "eda2f24e222fd6d7ce85494b017196cfc6c274ac",
       "public_project": "https://github.com/users/PalmerMichaels/projects/45",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "axis-2",
       "issue_number": 133,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/133",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE3jDPg",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/axis-2-public",
+      "commit": "7d4fff18228fd04e67e4d3f87f12f5f15120e4e0",
       "public_project": "https://github.com/users/PalmerMichaels/projects/46",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "baseframe",
       "issue_number": 134,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/134",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE3jD0g",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/baseframe-public",
+      "commit": "ae892d302ea439b662cb4b0d5ee4738f50babfc0",
       "public_project": "https://github.com/users/PalmerMichaels/projects/47",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "beacon-health",
       "issue_number": 135,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/135",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE3jEdQ",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/beacon-health-public",
+      "commit": "3c5c894c608f6313c252ae94e348c8ad357a6773",
       "public_project": "https://github.com/users/PalmerMichaels/projects/48",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "bidflow",
       "issue_number": 136,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/136",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE3jFGw",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/bidflow-public",
+      "commit": "8c85709c73f973e1c673b08bf1944463224874bb",
       "public_project": "https://github.com/users/PalmerMichaels/projects/49",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "booko",
       "issue_number": 137,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/137",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE3jFvQ",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/booko-public",
+      "commit": "8065db8bc3980e2e2137c721eb3a95b91e501659",
       "public_project": "https://github.com/users/PalmerMichaels/projects/50",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ],

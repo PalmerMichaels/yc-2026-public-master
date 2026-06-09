@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/baseframe
 - Website: https://baseframe.co
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/134
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/baseframe-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/47
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `ae892d302ea439b662cb4b0d5ee4738f50babfc0`
+- Notes: Implemented and pushed; local main matches origin/main. Scope verified: Automation opportunity planner for teams; onboarding/team context, app/workflow inventory, automation scoring, task recommendations, ROI/effort views, synthetic data, mocked integrations. Validation: npm run build, npm test, npm run validate, smoke commands passed.
 
 ## Clean-Room Constraints
 
@@ -41,4 +42,4 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## End-to-End Implementation Scope
 
-Detect/plan what AI can automate for a team; original UI, synthetic data, mocked integrations.
+Automation opportunity planner for teams; onboarding/team context, app/workflow inventory, automation scoring, task recommendations, ROI/effort views, synthetic data, mocked integrations.

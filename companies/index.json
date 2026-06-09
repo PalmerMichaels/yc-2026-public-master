@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T11:51:03.977Z",
+  "generated_at": "2026-06-09T12:30:48.870Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -6410,13 +6410,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/132",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE3jCgA",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "avoice-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/avoice-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/45",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "Original clean-room web app demonstrating Harvey-for-architecture style workflows, synthetic data, mocked integrations, no copied assets/branding."
+      "implementation_commit": "eda2f24e222fd6d7ce85494b017196cfc6c274ac",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main. Scope verified: Harvey-for-architecture style architecture workflow studio; onboarding, workspace/project setup, document screens, role/task/status flows, synthetic project/doc data, mocked integrations, clean-room/non-regulated disclaimers. Validation: npm run validate passed; 7/7 tests; CLI report ran.",
+      "implementation_scope_override": "Harvey-for-architecture style architecture workflow studio; onboarding, workspace/project setup, document screens, role/task/status flows, synthetic project/doc data, mocked integrations, clean-room/non-regulated disclaimers."
     },
     {
       "slug": "axionorbital-space",
@@ -6464,13 +6464,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/133",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE3jDPg",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "axis-2-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/axis-2-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/46",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "AI copilot for trading desks demo. Avoid real trading, brokerage, execution, investment advice, credentials, live market integrations, or real money movement."
+      "implementation_commit": "7d4fff18228fd04e67e4d3f87f12f5f15120e4e0",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main. Scope verified: Synthetic AI trading-desk copilot; synthetic desk/order/risk data, mock market context, dashboards, review queues, explainable outputs. No real trading/brokerage/execution/advice/money movement. Validation: npm run build, npm test, npm start passed.",
+      "implementation_scope_override": "Synthetic AI trading-desk copilot; synthetic desk/order/risk data, mock market context, dashboards, review queues, explainable outputs. No real trading/brokerage/execution/advice/money movement."
     },
     {
       "slug": "baseframe",
@@ -6494,13 +6494,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/134",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE3jD0g",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "baseframe-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/baseframe-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/47",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "Detect/plan what AI can automate for a team; original UI, synthetic data, mocked integrations."
+      "implementation_commit": "ae892d302ea439b662cb4b0d5ee4738f50babfc0",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main. Scope verified: Automation opportunity planner for teams; onboarding/team context, app/workflow inventory, automation scoring, task recommendations, ROI/effort views, synthetic data, mocked integrations. Validation: npm run build, npm test, npm run validate, smoke commands passed.",
+      "implementation_scope_override": "Automation opportunity planner for teams; onboarding/team context, app/workflow inventory, automation scoring, task recommendations, ROI/effort views, synthetic data, mocked integrations."
     },
     {
       "slug": "beacon-health",
@@ -6524,13 +6524,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/135",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE3jEdQ",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "beacon-health-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/beacon-health-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/48",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "Non-clinical/admin-only synthetic workflows. No diagnosis, treatment, triage, PHI, medical advice, or medical-device behavior."
+      "implementation_commit": "3c5c894c608f6313c252ae94e348c8ad357a6773",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main. Scope verified: Non-clinical/admin-only synthetic operations console; intake admin, appointment/task coordination, staffing/coverage views, document checklist/status, mock admin assistant drafts. Explicitly no diagnosis/treatment/triage/PHI/medical advice/clinical decision support/medical-device behavior/real integrations. Validation: npm test, npm run validate, npm start passed.",
+      "implementation_scope_override": "Non-clinical/admin-only synthetic operations console; intake admin, appointment/task coordination, staffing/coverage views, document checklist/status, mock admin assistant drafts. Explicitly no diagnosis/treatment/triage/PHI/medical advice/clinical decision support/medical-device behavior/real integrations."
     },
     {
       "slug": "beesafe-ai",
@@ -6607,13 +6607,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/136",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE3jFGw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "bidflow-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/bidflow-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/49",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "AI takeoffs for electrical demo with synthetic project data and no proprietary plans/assets."
+      "implementation_commit": "8c85709c73f973e1c673b08bf1944463224874bb",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main. Scope verified: Synthetic electrical takeoff workflow; plan/package intake, electrical line-item extraction/review, dashboards, estimate comparisons, exceptions, mocked integrations. Validation: npm test and npm start -- --today=2026-06-09 passed.",
+      "implementation_scope_override": "Synthetic electrical takeoff workflow; plan/package intake, electrical line-item extraction/review, dashboards, estimate comparisons, exceptions, mocked integrations."
     },
     {
       "slug": "booko",
@@ -6637,13 +6637,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/137",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE3jFvQ",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "booko-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/booko-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/50",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "Dynamic pricing workflow with synthetic pricing/economy data; avoid real commerce/payment execution."
+      "implementation_commit": "8065db8bc3980e2e2137c721eb3a95b91e501659",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main. Scope verified: Dynamic pricing workflow only; product/service catalog, synthetic demand/supply signals, pricing recommendations, scenario simulation, approval flows, audit history, mocked integrations. No real commerce/payment execution/credentials/live marketplace integrations/real customer or pricing data. Validation: npm test passed; npm run start passed; stale reading/club TypeScript references removed.",
+      "implementation_scope_override": "Dynamic pricing workflow only; product/service catalog, synthetic demand/supply signals, pricing recommendations, scenario simulation, approval flows, audit history, mocked integrations. No real commerce/payment execution/credentials/live marketplace integrations/real customer or pricing data."
     },
     {
       "slug": "brownie",
@@ -11124,7 +11124,7 @@
       "memory-store",
       "minicor"
     ],
-    "updated_at": "2026-06-09T11:51:03.977Z",
+    "updated_at": "2026-06-09T12:30:48.870Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -11143,7 +11143,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-09T11:51:03.977Z",
+    "updated_at": "2026-06-09T12:30:48.870Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -11234,9 +11234,7 @@
       "ashr",
       "aurorin-cad",
       "autositu",
-      "autumn-ai"
-    ],
-    "in_progress": [
+      "autumn-ai",
       "avoice",
       "axis-2",
       "baseframe",
@@ -11244,6 +11242,7 @@
       "bidflow",
       "booko"
     ],
+    "in_progress": [],
     "ready_copyable": 182,
     "skipped_pending_recheck": [
       "aquashield"
