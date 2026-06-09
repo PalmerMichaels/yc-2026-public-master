@@ -7,10 +7,10 @@ Copyable: 278
 Not copyable: 127
 Uncertain: 0
 Implemented: 84
-In progress: 0
-Ready copyable: 193
+In progress: 6
+Ready copyable: 187
 Skipped pending re-check: aquashield
-GitHub issues created: 124
+GitHub issues created: 130
 GitHub issues pending: 285
 Closed duplicate issues: 88
 Project items synced: 120
@@ -103,7 +103,12 @@ Implemented repositories:
 - `alt-x`: https://github.com/PalmerMichaels/alt-x-public @ `57192277e57d8dd8d06691c6930664666cfdef59`
 
 In-progress implementations:
-- None
+- `approxima`: [#126](https://github.com/PalmerMichaels/yc-2026-public-master/issues/126) -> `approxima-public`
+- `archal`: [#127](https://github.com/PalmerMichaels/yc-2026-public-master/issues/127) -> `archal-public`
+- `ashr`: [#128](https://github.com/PalmerMichaels/yc-2026-public-master/issues/128) -> `ashr-public`
+- `aurorin-cad`: [#129](https://github.com/PalmerMichaels/yc-2026-public-master/issues/129) -> `aurorin-cad-public`
+- `autositu`: [#130](https://github.com/PalmerMichaels/yc-2026-public-master/issues/130) -> `autositu-public`
+- `autumn-ai`: [#131](https://github.com/PalmerMichaels/yc-2026-public-master/issues/131) -> `autumn-ai-public`
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.

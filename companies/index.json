@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T02:06:54.872Z",
+  "generated_at": "2026-06-09T02:23:50.385Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -5790,11 +5790,16 @@
       "public_repo": "archal-public",
       "implementation_scope": "Build an original web app demonstrating the eval platform for autonomous software: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 127,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/127",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0Rm3A",
+      "implementation_status": "in-progress",
+      "implementation_repo": "archal-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/archal-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/40",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "care-gp",
@@ -6208,11 +6213,16 @@
       "public_repo": "approxima-public",
       "implementation_scope": "Build an original web app demonstrating your software should build itself.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 126,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/126",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0RmjA",
+      "implementation_status": "in-progress",
+      "implementation_repo": "approxima-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/approxima-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/39",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "arc-prize-foundation",
@@ -6256,11 +6266,16 @@
       "public_repo": "ashr-public",
       "implementation_scope": "Build an original web app demonstrating automated multi-modal testing for agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 128,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/128",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0RnMg",
+      "implementation_status": "in-progress",
+      "implementation_repo": "ashr-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/ashr-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/41",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "asimov",
@@ -6304,11 +6319,16 @@
       "public_repo": "aurorin-cad-public",
       "implementation_scope": "Build an original web app demonstrating claude code for mechanical engineers: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 129,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/129",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0RnlQ",
+      "implementation_status": "in-progress",
+      "implementation_repo": "aurorin-cad-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/aurorin-cad-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/42",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "autositu",
@@ -6328,11 +6348,16 @@
       "public_repo": "autositu-public",
       "implementation_scope": "Build an original web app demonstrating ai-native workspace for development plan reviews: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 130,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/130",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0Rn5Q",
+      "implementation_status": "in-progress",
+      "implementation_repo": "autositu-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/autositu-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/43",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "autumn-ai",
@@ -6352,11 +6377,16 @@
       "public_repo": "autumn-ai-public",
       "implementation_scope": "Build an original web app demonstrating stalk your prospects at scale.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 131,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/131",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0RohQ",
+      "implementation_status": "in-progress",
+      "implementation_repo": "autumn-ai-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/autumn-ai-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/44",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "avoice",
@@ -11058,7 +11088,7 @@
       "memory-store",
       "minicor"
     ],
-    "updated_at": "2026-06-09T02:06:54.872Z",
+    "updated_at": "2026-06-09T02:23:50.385Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -11077,7 +11107,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-09T02:06:54.872Z",
+    "updated_at": "2026-06-09T02:23:50.385Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -11164,8 +11194,15 @@
       "agentic-fabriq",
       "alt-x"
     ],
-    "in_progress": [],
-    "ready_copyable": 194,
+    "in_progress": [
+      "archal",
+      "approxima",
+      "ashr",
+      "aurorin-cad",
+      "autositu",
+      "autumn-ai"
+    ],
+    "ready_copyable": 188,
     "skipped_pending_recheck": [
       "aquashield"
     ]

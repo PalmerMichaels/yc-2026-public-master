@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T02:07:36.554Z",
+  "generated_at": "2026-06-09T02:22:52.761Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -1224,6 +1224,108 @@
         "batch:winter-2026",
         "status:active",
         "implemented"
+      ]
+    },
+    {
+      "slug": "approxima",
+      "issue_number": 126,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/126",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0RmjA",
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/approxima-public",
+      "public_project": "https://github.com/users/PalmerMichaels/projects/39",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "archal",
+      "issue_number": 127,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/127",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0Rm3A",
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/archal-public",
+      "public_project": "https://github.com/users/PalmerMichaels/projects/40",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:summer-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "ashr",
+      "issue_number": 128,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/128",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0RnMg",
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/ashr-public",
+      "public_project": "https://github.com/users/PalmerMichaels/projects/41",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "aurorin-cad",
+      "issue_number": 129,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/129",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0RnlQ",
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/aurorin-cad-public",
+      "public_project": "https://github.com/users/PalmerMichaels/projects/42",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "autositu",
+      "issue_number": 130,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/130",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0Rn5Q",
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/autositu-public",
+      "public_project": "https://github.com/users/PalmerMichaels/projects/43",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "autumn-ai",
+      "issue_number": 131,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/131",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0RohQ",
+      "classification": "copyable",
+      "status": "in-progress",
+      "repo": "https://github.com/PalmerMichaels/autumn-ai-public",
+      "public_project": "https://github.com/users/PalmerMichaels/projects/44",
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
       ]
     }
   ],

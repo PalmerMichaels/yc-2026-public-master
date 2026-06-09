@@ -2,13 +2,15 @@
 
 - Slug: `autositu`
 - Batch: Winter 2026
-- Status: Active
+- YC status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
-- Source: https://www.ycombinator.com/companies/autositu
+- Implementation Status: `in-progress`
+- Source URL: https://www.ycombinator.com/companies/autositu
 - Website: https://autositu.com/
+- GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/130
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
-- GitHub Issue: Pending creation
+- Public Repository: https://github.com/PalmerMichaels/autositu-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/43
 
 ## Public Description
 
@@ -20,19 +22,22 @@ At AutoSitu, we’re building coordinated AI agents that live inside cities’ c
 
 Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.
 
+## Implementation Tracking
+
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/autositu-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/43
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+
 ## Clean-Room Constraints
 
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Implementation Tracking
-
-- Status: `classified`
-
 ## Proposed Public Repository
 
-- Repository: `autositu-public`
+`autositu-public`
 
 ## End-to-End Implementation Scope
 

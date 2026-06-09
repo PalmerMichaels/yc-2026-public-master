@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T02:06:54.872Z",
+  "generated_at": "2026-06-09T02:23:50.385Z",
   "implemented": [
     {
       "slug": "godhands",
@@ -1346,7 +1346,104 @@
       "priority": "implemented"
     }
   ],
-  "in_progress": [],
+  "in_progress": [
+    {
+      "slug": "approxima",
+      "name": "Approxima",
+      "batch": "Winter 2026",
+      "issue_number": 126,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/126",
+      "source_url": "https://www.ycombinator.com/companies/approxima",
+      "website": "https://approxima.ai",
+      "proposed_repo": "approxima-public",
+      "implementation_scope": "Build an original web app demonstrating your software should build itself.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/approxima-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "archal",
+      "name": "Archal",
+      "batch": "Summer 2026",
+      "issue_number": 127,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/127",
+      "source_url": "https://www.ycombinator.com/companies/archal",
+      "website": "https://www.archal.ai/",
+      "proposed_repo": "archal-public",
+      "implementation_scope": "Build an original web app demonstrating the eval platform for autonomous software: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/archal-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "ashr",
+      "name": "Ashr",
+      "batch": "Winter 2026",
+      "issue_number": 128,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/128",
+      "source_url": "https://www.ycombinator.com/companies/ashr",
+      "website": "https://ashr.io",
+      "proposed_repo": "ashr-public",
+      "implementation_scope": "Build an original web app demonstrating automated multi-modal testing for agents: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/ashr-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "aurorin-cad",
+      "name": "Aurorin CAD",
+      "batch": "Winter 2026",
+      "issue_number": 129,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/129",
+      "source_url": "https://www.ycombinator.com/companies/aurorin-cad",
+      "website": "https://aurorincad.com",
+      "proposed_repo": "aurorin-cad-public",
+      "implementation_scope": "Build an original web app demonstrating claude code for mechanical engineers: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/aurorin-cad-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "autositu",
+      "name": "AutoSitu",
+      "batch": "Winter 2026",
+      "issue_number": 130,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/130",
+      "source_url": "https://www.ycombinator.com/companies/autositu",
+      "website": "https://autositu.com/",
+      "proposed_repo": "autositu-public",
+      "implementation_scope": "Build an original web app demonstrating ai-native workspace for development plan reviews: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/autositu-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "autumn-ai",
+      "name": "Autumn AI",
+      "batch": "Winter 2026",
+      "issue_number": 131,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/131",
+      "source_url": "https://www.ycombinator.com/companies/autumn-ai",
+      "website": "https://autumnai.com",
+      "proposed_repo": "autumn-ai-public",
+      "implementation_scope": "Build an original web app demonstrating stalk your prospects at scale.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/autumn-ai-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    }
+  ],
   "pending_recheck": [
     {
       "slug": "aquashield",
