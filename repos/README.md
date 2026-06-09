@@ -73,7 +73,12 @@ Implemented:
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- None
+- `kugelaudio` -> `kugelaudio-public` ([#99](https://github.com/PalmerMichaels/yc-2026-public-master/issues/99))
+- `kuli` -> `kuli-public` ([#100](https://github.com/PalmerMichaels/yc-2026-public-master/issues/100))
+- `lab0` -> `lab0-public` ([#101](https://github.com/PalmerMichaels/yc-2026-public-master/issues/101))
+- `lamina-labs` -> `lamina-labs-public` ([#102](https://github.com/PalmerMichaels/yc-2026-public-master/issues/102))
+- `lattice-health` -> `lattice-health-public` ([#103](https://github.com/PalmerMichaels/yc-2026-public-master/issues/103))
+- `light-anchor` -> `light-anchor-public` ([#104](https://github.com/PalmerMichaels/yc-2026-public-master/issues/104))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -86,20 +91,14 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 66
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 211
+- Ready for fan-out: 205
 - Total copyable: 278
 
 Next unambiguous copyable entries:
 | Slug | Name | Issue | Proposed Repo | Source |
 | --- | --- | --- | --- | --- |
-| `kugelaudio` | KugelAudio | [#99](https://github.com/PalmerMichaels/yc-2026-public-master/issues/99) | `kugelaudio-public` | [YC](https://www.ycombinator.com/companies/kugelaudio) |
-| `kuli` | Kuli | [#100](https://github.com/PalmerMichaels/yc-2026-public-master/issues/100) | `kuli-public` | [YC](https://www.ycombinator.com/companies/kuli) |
-| `lab0` | Lab0 | [#101](https://github.com/PalmerMichaels/yc-2026-public-master/issues/101) | `lab0-public` | [YC](https://www.ycombinator.com/companies/lab0) |
-| `lamina-labs` | Lamina Labs | [#102](https://github.com/PalmerMichaels/yc-2026-public-master/issues/102) | `lamina-labs-public` | [YC](https://www.ycombinator.com/companies/lamina-labs) |
-| `lattice-health` | Lattice Health | [#103](https://github.com/PalmerMichaels/yc-2026-public-master/issues/103) | `lattice-health-public` | [YC](https://www.ycombinator.com/companies/lattice-health) |
-| `light-anchor` | Light Anchor | [#104](https://github.com/PalmerMichaels/yc-2026-public-master/issues/104) | `light-anchor-public` | [YC](https://www.ycombinator.com/companies/light-anchor) |
 | `lightsprint` | Lightsprint | [#105](https://github.com/PalmerMichaels/yc-2026-public-master/issues/105) | `lightsprint-public` | [YC](https://www.ycombinator.com/companies/lightsprint) |
 | `limrun` | Limrun | [#106](https://github.com/PalmerMichaels/yc-2026-public-master/issues/106) | `limrun-public` | [YC](https://www.ycombinator.com/companies/limrun) |
 | `manicule` | Manicule | [#109](https://github.com/PalmerMichaels/yc-2026-public-master/issues/109) | `manicule-public` | [YC](https://www.ycombinator.com/companies/manicule) |
@@ -144,3 +143,9 @@ Next unambiguous copyable entries:
 | `codag` | Codag | Pending | `codag-public` | [YC](https://www.ycombinator.com/companies/codag) |
 | `codewisp` | CodeWisp | Pending | `codewisp-public` | [YC](https://www.ycombinator.com/companies/codewisp) |
 | `cofia` | Cofia | Pending | `cofia-public` | [YC](https://www.ycombinator.com/companies/cofia) |
+| `compresr` | Compresr | Pending | `compresr-public` | [YC](https://www.ycombinator.com/companies/compresr) |
+| `condor-energy` | Condor Energy | Pending | `condor-energy-public` | [YC](https://www.ycombinator.com/companies/condor-energy) |
+| `confluence-labs` | Confluence Labs | Pending | `confluence-labs-public` | [YC](https://www.ycombinator.com/companies/confluence-labs) |
+| `contextdev` | Context.dev | Pending | `contextdev-public` | [YC](https://www.ycombinator.com/companies/contextdev) |
+| `corelayer` | Corelayer | Pending | `corelayer-public` | [YC](https://www.ycombinator.com/companies/corelayer) |
+| `corvera` | Corvera | Pending | `corvera-public` | [YC](https://www.ycombinator.com/companies/corvera) |

@@ -4,11 +4,12 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
+- Implementation Status: `in-progress`
 - Source: https://www.ycombinator.com/companies/lamina-labs
 - Website: https://laminalabs.ai
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/102
+- Implementation Repository: https://github.com/PalmerMichaels/lamina-labs-public
 
 ## Public Description
 
@@ -28,7 +29,9 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `classified`
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/lamina-labs-public
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
 
 ## Proposed Public Repository
 
@@ -36,4 +39,4 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## End-to-End Implementation Scope
 
-Build an original web app demonstrating near-real-time structured video generation infrastructure for llms: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
+Structured video-generation infrastructure workspace; no proprietary models, copyrighted media assets, likeness/voice cloning, real video generation, or live provider calls.

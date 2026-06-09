@@ -4,11 +4,12 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
+- Implementation Status: `in-progress`
 - Source: https://www.ycombinator.com/companies/kuli
 - Website: https://kuli.one
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/100
+- Implementation Repository: https://github.com/PalmerMichaels/kuli-public
 
 ## Public Description
 
@@ -28,7 +29,9 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `classified`
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/kuli-public
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
 
 ## Proposed Public Repository
 
@@ -36,4 +39,4 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## End-to-End Implementation Scope
 
-Build an original web app demonstrating ai coworker for marketing teams at the largest consumer brands: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
+Marketing AI coworker workspace; no real brand assets, no live ad/social/email sends, no scraping/private campaign data.

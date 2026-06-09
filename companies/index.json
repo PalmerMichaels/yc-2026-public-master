@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T00:37:24.990Z",
+  "generated_at": "2026-06-09T00:52:42.804Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -2957,7 +2957,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/99",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwgp-A",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "kugelaudio-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/kugelaudio-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Enterprise TTS workspace; no proprietary voices, no voice cloning, no real customer scripts/audio, no live model endpoints."
     },
     {
       "slug": "kuli",
@@ -2981,7 +2986,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/100",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwhHUg",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "kuli-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/kuli-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Marketing AI coworker workspace; no real brand assets, no live ad/social/email sends, no scraping/private campaign data."
     },
     {
       "slug": "lab0",
@@ -3011,7 +3021,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/101",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwhhFg",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "lab0-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/lab0-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "AI forward-deployed engineer workspace; no proprietary customer systems, credentials, production deployment, code exfiltration, or infrastructure automation."
     },
     {
       "slug": "lamina-labs",
@@ -3041,7 +3056,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/102",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwh8Lg",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "lamina-labs-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/lamina-labs-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Structured video-generation infrastructure workspace; no proprietary models, copyrighted media assets, likeness/voice cloning, real video generation, or live provider calls."
     },
     {
       "slug": "lattice-health",
@@ -3068,7 +3088,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/103",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwiZ3Q",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "lattice-health-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/lattice-health-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Medical imaging AI monitoring/governance console; no diagnosis/treatment/triage, no PHI/real images, no clinical claims, no FDA/regulatory approval behavior, no medical-device behavior."
     },
     {
       "slug": "light-anchor",
@@ -3095,7 +3120,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/104",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwi2Vw",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "light-anchor-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/light-anchor-public",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "AI-run consumer brand operations workspace; no real payments, fulfillment, ad spend, customer data, scraping, platform automation, trademark/brand copying, or external-platform credentials."
     },
     {
       "slug": "lightsprint",
@@ -10954,9 +10984,15 @@
       "kinect",
       "kinro",
       "klarify",
-      "korso"
+      "korso",
+      "kugelaudio",
+      "kuli",
+      "lab0",
+      "lamina-labs",
+      "lattice-health",
+      "light-anchor"
     ],
-    "updated_at": "2026-06-09T00:37:24.990Z",
+    "updated_at": "2026-06-09T00:52:42.804Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -10975,7 +11011,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-09T00:37:24.990Z",
+    "updated_at": "2026-06-09T00:52:42.804Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -11044,8 +11080,15 @@
       "korso",
       "napkin-math"
     ],
-    "in_progress": [],
-    "ready_copyable": 212,
+    "in_progress": [
+      "kugelaudio",
+      "kuli",
+      "lab0",
+      "lamina-labs",
+      "lattice-health",
+      "light-anchor"
+    ],
+    "ready_copyable": 206,
     "skipped_pending_recheck": [
       "aquashield"
     ]

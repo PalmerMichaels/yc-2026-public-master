@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T00:37:24.990Z",
+  "generated_at": "2026-06-09T00:52:42.804Z",
   "implemented": [
     {
       "slug": "godhands",
@@ -1058,7 +1058,104 @@
       "priority": "implemented"
     }
   ],
-  "in_progress": [],
+  "in_progress": [
+    {
+      "slug": "kugelaudio",
+      "name": "KugelAudio",
+      "batch": "Spring 2026",
+      "issue_number": 99,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/99",
+      "source_url": "https://www.ycombinator.com/companies/kugelaudio",
+      "website": "https://kugelaudio.com/en",
+      "proposed_repo": "kugelaudio-public",
+      "implementation_scope": "Enterprise TTS workspace; no proprietary voices, no voice cloning, no real customer scripts/audio, no live model endpoints.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/kugelaudio-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "kuli",
+      "name": "Kuli",
+      "batch": "Spring 2026",
+      "issue_number": 100,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/100",
+      "source_url": "https://www.ycombinator.com/companies/kuli",
+      "website": "https://kuli.one",
+      "proposed_repo": "kuli-public",
+      "implementation_scope": "Marketing AI coworker workspace; no real brand assets, no live ad/social/email sends, no scraping/private campaign data.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/kuli-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "lab0",
+      "name": "Lab0",
+      "batch": "Spring 2026",
+      "issue_number": 101,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/101",
+      "source_url": "https://www.ycombinator.com/companies/lab0",
+      "website": "https://lab0.ai",
+      "proposed_repo": "lab0-public",
+      "implementation_scope": "AI forward-deployed engineer workspace; no proprietary customer systems, credentials, production deployment, code exfiltration, or infrastructure automation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/lab0-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "lamina-labs",
+      "name": "Lamina Labs",
+      "batch": "Spring 2026",
+      "issue_number": 102,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/102",
+      "source_url": "https://www.ycombinator.com/companies/lamina-labs",
+      "website": "https://laminalabs.ai",
+      "proposed_repo": "lamina-labs-public",
+      "implementation_scope": "Structured video-generation infrastructure workspace; no proprietary models, copyrighted media assets, likeness/voice cloning, real video generation, or live provider calls.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/lamina-labs-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "lattice-health",
+      "name": "Lattice Health",
+      "batch": "Spring 2026",
+      "issue_number": 103,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/103",
+      "source_url": "https://www.ycombinator.com/companies/lattice-health",
+      "website": "https://www.latticehealthai.com/",
+      "proposed_repo": "lattice-health-public",
+      "implementation_scope": "Medical imaging AI monitoring/governance console; no diagnosis/treatment/triage, no PHI/real images, no clinical claims, no FDA/regulatory approval behavior, no medical-device behavior.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/lattice-health-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "light-anchor",
+      "name": "Light Anchor",
+      "batch": "Spring 2026",
+      "issue_number": 104,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/104",
+      "source_url": "https://www.ycombinator.com/companies/light-anchor",
+      "website": "https://lightanchor.ai",
+      "proposed_repo": "light-anchor-public",
+      "implementation_scope": "AI-run consumer brand operations workspace; no real payments, fulfillment, ad spend, customer data, scraping, platform automation, trademark/brand copying, or external-platform credentials.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/light-anchor-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    }
+  ],
   "pending_recheck": [
     {
       "slug": "aquashield",

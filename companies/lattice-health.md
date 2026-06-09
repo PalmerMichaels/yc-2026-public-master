@@ -4,11 +4,12 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
+- Implementation Status: `in-progress`
 - Source: https://www.ycombinator.com/companies/lattice-health
 - Website: https://www.latticehealthai.com/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/103
+- Implementation Repository: https://github.com/PalmerMichaels/lattice-health-public
 
 ## Public Description
 
@@ -28,7 +29,9 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## Implementation Tracking
 
-- Status: `classified`
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/lattice-health-public
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
 
 ## Proposed Public Repository
 
@@ -36,4 +39,4 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## End-to-End Implementation Scope
 
-Build an original web app demonstrating monitoring and governance for deployed medical imaging ai: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
+Medical imaging AI monitoring/governance console; no diagnosis/treatment/triage, no PHI/real images, no clinical claims, no FDA/regulatory approval behavior, no medical-device behavior.
