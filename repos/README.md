@@ -79,7 +79,12 @@ Implemented:
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- None
+- `lightsprint` -> `lightsprint-public` ([#105](https://github.com/PalmerMichaels/yc-2026-public-master/issues/105))
+- `limrun` -> `limrun-public` ([#106](https://github.com/PalmerMichaels/yc-2026-public-master/issues/106))
+- `manicule` -> `manicule-public` ([#109](https://github.com/PalmerMichaels/yc-2026-public-master/issues/109))
+- `memoir` -> `memoir-public` ([#112](https://github.com/PalmerMichaels/yc-2026-public-master/issues/112))
+- `memory-store` -> `memory-store-public` ([#113](https://github.com/PalmerMichaels/yc-2026-public-master/issues/113))
+- `minicor` -> `minicor-public` ([#114](https://github.com/PalmerMichaels/yc-2026-public-master/issues/114))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -92,20 +97,14 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 72
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 205
+- Ready for fan-out: 199
 - Total copyable: 278
 
 Next unambiguous copyable entries:
 | Slug | Name | Issue | Proposed Repo | Source |
 | --- | --- | --- | --- | --- |
-| `lightsprint` | Lightsprint | [#105](https://github.com/PalmerMichaels/yc-2026-public-master/issues/105) | `lightsprint-public` | [YC](https://www.ycombinator.com/companies/lightsprint) |
-| `limrun` | Limrun | [#106](https://github.com/PalmerMichaels/yc-2026-public-master/issues/106) | `limrun-public` | [YC](https://www.ycombinator.com/companies/limrun) |
-| `manicule` | Manicule | [#109](https://github.com/PalmerMichaels/yc-2026-public-master/issues/109) | `manicule-public` | [YC](https://www.ycombinator.com/companies/manicule) |
-| `memoir` | Memoir | [#112](https://github.com/PalmerMichaels/yc-2026-public-master/issues/112) | `memoir-public` | [YC](https://www.ycombinator.com/companies/memoir) |
-| `memory-store` | Memory Store | [#113](https://github.com/PalmerMichaels/yc-2026-public-master/issues/113) | `memory-store-public` | [YC](https://www.ycombinator.com/companies/memory-store) |
-| `minicor` | Minicor | [#114](https://github.com/PalmerMichaels/yc-2026-public-master/issues/114) | `minicor-public` | [YC](https://www.ycombinator.com/companies/minicor) |
 | `miso-labs` | Miso Labs | [#115](https://github.com/PalmerMichaels/yc-2026-public-master/issues/115) | `miso-labs-public` | [YC](https://www.ycombinator.com/companies/miso-labs) |
 | `netter` | Netter | [#120](https://github.com/PalmerMichaels/yc-2026-public-master/issues/120) | `netter-public` | [YC](https://www.ycombinator.com/companies/netter) |
 | `21st` | 21st | Pending | `21st-public` | [YC](https://www.ycombinator.com/companies/21st) |
@@ -150,3 +149,9 @@ Next unambiguous copyable entries:
 | `contextdev` | Context.dev | Pending | `contextdev-public` | [YC](https://www.ycombinator.com/companies/contextdev) |
 | `corelayer` | Corelayer | Pending | `corelayer-public` | [YC](https://www.ycombinator.com/companies/corelayer) |
 | `corvera` | Corvera | Pending | `corvera-public` | [YC](https://www.ycombinator.com/companies/corvera) |
+| `crow` | Crow | Pending | `crow-public` | [YC](https://www.ycombinator.com/companies/crow) |
+| `cumulus-labs` | Cumulus Labs | Pending | `cumulus-labs-public` | [YC](https://www.ycombinator.com/companies/cumulus-labs) |
+| `docura-health` | Docura Health | Pending | `docura-health-public` | [YC](https://www.ycombinator.com/companies/docura-health) |
+| `doomersion` | Doomersion | Pending | `doomersion-public` | [YC](https://www.ycombinator.com/companies/doomersion) |
+| `eigenpal` | EigenPal | Pending | `eigenpal-public` | [YC](https://www.ycombinator.com/companies/eigenpal) |
+| `emdash` | Emdash | Pending | `emdash-public` | [YC](https://www.ycombinator.com/companies/emdash) |

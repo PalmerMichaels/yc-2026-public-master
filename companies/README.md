@@ -7,8 +7,8 @@ Copyable: 278
 Not copyable: 127
 Uncertain: 0
 Implemented: 72
-In progress: 0
-Ready copyable: 206
+In progress: 6
+Ready copyable: 200
 Skipped pending re-check: aquashield
 GitHub issues created: 120
 GitHub issues pending: 285
@@ -91,7 +91,12 @@ Implemented repositories:
 - `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In-progress implementations:
-- None
+- `lightsprint`: [#105](https://github.com/PalmerMichaels/yc-2026-public-master/issues/105) -> `lightsprint-public`
+- `limrun`: [#106](https://github.com/PalmerMichaels/yc-2026-public-master/issues/106) -> `limrun-public`
+- `manicule`: [#109](https://github.com/PalmerMichaels/yc-2026-public-master/issues/109) -> `manicule-public`
+- `memoir`: [#112](https://github.com/PalmerMichaels/yc-2026-public-master/issues/112) -> `memoir-public`
+- `memory-store`: [#113](https://github.com/PalmerMichaels/yc-2026-public-master/issues/113) -> `memory-store-public`
+- `minicor`: [#114](https://github.com/PalmerMichaels/yc-2026-public-master/issues/114) -> `minicor-public`
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.
@@ -212,16 +217,16 @@ Batches covered:
 | [Lamina Labs](lamina-labs.md) | Spring 2026 | `copyable` | `implemented` | `lamina-labs-public` | [#102](https://github.com/PalmerMichaels/yc-2026-public-master/issues/102) | [YC](https://www.ycombinator.com/companies/lamina-labs) |
 | [Lattice Health](lattice-health.md) | Spring 2026 | `copyable` | `implemented` | `lattice-health-public` | [#103](https://github.com/PalmerMichaels/yc-2026-public-master/issues/103) | [YC](https://www.ycombinator.com/companies/lattice-health) |
 | [Light Anchor](light-anchor.md) | Spring 2026 | `copyable` | `implemented` | `light-anchor-public` | [#104](https://github.com/PalmerMichaels/yc-2026-public-master/issues/104) | [YC](https://www.ycombinator.com/companies/light-anchor) |
-| [Lightsprint](lightsprint.md) | Spring 2026 | `copyable` | `classified` | `lightsprint-public` | [#105](https://github.com/PalmerMichaels/yc-2026-public-master/issues/105) | [YC](https://www.ycombinator.com/companies/lightsprint) |
-| [Limrun](limrun.md) | Spring 2026 | `copyable` | `classified` | `limrun-public` | [#106](https://github.com/PalmerMichaels/yc-2026-public-master/issues/106) | [YC](https://www.ycombinator.com/companies/limrun) |
+| [Lightsprint](lightsprint.md) | Spring 2026 | `copyable` | `in-progress` | `lightsprint-public` | [#105](https://github.com/PalmerMichaels/yc-2026-public-master/issues/105) | [YC](https://www.ycombinator.com/companies/lightsprint) |
+| [Limrun](limrun.md) | Spring 2026 | `copyable` | `in-progress` | `limrun-public` | [#106](https://github.com/PalmerMichaels/yc-2026-public-master/issues/106) | [YC](https://www.ycombinator.com/companies/limrun) |
 | [Lumius](lumius.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#107](https://github.com/PalmerMichaels/yc-2026-public-master/issues/107) | [YC](https://www.ycombinator.com/companies/lumius) |
 | [Madrone](madrone.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#108](https://github.com/PalmerMichaels/yc-2026-public-master/issues/108) | [YC](https://www.ycombinator.com/companies/madrone) |
-| [Manicule](manicule.md) | Spring 2026 | `copyable` | `classified` | `manicule-public` | [#109](https://github.com/PalmerMichaels/yc-2026-public-master/issues/109) | [YC](https://www.ycombinator.com/companies/manicule) |
+| [Manicule](manicule.md) | Spring 2026 | `copyable` | `in-progress` | `manicule-public` | [#109](https://github.com/PalmerMichaels/yc-2026-public-master/issues/109) | [YC](https://www.ycombinator.com/companies/manicule) |
 | [Maquoketa Research](maquoketa-research.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#110](https://github.com/PalmerMichaels/yc-2026-public-master/issues/110) | [YC](https://www.ycombinator.com/companies/maquoketa-research) |
 | [matforge](matforge.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#111](https://github.com/PalmerMichaels/yc-2026-public-master/issues/111) | [YC](https://www.ycombinator.com/companies/matforge) |
-| [Memoir](memoir.md) | Spring 2026 | `copyable` | `classified` | `memoir-public` | [#112](https://github.com/PalmerMichaels/yc-2026-public-master/issues/112) | [YC](https://www.ycombinator.com/companies/memoir) |
-| [Memory Store](memory-store.md) | Spring 2026 | `copyable` | `classified` | `memory-store-public` | [#113](https://github.com/PalmerMichaels/yc-2026-public-master/issues/113) | [YC](https://www.ycombinator.com/companies/memory-store) |
-| [Minicor](minicor.md) | Spring 2026 | `copyable` | `classified` | `minicor-public` | [#114](https://github.com/PalmerMichaels/yc-2026-public-master/issues/114) | [YC](https://www.ycombinator.com/companies/minicor) |
+| [Memoir](memoir.md) | Spring 2026 | `copyable` | `in-progress` | `memoir-public` | [#112](https://github.com/PalmerMichaels/yc-2026-public-master/issues/112) | [YC](https://www.ycombinator.com/companies/memoir) |
+| [Memory Store](memory-store.md) | Spring 2026 | `copyable` | `in-progress` | `memory-store-public` | [#113](https://github.com/PalmerMichaels/yc-2026-public-master/issues/113) | [YC](https://www.ycombinator.com/companies/memory-store) |
+| [Minicor](minicor.md) | Spring 2026 | `copyable` | `in-progress` | `minicor-public` | [#114](https://github.com/PalmerMichaels/yc-2026-public-master/issues/114) | [YC](https://www.ycombinator.com/companies/minicor) |
 | [Miso Labs](miso-labs.md) | Spring 2026 | `copyable` | `classified` | `miso-labs-public` | [#115](https://github.com/PalmerMichaels/yc-2026-public-master/issues/115) | [YC](https://www.ycombinator.com/companies/miso-labs) |
 | [Mochatrade](mochatrade.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#116](https://github.com/PalmerMichaels/yc-2026-public-master/issues/116) | [YC](https://www.ycombinator.com/companies/mochatrade) |
 | [Modern](modern.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#117](https://github.com/PalmerMichaels/yc-2026-public-master/issues/117) | [YC](https://www.ycombinator.com/companies/modern) |
