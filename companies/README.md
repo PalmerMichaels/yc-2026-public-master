@@ -6,8 +6,8 @@ Total companies: 405
 Copyable: 278
 Not copyable: 127
 Uncertain: 0
-Implemented: 102
-In progress: 6
+Implemented: 108
+In progress: 0
 Ready copyable: 169
 Skipped pending re-check: aquashield
 GitHub issues created: 148
@@ -119,14 +119,15 @@ Implemented repositories:
 - `cajal-technologies`: https://github.com/PalmerMichaels/cajal-technologies-public @ `cc44912c2ffb337b46ea85a8537717a03ef164f4`
 - `canary`: https://github.com/PalmerMichaels/canary-public @ `eecfbeae3ce679de7deef45e11d8edafe4886607`
 - `captain`: https://github.com/PalmerMichaels/captain-public @ `a37fdb1d477aa99ec3dbe0e48b772651f33a8c8e`
+- `cardboard`: https://github.com/PalmerMichaels/cardboard-public @ `c099594e7bffe724c454014db3a4f12553aab898`
+- `care-gp`: https://github.com/PalmerMichaels/care-gp-public @ `d6ba09cc32c781058999dc4b076785fc807353c7`
+- `caretta`: https://github.com/PalmerMichaels/caretta-public @ `a080ef85144d78222130d3fcae564786854e3dc7`
+- `carrot-labs`: https://github.com/PalmerMichaels/carrot-labs-public @ `be0eb9ae43fd5f6b23035aabb8ca0031c24dabec`
+- `carson`: https://github.com/PalmerMichaels/carson-public @ `9a67d22bad56dcccc0604b8e0f8baff4ad0c4ab4`
+- `cascade`: https://github.com/PalmerMichaels/cascade-public @ `82264fa36589824856daab9c701f813e2f5f2ae9`
 
 In-progress implementations:
-- `cardboard`: [#144](https://github.com/PalmerMichaels/yc-2026-public-master/issues/144) -> `cardboard-public`
-- `care-gp`: [#145](https://github.com/PalmerMichaels/yc-2026-public-master/issues/145) -> `care-gp-public`
-- `caretta`: [#146](https://github.com/PalmerMichaels/yc-2026-public-master/issues/146) -> `caretta-public`
-- `carrot-labs`: [#147](https://github.com/PalmerMichaels/yc-2026-public-master/issues/147) -> `carrot-labs-public`
-- `carson`: [#148](https://github.com/PalmerMichaels/yc-2026-public-master/issues/148) -> `carson-public`
-- `cascade`: [#149](https://github.com/PalmerMichaels/yc-2026-public-master/issues/149) -> `cascade-public`
+- None
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.

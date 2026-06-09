@@ -107,14 +107,15 @@ Implemented:
 - `cajal-technologies` -> https://github.com/PalmerMichaels/cajal-technologies-public @ `cc44912c2ffb337b46ea85a8537717a03ef164f4`
 - `canary` -> https://github.com/PalmerMichaels/canary-public @ `eecfbeae3ce679de7deef45e11d8edafe4886607`
 - `captain` -> https://github.com/PalmerMichaels/captain-public @ `a37fdb1d477aa99ec3dbe0e48b772651f33a8c8e`
+- `cardboard` -> https://github.com/PalmerMichaels/cardboard-public @ `c099594e7bffe724c454014db3a4f12553aab898`
+- `care-gp` -> https://github.com/PalmerMichaels/care-gp-public @ `d6ba09cc32c781058999dc4b076785fc807353c7`
+- `caretta` -> https://github.com/PalmerMichaels/caretta-public @ `a080ef85144d78222130d3fcae564786854e3dc7`
+- `carrot-labs` -> https://github.com/PalmerMichaels/carrot-labs-public @ `be0eb9ae43fd5f6b23035aabb8ca0031c24dabec`
+- `carson` -> https://github.com/PalmerMichaels/carson-public @ `9a67d22bad56dcccc0604b8e0f8baff4ad0c4ab4`
+- `cascade` -> https://github.com/PalmerMichaels/cascade-public @ `82264fa36589824856daab9c701f813e2f5f2ae9`
 
 In progress:
-- `cardboard` -> `cardboard-public` ([#144](https://github.com/PalmerMichaels/yc-2026-public-master/issues/144))
-- `care-gp` -> `care-gp-public` ([#145](https://github.com/PalmerMichaels/yc-2026-public-master/issues/145))
-- `caretta` -> `caretta-public` ([#146](https://github.com/PalmerMichaels/yc-2026-public-master/issues/146))
-- `carrot-labs` -> `carrot-labs-public` ([#147](https://github.com/PalmerMichaels/yc-2026-public-master/issues/147))
-- `carson` -> `carson-public` ([#148](https://github.com/PalmerMichaels/yc-2026-public-master/issues/148))
-- `cascade` -> `cascade-public` ([#149](https://github.com/PalmerMichaels/yc-2026-public-master/issues/149))
+- None
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -126,8 +127,8 @@ Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
 Current queue counts:
-- Implemented: 102
-- In progress: 6
+- Implemented: 108
+- In progress: 0
 - Pending re-check: 1
 - Ready for fan-out: 169
 - Total copyable: 278

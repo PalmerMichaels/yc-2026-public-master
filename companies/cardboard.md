@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/cardboard
 - Website: https://usecardboard.com
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/144
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/cardboard-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/57
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `c099594e7bffe724c454014db3a4f12553aab898`
+- Notes: Implemented and pushed; Scope verified: Agentic video editor demo with onboarding/workspace/project setup, synthetic media/project data, workflow screens, timeline/editing/task/status management, mocked export/integration flows, seed data, validation/tests, docs, and clean-room disclaimers. Original UI/assets only; no copied branding, proprietary media, private data, or unsupported production/video claims. Validation: npm test, npm run cli -- validate, and sample CLI plan generation passed. Worktree clean and HEAD == origin/main.
 
 ## Clean-Room Constraints
 

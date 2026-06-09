@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/carson
 - Website: https://usecarson.com
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/148
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/carson-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/61
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `9a67d22bad56dcccc0604b8e0f8baff4ad0c4ab4`
+- Notes: Implemented and pushed; Scope verified: Desktop AI workspace generator with synthetic workspaces/projects/files, workflow generation, role-aware tasks/status, mocked desktop/app integrations, validation/tests, docs, and clean-room disclaimers. Validation: npm test and CLI smoke runs passed. Worktree clean and HEAD == origin/main.
 
 ## Clean-Room Constraints
 
@@ -41,4 +42,4 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## End-to-End Implementation Scope
 
-Desktop AI workspace generator with synthetic workspaces/projects/files, workflow generation, role-aware task/status management, mocked desktop/app integrations, validation/tests, docs, and clean-room disclaimers. No real local-file access, credentials, private documents, copied UI/assets, or unsupported automation claims.
+Desktop AI workspace generator with synthetic workspaces/projects/files, workflow generation, role-aware tasks/status, mocked desktop/app integrations, validation/tests, docs, and clean-room disclaimers.

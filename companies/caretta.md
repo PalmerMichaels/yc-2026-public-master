@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/caretta
 - Website: https://www.caretta.so
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/146
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/caretta-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/59
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `a080ef85144d78222130d3fcae564786854e3dc7`
+- Notes: Implemented and pushed; Scope verified: Realtime AI for sales calls with synthetic calls/transcripts/accounts, coaching/notes/action items, mocked CRM/telephony, validation/tests, docs, and clean-room disclaimers. No real call recording, credentials, private customer data, surveillance/compliance claims, or real telephony/CRM integrations. Validation: npm run check passed with 12/12 tests. Worktree clean and HEAD == origin/main.
 
 ## Clean-Room Constraints
 
@@ -41,4 +42,4 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## End-to-End Implementation Scope
 
-Realtime AI for sales calls with synthetic calls/transcripts/accounts, call coaching/notes/action items, mocked CRM/telephony, validation/tests, docs, and clean-room disclaimers. No real call recording, credentials, private customer data, surveillance/compliance claims, or real telephony/CRM integrations.
+Realtime AI for sales calls with synthetic calls/transcripts/accounts, coaching/notes/action items, mocked CRM/telephony, validation/tests, docs, and clean-room disclaimers. No real call recording, credentials, private customer data, surveillance/compliance claims, or real telephony/CRM integrations.

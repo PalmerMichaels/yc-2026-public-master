@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T13:45:24.076Z",
+  "generated_at": "2026-06-09T14:24:39.986Z",
   "repo": "PalmerMichaels/yc-2026-public-master",
   "total_open": 120,
   "total_all": 144,
@@ -1183,15 +1183,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE4XFMA",
       "title": "Cardboard (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/cardboard-public",
-      "implementation_commit": null,
+      "implementation_commit": "c099594e7bffe724c454014db3a4f12553aab898",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1201,15 +1201,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE4XF4Q",
       "title": "Care GP (Summer 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/care-gp-public",
-      "implementation_commit": null,
+      "implementation_commit": "d6ba09cc32c781058999dc4b076785fc807353c7",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:summer-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1219,15 +1219,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE4XGww",
       "title": "Caretta (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/caretta-public",
-      "implementation_commit": null,
+      "implementation_commit": "a080ef85144d78222130d3fcae564786854e3dc7",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1237,15 +1237,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE4XHjw",
       "title": "Carrot Labs (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/carrot-labs-public",
-      "implementation_commit": null,
+      "implementation_commit": "be0eb9ae43fd5f6b23035aabb8ca0031c24dabec",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1255,15 +1255,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE4XIQg",
       "title": "Carson (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/carson-public",
-      "implementation_commit": null,
+      "implementation_commit": "9a67d22bad56dcccc0604b8e0f8baff4ad0c4ab4",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1273,15 +1273,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE4XJGQ",
       "title": "Cascade (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/cascade-public",
-      "implementation_commit": null,
+      "implementation_commit": "82264fa36589824856daab9c701f813e2f5f2ae9",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ]

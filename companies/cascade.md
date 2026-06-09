@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/cascade
 - Website: https://runcascade.com/
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/149
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/cascade-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/62
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `82264fa36589824856daab9c701f813e2f5f2ae9`
+- Notes: Implemented and pushed; Scope verified: Enterprise knowledge / distilling proprietary intelligence workflow with synthetic knowledge ingestion/retrieval/summarization/synthesis/citations, confidence/review flags, role-aware approvals/audit, mocked connectors. No generic decision cascade/readiness/lead pipeline. Validation: npm run build && npm run validate && npm test && npm run demo passed; npm run build && npm run validate && npm test passed. Worktree clean and HEAD == origin/main.
 
 ## Clean-Room Constraints
 
@@ -41,4 +42,4 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## End-to-End Implementation Scope
 
-Distilling proprietary intelligence / enterprise knowledge workflow with synthetic enterprise knowledge, ingestion/retrieval/summarization flows, mocked connectors, cited outputs, validation/tests, docs, and clean-room disclaimers. No proprietary documents, private datasets, confidential workflows, real connectors/credentials, or unsupported accuracy claims.
+Enterprise knowledge / distilling proprietary intelligence workflow with synthetic knowledge ingestion/retrieval/summarization/synthesis/citations, confidence/review flags, role-aware approvals/audit, mocked connectors. No generic decision cascade/readiness/lead pipeline.

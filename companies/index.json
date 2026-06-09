@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T13:45:24.076Z",
+  "generated_at": "2026-06-09T14:24:39.986Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -5827,13 +5827,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/145",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE4XF4Q",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "care-gp-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/care-gp-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/58",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "Primary healthcare operations/admin agents with synthetic clinics/staff/tasks, scheduling/admin workflows, mocked communications/EHR-like admin connectors, approvals/audit logs, validation/tests, docs, and clean-room/non-clinical disclaimers. No diagnosis, treatment, triage, PHI, medical advice, clinical decision support, medical-device behavior, real patient data, or real EHR/clinic integrations."
+      "implementation_commit": "d6ba09cc32c781058999dc4b076785fc807353c7",
+      "implementation_notes": "Implemented and pushed; Scope verified: Primary healthcare operations/admin only; synthetic clinics/staff/admin tasks, scheduling, approvals, audit, mocked dry-run admin connectors. No clinical intake/routing/acuity/triage/diagnosis/treatment/PHI/medical advice/CDS/medical-device behavior. Validation: npm run build, npm run validate, npm test, npm run build && npm start passed; stale-scope scan no matches. Worktree clean and HEAD == origin/main.",
+      "implementation_scope_override": "Primary healthcare operations/admin only; synthetic clinics/staff/admin tasks, scheduling, approvals, audit, mocked dry-run admin connectors. No clinical intake/routing/acuity/triage/diagnosis/treatment/PHI/medical advice/CDS/medical-device behavior."
     },
     {
       "slug": "cerenovus",
@@ -6915,12 +6915,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/144",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE4XFMA",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "cardboard-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/cardboard-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/57",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_commit": "c099594e7bffe724c454014db3a4f12553aab898",
+      "implementation_notes": "Implemented and pushed; Scope verified: Agentic video editor demo with onboarding/workspace/project setup, synthetic media/project data, workflow screens, timeline/editing/task/status management, mocked export/integration flows, seed data, validation/tests, docs, and clean-room disclaimers. Original UI/assets only; no copied branding, proprietary media, private data, or unsupported production/video claims. Validation: npm test, npm run cli -- validate, and sample CLI plan generation passed. Worktree clean and HEAD == origin/main.",
       "implementation_scope_override": "Agentic video editor demo with onboarding/workspace/project setup, synthetic media/project data, workflow screens, timeline/editing/task/status management, mocked export/integration flows, seed data, validation/tests, docs, and clean-room disclaimers. Original UI/assets only; no copied branding, proprietary media, private data, or unsupported production/video claims."
     },
     {
@@ -6945,13 +6945,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/146",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE4XGww",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "caretta-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/caretta-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/59",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "Realtime AI for sales calls with synthetic calls/transcripts/accounts, call coaching/notes/action items, mocked CRM/telephony, validation/tests, docs, and clean-room disclaimers. No real call recording, credentials, private customer data, surveillance/compliance claims, or real telephony/CRM integrations."
+      "implementation_commit": "a080ef85144d78222130d3fcae564786854e3dc7",
+      "implementation_notes": "Implemented and pushed; Scope verified: Realtime AI for sales calls with synthetic calls/transcripts/accounts, coaching/notes/action items, mocked CRM/telephony, validation/tests, docs, and clean-room disclaimers. No real call recording, credentials, private customer data, surveillance/compliance claims, or real telephony/CRM integrations. Validation: npm run check passed with 12/12 tests. Worktree clean and HEAD == origin/main.",
+      "implementation_scope_override": "Realtime AI for sales calls with synthetic calls/transcripts/accounts, coaching/notes/action items, mocked CRM/telephony, validation/tests, docs, and clean-room disclaimers. No real call recording, credentials, private customer data, surveillance/compliance claims, or real telephony/CRM integrations."
     },
     {
       "slug": "carrot-labs",
@@ -6981,13 +6981,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/147",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE4XHjw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "carrot-labs-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/carrot-labs-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/60",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "AI cost management across providers with synthetic provider/spend/usage data, cost insights/recommendations, budgets/alerts, mocked billing/provider APIs, validation/tests, docs, and clean-room disclaimers. No real invoices, credentials, account access, proprietary pricing data, or real provider API mutations."
+      "implementation_commit": "be0eb9ae43fd5f6b23035aabb8ca0031c24dabec",
+      "implementation_notes": "Implemented and pushed; Scope verified: AI cost management across providers with synthetic provider/model/API usage, spend, project/team budgets, alerts, anomaly detection, optimization recommendations, provider/model comparison, and mocked billing/provider connectors. No startup/app ranking. Validation: npm test, npm start, and node dist/src/cli.js --json --provider openai-demo passed; stale-scope scan no startup terms. Worktree clean and HEAD == origin/main.",
+      "implementation_scope_override": "AI cost management across providers with synthetic provider/model/API usage, spend, project/team budgets, alerts, anomaly detection, optimization recommendations, provider/model comparison, and mocked billing/provider connectors. No startup/app ranking."
     },
     {
       "slug": "carson",
@@ -7011,13 +7011,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/148",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE4XIQg",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "carson-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/carson-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/61",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "Desktop AI workspace generator with synthetic workspaces/projects/files, workflow generation, role-aware task/status management, mocked desktop/app integrations, validation/tests, docs, and clean-room disclaimers. No real local-file access, credentials, private documents, copied UI/assets, or unsupported automation claims."
+      "implementation_commit": "9a67d22bad56dcccc0604b8e0f8baff4ad0c4ab4",
+      "implementation_notes": "Implemented and pushed; Scope verified: Desktop AI workspace generator with synthetic workspaces/projects/files, workflow generation, role-aware tasks/status, mocked desktop/app integrations, validation/tests, docs, and clean-room disclaimers. Validation: npm test and CLI smoke runs passed. Worktree clean and HEAD == origin/main.",
+      "implementation_scope_override": "Desktop AI workspace generator with synthetic workspaces/projects/files, workflow generation, role-aware tasks/status, mocked desktop/app integrations, validation/tests, docs, and clean-room disclaimers."
     },
     {
       "slug": "cascade",
@@ -7041,13 +7041,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/149",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE4XJGQ",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "cascade-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/cascade-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/62",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "Distilling proprietary intelligence / enterprise knowledge workflow with synthetic enterprise knowledge, ingestion/retrieval/summarization flows, mocked connectors, cited outputs, validation/tests, docs, and clean-room disclaimers. No proprietary documents, private datasets, confidential workflows, real connectors/credentials, or unsupported accuracy claims."
+      "implementation_commit": "82264fa36589824856daab9c701f813e2f5f2ae9",
+      "implementation_notes": "Implemented and pushed; Scope verified: Enterprise knowledge / distilling proprietary intelligence workflow with synthetic knowledge ingestion/retrieval/summarization/synthesis/citations, confidence/review flags, role-aware approvals/audit, mocked connectors. No generic decision cascade/readiness/lead pipeline. Validation: npm run build && npm run validate && npm test && npm run demo passed; npm run build && npm run validate && npm test passed. Worktree clean and HEAD == origin/main.",
+      "implementation_scope_override": "Enterprise knowledge / distilling proprietary intelligence workflow with synthetic knowledge ingestion/retrieval/summarization/synthesis/citations, confidence/review flags, role-aware approvals/audit, mocked connectors. No generic decision cascade/readiness/lead pipeline."
     },
     {
       "slug": "catchback-cards",
@@ -11196,7 +11196,7 @@
       "memory-store",
       "minicor"
     ],
-    "updated_at": "2026-06-09T13:45:24.076Z",
+    "updated_at": "2026-06-09T14:24:39.986Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -11215,7 +11215,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-09T13:45:24.076Z",
+    "updated_at": "2026-06-09T14:24:39.986Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -11298,6 +11298,7 @@
       "napkin-math",
       "netter",
       "archal",
+      "care-gp",
       "21st",
       "aemon",
       "agentic-fabriq",
@@ -11318,16 +11319,14 @@
       "burt",
       "cajal-technologies",
       "canary",
-      "captain"
-    ],
-    "in_progress": [
-      "care-gp",
+      "captain",
       "cardboard",
       "caretta",
       "carrot-labs",
       "carson",
       "cascade"
     ],
+    "in_progress": [],
     "ready_copyable": 170,
     "skipped_pending_recheck": [
       "aquashield"

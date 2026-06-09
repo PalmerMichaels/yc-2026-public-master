@@ -4,7 +4,7 @@
 - Batch: Summer 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/care-gp
 - Website: https://caregp.com.au/
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/145
@@ -24,10 +24,11 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/care-gp-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/58
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `d6ba09cc32c781058999dc4b076785fc807353c7`
+- Notes: Implemented and pushed; Scope verified: Primary healthcare operations/admin only; synthetic clinics/staff/admin tasks, scheduling, approvals, audit, mocked dry-run admin connectors. No clinical intake/routing/acuity/triage/diagnosis/treatment/PHI/medical advice/CDS/medical-device behavior. Validation: npm run build, npm run validate, npm test, npm run build && npm start passed; stale-scope scan no matches. Worktree clean and HEAD == origin/main.
 
 ## Clean-Room Constraints
 
@@ -41,4 +42,4 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## End-to-End Implementation Scope
 
-Primary healthcare operations/admin agents with synthetic clinics/staff/tasks, scheduling/admin workflows, mocked communications/EHR-like admin connectors, approvals/audit logs, validation/tests, docs, and clean-room/non-clinical disclaimers. No diagnosis, treatment, triage, PHI, medical advice, clinical decision support, medical-device behavior, real patient data, or real EHR/clinic integrations.
+Primary healthcare operations/admin only; synthetic clinics/staff/admin tasks, scheduling, approvals, audit, mocked dry-run admin connectors. No clinical intake/routing/acuity/triage/diagnosis/treatment/PHI/medical advice/CDS/medical-device behavior.
