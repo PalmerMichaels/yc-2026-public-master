@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-09T12:30:48.870Z",
+  "generated_at": "2026-06-09T12:47:10.835Z",
   "repo": "PalmerMichaels/yc-2026-public-master",
   "total_open": 120,
-  "total_all": 132,
+  "total_all": 138,
   "closed_duplicates": [
     {
       "title": "Inth (Spring 2026)",
@@ -1066,6 +1066,114 @@
         "batch:winter-2026",
         "status:active",
         "implemented"
+      ]
+    },
+    {
+      "slug": "brownie",
+      "issue_number": 138,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/138",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE36UdQ",
+      "title": "IncidentFox (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/brownie-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "bubble-lab",
+      "issue_number": 139,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/139",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE36VsQ",
+      "title": "Bubble Lab (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/bubble-lab-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "burt",
+      "issue_number": 140,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/140",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE36W4w",
+      "title": "Burt (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/burt-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "cajal-technologies",
+      "issue_number": 141,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/141",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE36XwQ",
+      "title": "Cajal (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/cajal-technologies-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "canary",
+      "issue_number": 142,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/142",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE36YjQ",
+      "title": "Canary (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/canary-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "captain",
+      "issue_number": 143,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/143",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE36Z6w",
+      "title": "Captain (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/captain-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
       ]
     }
   ]

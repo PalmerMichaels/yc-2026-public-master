@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T12:30:48.870Z",
+  "generated_at": "2026-06-09T12:47:10.835Z",
   "implemented": [
     {
       "slug": "godhands",
@@ -1538,7 +1538,104 @@
       "priority": "implemented"
     }
   ],
-  "in_progress": [],
+  "in_progress": [
+    {
+      "slug": "brownie",
+      "name": "IncidentFox",
+      "batch": "Winter 2026",
+      "issue_number": 138,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/138",
+      "source_url": "https://www.ycombinator.com/companies/brownie",
+      "website": "https://incidentfox.ai",
+      "proposed_repo": "brownie-public",
+      "implementation_scope": "AI SRE agent that triages, coordinates, and proposes fixes for production incidents; synthetic services/incidents, mocked pager/chat/observability, no real prod access or remediation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/brownie-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "bubble-lab",
+      "name": "Bubble Lab",
+      "batch": "Winter 2026",
+      "issue_number": 139,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/139",
+      "source_url": "https://www.ycombinator.com/companies/bubble-lab",
+      "website": "https://bubblelab.ai/",
+      "proposed_repo": "bubble-lab-public",
+      "implementation_scope": "Prompt-once workflow automation studio; synthetic workflows, mocked triggers/actions, approval gates, no real external automation.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/bubble-lab-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "burt",
+      "name": "Burt",
+      "batch": "Winter 2026",
+      "issue_number": 140,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/140",
+      "source_url": "https://www.ycombinator.com/companies/burt",
+      "website": "https://www.burthq.com/",
+      "proposed_repo": "burt-public",
+      "implementation_scope": "AI teammates for logistics; synthetic shipments/orders/carriers, mocked WMS/TMS/email, no real freight/booking/payments.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/burt-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "cajal-technologies",
+      "name": "Cajal",
+      "batch": "Winter 2026",
+      "issue_number": 141,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/141",
+      "source_url": "https://www.ycombinator.com/companies/cajal-technologies",
+      "website": "https://caj.al/",
+      "proposed_repo": "cajal-technologies-public",
+      "implementation_scope": "Formal-verification workflow for scientific teams; synthetic specs/proof obligations/mocked verifier output, no lab/clinical/regulatory/real scientific-discovery claims.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/cajal-technologies-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "canary",
+      "name": "Canary",
+      "batch": "Winter 2026",
+      "issue_number": 142,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/142",
+      "source_url": "https://www.ycombinator.com/companies/canary",
+      "website": "https://www.runcanary.ai",
+      "proposed_repo": "canary-public",
+      "implementation_scope": "AI QA engineer that understands code; synthetic codebase fixtures, mocked GitHub/CI, no real repo access or credentials.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/canary-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    },
+    {
+      "slug": "captain",
+      "name": "Captain",
+      "batch": "Winter 2026",
+      "issue_number": 143,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/143",
+      "source_url": "https://www.ycombinator.com/companies/captain",
+      "website": "https://runcaptain.com",
+      "proposed_repo": "captain-public",
+      "implementation_scope": "Scalable accurate knowledge search for AI agents; synthetic knowledge bases, mocked retrieval/integration, no proprietary docs or unsupported accuracy claims.",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/captain-public",
+      "implementation_commit": null,
+      "priority": "in-progress"
+    }
+  ],
   "pending_recheck": [
     {
       "slug": "aquashield",

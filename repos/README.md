@@ -103,7 +103,12 @@ Implemented:
 - `booko` -> https://github.com/PalmerMichaels/booko-public @ `8065db8bc3980e2e2137c721eb3a95b91e501659`
 
 In progress:
-- None
+- `brownie` -> `brownie-public` ([#138](https://github.com/PalmerMichaels/yc-2026-public-master/issues/138))
+- `bubble-lab` -> `bubble-lab-public` ([#139](https://github.com/PalmerMichaels/yc-2026-public-master/issues/139))
+- `burt` -> `burt-public` ([#140](https://github.com/PalmerMichaels/yc-2026-public-master/issues/140))
+- `cajal-technologies` -> `cajal-technologies-public` ([#141](https://github.com/PalmerMichaels/yc-2026-public-master/issues/141))
+- `canary` -> `canary-public` ([#142](https://github.com/PalmerMichaels/yc-2026-public-master/issues/142))
+- `captain` -> `captain-public` ([#143](https://github.com/PalmerMichaels/yc-2026-public-master/issues/143))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -116,9 +121,9 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 96
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 181
+- Ready for fan-out: 175
 - Total copyable: 278
 
 Next unambiguous copyable entries:

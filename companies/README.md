@@ -7,10 +7,10 @@ Copyable: 278
 Not copyable: 127
 Uncertain: 0
 Implemented: 96
-In progress: 0
-Ready copyable: 181
+In progress: 6
+Ready copyable: 175
 Skipped pending re-check: aquashield
-GitHub issues created: 136
+GitHub issues created: 142
 GitHub issues pending: 285
 Closed duplicate issues: 88
 Project items synced: 120
@@ -115,7 +115,12 @@ Implemented repositories:
 - `booko`: https://github.com/PalmerMichaels/booko-public @ `8065db8bc3980e2e2137c721eb3a95b91e501659`
 
 In-progress implementations:
-- None
+- `brownie`: [#138](https://github.com/PalmerMichaels/yc-2026-public-master/issues/138) -> `brownie-public`
+- `bubble-lab`: [#139](https://github.com/PalmerMichaels/yc-2026-public-master/issues/139) -> `bubble-lab-public`
+- `burt`: [#140](https://github.com/PalmerMichaels/yc-2026-public-master/issues/140) -> `burt-public`
+- `cajal-technologies`: [#141](https://github.com/PalmerMichaels/yc-2026-public-master/issues/141) -> `cajal-technologies-public`
+- `canary`: [#142](https://github.com/PalmerMichaels/yc-2026-public-master/issues/142) -> `canary-public`
+- `captain`: [#143](https://github.com/PalmerMichaels/yc-2026-public-master/issues/143) -> `captain-public`
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.

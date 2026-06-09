@@ -2,13 +2,15 @@
 
 - Slug: `burt`
 - Batch: Winter 2026
-- Status: Active
+- YC status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
-- Source: https://www.ycombinator.com/companies/burt
+- Implementation Status: `in-progress`
+- Source URL: https://www.ycombinator.com/companies/burt
 - Website: https://www.burthq.com/
+- GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/140
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
-- GitHub Issue: Pending creation
+- Public Repository: https://github.com/PalmerMichaels/burt-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/53
 
 ## Public Description
 
@@ -20,20 +22,23 @@ We're building for the people that keep the world moving. Freight brokers and fo
 
 Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.
 
+## Implementation Tracking
+
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/burt-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/53
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+
 ## Clean-Room Constraints
 
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Implementation Tracking
-
-- Status: `classified`
-
 ## Proposed Public Repository
 
-- Repository: `burt-public`
+`burt-public`
 
 ## End-to-End Implementation Scope
 
-Build an original web app demonstrating ai teammates for logistics: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
+AI teammates for logistics; synthetic shipments/orders/carriers, mocked WMS/TMS/email, no real freight/booking/payments.
