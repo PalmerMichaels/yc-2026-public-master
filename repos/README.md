@@ -97,7 +97,12 @@ Implemented:
 - `autumn-ai` -> https://github.com/PalmerMichaels/autumn-ai-public @ `2041422d75aabc9ac354492a16141ef9d9f9c0de`
 
 In progress:
-- None
+- `avoice` -> `avoice-public` ([#132](https://github.com/PalmerMichaels/yc-2026-public-master/issues/132))
+- `axis-2` -> `axis-2-public` ([#133](https://github.com/PalmerMichaels/yc-2026-public-master/issues/133))
+- `baseframe` -> `baseframe-public` ([#134](https://github.com/PalmerMichaels/yc-2026-public-master/issues/134))
+- `beacon-health` -> `beacon-health-public` ([#135](https://github.com/PalmerMichaels/yc-2026-public-master/issues/135))
+- `bidflow` -> `bidflow-public` ([#136](https://github.com/PalmerMichaels/yc-2026-public-master/issues/136))
+- `booko` -> `booko-public` ([#137](https://github.com/PalmerMichaels/yc-2026-public-master/issues/137))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -110,9 +115,9 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 90
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 187
+- Ready for fan-out: 181
 - Total copyable: 278
 
 Next unambiguous copyable entries:

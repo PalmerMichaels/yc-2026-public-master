@@ -2,13 +2,15 @@
 
 - Slug: `beacon-health`
 - Batch: Winter 2026
-- Status: Active
+- YC status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
-- Source: https://www.ycombinator.com/companies/beacon-health
+- Implementation Status: `in-progress`
+- Source URL: https://www.ycombinator.com/companies/beacon-health
 - Website: https://www.beaconhealth.ai/
+- GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/135
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
-- GitHub Issue: Pending creation
+- Public Repository: https://github.com/PalmerMichaels/beacon-health-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/48
 
 ## Public Description
 
@@ -20,20 +22,23 @@ Beacon Health (YC W26) is building AI employees that double revenue for primary 
 
 Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.
 
+## Implementation Tracking
+
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/beacon-health-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/48
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+
 ## Clean-Room Constraints
 
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Implementation Tracking
-
-- Status: `classified`
-
 ## Proposed Public Repository
 
-- Repository: `beacon-health-public`
+`beacon-health-public`
 
 ## End-to-End Implementation Scope
 
-Build an original web app demonstrating ai employees for primary care: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
+Non-clinical/admin-only synthetic workflows. No diagnosis, treatment, triage, PHI, medical advice, or medical-device behavior.

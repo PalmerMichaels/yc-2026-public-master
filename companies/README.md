@@ -7,10 +7,10 @@ Copyable: 278
 Not copyable: 127
 Uncertain: 0
 Implemented: 90
-In progress: 0
-Ready copyable: 187
+In progress: 6
+Ready copyable: 181
 Skipped pending re-check: aquashield
-GitHub issues created: 130
+GitHub issues created: 136
 GitHub issues pending: 285
 Closed duplicate issues: 88
 Project items synced: 120
@@ -109,7 +109,12 @@ Implemented repositories:
 - `autumn-ai`: https://github.com/PalmerMichaels/autumn-ai-public @ `2041422d75aabc9ac354492a16141ef9d9f9c0de`
 
 In-progress implementations:
-- None
+- `avoice`: [#132](https://github.com/PalmerMichaels/yc-2026-public-master/issues/132) -> `avoice-public`
+- `axis-2`: [#133](https://github.com/PalmerMichaels/yc-2026-public-master/issues/133) -> `axis-2-public`
+- `baseframe`: [#134](https://github.com/PalmerMichaels/yc-2026-public-master/issues/134) -> `baseframe-public`
+- `beacon-health`: [#135](https://github.com/PalmerMichaels/yc-2026-public-master/issues/135) -> `beacon-health-public`
+- `bidflow`: [#136](https://github.com/PalmerMichaels/yc-2026-public-master/issues/136) -> `bidflow-public`
+- `booko`: [#137](https://github.com/PalmerMichaels/yc-2026-public-master/issues/137) -> `booko-public`
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.

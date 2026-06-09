@@ -2,13 +2,15 @@
 
 - Slug: `axis-2`
 - Batch: Winter 2026
-- Status: Active
+- YC status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
-- Source: https://www.ycombinator.com/companies/axis-2
+- Implementation Status: `in-progress`
+- Source URL: https://www.ycombinator.com/companies/axis-2
 - Website: https://axisanalysis.com
+- GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/133
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
-- GitHub Issue: Pending creation
+- Public Repository: https://github.com/PalmerMichaels/axis-2-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/46
 
 ## Public Description
 
@@ -20,20 +22,23 @@ Axis is building an AI Native Trading System, allowing a trader to deploy models
 
 Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.
 
+## Implementation Tracking
+
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/axis-2-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/46
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+
 ## Clean-Room Constraints
 
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Implementation Tracking
-
-- Status: `classified`
-
 ## Proposed Public Repository
 
-- Repository: `axis-2-public`
+`axis-2-public`
 
 ## End-to-End Implementation Scope
 
-Build an original web app demonstrating an ai copilot for trading desks: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
+AI copilot for trading desks demo. Avoid real trading, brokerage, execution, investment advice, credentials, live market integrations, or real money movement.

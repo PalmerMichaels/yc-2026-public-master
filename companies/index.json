@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T11:21:45.882Z",
+  "generated_at": "2026-06-09T11:51:03.977Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -6406,11 +6406,17 @@
       "public_repo": "avoice-public",
       "implementation_scope": "Build an original web app demonstrating harvey for architecture: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 132,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/132",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE3jCgA",
+      "implementation_status": "in-progress",
+      "implementation_repo": "avoice-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/avoice-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/45",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Original clean-room web app demonstrating Harvey-for-architecture style workflows, synthetic data, mocked integrations, no copied assets/branding."
     },
     {
       "slug": "axionorbital-space",
@@ -6454,11 +6460,17 @@
       "public_repo": "axis-2-public",
       "implementation_scope": "Build an original web app demonstrating an ai copilot for trading desks: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 133,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/133",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE3jDPg",
+      "implementation_status": "in-progress",
+      "implementation_repo": "axis-2-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/axis-2-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/46",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "AI copilot for trading desks demo. Avoid real trading, brokerage, execution, investment advice, credentials, live market integrations, or real money movement."
     },
     {
       "slug": "baseframe",
@@ -6478,11 +6490,17 @@
       "public_repo": "baseframe-public",
       "implementation_scope": "Build an original web app demonstrating detect what ai can automate for your team: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 134,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/134",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE3jD0g",
+      "implementation_status": "in-progress",
+      "implementation_repo": "baseframe-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/baseframe-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/47",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Detect/plan what AI can automate for a team; original UI, synthetic data, mocked integrations."
     },
     {
       "slug": "beacon-health",
@@ -6502,11 +6520,17 @@
       "public_repo": "beacon-health-public",
       "implementation_scope": "Build an original web app demonstrating ai employees for primary care: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 135,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/135",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE3jEdQ",
+      "implementation_status": "in-progress",
+      "implementation_repo": "beacon-health-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/beacon-health-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/48",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Non-clinical/admin-only synthetic workflows. No diagnosis, treatment, triage, PHI, medical advice, or medical-device behavior."
     },
     {
       "slug": "beesafe-ai",
@@ -6579,11 +6603,17 @@
       "public_repo": "bidflow-public",
       "implementation_scope": "Build an original web app demonstrating ai takeoffs for electrical: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 136,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/136",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE3jFGw",
+      "implementation_status": "in-progress",
+      "implementation_repo": "bidflow-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/bidflow-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/49",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "AI takeoffs for electrical demo with synthetic project data and no proprietary plans/assets."
     },
     {
       "slug": "booko",
@@ -6603,11 +6633,17 @@
       "public_repo": "booko-public",
       "implementation_scope": "Build an original web app demonstrating dynamically pricing the whole economy.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 137,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/137",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE3jFvQ",
+      "implementation_status": "in-progress",
+      "implementation_repo": "booko-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/booko-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/50",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Dynamic pricing workflow with synthetic pricing/economy data; avoid real commerce/payment execution."
     },
     {
       "slug": "brownie",
@@ -11088,7 +11124,7 @@
       "memory-store",
       "minicor"
     ],
-    "updated_at": "2026-06-09T11:21:45.882Z",
+    "updated_at": "2026-06-09T11:51:03.977Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -11107,7 +11143,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-09T11:21:45.882Z",
+    "updated_at": "2026-06-09T11:51:03.977Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -11200,8 +11236,15 @@
       "autositu",
       "autumn-ai"
     ],
-    "in_progress": [],
-    "ready_copyable": 188,
+    "in_progress": [
+      "avoice",
+      "axis-2",
+      "baseframe",
+      "beacon-health",
+      "bidflow",
+      "booko"
+    ],
+    "ready_copyable": 182,
     "skipped_pending_recheck": [
       "aquashield"
     ]
