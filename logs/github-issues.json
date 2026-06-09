@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T12:47:10.835Z",
+  "generated_at": "2026-06-09T13:12:37.571Z",
   "repo": "PalmerMichaels/yc-2026-public-master",
   "total_open": 120,
   "total_all": 138,
@@ -1075,15 +1075,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE36UdQ",
       "title": "IncidentFox (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/brownie-public",
-      "implementation_commit": null,
+      "implementation_commit": "89075bd9b17bcc8ec5c975eb3deb968bf7f9d7bb",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1093,15 +1093,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE36VsQ",
       "title": "Bubble Lab (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/bubble-lab-public",
-      "implementation_commit": null,
+      "implementation_commit": "45413c97410b02b26ac74406abaa1d9990cb59d5",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1111,15 +1111,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE36W4w",
       "title": "Burt (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/burt-public",
-      "implementation_commit": null,
+      "implementation_commit": "8a39acf92edee16f901002bdb22aaaaf6eb05f80",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1129,15 +1129,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE36XwQ",
       "title": "Cajal (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/cajal-technologies-public",
-      "implementation_commit": null,
+      "implementation_commit": "cc44912c2ffb337b46ea85a8537717a03ef164f4",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1147,15 +1147,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE36YjQ",
       "title": "Canary (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/canary-public",
-      "implementation_commit": null,
+      "implementation_commit": "eecfbeae3ce679de7deef45e11d8edafe4886607",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1165,15 +1165,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE36Z6w",
       "title": "Captain (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/captain-public",
-      "implementation_commit": null,
+      "implementation_commit": "a37fdb1d477aa99ec3dbe0e48b772651f33a8c8e",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ]

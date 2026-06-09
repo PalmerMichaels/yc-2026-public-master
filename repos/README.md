@@ -101,14 +101,15 @@ Implemented:
 - `beacon-health` -> https://github.com/PalmerMichaels/beacon-health-public @ `3c5c894c608f6313c252ae94e348c8ad357a6773`
 - `bidflow` -> https://github.com/PalmerMichaels/bidflow-public @ `8c85709c73f973e1c673b08bf1944463224874bb`
 - `booko` -> https://github.com/PalmerMichaels/booko-public @ `8065db8bc3980e2e2137c721eb3a95b91e501659`
+- `brownie` -> https://github.com/PalmerMichaels/brownie-public @ `89075bd9b17bcc8ec5c975eb3deb968bf7f9d7bb`
+- `bubble-lab` -> https://github.com/PalmerMichaels/bubble-lab-public @ `45413c97410b02b26ac74406abaa1d9990cb59d5`
+- `burt` -> https://github.com/PalmerMichaels/burt-public @ `8a39acf92edee16f901002bdb22aaaaf6eb05f80`
+- `cajal-technologies` -> https://github.com/PalmerMichaels/cajal-technologies-public @ `cc44912c2ffb337b46ea85a8537717a03ef164f4`
+- `canary` -> https://github.com/PalmerMichaels/canary-public @ `eecfbeae3ce679de7deef45e11d8edafe4886607`
+- `captain` -> https://github.com/PalmerMichaels/captain-public @ `a37fdb1d477aa99ec3dbe0e48b772651f33a8c8e`
 
 In progress:
-- `brownie` -> `brownie-public` ([#138](https://github.com/PalmerMichaels/yc-2026-public-master/issues/138))
-- `bubble-lab` -> `bubble-lab-public` ([#139](https://github.com/PalmerMichaels/yc-2026-public-master/issues/139))
-- `burt` -> `burt-public` ([#140](https://github.com/PalmerMichaels/yc-2026-public-master/issues/140))
-- `cajal-technologies` -> `cajal-technologies-public` ([#141](https://github.com/PalmerMichaels/yc-2026-public-master/issues/141))
-- `canary` -> `canary-public` ([#142](https://github.com/PalmerMichaels/yc-2026-public-master/issues/142))
-- `captain` -> `captain-public` ([#143](https://github.com/PalmerMichaels/yc-2026-public-master/issues/143))
+- None
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -120,8 +121,8 @@ Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
 Current queue counts:
-- Implemented: 96
-- In progress: 6
+- Implemented: 102
+- In progress: 0
 - Pending re-check: 1
 - Ready for fan-out: 175
 - Total copyable: 278

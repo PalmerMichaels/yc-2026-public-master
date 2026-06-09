@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/burt
 - Website: https://www.burthq.com/
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/140
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/burt-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/53
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `8a39acf92edee16f901002bdb22aaaaf6eb05f80`
+- Notes: Implemented and pushed; Scope verified: AI teammates for logistics; synthetic shipments/orders/carriers, exception detection, ETA/status coordination, mocked logistics integrations, clean-room disclaimers. Validation: npm run validate passed. Worktree clean and HEAD == origin/main.
 
 ## Clean-Room Constraints
 
@@ -41,4 +42,4 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## End-to-End Implementation Scope
 
-AI teammates for logistics; synthetic shipments/orders/carriers, mocked WMS/TMS/email, no real freight/booking/payments.
+AI teammates for logistics; synthetic shipments/orders/carriers, exception detection, ETA/status coordination, mocked logistics integrations, clean-room disclaimers.

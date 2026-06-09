@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T12:47:10.835Z",
+  "generated_at": "2026-06-09T13:12:37.571Z",
   "implemented": [
     {
       "slug": "godhands",
@@ -1536,9 +1536,7 @@
       "implementation_repo_url": "https://github.com/PalmerMichaels/booko-public",
       "implementation_commit": "8065db8bc3980e2e2137c721eb3a95b91e501659",
       "priority": "implemented"
-    }
-  ],
-  "in_progress": [
+    },
     {
       "slug": "brownie",
       "name": "IncidentFox",
@@ -1548,12 +1546,12 @@
       "source_url": "https://www.ycombinator.com/companies/brownie",
       "website": "https://incidentfox.ai",
       "proposed_repo": "brownie-public",
-      "implementation_scope": "AI SRE agent that triages, coordinates, and proposes fixes for production incidents; synthetic services/incidents, mocked pager/chat/observability, no real prod access or remediation.",
+      "implementation_scope": "AI SRE incident triage/coordination/remediation-proposal workflow; synthetic services/incidents, mocked pager/chat/observability, clean-room disclaimers.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/brownie-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "89075bd9b17bcc8ec5c975eb3deb968bf7f9d7bb",
+      "priority": "implemented"
     },
     {
       "slug": "bubble-lab",
@@ -1564,12 +1562,12 @@
       "source_url": "https://www.ycombinator.com/companies/bubble-lab",
       "website": "https://bubblelab.ai/",
       "proposed_repo": "bubble-lab-public",
-      "implementation_scope": "Prompt-once workflow automation studio; synthetic workflows, mocked triggers/actions, approval gates, no real external automation.",
+      "implementation_scope": "Prompt-once/workflow automation studio; onboarding/workspace setup, prompt-to-workflow builder, automation templates, trigger/action previews, role-aware tasks/statuses, human approval checkpoints, mocked integrations/actions, audit history, clean-room execution constraints. Stale formula/allergen/product-formulation scope removed.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/bubble-lab-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "45413c97410b02b26ac74406abaa1d9990cb59d5",
+      "priority": "implemented"
     },
     {
       "slug": "burt",
@@ -1580,12 +1578,12 @@
       "source_url": "https://www.ycombinator.com/companies/burt",
       "website": "https://www.burthq.com/",
       "proposed_repo": "burt-public",
-      "implementation_scope": "AI teammates for logistics; synthetic shipments/orders/carriers, mocked WMS/TMS/email, no real freight/booking/payments.",
+      "implementation_scope": "AI teammates for logistics; synthetic shipments/orders/carriers, exception detection, ETA/status coordination, mocked logistics integrations, clean-room disclaimers.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/burt-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "8a39acf92edee16f901002bdb22aaaaf6eb05f80",
+      "priority": "implemented"
     },
     {
       "slug": "cajal-technologies",
@@ -1596,12 +1594,12 @@
       "source_url": "https://www.ycombinator.com/companies/cajal-technologies",
       "website": "https://caj.al/",
       "proposed_repo": "cajal-technologies-public",
-      "implementation_scope": "Formal-verification workflow for scientific teams; synthetic specs/proof obligations/mocked verifier output, no lab/clinical/regulatory/real scientific-discovery claims.",
+      "implementation_scope": "Scientific/research-team formal-verification workflow; spec management, verification jobs/proof obligations, status dashboards, counterexample review, collaboration tasks, research artifact summaries, synthetic formulas/specs, mocked verifier output. Finance prominence removed/replaced with scientific materials-research workflow. Disclaimers cover no real scientific discovery, lab validation, clinical/biotech/regulatory approval, or production-grade proof guarantees.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/cajal-technologies-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "cc44912c2ffb337b46ea85a8537717a03ef164f4",
+      "priority": "implemented"
     },
     {
       "slug": "canary",
@@ -1612,12 +1610,12 @@
       "source_url": "https://www.ycombinator.com/companies/canary",
       "website": "https://www.runcanary.ai",
       "proposed_repo": "canary-public",
-      "implementation_scope": "AI QA engineer that understands code; synthetic codebase fixtures, mocked GitHub/CI, no real repo access or credentials.",
+      "implementation_scope": "AI QA engineer for code; synthetic PR/source data, mocked preview integrations, generated checks/regression promotion, clean-room disclaimers.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/canary-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "eecfbeae3ce679de7deef45e11d8edafe4886607",
+      "priority": "implemented"
     },
     {
       "slug": "captain",
@@ -1628,14 +1626,15 @@
       "source_url": "https://www.ycombinator.com/companies/captain",
       "website": "https://runcaptain.com",
       "proposed_repo": "captain-public",
-      "implementation_scope": "Scalable accurate knowledge search for AI agents; synthetic knowledge bases, mocked retrieval/integration, no proprietary docs or unsupported accuracy claims.",
+      "implementation_scope": "Scalable knowledge search for AI agents; synthetic knowledge/document sources, mocked connectors/retrieval, cited answer workflow, clean-room disclaimers.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/captain-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "a37fdb1d477aa99ec3dbe0e48b772651f33a8c8e",
+      "priority": "implemented"
     }
   ],
+  "in_progress": [],
   "pending_recheck": [
     {
       "slug": "aquashield",

@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/bubble-lab
 - Website: https://bubblelab.ai/
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/139
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/bubble-lab-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/52
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `45413c97410b02b26ac74406abaa1d9990cb59d5`
+- Notes: Implemented and pushed; Scope verified: Prompt-once/workflow automation studio; onboarding/workspace setup, prompt-to-workflow builder, automation templates, trigger/action previews, role-aware tasks/statuses, human approval checkpoints, mocked integrations/actions, audit history, clean-room execution constraints. Stale formula/allergen/product-formulation scope removed. Validation: npm run validate passed; runnable CLI path executed; worker grep found no stale matches. Worktree clean and HEAD == origin/main.
 
 ## Clean-Room Constraints
 
@@ -41,4 +42,4 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## End-to-End Implementation Scope
 
-Prompt-once workflow automation studio; synthetic workflows, mocked triggers/actions, approval gates, no real external automation.
+Prompt-once/workflow automation studio; onboarding/workspace setup, prompt-to-workflow builder, automation templates, trigger/action previews, role-aware tasks/statuses, human approval checkpoints, mocked integrations/actions, audit history, clean-room execution constraints. Stale formula/allergen/product-formulation scope removed.

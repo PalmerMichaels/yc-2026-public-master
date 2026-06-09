@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/cajal-technologies
 - Website: https://caj.al/
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/141
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/cajal-technologies-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/54
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `cc44912c2ffb337b46ea85a8537717a03ef164f4`
+- Notes: Implemented and pushed; Scope verified: Scientific/research-team formal-verification workflow; spec management, verification jobs/proof obligations, status dashboards, counterexample review, collaboration tasks, research artifact summaries, synthetic formulas/specs, mocked verifier output. Finance prominence removed/replaced with scientific materials-research workflow. Disclaimers cover no real scientific discovery, lab validation, clinical/biotech/regulatory approval, or production-grade proof guarantees. Validation: npm run typecheck, npm test, npm run validate, npm run build, and npm start -- --domain all passed. Worktree clean and HEAD == origin/main.
 
 ## Clean-Room Constraints
 
@@ -41,4 +42,4 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## End-to-End Implementation Scope
 
-Formal-verification workflow for scientific teams; synthetic specs/proof obligations/mocked verifier output, no lab/clinical/regulatory/real scientific-discovery claims.
+Scientific/research-team formal-verification workflow; spec management, verification jobs/proof obligations, status dashboards, counterexample review, collaboration tasks, research artifact summaries, synthetic formulas/specs, mocked verifier output. Finance prominence removed/replaced with scientific materials-research workflow. Disclaimers cover no real scientific discovery, lab validation, clinical/biotech/regulatory approval, or production-grade proof guarantees.

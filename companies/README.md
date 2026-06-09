@@ -6,8 +6,8 @@ Total companies: 405
 Copyable: 278
 Not copyable: 127
 Uncertain: 0
-Implemented: 96
-In progress: 6
+Implemented: 102
+In progress: 0
 Ready copyable: 175
 Skipped pending re-check: aquashield
 GitHub issues created: 142
@@ -113,14 +113,15 @@ Implemented repositories:
 - `beacon-health`: https://github.com/PalmerMichaels/beacon-health-public @ `3c5c894c608f6313c252ae94e348c8ad357a6773`
 - `bidflow`: https://github.com/PalmerMichaels/bidflow-public @ `8c85709c73f973e1c673b08bf1944463224874bb`
 - `booko`: https://github.com/PalmerMichaels/booko-public @ `8065db8bc3980e2e2137c721eb3a95b91e501659`
+- `brownie`: https://github.com/PalmerMichaels/brownie-public @ `89075bd9b17bcc8ec5c975eb3deb968bf7f9d7bb`
+- `bubble-lab`: https://github.com/PalmerMichaels/bubble-lab-public @ `45413c97410b02b26ac74406abaa1d9990cb59d5`
+- `burt`: https://github.com/PalmerMichaels/burt-public @ `8a39acf92edee16f901002bdb22aaaaf6eb05f80`
+- `cajal-technologies`: https://github.com/PalmerMichaels/cajal-technologies-public @ `cc44912c2ffb337b46ea85a8537717a03ef164f4`
+- `canary`: https://github.com/PalmerMichaels/canary-public @ `eecfbeae3ce679de7deef45e11d8edafe4886607`
+- `captain`: https://github.com/PalmerMichaels/captain-public @ `a37fdb1d477aa99ec3dbe0e48b772651f33a8c8e`
 
 In-progress implementations:
-- `brownie`: [#138](https://github.com/PalmerMichaels/yc-2026-public-master/issues/138) -> `brownie-public`
-- `bubble-lab`: [#139](https://github.com/PalmerMichaels/yc-2026-public-master/issues/139) -> `bubble-lab-public`
-- `burt`: [#140](https://github.com/PalmerMichaels/yc-2026-public-master/issues/140) -> `burt-public`
-- `cajal-technologies`: [#141](https://github.com/PalmerMichaels/yc-2026-public-master/issues/141) -> `cajal-technologies-public`
-- `canary`: [#142](https://github.com/PalmerMichaels/yc-2026-public-master/issues/142) -> `canary-public`
-- `captain`: [#143](https://github.com/PalmerMichaels/yc-2026-public-master/issues/143) -> `captain-public`
+- None
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.

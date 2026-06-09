@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T12:47:10.835Z",
+  "generated_at": "2026-06-09T13:12:37.571Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -6671,13 +6671,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/138",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE36UdQ",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "brownie-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/brownie-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/51",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "AI SRE agent that triages, coordinates, and proposes fixes for production incidents; synthetic services/incidents, mocked pager/chat/observability, no real prod access or remediation."
+      "implementation_commit": "89075bd9b17bcc8ec5c975eb3deb968bf7f9d7bb",
+      "implementation_notes": "Implemented and pushed; Scope verified: AI SRE incident triage/coordination/remediation-proposal workflow; synthetic services/incidents, mocked pager/chat/observability, clean-room disclaimers. Validation: npm run validate passed. Worktree clean and HEAD == origin/main.",
+      "implementation_scope_override": "AI SRE incident triage/coordination/remediation-proposal workflow; synthetic services/incidents, mocked pager/chat/observability, clean-room disclaimers."
     },
     {
       "slug": "bubble-lab",
@@ -6706,13 +6706,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/139",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE36VsQ",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "bubble-lab-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/bubble-lab-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/52",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "Prompt-once workflow automation studio; synthetic workflows, mocked triggers/actions, approval gates, no real external automation."
+      "implementation_commit": "45413c97410b02b26ac74406abaa1d9990cb59d5",
+      "implementation_notes": "Implemented and pushed; Scope verified: Prompt-once/workflow automation studio; onboarding/workspace setup, prompt-to-workflow builder, automation templates, trigger/action previews, role-aware tasks/statuses, human approval checkpoints, mocked integrations/actions, audit history, clean-room execution constraints. Stale formula/allergen/product-formulation scope removed. Validation: npm run validate passed; runnable CLI path executed; worker grep found no stale matches. Worktree clean and HEAD == origin/main.",
+      "implementation_scope_override": "Prompt-once/workflow automation studio; onboarding/workspace setup, prompt-to-workflow builder, automation templates, trigger/action previews, role-aware tasks/statuses, human approval checkpoints, mocked integrations/actions, audit history, clean-room execution constraints. Stale formula/allergen/product-formulation scope removed."
     },
     {
       "slug": "burt",
@@ -6736,13 +6736,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/140",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE36W4w",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "burt-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/burt-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/53",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "AI teammates for logistics; synthetic shipments/orders/carriers, mocked WMS/TMS/email, no real freight/booking/payments."
+      "implementation_commit": "8a39acf92edee16f901002bdb22aaaaf6eb05f80",
+      "implementation_notes": "Implemented and pushed; Scope verified: AI teammates for logistics; synthetic shipments/orders/carriers, exception detection, ETA/status coordination, mocked logistics integrations, clean-room disclaimers. Validation: npm run validate passed. Worktree clean and HEAD == origin/main.",
+      "implementation_scope_override": "AI teammates for logistics; synthetic shipments/orders/carriers, exception detection, ETA/status coordination, mocked logistics integrations, clean-room disclaimers."
     },
     {
       "slug": "button-computer",
@@ -6814,13 +6814,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/141",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE36XwQ",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "cajal-technologies-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/cajal-technologies-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/54",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "Formal-verification workflow for scientific teams; synthetic specs/proof obligations/mocked verifier output, no lab/clinical/regulatory/real scientific-discovery claims."
+      "implementation_commit": "cc44912c2ffb337b46ea85a8537717a03ef164f4",
+      "implementation_notes": "Implemented and pushed; Scope verified: Scientific/research-team formal-verification workflow; spec management, verification jobs/proof obligations, status dashboards, counterexample review, collaboration tasks, research artifact summaries, synthetic formulas/specs, mocked verifier output. Finance prominence removed/replaced with scientific materials-research workflow. Disclaimers cover no real scientific discovery, lab validation, clinical/biotech/regulatory approval, or production-grade proof guarantees. Validation: npm run typecheck, npm test, npm run validate, npm run build, and npm start -- --domain all passed. Worktree clean and HEAD == origin/main.",
+      "implementation_scope_override": "Scientific/research-team formal-verification workflow; spec management, verification jobs/proof obligations, status dashboards, counterexample review, collaboration tasks, research artifact summaries, synthetic formulas/specs, mocked verifier output. Finance prominence removed/replaced with scientific materials-research workflow. Disclaimers cover no real scientific discovery, lab validation, clinical/biotech/regulatory approval, or production-grade proof guarantees."
     },
     {
       "slug": "canary",
@@ -6844,13 +6844,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/142",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE36YjQ",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "canary-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/canary-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/55",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "AI QA engineer that understands code; synthetic codebase fixtures, mocked GitHub/CI, no real repo access or credentials."
+      "implementation_commit": "eecfbeae3ce679de7deef45e11d8edafe4886607",
+      "implementation_notes": "Implemented and pushed; Scope verified: AI QA engineer for code; synthetic PR/source data, mocked preview integrations, generated checks/regression promotion, clean-room disclaimers. Validation: npm run validate passed. Worktree clean and HEAD == origin/main.",
+      "implementation_scope_override": "AI QA engineer for code; synthetic PR/source data, mocked preview integrations, generated checks/regression promotion, clean-room disclaimers."
     },
     {
       "slug": "captain",
@@ -6879,13 +6879,13 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/143",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE36Z6w",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "captain-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/captain-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/56",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
-      "implementation_scope_override": "Scalable accurate knowledge search for AI agents; synthetic knowledge bases, mocked retrieval/integration, no proprietary docs or unsupported accuracy claims."
+      "implementation_commit": "a37fdb1d477aa99ec3dbe0e48b772651f33a8c8e",
+      "implementation_notes": "Implemented and pushed; Scope verified: Scalable knowledge search for AI agents; synthetic knowledge/document sources, mocked connectors/retrieval, cited answer workflow, clean-room disclaimers. Validation: npm run validate passed. Worktree clean and HEAD == origin/main.",
+      "implementation_scope_override": "Scalable knowledge search for AI agents; synthetic knowledge/document sources, mocked connectors/retrieval, cited answer workflow, clean-room disclaimers."
     },
     {
       "slug": "cardboard",
@@ -11160,7 +11160,7 @@
       "memory-store",
       "minicor"
     ],
-    "updated_at": "2026-06-09T12:47:10.835Z",
+    "updated_at": "2026-06-09T13:12:37.571Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -11179,7 +11179,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-09T12:47:10.835Z",
+    "updated_at": "2026-06-09T13:12:37.571Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -11276,9 +11276,7 @@
       "baseframe",
       "beacon-health",
       "bidflow",
-      "booko"
-    ],
-    "in_progress": [
+      "booko",
       "brownie",
       "bubble-lab",
       "burt",
@@ -11286,6 +11284,7 @@
       "canary",
       "captain"
     ],
+    "in_progress": [],
     "ready_copyable": 176,
     "skipped_pending_recheck": [
       "aquashield"

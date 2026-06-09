@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/brownie
 - Website: https://incidentfox.ai
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/138
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/brownie-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/51
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `89075bd9b17bcc8ec5c975eb3deb968bf7f9d7bb`
+- Notes: Implemented and pushed; Scope verified: AI SRE incident triage/coordination/remediation-proposal workflow; synthetic services/incidents, mocked pager/chat/observability, clean-room disclaimers. Validation: npm run validate passed. Worktree clean and HEAD == origin/main.
 
 ## Clean-Room Constraints
 
@@ -41,4 +42,4 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## End-to-End Implementation Scope
 
-AI SRE agent that triages, coordinates, and proposes fixes for production incidents; synthetic services/incidents, mocked pager/chat/observability, no real prod access or remediation.
+AI SRE incident triage/coordination/remediation-proposal workflow; synthetic services/incidents, mocked pager/chat/observability, clean-room disclaimers.

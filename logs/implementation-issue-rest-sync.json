@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T12:45:00.354Z",
+  "generated_at": "2026-06-09T13:13:43.364Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -1421,103 +1421,97 @@
     {
       "slug": "brownie",
       "issue_number": 138,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/138",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE36UdQ",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/brownie-public",
+      "commit": "89075bd9b17bcc8ec5c975eb3deb968bf7f9d7bb",
       "public_project": "https://github.com/users/PalmerMichaels/projects/51",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "bubble-lab",
       "issue_number": 139,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/139",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE36VsQ",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/bubble-lab-public",
+      "commit": "45413c97410b02b26ac74406abaa1d9990cb59d5",
       "public_project": "https://github.com/users/PalmerMichaels/projects/52",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "burt",
       "issue_number": 140,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/140",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE36W4w",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/burt-public",
+      "commit": "8a39acf92edee16f901002bdb22aaaaf6eb05f80",
       "public_project": "https://github.com/users/PalmerMichaels/projects/53",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "cajal-technologies",
       "issue_number": 141,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/141",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE36XwQ",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/cajal-technologies-public",
+      "commit": "cc44912c2ffb337b46ea85a8537717a03ef164f4",
       "public_project": "https://github.com/users/PalmerMichaels/projects/54",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "canary",
       "issue_number": 142,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/142",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE36YjQ",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/canary-public",
+      "commit": "eecfbeae3ce679de7deef45e11d8edafe4886607",
       "public_project": "https://github.com/users/PalmerMichaels/projects/55",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "captain",
       "issue_number": 143,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/143",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE36Z6w",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/captain-public",
+      "commit": "a37fdb1d477aa99ec3dbe0e48b772651f33a8c8e",
       "public_project": "https://github.com/users/PalmerMichaels/projects/56",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ],

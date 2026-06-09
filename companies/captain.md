@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/captain
 - Website: https://runcaptain.com
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/143
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/captain-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/56
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `a37fdb1d477aa99ec3dbe0e48b772651f33a8c8e`
+- Notes: Implemented and pushed; Scope verified: Scalable knowledge search for AI agents; synthetic knowledge/document sources, mocked connectors/retrieval, cited answer workflow, clean-room disclaimers. Validation: npm run validate passed. Worktree clean and HEAD == origin/main.
 
 ## Clean-Room Constraints
 
@@ -41,4 +42,4 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## End-to-End Implementation Scope
 
-Scalable accurate knowledge search for AI agents; synthetic knowledge bases, mocked retrieval/integration, no proprietary docs or unsupported accuracy claims.
+Scalable knowledge search for AI agents; synthetic knowledge/document sources, mocked connectors/retrieval, cited answer workflow, clean-room disclaimers.
