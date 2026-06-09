@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T14:50:09.728Z",
+  "generated_at": "2026-06-09T15:09:44.623Z",
   "repo": "PalmerMichaels/yc-2026-public-master",
   "total_open": 120,
   "total_all": 150,
@@ -1291,15 +1291,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE42qpg",
       "title": "CatchBack Cards (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/catchback-cards-public",
-      "implementation_commit": null,
+      "implementation_commit": "67dbba42a01bc967d17517140bc21d33b3b5b61b",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1309,15 +1309,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE42rkw",
       "title": "Cerenovus (Summer 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/cerenovus-public",
-      "implementation_commit": null,
+      "implementation_commit": "00422d0e798e83d74b3752c8a5bec6a8f0b58429",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:summer-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1327,15 +1327,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE42sww",
       "title": "Chamber (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/chamber-public",
-      "implementation_commit": null,
+      "implementation_commit": "d7ae44352cc60097db6f68db60b3c2ab432c5d63",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1345,15 +1345,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE42tmQ",
       "title": "Chasi (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/chasi-public",
-      "implementation_commit": null,
+      "implementation_commit": "77cd085ffea9030667e0577af8cd38dc4675be68",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1363,15 +1363,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE42vMA",
       "title": "ClaimGlide (Winter 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/claimglide-public",
-      "implementation_commit": null,
+      "implementation_commit": "74deb7cb096b6a2106f3b01bd2d557f95621e4a6",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
@@ -1381,15 +1381,15 @@
       "issue_node_id": "I_kwDOS0hnm88AAAABE42v-Q",
       "title": "Codag (Summer 2026)",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/codag-public",
-      "implementation_commit": null,
+      "implementation_commit": "ad047764a187582d03c2745c4b651ab92f20e708",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:summer-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ]

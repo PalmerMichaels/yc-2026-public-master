@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-09T14:50:09.728Z",
+  "generated_at": "2026-06-09T15:09:44.623Z",
   "source": "companies/index.json",
   "policy": "Implementation-ready entries are pure-software clean-room candidates. Do not create implementation repositories from this tracker worker; meta owns repo creation and worker fan-out to avoid duplicates.",
   "counts": {
-    "implemented": 108,
-    "in_progress": 6,
+    "implemented": 114,
+    "in_progress": 0,
     "ready": 163,
     "pending_recheck": 1,
     "total_copyable": 278
@@ -1737,9 +1737,7 @@
       "implementation_repo_url": "https://github.com/PalmerMichaels/cascade-public",
       "implementation_commit": "82264fa36589824856daab9c701f813e2f5f2ae9",
       "priority": "implemented"
-    }
-  ],
-  "in_progress": [
+    },
     {
       "slug": "catchback-cards",
       "name": "CatchBack Cards",
@@ -1751,10 +1749,10 @@
       "proposed_repo": "catchback-cards-public",
       "implementation_scope": "Digital collectible pack creation/ripping demo with onboarding/workspace/project setup, synthetic collectibles/cards/packs, pack builder/opening workflow, inventory/collection management, mock marketplace/payment flows if useful, validation/tests, docs, and clean-room disclaimers. Original UI/assets only; no copied branding, copyrighted collectibles/assets, real money movement, gambling mechanics, securities/investment framing, private data, or unsupported production/marketplace claims.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/catchback-cards-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "67dbba42a01bc967d17517140bc21d33b3b5b61b",
+      "priority": "implemented"
     },
     {
       "slug": "cerenovus",
@@ -1767,10 +1765,10 @@
       "proposed_repo": "cerenovus-public",
       "implementation_scope": "Company knowledge aggregation/inference workflow with synthetic company docs/notes/knowledge snippets, mocked ingestion/search/connectors, retrieval/summarization/cited outputs, confidence/review workflows, validation/tests, docs, and clean-room disclaimers. No proprietary documents, private datasets, confidential workflows, private connectors/credentials, copied branding/assets, or unsupported accuracy claims.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/cerenovus-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "00422d0e798e83d74b3752c8a5bec6a8f0b58429",
+      "priority": "implemented"
     },
     {
       "slug": "chamber",
@@ -1783,10 +1781,10 @@
       "proposed_repo": "chamber-public",
       "implementation_scope": "AIOps agent for ML teams with synthetic ML incidents/metrics/logs, alert triage, runbook/recommendation workflows, mocked observability/CI/cloud integrations, human approval/audit flows, validation/tests, docs, and clean-room disclaimers. No real infrastructure access, credentials, production remediation, private logs, proprietary model data, real cloud mutations, or unsupported reliability/incident-resolution claims.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/chamber-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "d7ae44352cc60097db6f68db60b3c2ab432c5d63",
+      "priority": "implemented"
     },
     {
       "slug": "chasi",
@@ -1799,10 +1797,10 @@
       "proposed_repo": "chasi-public",
       "implementation_scope": "AI revenue engine for equipment industry with synthetic equipment/customer/sales data, lead/account workflow, quote/recommendation/review flows, mocked CRM/ERP/email integrations, validation/tests, docs, and clean-room disclaimers. No real outreach, credentials, private customer data, financing/underwriting, transaction execution, real CRM/ERP mutations, copied branding/assets, or unsupported revenue claims.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/chasi-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "77cd085ffea9030667e0577af8cd38dc4675be68",
+      "priority": "implemented"
     },
     {
       "slug": "claimglide",
@@ -1815,10 +1813,10 @@
       "proposed_repo": "claimglide-public",
       "implementation_scope": "Prior-authorization admin workflow for private medical practices with synthetic patients/cases/documents, mocked payer/EHR-like connectors, checklist/status/task queues, staff review/audit flows, validation/tests, docs, and clean-room/non-clinical disclaimers. No diagnosis, treatment, triage, PHI, medical advice, clinical decision support, claim submission to real payers, real EHR/payer integrations, medical-device behavior, or regulated medical behavior.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/claimglide-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "74deb7cb096b6a2106f3b01bd2d557f95621e4a6",
+      "priority": "implemented"
     },
     {
       "slug": "codag",
@@ -1831,12 +1829,13 @@
       "proposed_repo": "codag-public",
       "implementation_scope": "Systems log compression for agents with synthetic logs/traces/incidents, compression/summarization/evaluation workflows, agent/observability dashboard, mocked integrations, validation/tests, docs, and clean-room disclaimers. No private logs, credentials, production infrastructure access, real observability mutations, proprietary datasets, copied branding/assets, or unsupported reliability/compression claims.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/codag-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "ad047764a187582d03c2745c4b651ab92f20e708",
+      "priority": "implemented"
     }
   ],
+  "in_progress": [],
   "pending_recheck": [
     {
       "slug": "aquashield",
@@ -3586,12 +3585,7 @@
           "implementation_repo_url": "https://github.com/PalmerMichaels/cascade-public",
           "implementation_commit": "82264fa36589824856daab9c701f813e2f5f2ae9",
           "priority": "implemented"
-        }
-      ]
-    },
-    {
-      "name": "in-progress",
-      "entries": [
+        },
         {
           "slug": "catchback-cards",
           "name": "CatchBack Cards",
@@ -3603,10 +3597,10 @@
           "proposed_repo": "catchback-cards-public",
           "implementation_scope": "Digital collectible pack creation/ripping demo with onboarding/workspace/project setup, synthetic collectibles/cards/packs, pack builder/opening workflow, inventory/collection management, mock marketplace/payment flows if useful, validation/tests, docs, and clean-room disclaimers. Original UI/assets only; no copied branding, copyrighted collectibles/assets, real money movement, gambling mechanics, securities/investment framing, private data, or unsupported production/marketplace claims.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/catchback-cards-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "67dbba42a01bc967d17517140bc21d33b3b5b61b",
+          "priority": "implemented"
         },
         {
           "slug": "cerenovus",
@@ -3619,10 +3613,10 @@
           "proposed_repo": "cerenovus-public",
           "implementation_scope": "Company knowledge aggregation/inference workflow with synthetic company docs/notes/knowledge snippets, mocked ingestion/search/connectors, retrieval/summarization/cited outputs, confidence/review workflows, validation/tests, docs, and clean-room disclaimers. No proprietary documents, private datasets, confidential workflows, private connectors/credentials, copied branding/assets, or unsupported accuracy claims.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/cerenovus-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "00422d0e798e83d74b3752c8a5bec6a8f0b58429",
+          "priority": "implemented"
         },
         {
           "slug": "chamber",
@@ -3635,10 +3629,10 @@
           "proposed_repo": "chamber-public",
           "implementation_scope": "AIOps agent for ML teams with synthetic ML incidents/metrics/logs, alert triage, runbook/recommendation workflows, mocked observability/CI/cloud integrations, human approval/audit flows, validation/tests, docs, and clean-room disclaimers. No real infrastructure access, credentials, production remediation, private logs, proprietary model data, real cloud mutations, or unsupported reliability/incident-resolution claims.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/chamber-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "d7ae44352cc60097db6f68db60b3c2ab432c5d63",
+          "priority": "implemented"
         },
         {
           "slug": "chasi",
@@ -3651,10 +3645,10 @@
           "proposed_repo": "chasi-public",
           "implementation_scope": "AI revenue engine for equipment industry with synthetic equipment/customer/sales data, lead/account workflow, quote/recommendation/review flows, mocked CRM/ERP/email integrations, validation/tests, docs, and clean-room disclaimers. No real outreach, credentials, private customer data, financing/underwriting, transaction execution, real CRM/ERP mutations, copied branding/assets, or unsupported revenue claims.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/chasi-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "77cd085ffea9030667e0577af8cd38dc4675be68",
+          "priority": "implemented"
         },
         {
           "slug": "claimglide",
@@ -3667,10 +3661,10 @@
           "proposed_repo": "claimglide-public",
           "implementation_scope": "Prior-authorization admin workflow for private medical practices with synthetic patients/cases/documents, mocked payer/EHR-like connectors, checklist/status/task queues, staff review/audit flows, validation/tests, docs, and clean-room/non-clinical disclaimers. No diagnosis, treatment, triage, PHI, medical advice, clinical decision support, claim submission to real payers, real EHR/payer integrations, medical-device behavior, or regulated medical behavior.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/claimglide-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "74deb7cb096b6a2106f3b01bd2d557f95621e4a6",
+          "priority": "implemented"
         },
         {
           "slug": "codag",
@@ -3683,12 +3677,16 @@
           "proposed_repo": "codag-public",
           "implementation_scope": "Systems log compression for agents with synthetic logs/traces/incidents, compression/summarization/evaluation workflows, agent/observability dashboard, mocked integrations, validation/tests, docs, and clean-room disclaimers. No private logs, credentials, production infrastructure access, real observability mutations, proprietary datasets, copied branding/assets, or unsupported reliability/compression claims.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/codag-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "ad047764a187582d03c2745c4b651ab92f20e708",
+          "priority": "implemented"
         }
       ]
+    },
+    {
+      "name": "in-progress",
+      "entries": []
     },
     {
       "name": "pending-recheck",

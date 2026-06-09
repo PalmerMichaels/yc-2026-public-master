@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/catchback-cards
 - Website: https://catchbackcards.com
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/150
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/catchback-cards-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/63
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `67dbba42a01bc967d17517140bc21d33b3b5b61b`
+- Notes: Implemented and pushed; Validation: npm install, npm run build, npm test passed 5/5, npm run validate passed, npm run demo passed; clean ## main...origin/main; HEAD == origin/main.
 
 ## Clean-Room Constraints
 

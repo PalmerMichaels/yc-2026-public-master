@@ -4,7 +4,7 @@
 - Batch: Summer 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/cerenovus
 - Website: https://www.cerenovus.ai/
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/151
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/cerenovus-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/64
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `00422d0e798e83d74b3752c8a5bec6a8f0b58429`
+- Notes: Implemented and pushed; Validation: npm run validate passed including TypeScript build, 5 Node tests, and CLI demo; clean ## main...origin/main; HEAD == origin/main.
 
 ## Clean-Room Constraints
 

@@ -6,8 +6,8 @@ Total companies: 405
 Copyable: 278
 Not copyable: 127
 Uncertain: 0
-Implemented: 108
-In progress: 6
+Implemented: 114
+In progress: 0
 Ready copyable: 163
 Skipped pending re-check: aquashield
 GitHub issues created: 154
@@ -125,14 +125,15 @@ Implemented repositories:
 - `carrot-labs`: https://github.com/PalmerMichaels/carrot-labs-public @ `be0eb9ae43fd5f6b23035aabb8ca0031c24dabec`
 - `carson`: https://github.com/PalmerMichaels/carson-public @ `9a67d22bad56dcccc0604b8e0f8baff4ad0c4ab4`
 - `cascade`: https://github.com/PalmerMichaels/cascade-public @ `82264fa36589824856daab9c701f813e2f5f2ae9`
+- `catchback-cards`: https://github.com/PalmerMichaels/catchback-cards-public @ `67dbba42a01bc967d17517140bc21d33b3b5b61b`
+- `cerenovus`: https://github.com/PalmerMichaels/cerenovus-public @ `00422d0e798e83d74b3752c8a5bec6a8f0b58429`
+- `chamber`: https://github.com/PalmerMichaels/chamber-public @ `d7ae44352cc60097db6f68db60b3c2ab432c5d63`
+- `chasi`: https://github.com/PalmerMichaels/chasi-public @ `77cd085ffea9030667e0577af8cd38dc4675be68`
+- `claimglide`: https://github.com/PalmerMichaels/claimglide-public @ `74deb7cb096b6a2106f3b01bd2d557f95621e4a6`
+- `codag`: https://github.com/PalmerMichaels/codag-public @ `ad047764a187582d03c2745c4b651ab92f20e708`
 
 In-progress implementations:
-- `catchback-cards`: [#150](https://github.com/PalmerMichaels/yc-2026-public-master/issues/150) -> `catchback-cards-public`
-- `cerenovus`: [#151](https://github.com/PalmerMichaels/yc-2026-public-master/issues/151) -> `cerenovus-public`
-- `chamber`: [#152](https://github.com/PalmerMichaels/yc-2026-public-master/issues/152) -> `chamber-public`
-- `chasi`: [#153](https://github.com/PalmerMichaels/yc-2026-public-master/issues/153) -> `chasi-public`
-- `claimglide`: [#154](https://github.com/PalmerMichaels/yc-2026-public-master/issues/154) -> `claimglide-public`
-- `codag`: [#155](https://github.com/PalmerMichaels/yc-2026-public-master/issues/155) -> `codag-public`
+- None
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.

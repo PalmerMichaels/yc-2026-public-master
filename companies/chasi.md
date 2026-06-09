@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/chasi
 - Website: https://chasi.ai/
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/153
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/chasi-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/66
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `77cd085ffea9030667e0577af8cd38dc4675be68`
+- Notes: Implemented and pushed; Validation: npm run validate passed with build, 5/5 tests, demo CLI; clean ## main...origin/main; HEAD == origin/main.
 
 ## Clean-Room Constraints
 

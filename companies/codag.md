@@ -4,7 +4,7 @@
 - Batch: Summer 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/codag
 - Website: https://codag.ai/
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/155
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/codag-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/68
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `ad047764a187582d03c2745c4b651ab92f20e708`
+- Notes: Implemented and pushed; Validation: npm run validate passed including build, node:test, clean-room README checks, and CLI smoke runs; clean ## main...origin/main; HEAD == origin/main.
 
 ## Clean-Room Constraints
 
