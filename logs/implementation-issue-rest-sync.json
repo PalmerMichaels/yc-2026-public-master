@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T01:27:51.212Z",
+  "generated_at": "2026-06-09T01:41:58.675Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -1044,84 +1044,90 @@
       "slug": "lightsprint",
       "issue_number": 105,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/lightsprint-public",
+      "commit": "96ac37d1d9cb343037fc0699d297760807a203cb",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "limrun",
       "issue_number": 106,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/limrun-public",
+      "commit": "7135762a2921b843ffe13aca9621e973e8550ab3",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "manicule",
       "issue_number": 109,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/manicule-public",
+      "commit": "852ce191de188e48b50f74147b8a24f3477e2856",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "memoir",
       "issue_number": 112,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/memoir-public",
+      "commit": "30db4846daf8d507460f22661f9baa8d0a107ac9",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "memory-store",
       "issue_number": 113,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/memory-store-public",
+      "commit": "79a8209fe694d7d8865a23137581c9fe61b847dd",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "minicor",
       "issue_number": 114,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/minicor-public",
+      "commit": "0fb030c009674bc1d3d008fe9af53ebce1a613ad",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ],

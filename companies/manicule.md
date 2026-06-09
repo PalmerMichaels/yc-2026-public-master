@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/manicule
 - Website: https://manicule.dev
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/109
 - Implementation Repository: https://github.com/PalmerMichaels/manicule-public
+- Implementation Commit: `852ce191de188e48b50f74147b8a24f3477e2856`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/manicule-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `852ce191de188e48b50f74147b8a24f3477e2856`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

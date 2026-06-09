@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T01:27:00.276Z",
+  "generated_at": "2026-06-09T01:41:14.580Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -3155,11 +3155,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/105",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwjUeg",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "lightsprint-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/lightsprint-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_commit": "96ac37d1d9cb343037fc0699d297760807a203cb",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
       "implementation_scope_override": "Collaborative product development platform with synthetic project/team data and mocked ticketing/repo/docs/chat integrations."
     },
     {
@@ -3189,11 +3189,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/106",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwjyUA",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "limrun-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/limrun-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_commit": "7135762a2921b843ffe13aca9621e973e8550ab3",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
       "implementation_scope_override": "Cloud-agent extension workspace for Xcode/Android/tool connectors with synthetic build/device tasks and mocked repo/build/device/cloud integrations."
     },
     {
@@ -3276,11 +3276,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/109",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwlFTg",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "manicule-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/manicule-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_commit": "852ce191de188e48b50f74147b8a24f3477e2856",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
       "implementation_scope_override": "AI-native developer relations workspace with synthetic docs/community/developer data and mocked GitHub/Discord/docs/analytics integrations."
     },
     {
@@ -3364,11 +3364,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/112",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwmXKg",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "memoir-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/memoir-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_commit": "30db4846daf8d507460f22661f9baa8d0a107ac9",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
       "implementation_scope_override": "AI CMO workspace for software companies with synthetic campaigns/lifecycle analytics and mocked CRM/email/ad/social/product-analytics integrations."
     },
     {
@@ -3397,11 +3397,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/113",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwm2yw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "memory-store-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/memory-store-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_commit": "79a8209fe694d7d8865a23137581c9fe61b847dd",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
       "implementation_scope_override": "Shared context store for team agents with synthetic memories/context and mocked IDE/agent/docs/repo/chat integrations."
     },
     {
@@ -3426,11 +3426,11 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/114",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwnWTw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "minicor-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/minicor-public",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_commit": "0fb030c009674bc1d3d008fe9af53ebce1a613ad",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main.",
       "implementation_scope_override": "RPA deployment workspace for legacy desktop systems with synthetic desktop/process data and mocked legacy app/RPA connectors."
     },
     {
@@ -11028,7 +11028,7 @@
       "memory-store",
       "minicor"
     ],
-    "updated_at": "2026-06-09T01:27:00.276Z",
+    "updated_at": "2026-06-09T01:41:14.580Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -11047,7 +11047,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-09T01:27:00.276Z",
+    "updated_at": "2026-06-09T01:41:14.580Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -11120,16 +11120,15 @@
       "lamina-labs",
       "lattice-health",
       "light-anchor",
-      "napkin-math"
-    ],
-    "in_progress": [
       "lightsprint",
       "limrun",
       "manicule",
       "memoir",
       "memory-store",
-      "minicor"
+      "minicor",
+      "napkin-math"
     ],
+    "in_progress": [],
     "ready_copyable": 200,
     "skipped_pending_recheck": [
       "aquashield"

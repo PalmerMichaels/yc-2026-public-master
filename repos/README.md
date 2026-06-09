@@ -76,15 +76,16 @@ Implemented:
 - `lamina-labs` -> https://github.com/PalmerMichaels/lamina-labs-public @ `fb0877bf26d767f18e3e6bdbbb5bbbcf6fb3fac4`
 - `lattice-health` -> https://github.com/PalmerMichaels/lattice-health-public @ `6d1d0fe415a106b7a2f065ab165901ff4ea809ff`
 - `light-anchor` -> https://github.com/PalmerMichaels/light-anchor-public @ `2eb8b9258036c2135ae2fb6a67d89244a64ff4d0`
+- `lightsprint` -> https://github.com/PalmerMichaels/lightsprint-public @ `96ac37d1d9cb343037fc0699d297760807a203cb`
+- `limrun` -> https://github.com/PalmerMichaels/limrun-public @ `7135762a2921b843ffe13aca9621e973e8550ab3`
+- `manicule` -> https://github.com/PalmerMichaels/manicule-public @ `852ce191de188e48b50f74147b8a24f3477e2856`
+- `memoir` -> https://github.com/PalmerMichaels/memoir-public @ `30db4846daf8d507460f22661f9baa8d0a107ac9`
+- `memory-store` -> https://github.com/PalmerMichaels/memory-store-public @ `79a8209fe694d7d8865a23137581c9fe61b847dd`
+- `minicor` -> https://github.com/PalmerMichaels/minicor-public @ `0fb030c009674bc1d3d008fe9af53ebce1a613ad`
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- `lightsprint` -> `lightsprint-public` ([#105](https://github.com/PalmerMichaels/yc-2026-public-master/issues/105))
-- `limrun` -> `limrun-public` ([#106](https://github.com/PalmerMichaels/yc-2026-public-master/issues/106))
-- `manicule` -> `manicule-public` ([#109](https://github.com/PalmerMichaels/yc-2026-public-master/issues/109))
-- `memoir` -> `memoir-public` ([#112](https://github.com/PalmerMichaels/yc-2026-public-master/issues/112))
-- `memory-store` -> `memory-store-public` ([#113](https://github.com/PalmerMichaels/yc-2026-public-master/issues/113))
-- `minicor` -> `minicor-public` ([#114](https://github.com/PalmerMichaels/yc-2026-public-master/issues/114))
+- None
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -96,8 +97,8 @@ Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
 Current queue counts:
-- Implemented: 72
-- In progress: 6
+- Implemented: 78
+- In progress: 0
 - Pending re-check: 1
 - Ready for fan-out: 199
 - Total copyable: 278
