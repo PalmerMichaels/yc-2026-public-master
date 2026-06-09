@@ -2,13 +2,15 @@
 
 - Slug: `netter`
 - Batch: Spring 2026
-- Status: Active
+- YC status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
-- Source: https://www.ycombinator.com/companies/netter
+- Implementation Status: `in-progress`
+- Source URL: https://www.ycombinator.com/companies/netter
 - Website: https://netter.ai
-- GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/120
+- GitHub Project: https://github.com/users/PalmerMichaels/projects/2
+- Public Repository: https://github.com/PalmerMichaels/netter-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/34
 
 ## Public Description
 
@@ -20,19 +22,22 @@ Netter (YC P26) helps companies regain control over their data, so teams can pil
 
 Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.
 
+## Implementation Tracking
+
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/netter-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/34
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+
 ## Clean-Room Constraints
 
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Implementation Tracking
-
-- Status: `classified`
-
 ## Proposed Public Repository
 
-- Repository: `netter-public`
+`netter-public`
 
 ## End-to-End Implementation Scope
 

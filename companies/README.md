@@ -7,10 +7,10 @@ Copyable: 278
 Not copyable: 127
 Uncertain: 0
 Implemented: 78
-In progress: 0
-Ready copyable: 200
+In progress: 6
+Ready copyable: 193
 Skipped pending re-check: aquashield
-GitHub issues created: 120
+GitHub issues created: 124
 GitHub issues pending: 285
 Closed duplicate issues: 88
 Project items synced: 120
@@ -97,7 +97,12 @@ Implemented repositories:
 - `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In-progress implementations:
-- None
+- `miso-labs`: [#115](https://github.com/PalmerMichaels/yc-2026-public-master/issues/115) -> `miso-labs-public`
+- `netter`: [#120](https://github.com/PalmerMichaels/yc-2026-public-master/issues/120) -> `netter-public`
+- `21st`: [#122](https://github.com/PalmerMichaels/yc-2026-public-master/issues/122) -> `21st-public`
+- `aemon`: [#123](https://github.com/PalmerMichaels/yc-2026-public-master/issues/123) -> `aemon-public`
+- `agentic-fabriq`: [#124](https://github.com/PalmerMichaels/yc-2026-public-master/issues/124) -> `agentic-fabriq-public`
+- `alt-x`: [#125](https://github.com/PalmerMichaels/yc-2026-public-master/issues/125) -> `alt-x-public`
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.

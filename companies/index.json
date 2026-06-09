@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T01:41:14.580Z",
+  "generated_at": "2026-06-09T01:53:27.713Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -3457,7 +3457,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/115",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwn09A",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "miso-labs-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/miso-labs-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/33",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "mochatrade",
@@ -3608,7 +3613,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/120",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwqdmw",
-      "implementation_status": "classified"
+      "implementation_status": "in-progress",
+      "implementation_repo": "netter-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/netter-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/34",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "nine-fives",
@@ -6078,11 +6088,16 @@
       "public_repo": "21st-public",
       "implementation_scope": "Build an original web app demonstrating infrastructure and ui building blocks for the agentic internet: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 122,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/122",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0I1nw",
+      "implementation_status": "in-progress",
+      "implementation_repo": "21st-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/21st-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/35",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "aemon",
@@ -6102,11 +6117,16 @@
       "public_repo": "aemon-public",
       "implementation_scope": "Build an original web app demonstrating the forward-deployed ai research engineer: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 123,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/123",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0I2AA",
+      "implementation_status": "in-progress",
+      "implementation_repo": "aemon-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/aemon-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/36",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "agentic-fabriq",
@@ -6126,11 +6146,16 @@
       "public_repo": "agentic-fabriq-public",
       "implementation_scope": "Build an original web app demonstrating okta for agents.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 124,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/124",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0I2Xw",
+      "implementation_status": "in-progress",
+      "implementation_repo": "agentic-fabriq-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/agentic-fabriq-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/37",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "alt-x",
@@ -6150,11 +6175,16 @@
       "public_repo": "alt-x-public",
       "implementation_scope": "Build an original web app demonstrating automation for institutional-grade financial modeling in excel: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 125,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/125",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE0I2vA",
+      "implementation_status": "in-progress",
+      "implementation_repo": "alt-x-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/alt-x-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/38",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
     },
     {
       "slug": "approxima",
@@ -11028,7 +11058,7 @@
       "memory-store",
       "minicor"
     ],
-    "updated_at": "2026-06-09T01:41:14.580Z",
+    "updated_at": "2026-06-09T01:53:27.713Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -11047,7 +11077,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-09T01:41:14.580Z",
+    "updated_at": "2026-06-09T01:53:27.713Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -11128,8 +11158,15 @@
       "minicor",
       "napkin-math"
     ],
-    "in_progress": [],
-    "ready_copyable": 200,
+    "in_progress": [
+      "miso-labs",
+      "netter",
+      "21st",
+      "aemon",
+      "agentic-fabriq",
+      "alt-x"
+    ],
+    "ready_copyable": 194,
     "skipped_pending_recheck": [
       "aquashield"
     ]

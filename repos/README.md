@@ -85,7 +85,12 @@ Implemented:
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- None
+- `miso-labs` -> `miso-labs-public` ([#115](https://github.com/PalmerMichaels/yc-2026-public-master/issues/115))
+- `netter` -> `netter-public` ([#120](https://github.com/PalmerMichaels/yc-2026-public-master/issues/120))
+- `21st` -> `21st-public` ([#122](https://github.com/PalmerMichaels/yc-2026-public-master/issues/122))
+- `aemon` -> `aemon-public` ([#123](https://github.com/PalmerMichaels/yc-2026-public-master/issues/123))
+- `agentic-fabriq` -> `agentic-fabriq-public` ([#124](https://github.com/PalmerMichaels/yc-2026-public-master/issues/124))
+- `alt-x` -> `alt-x-public` ([#125](https://github.com/PalmerMichaels/yc-2026-public-master/issues/125))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -98,9 +103,9 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 78
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 199
+- Ready for fan-out: 193
 - Total copyable: 278
 
 Next unambiguous copyable entries:
