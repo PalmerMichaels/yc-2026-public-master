@@ -67,7 +67,12 @@ Implemented:
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- None
+- `keyframe-labs` -> `keyframe-labs-public` ([#92](https://github.com/PalmerMichaels/yc-2026-public-master/issues/92))
+- `kimpton-ai` -> `kimpton-ai-public` ([#93](https://github.com/PalmerMichaels/yc-2026-public-master/issues/93))
+- `kinect` -> `kinect-public` ([#94](https://github.com/PalmerMichaels/yc-2026-public-master/issues/94))
+- `kinro` -> `kinro-public` ([#95](https://github.com/PalmerMichaels/yc-2026-public-master/issues/95))
+- `klarify` -> `klarify-public` ([#97](https://github.com/PalmerMichaels/yc-2026-public-master/issues/97))
+- `korso` -> `korso-public` ([#98](https://github.com/PalmerMichaels/yc-2026-public-master/issues/98))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -80,20 +85,14 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 60
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 217
+- Ready for fan-out: 211
 - Total copyable: 278
 
 Next unambiguous copyable entries:
 | Slug | Name | Issue | Proposed Repo | Source |
 | --- | --- | --- | --- | --- |
-| `keyframe-labs` | Keyframe Labs | [#92](https://github.com/PalmerMichaels/yc-2026-public-master/issues/92) | `keyframe-labs-public` | [YC](https://www.ycombinator.com/companies/keyframe-labs) |
-| `kimpton-ai` | Kimpton AI | [#93](https://github.com/PalmerMichaels/yc-2026-public-master/issues/93) | `kimpton-ai-public` | [YC](https://www.ycombinator.com/companies/kimpton-ai) |
-| `kinect` | Kinect | [#94](https://github.com/PalmerMichaels/yc-2026-public-master/issues/94) | `kinect-public` | [YC](https://www.ycombinator.com/companies/kinect) |
-| `kinro` | Kinro | [#95](https://github.com/PalmerMichaels/yc-2026-public-master/issues/95) | `kinro-public` | [YC](https://www.ycombinator.com/companies/kinro) |
-| `klarify` | Klarify | [#97](https://github.com/PalmerMichaels/yc-2026-public-master/issues/97) | `klarify-public` | [YC](https://www.ycombinator.com/companies/klarify) |
-| `korso` | Korso | [#98](https://github.com/PalmerMichaels/yc-2026-public-master/issues/98) | `korso-public` | [YC](https://www.ycombinator.com/companies/korso) |
 | `kugelaudio` | KugelAudio | [#99](https://github.com/PalmerMichaels/yc-2026-public-master/issues/99) | `kugelaudio-public` | [YC](https://www.ycombinator.com/companies/kugelaudio) |
 | `kuli` | Kuli | [#100](https://github.com/PalmerMichaels/yc-2026-public-master/issues/100) | `kuli-public` | [YC](https://www.ycombinator.com/companies/kuli) |
 | `lab0` | Lab0 | [#101](https://github.com/PalmerMichaels/yc-2026-public-master/issues/101) | `lab0-public` | [YC](https://www.ycombinator.com/companies/lab0) |
@@ -138,3 +137,9 @@ Next unambiguous copyable entries:
 | `cascade` | Cascade | Pending | `cascade-public` | [YC](https://www.ycombinator.com/companies/cascade) |
 | `catchback-cards` | CatchBack Cards | Pending | `catchback-cards-public` | [YC](https://www.ycombinator.com/companies/catchback-cards) |
 | `cerenovus` | Cerenovus | Pending | `cerenovus-public` | [YC](https://www.ycombinator.com/companies/cerenovus) |
+| `chamber` | Chamber | Pending | `chamber-public` | [YC](https://www.ycombinator.com/companies/chamber) |
+| `chasi` | Chasi | Pending | `chasi-public` | [YC](https://www.ycombinator.com/companies/chasi) |
+| `claimglide` | ClaimGlide | Pending | `claimglide-public` | [YC](https://www.ycombinator.com/companies/claimglide) |
+| `codag` | Codag | Pending | `codag-public` | [YC](https://www.ycombinator.com/companies/codag) |
+| `codewisp` | CodeWisp | Pending | `codewisp-public` | [YC](https://www.ycombinator.com/companies/codewisp) |
+| `cofia` | Cofia | Pending | `cofia-public` | [YC](https://www.ycombinator.com/companies/cofia) |
