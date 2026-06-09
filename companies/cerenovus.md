@@ -2,13 +2,15 @@
 
 - Slug: `cerenovus`
 - Batch: Summer 2026
-- Status: Active
+- YC status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
-- Source: https://www.ycombinator.com/companies/cerenovus
+- Implementation Status: `in-progress`
+- Source URL: https://www.ycombinator.com/companies/cerenovus
 - Website: https://www.cerenovus.ai/
+- GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/151
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
-- GitHub Issue: Pending creation
+- Public Repository: https://github.com/PalmerMichaels/cerenovus-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/64
 
 ## Public Description
 
@@ -20,20 +22,23 @@ Cerenovus is a company brain. We aggregate every kind of file a company produces
 
 Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.
 
+## Implementation Tracking
+
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/cerenovus-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/64
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+
 ## Clean-Room Constraints
 
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Implementation Tracking
-
-- Status: `classified`
-
 ## Proposed Public Repository
 
-- Repository: `cerenovus-public`
+`cerenovus-public`
 
 ## End-to-End Implementation Scope
 
-Build an original web app demonstrating aggregate company knowledge and make inferences: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
+Company knowledge aggregation/inference workflow with synthetic company docs/notes/knowledge snippets, mocked ingestion/search/connectors, retrieval/summarization/cited outputs, confidence/review workflows, validation/tests, docs, and clean-room disclaimers. No proprietary documents, private datasets, confidential workflows, private connectors/credentials, copied branding/assets, or unsupported accuracy claims.

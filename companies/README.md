@@ -7,10 +7,10 @@ Copyable: 278
 Not copyable: 127
 Uncertain: 0
 Implemented: 108
-In progress: 0
-Ready copyable: 169
+In progress: 6
+Ready copyable: 163
 Skipped pending re-check: aquashield
-GitHub issues created: 148
+GitHub issues created: 154
 GitHub issues pending: 285
 Closed duplicate issues: 88
 Project items synced: 120
@@ -127,7 +127,12 @@ Implemented repositories:
 - `cascade`: https://github.com/PalmerMichaels/cascade-public @ `82264fa36589824856daab9c701f813e2f5f2ae9`
 
 In-progress implementations:
-- None
+- `catchback-cards`: [#150](https://github.com/PalmerMichaels/yc-2026-public-master/issues/150) -> `catchback-cards-public`
+- `cerenovus`: [#151](https://github.com/PalmerMichaels/yc-2026-public-master/issues/151) -> `cerenovus-public`
+- `chamber`: [#152](https://github.com/PalmerMichaels/yc-2026-public-master/issues/152) -> `chamber-public`
+- `chasi`: [#153](https://github.com/PalmerMichaels/yc-2026-public-master/issues/153) -> `chasi-public`
+- `claimglide`: [#154](https://github.com/PalmerMichaels/yc-2026-public-master/issues/154) -> `claimglide-public`
+- `codag`: [#155](https://github.com/PalmerMichaels/yc-2026-public-master/issues/155) -> `codag-public`
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.

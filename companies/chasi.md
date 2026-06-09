@@ -2,13 +2,15 @@
 
 - Slug: `chasi`
 - Batch: Winter 2026
-- Status: Active
+- YC status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
-- Source: https://www.ycombinator.com/companies/chasi
+- Implementation Status: `in-progress`
+- Source URL: https://www.ycombinator.com/companies/chasi
 - Website: https://chasi.ai/
+- GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/153
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
-- GitHub Issue: Pending creation
+- Public Repository: https://github.com/PalmerMichaels/chasi-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/66
 
 ## Public Description
 
@@ -20,20 +22,23 @@ Chasi deploys AI agents that help equipment dealers sell more, respond faster, a
 
 Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.
 
+## Implementation Tracking
+
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/chasi-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/66
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+
 ## Clean-Room Constraints
 
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Implementation Tracking
-
-- Status: `classified`
-
 ## Proposed Public Repository
 
-- Repository: `chasi-public`
+`chasi-public`
 
 ## End-to-End Implementation Scope
 
-Build an original web app demonstrating ai revenue engine for the equipment industry: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
+AI revenue engine for equipment industry with synthetic equipment/customer/sales data, lead/account workflow, quote/recommendation/review flows, mocked CRM/ERP/email integrations, validation/tests, docs, and clean-room disclaimers. No real outreach, credentials, private customer data, financing/underwriting, transaction execution, real CRM/ERP mutations, copied branding/assets, or unsupported revenue claims.

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T14:24:39.986Z",
+  "generated_at": "2026-06-09T14:50:09.728Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -5855,11 +5855,17 @@
       "public_repo": "cerenovus-public",
       "implementation_scope": "Build an original web app demonstrating aggregate company knowledge and make inferences: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 151,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/151",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE42rkw",
+      "implementation_status": "in-progress",
+      "implementation_repo": "cerenovus-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/cerenovus-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/64",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Company knowledge aggregation/inference workflow with synthetic company docs/notes/knowledge snippets, mocked ingestion/search/connectors, retrieval/summarization/cited outputs, confidence/review workflows, validation/tests, docs, and clean-room disclaimers. No proprietary documents, private datasets, confidential workflows, private connectors/credentials, copied branding/assets, or unsupported accuracy claims."
     },
     {
       "slug": "codag",
@@ -5881,11 +5887,17 @@
       "public_repo": "codag-public",
       "implementation_scope": "Build an original web app demonstrating systems log compression for agents.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 155,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/155",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE42v-Q",
+      "implementation_status": "in-progress",
+      "implementation_repo": "codag-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/codag-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/68",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Systems log compression for agents with synthetic logs/traces/incidents, compression/summarization/evaluation workflows, agent/observability dashboard, mocked integrations, validation/tests, docs, and clean-room disclaimers. No private logs, credentials, production infrastructure access, real observability mutations, proprietary datasets, copied branding/assets, or unsupported reliability/compression claims."
     },
     {
       "slug": "contextdev",
@@ -7067,11 +7079,17 @@
       "public_repo": "catchback-cards-public",
       "implementation_scope": "Build an original web app demonstrating the most thrilling way to create and rip digital collectible packs: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 150,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/150",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE42qpg",
+      "implementation_status": "in-progress",
+      "implementation_repo": "catchback-cards-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/catchback-cards-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/63",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Digital collectible pack creation/ripping demo with onboarding/workspace/project setup, synthetic collectibles/cards/packs, pack builder/opening workflow, inventory/collection management, mock marketplace/payment flows if useful, validation/tests, docs, and clean-room disclaimers. Original UI/assets only; no copied branding, copyrighted collectibles/assets, real money movement, gambling mechanics, securities/investment framing, private data, or unsupported production/marketplace claims."
     },
     {
       "slug": "celltype",
@@ -7115,11 +7133,17 @@
       "public_repo": "chamber-public",
       "implementation_scope": "Build an original web app demonstrating the aiops agent for ml teams: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 152,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/152",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE42sww",
+      "implementation_status": "in-progress",
+      "implementation_repo": "chamber-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/chamber-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/65",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "AIOps agent for ML teams with synthetic ML incidents/metrics/logs, alert triage, runbook/recommendation workflows, mocked observability/CI/cloud integrations, human approval/audit flows, validation/tests, docs, and clean-room disclaimers. No real infrastructure access, credentials, production remediation, private logs, proprietary model data, real cloud mutations, or unsupported reliability/incident-resolution claims."
     },
     {
       "slug": "chasi",
@@ -7139,11 +7163,17 @@
       "public_repo": "chasi-public",
       "implementation_scope": "Build an original web app demonstrating ai revenue engine for the equipment industry: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 153,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/153",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE42tmQ",
+      "implementation_status": "in-progress",
+      "implementation_repo": "chasi-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/chasi-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/66",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "AI revenue engine for equipment industry with synthetic equipment/customer/sales data, lead/account workflow, quote/recommendation/review flows, mocked CRM/ERP/email integrations, validation/tests, docs, and clean-room disclaimers. No real outreach, credentials, private customer data, financing/underwriting, transaction execution, real CRM/ERP mutations, copied branding/assets, or unsupported revenue claims."
     },
     {
       "slug": "claimglide",
@@ -7168,11 +7198,17 @@
       "public_repo": "claimglide-public",
       "implementation_scope": "Build an original web app demonstrating ai automated prior-auths for private medical practices: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification_rationale": "Pure software workflow can be implemented clean-room using synthetic/user-provided data, mock integrations, and clear non-regulated disclaimers. Sector context alone does not require regulated deliverables.",
-      "issue_number": null,
-      "issue_url": null,
+      "issue_number": 154,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/154",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
-      "issue_node_id": null,
-      "implementation_status": "classified"
+      "issue_node_id": "I_kwDOS0hnm88AAAABE42vMA",
+      "implementation_status": "in-progress",
+      "implementation_repo": "claimglide-public",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/claimglide-public",
+      "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/67",
+      "implementation_commit": null,
+      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress.",
+      "implementation_scope_override": "Prior-authorization admin workflow for private medical practices with synthetic patients/cases/documents, mocked payer/EHR-like connectors, checklist/status/task queues, staff review/audit flows, validation/tests, docs, and clean-room/non-clinical disclaimers. No diagnosis, treatment, triage, PHI, medical advice, clinical decision support, claim submission to real payers, real EHR/payer integrations, medical-device behavior, or regulated medical behavior."
     },
     {
       "slug": "codewisp",
@@ -11196,7 +11232,7 @@
       "memory-store",
       "minicor"
     ],
-    "updated_at": "2026-06-09T14:24:39.986Z",
+    "updated_at": "2026-06-09T14:50:09.728Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -11215,7 +11251,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-09T14:24:39.986Z",
+    "updated_at": "2026-06-09T14:50:09.728Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -11326,8 +11362,15 @@
       "carson",
       "cascade"
     ],
-    "in_progress": [],
-    "ready_copyable": 170,
+    "in_progress": [
+      "cerenovus",
+      "codag",
+      "catchback-cards",
+      "chamber",
+      "chasi",
+      "claimglide"
+    ],
+    "ready_copyable": 164,
     "skipped_pending_recheck": [
       "aquashield"
     ]

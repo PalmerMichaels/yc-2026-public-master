@@ -115,7 +115,12 @@ Implemented:
 - `cascade` -> https://github.com/PalmerMichaels/cascade-public @ `82264fa36589824856daab9c701f813e2f5f2ae9`
 
 In progress:
-- None
+- `catchback-cards` -> `catchback-cards-public` ([#150](https://github.com/PalmerMichaels/yc-2026-public-master/issues/150))
+- `cerenovus` -> `cerenovus-public` ([#151](https://github.com/PalmerMichaels/yc-2026-public-master/issues/151))
+- `chamber` -> `chamber-public` ([#152](https://github.com/PalmerMichaels/yc-2026-public-master/issues/152))
+- `chasi` -> `chasi-public` ([#153](https://github.com/PalmerMichaels/yc-2026-public-master/issues/153))
+- `claimglide` -> `claimglide-public` ([#154](https://github.com/PalmerMichaels/yc-2026-public-master/issues/154))
+- `codag` -> `codag-public` ([#155](https://github.com/PalmerMichaels/yc-2026-public-master/issues/155))
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -128,9 +133,9 @@ This queue lists copyable companies ready for meta fan-out. This discovery worke
 
 Current queue counts:
 - Implemented: 108
-- In progress: 0
+- In progress: 6
 - Pending re-check: 1
-- Ready for fan-out: 169
+- Ready for fan-out: 163
 - Total copyable: 278
 
 Next unambiguous copyable entries:

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-09T14:24:39.986Z",
+  "generated_at": "2026-06-09T14:50:09.728Z",
   "repo": "PalmerMichaels/yc-2026-public-master",
   "total_open": 120,
-  "total_all": 144,
+  "total_all": 150,
   "closed_duplicates": [
     {
       "title": "Inth (Spring 2026)",
@@ -1282,6 +1282,114 @@
         "batch:winter-2026",
         "status:active",
         "implemented"
+      ]
+    },
+    {
+      "slug": "catchback-cards",
+      "issue_number": 150,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/150",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE42qpg",
+      "title": "CatchBack Cards (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/catchback-cards-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "cerenovus",
+      "issue_number": 151,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/151",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE42rkw",
+      "title": "Cerenovus (Summer 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/cerenovus-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:summer-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "chamber",
+      "issue_number": 152,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/152",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE42sww",
+      "title": "Chamber (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/chamber-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "chasi",
+      "issue_number": 153,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/153",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE42tmQ",
+      "title": "Chasi (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/chasi-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "claimglide",
+      "issue_number": 154,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/154",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE42vMA",
+      "title": "ClaimGlide (Winter 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/claimglide-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:winter-2026",
+        "status:active",
+        "implementation-in-progress"
+      ]
+    },
+    {
+      "slug": "codag",
+      "issue_number": 155,
+      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/155",
+      "issue_node_id": "I_kwDOS0hnm88AAAABE42v-Q",
+      "title": "Codag (Summer 2026)",
+      "classification": "copyable",
+      "implementation_status": "in-progress",
+      "implementation_repo_url": "https://github.com/PalmerMichaels/codag-public",
+      "implementation_commit": null,
+      "labels": [
+        "copyable",
+        "yc-2026",
+        "batch:summer-2026",
+        "status:active",
+        "implementation-in-progress"
       ]
     }
   ]

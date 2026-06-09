@@ -2,13 +2,15 @@
 
 - Slug: `codag`
 - Batch: Summer 2026
-- Status: Active
+- YC status: Active
 - Classification: `copyable`
-- Implementation Status: `classified`
-- Source: https://www.ycombinator.com/companies/codag
+- Implementation Status: `in-progress`
+- Source URL: https://www.ycombinator.com/companies/codag
 - Website: https://codag.ai/
+- GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/155
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
-- GitHub Issue: Pending creation
+- Public Repository: https://github.com/PalmerMichaels/codag-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/68
 
 ## Public Description
 
@@ -20,20 +22,23 @@ No long description listed.
 
 Pure software or software-demonstrable workflow; a public clean-room version can use original UI, synthetic data, mock integrations, and disclaimers without copying assets or performing regulated core deliverables.
 
+## Implementation Tracking
+
+- Status: `in-progress`
+- Repository: https://github.com/PalmerMichaels/codag-public
+- Public GitHub Project: https://github.com/users/PalmerMichaels/projects/68
+- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+
 ## Clean-Room Constraints
 
 - Do not copy proprietary source, private data, trademarks, logos, branding, marketing copy, or assets.
 - Do not bypass access controls or use non-public integrations.
 - Implement only original public software based on public descriptions and observable behavior.
 
-## Implementation Tracking
-
-- Status: `classified`
-
 ## Proposed Public Repository
 
-- Repository: `codag-public`
+`codag-public`
 
 ## End-to-End Implementation Scope
 
-Build an original web app demonstrating systems log compression for agents.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.
+Systems log compression for agents with synthetic logs/traces/incidents, compression/summarization/evaluation workflows, agent/observability dashboard, mocked integrations, validation/tests, docs, and clean-room disclaimers. No private logs, credentials, production infrastructure access, real observability mutations, proprietary datasets, copied branding/assets, or unsupported reliability/compression claims.
