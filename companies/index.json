@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T01:53:27.713Z",
+  "generated_at": "2026-06-09T02:06:54.872Z",
   "source": "https://www.ycombinator.com/companies",
   "project": "https://github.com/users/PalmerMichaels/projects/2",
   "total": 405,
@@ -3457,12 +3457,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/115",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwn09A",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "miso-labs-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/miso-labs-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/33",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "98c85ba642fb5ba74a0b68eb3b05d8b85ab39222",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main. Validation: npm run validate passed; TypeScript build passed; Node tests 4/4 passed; sample synthetic render completed. Clean-room limitations: No real TTS/voice cloning/biometrics/API/model/repo integration; no copied branding/assets/UI/model weights/voice samples."
     },
     {
       "slug": "mochatrade",
@@ -3613,12 +3613,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/120",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABEwqdmw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "netter-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/netter-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/34",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "f62c4981d35c21b76f09db7000b31af28b6bd92f",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main. Validation: npm test passed (3 tests); npm run demo passed and generated synthetic report output. Clean-room limitations: No real SaaS connectors, emails, APIs, credentials, customer data, or production ML."
     },
     {
       "slug": "nine-fives",
@@ -6092,12 +6092,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/122",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE0I1nw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "21st-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/21st-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/35",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "05f8541f53887a591230947278593216dfd0bb1c",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main. Validation: npm run build passed; npm run validate passed, covering registry, deployments, SSE stream, and observability. Clean-room limitations: No real AI providers, sandboxes, billing, credential stores, GitHub Projects, or third-party APIs; no copied branding/assets/UI/language/data."
     },
     {
       "slug": "aemon",
@@ -6121,12 +6121,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/123",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE0I2AA",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "aemon-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/aemon-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/36",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "3aa5425f4fa9be7cc41678ffbae4ff8cea56a410",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main. Validation: npm test passed (4 tests); npm run validate passed; demo passed. Clean-room limitations: Synthetic data, mocked local evaluation, deterministic heuristics only; no real Aemon system/proprietary methods/services/credentials/private data/assets/branding/regulated advice."
     },
     {
       "slug": "agentic-fabriq",
@@ -6150,12 +6150,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/124",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE0I2Xw",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "agentic-fabriq-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/agentic-fabriq-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/37",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "e9f32605c54186658cf17b5dfac006cb7e444001",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main. Validation: npm run validate passed, including TypeScript build, tests, and seeded demo run. Clean-room limitations: No copied UI/branding/assets/private APIs/proprietary implementation; no real third-party calls/credentials/user data; not production security/compliance software."
     },
     {
       "slug": "alt-x",
@@ -6179,12 +6179,12 @@
       "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/125",
       "project_url": "https://github.com/users/PalmerMichaels/projects/2",
       "issue_node_id": "I_kwDOS0hnm88AAAABE0I2vA",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo": "alt-x-public",
       "implementation_repo_url": "https://github.com/PalmerMichaels/alt-x-public",
       "implementation_project_url": "https://github.com/users/PalmerMichaels/projects/38",
-      "implementation_commit": null,
-      "implementation_notes": "Implementation repository pre-created and worker launched by meta; public implementation in progress."
+      "implementation_commit": "57192277e57d8dd8d06691c6930664666cfdef59",
+      "implementation_notes": "Implemented and pushed; local main matches origin/main. Validation: npm run validate passed (4 tests, 0 failures); npm start passed with synthetic underwriting summary. Clean-room limitations: Synthetic data only; no Alt-X code/UI/branding/assets/private data/proprietary workflows; no real Excel plugin, AI calls, third-party services, credentials, KYC, investor outreach, transaction execution, or investment advice."
     },
     {
       "slug": "approxima",
@@ -11058,7 +11058,7 @@
       "memory-store",
       "minicor"
     ],
-    "updated_at": "2026-06-09T01:53:27.713Z",
+    "updated_at": "2026-06-09T02:06:54.872Z",
     "implementation_status_field_synced": []
   },
   "classification_revision": {
@@ -11077,7 +11077,7 @@
     "changed_count": 137
   },
   "implementation_summary": {
-    "updated_at": "2026-06-09T01:53:27.713Z",
+    "updated_at": "2026-06-09T02:06:54.872Z",
     "implemented": [
       "godhands",
       "agentphone",
@@ -11156,16 +11156,15 @@
       "memoir",
       "memory-store",
       "minicor",
-      "napkin-math"
-    ],
-    "in_progress": [
       "miso-labs",
+      "napkin-math",
       "netter",
       "21st",
       "aemon",
       "agentic-fabriq",
       "alt-x"
     ],
+    "in_progress": [],
     "ready_copyable": 194,
     "skipped_pending_recheck": [
       "aquashield"

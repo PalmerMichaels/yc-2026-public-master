@@ -83,14 +83,15 @@ Implemented:
 - `memory-store` -> https://github.com/PalmerMichaels/memory-store-public @ `79a8209fe694d7d8865a23137581c9fe61b847dd`
 - `minicor` -> https://github.com/PalmerMichaels/minicor-public @ `0fb030c009674bc1d3d008fe9af53ebce1a613ad`
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
+- `miso-labs` -> https://github.com/PalmerMichaels/miso-labs-public @ `98c85ba642fb5ba74a0b68eb3b05d8b85ab39222`
+- `netter` -> https://github.com/PalmerMichaels/netter-public @ `f62c4981d35c21b76f09db7000b31af28b6bd92f`
+- `21st` -> https://github.com/PalmerMichaels/21st-public @ `05f8541f53887a591230947278593216dfd0bb1c`
+- `aemon` -> https://github.com/PalmerMichaels/aemon-public @ `3aa5425f4fa9be7cc41678ffbae4ff8cea56a410`
+- `agentic-fabriq` -> https://github.com/PalmerMichaels/agentic-fabriq-public @ `e9f32605c54186658cf17b5dfac006cb7e444001`
+- `alt-x` -> https://github.com/PalmerMichaels/alt-x-public @ `57192277e57d8dd8d06691c6930664666cfdef59`
 
 In progress:
-- `miso-labs` -> `miso-labs-public` ([#115](https://github.com/PalmerMichaels/yc-2026-public-master/issues/115))
-- `netter` -> `netter-public` ([#120](https://github.com/PalmerMichaels/yc-2026-public-master/issues/120))
-- `21st` -> `21st-public` ([#122](https://github.com/PalmerMichaels/yc-2026-public-master/issues/122))
-- `aemon` -> `aemon-public` ([#123](https://github.com/PalmerMichaels/yc-2026-public-master/issues/123))
-- `agentic-fabriq` -> `agentic-fabriq-public` ([#124](https://github.com/PalmerMichaels/yc-2026-public-master/issues/124))
-- `alt-x` -> `alt-x-public` ([#125](https://github.com/PalmerMichaels/yc-2026-public-master/issues/125))
+- None
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -102,8 +103,8 @@ Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
 Current queue counts:
-- Implemented: 78
-- In progress: 6
+- Implemented: 84
+- In progress: 0
 - Pending re-check: 1
 - Ready for fan-out: 193
 - Total copyable: 278

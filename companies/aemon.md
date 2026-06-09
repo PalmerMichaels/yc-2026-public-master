@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/aemon
 - Website: https://aemon.ai/
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/123
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/aemon-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/36
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `3aa5425f4fa9be7cc41678ffbae4ff8cea56a410`
+- Notes: Implemented and pushed; local main matches origin/main. Validation: npm test passed (4 tests); npm run validate passed; demo passed. Clean-room limitations: Synthetic data, mocked local evaluation, deterministic heuristics only; no real Aemon system/proprietary methods/services/credentials/private data/assets/branding/regulated advice.
 
 ## Clean-Room Constraints
 

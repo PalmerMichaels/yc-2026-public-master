@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T01:52:15.736Z",
+  "generated_at": "2026-06-09T02:07:36.554Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -1133,103 +1133,97 @@
     {
       "slug": "miso-labs",
       "issue_number": 115,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/115",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwn09A",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/miso-labs-public",
+      "commit": "98c85ba642fb5ba74a0b68eb3b05d8b85ab39222",
       "public_project": "https://github.com/users/PalmerMichaels/projects/33",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "netter",
       "issue_number": 120,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/120",
-      "issue_node_id": "I_kwDOS0hnm88AAAABEwqdmw",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/netter-public",
+      "commit": "f62c4981d35c21b76f09db7000b31af28b6bd92f",
       "public_project": "https://github.com/users/PalmerMichaels/projects/34",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "21st",
       "issue_number": 122,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/122",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE0I1nw",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/21st-public",
+      "commit": "05f8541f53887a591230947278593216dfd0bb1c",
       "public_project": "https://github.com/users/PalmerMichaels/projects/35",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "aemon",
       "issue_number": 123,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/123",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE0I2AA",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/aemon-public",
+      "commit": "3aa5425f4fa9be7cc41678ffbae4ff8cea56a410",
       "public_project": "https://github.com/users/PalmerMichaels/projects/36",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "agentic-fabriq",
       "issue_number": 124,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/124",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE0I2Xw",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/agentic-fabriq-public",
+      "commit": "e9f32605c54186658cf17b5dfac006cb7e444001",
       "public_project": "https://github.com/users/PalmerMichaels/projects/37",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "alt-x",
       "issue_number": 125,
-      "issue_url": "https://github.com/PalmerMichaels/yc-2026-public-master/issues/125",
-      "issue_node_id": "I_kwDOS0hnm88AAAABE0I2vA",
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/alt-x-public",
+      "commit": "57192277e57d8dd8d06691c6930664666cfdef59",
       "public_project": "https://github.com/users/PalmerMichaels/projects/38",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:winter-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ],

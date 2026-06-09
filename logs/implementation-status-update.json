@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T01:53:27.713Z",
+  "generated_at": "2026-06-09T02:06:54.872Z",
   "implemented": [
     {
       "slug": "godhands",
@@ -1248,9 +1248,7 @@
       "implementation_repo_url": "https://github.com/PalmerMichaels/napkin-math-public",
       "implementation_commit": "0ec52453464fcec28986b08452249aebb8fac502",
       "priority": "implemented"
-    }
-  ],
-  "in_progress": [
+    },
     {
       "slug": "miso-labs",
       "name": "Miso Labs",
@@ -1262,10 +1260,10 @@
       "proposed_repo": "miso-labs-public",
       "implementation_scope": "Build an original web app demonstrating the most emotive foundation models for voice: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/miso-labs-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "98c85ba642fb5ba74a0b68eb3b05d8b85ab39222",
+      "priority": "implemented"
     },
     {
       "slug": "netter",
@@ -1278,10 +1276,10 @@
       "proposed_repo": "netter-public",
       "implementation_scope": "Build an original web app demonstrating ai native palantir for mid market.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/netter-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "f62c4981d35c21b76f09db7000b31af28b6bd92f",
+      "priority": "implemented"
     },
     {
       "slug": "21st",
@@ -1294,10 +1292,10 @@
       "proposed_repo": "21st-public",
       "implementation_scope": "Build an original web app demonstrating infrastructure and ui building blocks for the agentic internet: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/21st-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "05f8541f53887a591230947278593216dfd0bb1c",
+      "priority": "implemented"
     },
     {
       "slug": "aemon",
@@ -1310,10 +1308,10 @@
       "proposed_repo": "aemon-public",
       "implementation_scope": "Build an original web app demonstrating the forward-deployed ai research engineer: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/aemon-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "3aa5425f4fa9be7cc41678ffbae4ff8cea56a410",
+      "priority": "implemented"
     },
     {
       "slug": "agentic-fabriq",
@@ -1326,10 +1324,10 @@
       "proposed_repo": "agentic-fabriq-public",
       "implementation_scope": "Build an original web app demonstrating okta for agents.: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/agentic-fabriq-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "e9f32605c54186658cf17b5dfac006cb7e444001",
+      "priority": "implemented"
     },
     {
       "slug": "alt-x",
@@ -1342,12 +1340,13 @@
       "proposed_repo": "alt-x-public",
       "implementation_scope": "Build an original web app demonstrating automation for institutional-grade financial modeling in excel: onboarding, workspace/project setup, core workflow screens, sample/synthetic data, role-aware task/status management, mock external integrations where needed, and clear clean-room/non-regulated disclaimers. Include seed data, tests, and documentation.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/alt-x-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "57192277e57d8dd8d06691c6930664666cfdef59",
+      "priority": "implemented"
     }
   ],
+  "in_progress": [],
   "pending_recheck": [
     {
       "slug": "aquashield",

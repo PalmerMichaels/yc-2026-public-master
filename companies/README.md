@@ -6,8 +6,8 @@ Total companies: 405
 Copyable: 278
 Not copyable: 127
 Uncertain: 0
-Implemented: 78
-In progress: 6
+Implemented: 84
+In progress: 0
 Ready copyable: 193
 Skipped pending re-check: aquashield
 GitHub issues created: 124
@@ -95,14 +95,15 @@ Implemented repositories:
 - `memory-store`: https://github.com/PalmerMichaels/memory-store-public @ `79a8209fe694d7d8865a23137581c9fe61b847dd`
 - `minicor`: https://github.com/PalmerMichaels/minicor-public @ `0fb030c009674bc1d3d008fe9af53ebce1a613ad`
 - `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
+- `miso-labs`: https://github.com/PalmerMichaels/miso-labs-public @ `98c85ba642fb5ba74a0b68eb3b05d8b85ab39222`
+- `netter`: https://github.com/PalmerMichaels/netter-public @ `f62c4981d35c21b76f09db7000b31af28b6bd92f`
+- `21st`: https://github.com/PalmerMichaels/21st-public @ `05f8541f53887a591230947278593216dfd0bb1c`
+- `aemon`: https://github.com/PalmerMichaels/aemon-public @ `3aa5425f4fa9be7cc41678ffbae4ff8cea56a410`
+- `agentic-fabriq`: https://github.com/PalmerMichaels/agentic-fabriq-public @ `e9f32605c54186658cf17b5dfac006cb7e444001`
+- `alt-x`: https://github.com/PalmerMichaels/alt-x-public @ `57192277e57d8dd8d06691c6930664666cfdef59`
 
 In-progress implementations:
-- `miso-labs`: [#115](https://github.com/PalmerMichaels/yc-2026-public-master/issues/115) -> `miso-labs-public`
-- `netter`: [#120](https://github.com/PalmerMichaels/yc-2026-public-master/issues/120) -> `netter-public`
-- `21st`: [#122](https://github.com/PalmerMichaels/yc-2026-public-master/issues/122) -> `21st-public`
-- `aemon`: [#123](https://github.com/PalmerMichaels/yc-2026-public-master/issues/123) -> `aemon-public`
-- `agentic-fabriq`: [#124](https://github.com/PalmerMichaels/yc-2026-public-master/issues/124) -> `agentic-fabriq-public`
-- `alt-x`: [#125](https://github.com/PalmerMichaels/yc-2026-public-master/issues/125) -> `alt-x-public`
+- None
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.
