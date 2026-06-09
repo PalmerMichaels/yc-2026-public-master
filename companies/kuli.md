@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/kuli
 - Website: https://kuli.one
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/100
 - Implementation Repository: https://github.com/PalmerMichaels/kuli-public
+- Implementation Commit: `51f30a6d6ab8cfe9473d89e7d821300bf50d1c73`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/kuli-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `51f30a6d6ab8cfe9473d89e7d821300bf50d1c73`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

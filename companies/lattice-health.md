@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/lattice-health
 - Website: https://www.latticehealthai.com/
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/103
 - Implementation Repository: https://github.com/PalmerMichaels/lattice-health-public
+- Implementation Commit: `6d1d0fe415a106b7a2f065ab165901ff4ea809ff`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software workflow can be implemented clean-room using synthetic/user-provid
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/lattice-health-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `6d1d0fe415a106b7a2f065ab165901ff4ea809ff`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

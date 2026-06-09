@@ -70,15 +70,16 @@ Implemented:
 - `kinro` -> https://github.com/PalmerMichaels/kinro-public @ `f7ccc8ebbcdfc6c2a24fc223514322f78de6d231`
 - `klarify` -> https://github.com/PalmerMichaels/klarify-public @ `e112ab9c2f9f42ec3f5e167a3c3be55f81c63445`
 - `korso` -> https://github.com/PalmerMichaels/korso-public @ `5acf91b1c1dc83386992a8af593f3d632fcf150c`
+- `kugelaudio` -> https://github.com/PalmerMichaels/kugelaudio-public @ `9d6261fbc12ca4f41111feb5ab11c610e4963644`
+- `kuli` -> https://github.com/PalmerMichaels/kuli-public @ `51f30a6d6ab8cfe9473d89e7d821300bf50d1c73`
+- `lab0` -> https://github.com/PalmerMichaels/lab0-public @ `47883d3f1d6046488a7b554cf395b8eefb15307c`
+- `lamina-labs` -> https://github.com/PalmerMichaels/lamina-labs-public @ `fb0877bf26d767f18e3e6bdbbb5bbbcf6fb3fac4`
+- `lattice-health` -> https://github.com/PalmerMichaels/lattice-health-public @ `6d1d0fe415a106b7a2f065ab165901ff4ea809ff`
+- `light-anchor` -> https://github.com/PalmerMichaels/light-anchor-public @ `2eb8b9258036c2135ae2fb6a67d89244a64ff4d0`
 - `napkin-math` -> https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In progress:
-- `kugelaudio` -> `kugelaudio-public` ([#99](https://github.com/PalmerMichaels/yc-2026-public-master/issues/99))
-- `kuli` -> `kuli-public` ([#100](https://github.com/PalmerMichaels/yc-2026-public-master/issues/100))
-- `lab0` -> `lab0-public` ([#101](https://github.com/PalmerMichaels/yc-2026-public-master/issues/101))
-- `lamina-labs` -> `lamina-labs-public` ([#102](https://github.com/PalmerMichaels/yc-2026-public-master/issues/102))
-- `lattice-health` -> `lattice-health-public` ([#103](https://github.com/PalmerMichaels/yc-2026-public-master/issues/103))
-- `light-anchor` -> `light-anchor-public` ([#104](https://github.com/PalmerMichaels/yc-2026-public-master/issues/104))
+- None
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -90,8 +91,8 @@ Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
 Current queue counts:
-- Implemented: 66
-- In progress: 6
+- Implemented: 72
+- In progress: 0
 - Pending re-check: 1
 - Ready for fan-out: 205
 - Total copyable: 278

@@ -4,12 +4,13 @@
 - Batch: Spring 2026
 - Status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source: https://www.ycombinator.com/companies/light-anchor
 - Website: https://lightanchor.ai
 - GitHub Project: https://github.com/users/PalmerMichaels/projects/2
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/104
 - Implementation Repository: https://github.com/PalmerMichaels/light-anchor-public
+- Implementation Commit: `2eb8b9258036c2135ae2fb6a67d89244a64ff4d0`
 
 ## Public Description
 
@@ -29,9 +30,10 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/light-anchor-public
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `2eb8b9258036c2135ae2fb6a67d89244a64ff4d0`
+- Notes: Implemented and pushed; local main matches origin/main.
 
 ## Proposed Public Repository
 

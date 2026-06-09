@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T00:53:29.968Z",
+  "generated_at": "2026-06-09T01:08:50.554Z",
   "updated": [
     {
       "slug": "napkin-math",
@@ -954,84 +954,90 @@
       "slug": "kugelaudio",
       "issue_number": 99,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/kugelaudio-public",
+      "commit": "9d6261fbc12ca4f41111feb5ab11c610e4963644",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "kuli",
       "issue_number": 100,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/kuli-public",
+      "commit": "51f30a6d6ab8cfe9473d89e7d821300bf50d1c73",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "lab0",
       "issue_number": 101,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/lab0-public",
+      "commit": "47883d3f1d6046488a7b554cf395b8eefb15307c",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "lamina-labs",
       "issue_number": 102,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/lamina-labs-public",
+      "commit": "fb0877bf26d767f18e3e6bdbbb5bbbcf6fb3fac4",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "lattice-health",
       "issue_number": 103,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/lattice-health-public",
+      "commit": "6d1d0fe415a106b7a2f065ab165901ff4ea809ff",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     },
     {
       "slug": "light-anchor",
       "issue_number": 104,
       "classification": "copyable",
-      "status": "in-progress",
+      "status": "implemented",
       "repo": "https://github.com/PalmerMichaels/light-anchor-public",
+      "commit": "2eb8b9258036c2135ae2fb6a67d89244a64ff4d0",
       "labels": [
         "copyable",
         "yc-2026",
         "batch:spring-2026",
         "status:active",
-        "implementation-in-progress"
+        "implemented"
       ]
     }
   ],

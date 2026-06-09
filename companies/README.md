@@ -6,8 +6,8 @@ Total companies: 405
 Copyable: 278
 Not copyable: 127
 Uncertain: 0
-Implemented: 66
-In progress: 6
+Implemented: 72
+In progress: 0
 Ready copyable: 206
 Skipped pending re-check: aquashield
 GitHub issues created: 120
@@ -82,15 +82,16 @@ Implemented repositories:
 - `kinro`: https://github.com/PalmerMichaels/kinro-public @ `f7ccc8ebbcdfc6c2a24fc223514322f78de6d231`
 - `klarify`: https://github.com/PalmerMichaels/klarify-public @ `e112ab9c2f9f42ec3f5e167a3c3be55f81c63445`
 - `korso`: https://github.com/PalmerMichaels/korso-public @ `5acf91b1c1dc83386992a8af593f3d632fcf150c`
+- `kugelaudio`: https://github.com/PalmerMichaels/kugelaudio-public @ `9d6261fbc12ca4f41111feb5ab11c610e4963644`
+- `kuli`: https://github.com/PalmerMichaels/kuli-public @ `51f30a6d6ab8cfe9473d89e7d821300bf50d1c73`
+- `lab0`: https://github.com/PalmerMichaels/lab0-public @ `47883d3f1d6046488a7b554cf395b8eefb15307c`
+- `lamina-labs`: https://github.com/PalmerMichaels/lamina-labs-public @ `fb0877bf26d767f18e3e6bdbbb5bbbcf6fb3fac4`
+- `lattice-health`: https://github.com/PalmerMichaels/lattice-health-public @ `6d1d0fe415a106b7a2f065ab165901ff4ea809ff`
+- `light-anchor`: https://github.com/PalmerMichaels/light-anchor-public @ `2eb8b9258036c2135ae2fb6a67d89244a64ff4d0`
 - `napkin-math`: https://github.com/PalmerMichaels/napkin-math-public @ `0ec52453464fcec28986b08452249aebb8fac502`
 
 In-progress implementations:
-- `kugelaudio`: [#99](https://github.com/PalmerMichaels/yc-2026-public-master/issues/99) -> `kugelaudio-public`
-- `kuli`: [#100](https://github.com/PalmerMichaels/yc-2026-public-master/issues/100) -> `kuli-public`
-- `lab0`: [#101](https://github.com/PalmerMichaels/yc-2026-public-master/issues/101) -> `lab0-public`
-- `lamina-labs`: [#102](https://github.com/PalmerMichaels/yc-2026-public-master/issues/102) -> `lamina-labs-public`
-- `lattice-health`: [#103](https://github.com/PalmerMichaels/yc-2026-public-master/issues/103) -> `lattice-health-public`
-- `light-anchor`: [#104](https://github.com/PalmerMichaels/yc-2026-public-master/issues/104) -> `light-anchor-public`
+- None
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.
@@ -205,12 +206,12 @@ Batches covered:
 | [Klaimee](klaimee.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#96](https://github.com/PalmerMichaels/yc-2026-public-master/issues/96) | [YC](https://www.ycombinator.com/companies/klaimee) |
 | [Klarify](klarify.md) | Spring 2026 | `copyable` | `implemented` | `klarify-public` | [#97](https://github.com/PalmerMichaels/yc-2026-public-master/issues/97) | [YC](https://www.ycombinator.com/companies/klarify) |
 | [Korso](korso.md) | Spring 2026 | `copyable` | `implemented` | `korso-public` | [#98](https://github.com/PalmerMichaels/yc-2026-public-master/issues/98) | [YC](https://www.ycombinator.com/companies/korso) |
-| [KugelAudio](kugelaudio.md) | Spring 2026 | `copyable` | `in-progress` | `kugelaudio-public` | [#99](https://github.com/PalmerMichaels/yc-2026-public-master/issues/99) | [YC](https://www.ycombinator.com/companies/kugelaudio) |
-| [Kuli](kuli.md) | Spring 2026 | `copyable` | `in-progress` | `kuli-public` | [#100](https://github.com/PalmerMichaels/yc-2026-public-master/issues/100) | [YC](https://www.ycombinator.com/companies/kuli) |
-| [Lab0](lab0.md) | Spring 2026 | `copyable` | `in-progress` | `lab0-public` | [#101](https://github.com/PalmerMichaels/yc-2026-public-master/issues/101) | [YC](https://www.ycombinator.com/companies/lab0) |
-| [Lamina Labs](lamina-labs.md) | Spring 2026 | `copyable` | `in-progress` | `lamina-labs-public` | [#102](https://github.com/PalmerMichaels/yc-2026-public-master/issues/102) | [YC](https://www.ycombinator.com/companies/lamina-labs) |
-| [Lattice Health](lattice-health.md) | Spring 2026 | `copyable` | `in-progress` | `lattice-health-public` | [#103](https://github.com/PalmerMichaels/yc-2026-public-master/issues/103) | [YC](https://www.ycombinator.com/companies/lattice-health) |
-| [Light Anchor](light-anchor.md) | Spring 2026 | `copyable` | `in-progress` | `light-anchor-public` | [#104](https://github.com/PalmerMichaels/yc-2026-public-master/issues/104) | [YC](https://www.ycombinator.com/companies/light-anchor) |
+| [KugelAudio](kugelaudio.md) | Spring 2026 | `copyable` | `implemented` | `kugelaudio-public` | [#99](https://github.com/PalmerMichaels/yc-2026-public-master/issues/99) | [YC](https://www.ycombinator.com/companies/kugelaudio) |
+| [Kuli](kuli.md) | Spring 2026 | `copyable` | `implemented` | `kuli-public` | [#100](https://github.com/PalmerMichaels/yc-2026-public-master/issues/100) | [YC](https://www.ycombinator.com/companies/kuli) |
+| [Lab0](lab0.md) | Spring 2026 | `copyable` | `implemented` | `lab0-public` | [#101](https://github.com/PalmerMichaels/yc-2026-public-master/issues/101) | [YC](https://www.ycombinator.com/companies/lab0) |
+| [Lamina Labs](lamina-labs.md) | Spring 2026 | `copyable` | `implemented` | `lamina-labs-public` | [#102](https://github.com/PalmerMichaels/yc-2026-public-master/issues/102) | [YC](https://www.ycombinator.com/companies/lamina-labs) |
+| [Lattice Health](lattice-health.md) | Spring 2026 | `copyable` | `implemented` | `lattice-health-public` | [#103](https://github.com/PalmerMichaels/yc-2026-public-master/issues/103) | [YC](https://www.ycombinator.com/companies/lattice-health) |
+| [Light Anchor](light-anchor.md) | Spring 2026 | `copyable` | `implemented` | `light-anchor-public` | [#104](https://github.com/PalmerMichaels/yc-2026-public-master/issues/104) | [YC](https://www.ycombinator.com/companies/light-anchor) |
 | [Lightsprint](lightsprint.md) | Spring 2026 | `copyable` | `classified` | `lightsprint-public` | [#105](https://github.com/PalmerMichaels/yc-2026-public-master/issues/105) | [YC](https://www.ycombinator.com/companies/lightsprint) |
 | [Limrun](limrun.md) | Spring 2026 | `copyable` | `classified` | `limrun-public` | [#106](https://github.com/PalmerMichaels/yc-2026-public-master/issues/106) | [YC](https://www.ycombinator.com/companies/limrun) |
 | [Lumius](lumius.md) | Spring 2026 | `not-copyable` | `not-copyable` |  | [#107](https://github.com/PalmerMichaels/yc-2026-public-master/issues/107) | [YC](https://www.ycombinator.com/companies/lumius) |
