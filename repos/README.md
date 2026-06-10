@@ -119,14 +119,15 @@ Implemented:
 - `chasi` -> https://github.com/PalmerMichaels/chasi-public @ `77cd085ffea9030667e0577af8cd38dc4675be68`
 - `claimglide` -> https://github.com/PalmerMichaels/claimglide-public @ `74deb7cb096b6a2106f3b01bd2d557f95621e4a6`
 - `codag` -> https://github.com/PalmerMichaels/codag-public @ `ad047764a187582d03c2745c4b651ab92f20e708`
+- `codewisp` -> https://github.com/PalmerMichaels/codewisp-public @ `2637ec840e885b56c8d8d20aed073e0f909a80d6`
+- `cofia` -> https://github.com/PalmerMichaels/cofia-public @ `f53cc128c16f4e8d4f9a47f8ba043a2887f7432d`
+- `compresr` -> https://github.com/PalmerMichaels/compresr-public @ `3e6b100024a40b1470dc764b0557ecfe56a4a993`
+- `condor-energy` -> https://github.com/PalmerMichaels/condor-energy-public @ `aee043caa75f414d02101034df58b0d96a480705`
+- `confluence-labs` -> https://github.com/PalmerMichaels/confluence-labs-public @ `ef6d2bc782a7a301088fbb97ae31c9650297675a`
+- `contextdev` -> https://github.com/PalmerMichaels/contextdev-public @ `dee465f0b5ada71b6759fea34323c066b7c695d5`
 
 In progress:
-- `codewisp` -> `codewisp-public` ([#156](https://github.com/PalmerMichaels/yc-2026-public-master/issues/156))
-- `cofia` -> `cofia-public` ([#157](https://github.com/PalmerMichaels/yc-2026-public-master/issues/157))
-- `compresr` -> `compresr-public` ([#158](https://github.com/PalmerMichaels/yc-2026-public-master/issues/158))
-- `condor-energy` -> `condor-energy-public` ([#159](https://github.com/PalmerMichaels/yc-2026-public-master/issues/159))
-- `confluence-labs` -> `confluence-labs-public` ([#160](https://github.com/PalmerMichaels/yc-2026-public-master/issues/160))
-- `contextdev` -> `contextdev-public` ([#161](https://github.com/PalmerMichaels/yc-2026-public-master/issues/161))
+- None
 
 Pending re-check:
 - `aquashield` is intentionally skipped for the current implementation batch pending a quick re-check for possible building/sensor hardware implications. Do not mark it not-copyable without evidence.
@@ -138,8 +139,8 @@ Queue artifact: [`implementation-ready.json`](implementation-ready.json).
 This queue lists copyable companies ready for meta fan-out. This discovery worker must not create implementation repos unless explicitly instructed; meta creates/registers repos and launches workers to avoid duplicates.
 
 Current queue counts:
-- Implemented: 114
-- In progress: 6
+- Implemented: 120
+- In progress: 0
 - Pending re-check: 1
 - Ready for fan-out: 157
 - Total copyable: 278

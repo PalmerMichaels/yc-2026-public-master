@@ -6,8 +6,8 @@ Total companies: 405
 Copyable: 278
 Not copyable: 127
 Uncertain: 0
-Implemented: 114
-In progress: 6
+Implemented: 120
+In progress: 0
 Ready copyable: 157
 Skipped pending re-check: aquashield
 GitHub issues created: 160
@@ -131,14 +131,15 @@ Implemented repositories:
 - `chasi`: https://github.com/PalmerMichaels/chasi-public @ `77cd085ffea9030667e0577af8cd38dc4675be68`
 - `claimglide`: https://github.com/PalmerMichaels/claimglide-public @ `74deb7cb096b6a2106f3b01bd2d557f95621e4a6`
 - `codag`: https://github.com/PalmerMichaels/codag-public @ `ad047764a187582d03c2745c4b651ab92f20e708`
+- `codewisp`: https://github.com/PalmerMichaels/codewisp-public @ `2637ec840e885b56c8d8d20aed073e0f909a80d6`
+- `cofia`: https://github.com/PalmerMichaels/cofia-public @ `f53cc128c16f4e8d4f9a47f8ba043a2887f7432d`
+- `compresr`: https://github.com/PalmerMichaels/compresr-public @ `3e6b100024a40b1470dc764b0557ecfe56a4a993`
+- `condor-energy`: https://github.com/PalmerMichaels/condor-energy-public @ `aee043caa75f414d02101034df58b0d96a480705`
+- `confluence-labs`: https://github.com/PalmerMichaels/confluence-labs-public @ `ef6d2bc782a7a301088fbb97ae31c9650297675a`
+- `contextdev`: https://github.com/PalmerMichaels/contextdev-public @ `dee465f0b5ada71b6759fea34323c066b7c695d5`
 
 In-progress implementations:
-- `codewisp`: [#156](https://github.com/PalmerMichaels/yc-2026-public-master/issues/156) -> `codewisp-public`
-- `cofia`: [#157](https://github.com/PalmerMichaels/yc-2026-public-master/issues/157) -> `cofia-public`
-- `compresr`: [#158](https://github.com/PalmerMichaels/yc-2026-public-master/issues/158) -> `compresr-public`
-- `condor-energy`: [#159](https://github.com/PalmerMichaels/yc-2026-public-master/issues/159) -> `condor-energy-public`
-- `confluence-labs`: [#160](https://github.com/PalmerMichaels/yc-2026-public-master/issues/160) -> `confluence-labs-public`
-- `contextdev`: [#161](https://github.com/PalmerMichaels/yc-2026-public-master/issues/161) -> `contextdev-public`
+- None
 
 Pending re-check:
 - `aquashield`: skipped for current implementation batch pending quick re-check for possible building/sensor hardware implications; classification unchanged.

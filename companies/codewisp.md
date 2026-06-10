@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/codewisp
 - Website: https://codewisp.ai/
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/156
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/codewisp-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/69
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `2637ec840e885b56c8d8d20aed073e0f909a80d6`
+- Notes: Implemented and pushed; Validation: Implementation complete; repo clean; local HEAD == origin/main.
 
 ## Clean-Room Constraints
 

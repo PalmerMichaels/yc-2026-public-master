@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-09T15:25:13.297Z",
+  "generated_at": "2026-06-10T18:23:33.405Z",
   "source": "companies/index.json",
   "policy": "Implementation-ready entries are pure-software clean-room candidates. Do not create implementation repositories from this tracker worker; meta owns repo creation and worker fan-out to avoid duplicates.",
   "counts": {
-    "implemented": 114,
-    "in_progress": 6,
+    "implemented": 120,
+    "in_progress": 0,
     "ready": 157,
     "pending_recheck": 1,
     "total_copyable": 278
@@ -1833,9 +1833,7 @@
       "implementation_repo_url": "https://github.com/PalmerMichaels/codag-public",
       "implementation_commit": "ad047764a187582d03c2745c4b651ab92f20e708",
       "priority": "implemented"
-    }
-  ],
-  "in_progress": [
+    },
     {
       "slug": "codewisp",
       "name": "CodeWisp",
@@ -1847,10 +1845,10 @@
       "proposed_repo": "codewisp-public",
       "implementation_scope": "AI game creation studio with onboarding/workspace/project setup, synthetic game concepts/assets/prompts, playable prototype planning, generation review workflows, role-aware task/status management, mocked AI/game-engine integrations, validation/tests, docs, and clean-room disclaimers. Original UI/assets only; no copied games, copyrighted assets, private data, real publishing, or unsupported production-game claims.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/codewisp-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "2637ec840e885b56c8d8d20aed073e0f909a80d6",
+      "priority": "implemented"
     },
     {
       "slug": "cofia",
@@ -1863,10 +1861,10 @@
       "proposed_repo": "cofia-public",
       "implementation_scope": "AI automations that implement themselves with synthetic business processes, workflow discovery, implementation plans, approvals, task/status tracking, mocked SaaS/action integrations, validation/tests, docs, and clean-room disclaimers. No real external automation, credentials, production changes, private data, or unsupported autonomous implementation claims.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/cofia-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "f53cc128c16f4e8d4f9a47f8ba043a2887f7432d",
+      "priority": "implemented"
     },
     {
       "slug": "compresr",
@@ -1879,10 +1877,10 @@
       "proposed_repo": "compresr-public",
       "implementation_scope": "LLM context compression workflow with synthetic prompts/docs/context windows, compression/evaluation dashboards, accuracy/retention scoring, mocked model/provider integrations, validation/tests, docs, and clean-room disclaimers. No proprietary datasets, private prompts, real provider credentials, or unsupported accuracy/reliability claims.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/compresr-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "3e6b100024a40b1470dc764b0557ecfe56a4a993",
+      "priority": "implemented"
     },
     {
       "slug": "condor-energy",
@@ -1895,10 +1893,10 @@
       "proposed_repo": "condor-energy-public",
       "implementation_scope": "Enterprise energy procurement workflow with synthetic facilities/contracts/usage/pricing scenarios, supplier comparison, procurement task/status management, approval/audit flows, mocked utility/supplier integrations, validation/tests, docs, and clean-room disclaimers. No real energy procurement, trading, regulated market participation, supplier contracts, private usage data, credentials, or transaction execution.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/condor-energy-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "aee043caa75f414d02101034df58b0d96a480705",
+      "priority": "implemented"
     },
     {
       "slug": "confluence-labs",
@@ -1911,10 +1909,10 @@
       "proposed_repo": "confluence-labs-public",
       "implementation_scope": "AI models that learn from experience demo with synthetic episodes/feedback/evaluation traces, experience memory workflows, model improvement dashboards, review/approval tasks, mocked model/training integrations, validation/tests, docs, and clean-room disclaimers. No proprietary training data, real model training claims, private data, credentials, or unsupported performance claims.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/confluence-labs-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "ef6d2bc782a7a301088fbb97ae31c9650297675a",
+      "priority": "implemented"
     },
     {
       "slug": "contextdev",
@@ -1927,12 +1925,13 @@
       "proposed_repo": "contextdev-public",
       "implementation_scope": "Realtime web context layer for AI agents with synthetic web pages/events/context feeds, retrieval/refresh/citation workflows, agent context dashboard, mocked browser/search/API integrations, validation/tests, docs, and clean-room disclaimers. No scraping private sites, credentials, paywalled data, bypassed access controls, proprietary datasets, or unsupported freshness/accuracy claims.",
       "classification": "copyable",
-      "implementation_status": "in-progress",
+      "implementation_status": "implemented",
       "implementation_repo_url": "https://github.com/PalmerMichaels/contextdev-public",
-      "implementation_commit": null,
-      "priority": "in-progress"
+      "implementation_commit": "dee465f0b5ada71b6759fea34323c066b7c695d5",
+      "priority": "implemented"
     }
   ],
+  "in_progress": [],
   "pending_recheck": [
     {
       "slug": "aquashield",
@@ -3778,12 +3777,7 @@
           "implementation_repo_url": "https://github.com/PalmerMichaels/codag-public",
           "implementation_commit": "ad047764a187582d03c2745c4b651ab92f20e708",
           "priority": "implemented"
-        }
-      ]
-    },
-    {
-      "name": "in-progress",
-      "entries": [
+        },
         {
           "slug": "codewisp",
           "name": "CodeWisp",
@@ -3795,10 +3789,10 @@
           "proposed_repo": "codewisp-public",
           "implementation_scope": "AI game creation studio with onboarding/workspace/project setup, synthetic game concepts/assets/prompts, playable prototype planning, generation review workflows, role-aware task/status management, mocked AI/game-engine integrations, validation/tests, docs, and clean-room disclaimers. Original UI/assets only; no copied games, copyrighted assets, private data, real publishing, or unsupported production-game claims.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/codewisp-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "2637ec840e885b56c8d8d20aed073e0f909a80d6",
+          "priority": "implemented"
         },
         {
           "slug": "cofia",
@@ -3811,10 +3805,10 @@
           "proposed_repo": "cofia-public",
           "implementation_scope": "AI automations that implement themselves with synthetic business processes, workflow discovery, implementation plans, approvals, task/status tracking, mocked SaaS/action integrations, validation/tests, docs, and clean-room disclaimers. No real external automation, credentials, production changes, private data, or unsupported autonomous implementation claims.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/cofia-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "f53cc128c16f4e8d4f9a47f8ba043a2887f7432d",
+          "priority": "implemented"
         },
         {
           "slug": "compresr",
@@ -3827,10 +3821,10 @@
           "proposed_repo": "compresr-public",
           "implementation_scope": "LLM context compression workflow with synthetic prompts/docs/context windows, compression/evaluation dashboards, accuracy/retention scoring, mocked model/provider integrations, validation/tests, docs, and clean-room disclaimers. No proprietary datasets, private prompts, real provider credentials, or unsupported accuracy/reliability claims.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/compresr-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "3e6b100024a40b1470dc764b0557ecfe56a4a993",
+          "priority": "implemented"
         },
         {
           "slug": "condor-energy",
@@ -3843,10 +3837,10 @@
           "proposed_repo": "condor-energy-public",
           "implementation_scope": "Enterprise energy procurement workflow with synthetic facilities/contracts/usage/pricing scenarios, supplier comparison, procurement task/status management, approval/audit flows, mocked utility/supplier integrations, validation/tests, docs, and clean-room disclaimers. No real energy procurement, trading, regulated market participation, supplier contracts, private usage data, credentials, or transaction execution.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/condor-energy-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "aee043caa75f414d02101034df58b0d96a480705",
+          "priority": "implemented"
         },
         {
           "slug": "confluence-labs",
@@ -3859,10 +3853,10 @@
           "proposed_repo": "confluence-labs-public",
           "implementation_scope": "AI models that learn from experience demo with synthetic episodes/feedback/evaluation traces, experience memory workflows, model improvement dashboards, review/approval tasks, mocked model/training integrations, validation/tests, docs, and clean-room disclaimers. No proprietary training data, real model training claims, private data, credentials, or unsupported performance claims.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/confluence-labs-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "ef6d2bc782a7a301088fbb97ae31c9650297675a",
+          "priority": "implemented"
         },
         {
           "slug": "contextdev",
@@ -3875,12 +3869,16 @@
           "proposed_repo": "contextdev-public",
           "implementation_scope": "Realtime web context layer for AI agents with synthetic web pages/events/context feeds, retrieval/refresh/citation workflows, agent context dashboard, mocked browser/search/API integrations, validation/tests, docs, and clean-room disclaimers. No scraping private sites, credentials, paywalled data, bypassed access controls, proprietary datasets, or unsupported freshness/accuracy claims.",
           "classification": "copyable",
-          "implementation_status": "in-progress",
+          "implementation_status": "implemented",
           "implementation_repo_url": "https://github.com/PalmerMichaels/contextdev-public",
-          "implementation_commit": null,
-          "priority": "in-progress"
+          "implementation_commit": "dee465f0b5ada71b6759fea34323c066b7c695d5",
+          "priority": "implemented"
         }
       ]
+    },
+    {
+      "name": "in-progress",
+      "entries": []
     },
     {
       "name": "pending-recheck",

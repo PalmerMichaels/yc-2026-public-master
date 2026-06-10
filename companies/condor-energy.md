@@ -4,7 +4,7 @@
 - Batch: Winter 2026
 - YC status: Active
 - Classification: `copyable`
-- Implementation Status: `in-progress`
+- Implementation Status: `implemented`
 - Source URL: https://www.ycombinator.com/companies/condor-energy
 - Website: https://www.condor.energy
 - GitHub Issue: https://github.com/PalmerMichaels/yc-2026-public-master/issues/159
@@ -24,10 +24,11 @@ Pure software or software-demonstrable workflow; a public clean-room version can
 
 ## Implementation Tracking
 
-- Status: `in-progress`
+- Status: `implemented`
 - Repository: https://github.com/PalmerMichaels/condor-energy-public
 - Public GitHub Project: https://github.com/users/PalmerMichaels/projects/72
-- Notes: Implementation repository pre-created and worker launched by meta; public implementation in progress.
+- Commit: `aee043caa75f414d02101034df58b0d96a480705`
+- Notes: Implemented and pushed; Validation: Implementation complete; repo clean; local HEAD == origin/main.
 
 ## Clean-Room Constraints
 
